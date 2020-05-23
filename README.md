@@ -12,6 +12,7 @@ Should not be used for anything important.
 
 Data from the following URLs:
 
+* https://app.powerbi.com/view?r=eyJrIjoiZTRkZDhmMDctM2NmZi00NjRkLTgzYzMtYzI1MDMzNWI3NTRhIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9
 * https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit
 * https://www.kaggle.com/unanimad/corona-virus-brazil
 * https://github.com/openZH/covid_19
@@ -29,3 +30,4 @@ Data from the following URLs:
 * https://github.com/ynshung/covid-19-malaysia
 * https://github.com/nzherald/nz-covid19-data
 * https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases
+* https://github.com/tomwhite/covid-19-uk-data
