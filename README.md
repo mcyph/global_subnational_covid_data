@@ -25,7 +25,7 @@ Data from the following URLs:
 * https://api.covid19india.org
 * https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases
 * https://github.com/pcm-dpc/COVID-19
-* https://covid19.wlaboratory.com
+* https://jag-japan.com/covid19map-readme/
 * https://www.kaggle.com/kimjihoo/coronavirusdataset
 * https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases
 * https://github.com/ynshung/covid-19-malaysia
@@ -34,3 +34,4 @@ Data from the following URLs:
 * https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases
 * https://github.com/tomwhite/covid-19-uk-data
 * https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela
+
