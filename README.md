@@ -16,6 +16,7 @@ Data from the following URLs:
 * https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit
 * https://www.kaggle.com/unanimad/corona-virus-brazil
 * https://github.com/openZH/covid_19
+* https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia
 * https://github.com/jgehrcke/covid-19-germany-gae
 * https://github.com/datadista/datasets/
 * https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases
@@ -29,5 +30,7 @@ Data from the following URLs:
 * https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases
 * https://github.com/ynshung/covid-19-malaysia
 * https://github.com/nzherald/nz-covid19-data
+* https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal
 * https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases
 * https://github.com/tomwhite/covid-19-uk-data
+* https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela
