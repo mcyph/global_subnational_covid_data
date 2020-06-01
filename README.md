@@ -28,10 +28,14 @@ Data from the following URLs:
 * https://github.com/pcm-dpc/COVID-19
 * https://jag-japan.com/covid19map-readme/
 * https://www.kaggle.com/kimjihoo/coronavirusdataset
+* https://www.coronavirus2020.kz/kz
 * https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases
 * https://github.com/ynshung/covid-19-malaysia
 * https://github.com/nzherald/nz-covid19-data
+* https://www.corona.ps/details
+* https://covid19.moh.gov.sa/
 * https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal
 * https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases
 * https://github.com/tomwhite/covid-19-uk-data
+* https://github.com/microsoft/Bing-COVID-19-Data
 * https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela
