@@ -23,7 +23,9 @@ Data from the following URLs:
 * https://github.com/datadista/datasets/
 * https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases
 * https://data.humdata.org/dataset/europe-covid-19-subnational-cases
+* https://github.com/opencovid19-fr/data
 * https://data.humdata.org/dataset/haiti-covid-19-subnational-cases
+* https://kawalcovid19.id/
 * https://api.covid19india.org
 * https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases
 * https://www.covid.is/data
@@ -35,6 +37,7 @@ Data from the following URLs:
 * https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases
 * https://github.com/ynshung/covid-19-malaysia
 * https://github.com/nzherald/nz-covid19-data
+* https://covid19.moh.gov.om/
 * https://www.corona.ps/details
 * https://covid19.moh.gov.sa/
 * https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal
@@ -42,5 +45,7 @@ Data from the following URLs:
 * https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV
 * https://github.com/tomwhite/covid-19-uk-data
 * https://github.com/microsoft/Bing-COVID-19-Data
+* https://github.com/nytimes/covid-19-data
 * https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela
 * https://ncov.moh.gov.vn/
+
