@@ -15,6 +15,7 @@ Data from the following URLs:
 * https://app.powerbi.com/view?r=eyJrIjoiZTRkZDhmMDctM2NmZi00NjRkLTgzYzMtYzI1MDMzNWI3NTRhIiwidCI6IjBmOWUzNWRiLTU0NGYtNGY2MC1iZGNjLTVlYTQxNmU2ZGM3MCIsImMiOjh9
 * https://github.com/CSSEGISandData/COVID-19
 * https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit
+* https://iedcr.gov.bd/
 * https://www.kaggle.com/unanimad/corona-virus-brazil
 * https://github.com/openZH/covid_19
 * https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia
@@ -25,8 +26,10 @@ Data from the following URLs:
 * https://data.humdata.org/dataset/haiti-covid-19-subnational-cases
 * https://api.covid19india.org
 * https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases
+* https://www.covid.is/data
 * https://github.com/pcm-dpc/COVID-19
 * https://jag-japan.com/covid19map-readme/
+* https://covid.kg/
 * https://www.kaggle.com/kimjihoo/coronavirusdataset
 * https://www.coronavirus2020.kz/kz
 * https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases
@@ -36,6 +39,8 @@ Data from the following URLs:
 * https://covid19.moh.gov.sa/
 * https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal
 * https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases
+* https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV
 * https://github.com/tomwhite/covid-19-uk-data
 * https://github.com/microsoft/Bing-COVID-19-Data
 * https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela
+* https://ncov.moh.gov.vn/
