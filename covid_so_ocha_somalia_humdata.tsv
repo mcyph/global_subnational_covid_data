@@ -1,253 +1,685 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	Somalia	Banadir	total		1177	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		53	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		294	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		830	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		304	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		18	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		34	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		252	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		180	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		5	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		16	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		159	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		131	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		2	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		129	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		110	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		1	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		108	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		65	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		1	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		64	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		9	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		8	01/06/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1161	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		50	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		268	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		843	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		257	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		15	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		28	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		214	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		178	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		5	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		11	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		162	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		110	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		1	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		108	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		99	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		2	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		97	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		14	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		14	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		9	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		8	29/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1126	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		43	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		225	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		855	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		225	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		16	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		21	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		180	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		170	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		7	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		148	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		99	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		99	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		88	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		87	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		14	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		14	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		9	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		8	28/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1123	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		43	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		225	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		855	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		14	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		14	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		9	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		8	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		99	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		99	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		161	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		7	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		148	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		217	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		16	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		21	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		180	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		88	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		87	27/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1118	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		43	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		211	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		864	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		14	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		14	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		8	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		7	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		98	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		98	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		161	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		7	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		148	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		203	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		15	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		19	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		169	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		87	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		86	26/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1099	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		42	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		187	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		870	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		12	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		12	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		8	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		7	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		98	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		98	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		163	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		7	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		150	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		131	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		11	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		10	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		110	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		83	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		82	25/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1080	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		42	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		167	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		871	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		12	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		12	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		6	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		5	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		98	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		2	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		96	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		161	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		9	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		146	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		131	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		11	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		10	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		110	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		84	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		83	21/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1063	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		42	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		161	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		860	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		12	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		12	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		8	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		0	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		7	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		81	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		2	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		79	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		157	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		6	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		7	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		144	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		129	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		9	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		8	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		112	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		84	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		84	20/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	total		1048	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_deaths		39	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_recovered		145	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Banadir	status_active		864	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	total		12	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_deaths		0	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_recovered		0	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Galmudug State	status_active		12	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	total		8	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_deaths		1	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_recovered		2	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Hir-Shabelle State	status_active		5	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	total		52	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_deaths		0	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_recovered		0	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Jubaland State	status_active		52	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	total		137	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_deaths		7	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_recovered		2	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Puntland	status_active		128	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	total		121	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_deaths		9	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_recovered		8	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	Somaliland	status_active		104	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	total		77	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_deaths		1	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_recovered		0	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
-admin_1	Somalia	South West State	status_active		76	19/05/2020	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	Somalia	Banadir	2020_05_19	status_active		864	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_19	status_deaths		39	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_19	status_recovered		145	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_19	total		1048	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_19	status_active		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_19	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_19	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_19	total		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_19	status_active		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_19	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_19	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_19	total		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_19	status_active		52	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_19	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_19	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_19	total		52	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_19	status_active		128	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_19	status_deaths		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_19	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_19	total		137	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_19	status_active		104	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_19	status_deaths		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_19	status_recovered		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_19	total		121	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_19	status_active		76	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_19	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_19	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_19	total		77	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_20	new		15	DERIVED	
+admin_1	Somalia	Banadir	2020_05_20	status_active		860	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_20	status_active_new		-4	DERIVED	
+admin_1	Somalia	Banadir	2020_05_20	status_deaths		42	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_20	status_deaths_new		3	DERIVED	
+admin_1	Somalia	Banadir	2020_05_20	status_recovered		161	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_20	status_recovered_new		16	DERIVED	
+admin_1	Somalia	Banadir	2020_05_20	total		1063	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_20	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_20	status_active		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_20	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_20	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_20	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_20	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_20	total		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_active		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_active_new		2	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	status_recovered_new		-2	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_20	total		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_20	new		29	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_20	status_active		79	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_20	status_active_new		27	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_20	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_20	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_20	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_20	total		81	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_20	new		20	DERIVED	
+admin_1	Somalia	Puntland	2020_05_20	status_active		144	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_20	status_active_new		16	DERIVED	
+admin_1	Somalia	Puntland	2020_05_20	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_20	status_deaths_new		-1	DERIVED	
+admin_1	Somalia	Puntland	2020_05_20	status_recovered		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_20	status_recovered_new		5	DERIVED	
+admin_1	Somalia	Puntland	2020_05_20	total		157	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_20	new		8	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_20	status_active		112	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_20	status_active_new		8	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_20	status_deaths		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_20	status_recovered		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_20	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_20	total		129	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_20	new		7	DERIVED	
+admin_1	Somalia	South West State	2020_05_20	status_active		84	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_20	status_active_new		8	DERIVED	
+admin_1	Somalia	South West State	2020_05_20	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_20	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_20	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_20	total		84	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_21	new		17	DERIVED	
+admin_1	Somalia	Banadir	2020_05_21	status_active		871	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_21	status_active_new		11	DERIVED	
+admin_1	Somalia	Banadir	2020_05_21	status_deaths		42	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_05_21	status_recovered		167	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_21	status_recovered_new		6	DERIVED	
+admin_1	Somalia	Banadir	2020_05_21	total		1080	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_21	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_21	status_active		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_21	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_21	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_21	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_21	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_21	total		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	new		-2	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_active		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_active_new		-2	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_21	total		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_21	new		17	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_21	status_active		96	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_21	status_active_new		17	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_21	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_21	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_21	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_21	total		98	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_21	new		4	DERIVED	
+admin_1	Somalia	Puntland	2020_05_21	status_active		146	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_21	status_active_new		2	DERIVED	
+admin_1	Somalia	Puntland	2020_05_21	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_21	status_recovered		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_21	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Puntland	2020_05_21	total		161	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_21	new		2	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_21	status_active		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_21	status_active_new		-2	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_21	status_deaths		11	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_21	status_deaths_new		2	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_21	status_recovered		10	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_21	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_21	total		131	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_21	new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_21	status_active		83	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_21	status_active_new		-1	DERIVED	
+admin_1	Somalia	South West State	2020_05_21	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_21	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_21	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_21	total		84	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_25	status_active		870	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_25	status_deaths		42	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_25	status_recovered		187	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_25	total		1099	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_25	status_active		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_25	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_25	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_25	total		12	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_25	status_active		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_25	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_25	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_25	total		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_25	status_active		98	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_25	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_25	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_25	total		98	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_25	status_active		150	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_25	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_25	status_recovered		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_25	total		163	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_25	status_active		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_25	status_deaths		11	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_25	status_recovered		10	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_25	total		131	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_25	status_active		82	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_25	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_25	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_25	total		83	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_26	new		19	DERIVED	
+admin_1	Somalia	Banadir	2020_05_26	status_active		864	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_26	status_active_new		-6	DERIVED	
+admin_1	Somalia	Banadir	2020_05_26	status_deaths		43	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_26	status_deaths_new		1	DERIVED	
+admin_1	Somalia	Banadir	2020_05_26	status_recovered		211	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_26	status_recovered_new		24	DERIVED	
+admin_1	Somalia	Banadir	2020_05_26	total		1118	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_26	new		2	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_26	status_active		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_26	status_active_new		2	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_26	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_26	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_26	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_26	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_26	total		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_active		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_active_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_26	total		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_26	new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_26	status_active		98	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_26	status_active_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_26	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_26	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_26	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_26	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_26	total		98	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_26	new		-2	DERIVED	
+admin_1	Somalia	Puntland	2020_05_26	status_active		148	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_26	status_active_new		-2	DERIVED	
+admin_1	Somalia	Puntland	2020_05_26	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_26	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_26	status_recovered		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_26	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_26	total		161	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_26	new		72	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_26	status_active		169	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_26	status_active_new		59	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_26	status_deaths		15	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_26	status_deaths_new		4	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_26	status_recovered		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_26	status_recovered_new		9	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_26	total		203	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_26	new		4	DERIVED	
+admin_1	Somalia	South West State	2020_05_26	status_active		86	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_26	status_active_new		4	DERIVED	
+admin_1	Somalia	South West State	2020_05_26	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_26	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_26	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_26	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_26	total		87	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_27	new		5	DERIVED	
+admin_1	Somalia	Banadir	2020_05_27	status_active		855	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_27	status_active_new		-9	DERIVED	
+admin_1	Somalia	Banadir	2020_05_27	status_deaths		43	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_05_27	status_recovered		225	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_27	status_recovered_new		14	DERIVED	
+admin_1	Somalia	Banadir	2020_05_27	total		1123	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_27	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_27	status_active		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_27	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_27	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_27	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_27	total		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	new		1	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_active_new		1	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_27	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_27	new		1	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_27	status_active		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_27	status_active_new		1	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_27	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_27	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_27	total		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_27	new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_27	status_active		148	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_27	status_active_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_27	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_27	status_recovered		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_27	total		161	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_27	new		14	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_27	status_active		180	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_27	status_active_new		11	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_27	status_deaths		16	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_27	status_deaths_new		1	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_27	status_recovered		21	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_27	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_27	total		217	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_27	new		1	DERIVED	
+admin_1	Somalia	South West State	2020_05_27	status_active		87	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_27	status_active_new		1	DERIVED	
+admin_1	Somalia	South West State	2020_05_27	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_27	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_27	total		88	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_28	new		3	DERIVED	
+admin_1	Somalia	Banadir	2020_05_28	status_active		855	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_05_28	status_deaths		43	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_05_28	status_recovered		225	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_05_28	total		1126	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_28	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_28	status_active		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_28	total		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_28	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_28	new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_28	status_active		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_28	total		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_28	new		9	DERIVED	
+admin_1	Somalia	Puntland	2020_05_28	status_active		148	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_28	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_28	status_recovered		7	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_05_28	total		170	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_28	new		8	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_28	status_active		180	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_28	status_deaths		16	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_28	status_recovered		21	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_28	total		225	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_28	new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_28	status_active		87	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_28	status_active_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_28	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_28	total		88	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_29	new		35	DERIVED	
+admin_1	Somalia	Banadir	2020_05_29	status_active		843	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_29	status_active_new		-12	DERIVED	
+admin_1	Somalia	Banadir	2020_05_29	status_deaths		50	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_29	status_deaths_new		7	DERIVED	
+admin_1	Somalia	Banadir	2020_05_29	status_recovered		268	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_05_29	status_recovered_new		43	DERIVED	
+admin_1	Somalia	Banadir	2020_05_29	total		1161	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_29	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_29	status_active		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_29	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_29	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_29	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_29	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_05_29	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_05_29	total		14	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_active_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_05_29	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_29	new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_29	status_active		97	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_29	status_active_new		-2	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_29	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_29	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_29	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_05_29	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Jubaland State	2020_05_29	total		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_29	new		8	DERIVED	
+admin_1	Somalia	Puntland	2020_05_29	status_active		162	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_29	status_active_new		14	DERIVED	
+admin_1	Somalia	Puntland	2020_05_29	status_deaths		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_29	status_deaths_new		-1	DERIVED	
+admin_1	Somalia	Puntland	2020_05_29	status_recovered		11	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_05_29	status_recovered_new		4	DERIVED	
+admin_1	Somalia	Puntland	2020_05_29	total		178	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_29	new		32	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_29	status_active		214	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_29	status_active_new		34	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_29	status_deaths		15	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_29	status_deaths_new		-1	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_29	status_recovered		28	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_05_29	status_recovered_new		7	DERIVED	
+admin_1	Somalia	Somaliland	2020_05_29	total		257	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_29	new		22	DERIVED	
+admin_1	Somalia	South West State	2020_05_29	status_active		108	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_29	status_active_new		21	DERIVED	
+admin_1	Somalia	South West State	2020_05_29	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_29	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_05_29	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_05_29	status_recovered_new		1	DERIVED	
+admin_1	Somalia	South West State	2020_05_29	total		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_01	status_active		830	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_01	status_deaths		53	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_01	status_recovered		294	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_01	total		1177	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_01	status_active		64	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_01	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_01	total		65	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_01	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_01	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_01	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_01	status_active		129	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_01	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_01	total		131	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_01	status_active		159	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_01	status_deaths		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_01	status_recovered		16	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_01	total		180	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_01	status_active		252	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_01	status_deaths		18	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_01	status_recovered		34	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_01	total		304	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_01	status_active		108	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_01	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_01	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_01	total		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_03	status_active		855	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_03	status_deaths		52	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_03	status_recovered		312	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_03	total		1219	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_03	status_active		64	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_03	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_03	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_03	total		65	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_03	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_03	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_03	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_03	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_03	status_active		134	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_03	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_03	status_recovered		2	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_03	total		136	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_03	status_active		167	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_03	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_03	status_recovered		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_03	total		192	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_03	status_active		294	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_03	status_deaths		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_03	status_recovered		45	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_03	total		358	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_03	status_active		108	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_03	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_03	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_03	total		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_04	new		34	DERIVED	
+admin_1	Somalia	Banadir	2020_06_04	status_active		855	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_04	status_deaths		52	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_04	status_recovered		314	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_04	status_recovered_new		2	DERIVED	
+admin_1	Somalia	Banadir	2020_06_04	total		1253	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_04	new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_04	status_active		64	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_04	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_04	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_04	total		65	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_active		8	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_04	total		9	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_04	new		5	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_04	status_active		134	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_04	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_04	status_recovered		23	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_04	status_recovered_new		21	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_04	total		141	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_04	new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_04	status_active		167	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_04	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_04	status_recovered		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_04	total		192	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_04	new		18	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_04	status_active		294	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_04	status_deaths		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_04	status_recovered		48	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_04	status_recovered_new		3	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_04	total		376	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_04	new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_04	status_active		108	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_04	status_active_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_04	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_04	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_04	total		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_05	new		32	DERIVED	
+admin_1	Somalia	Banadir	2020_06_05	status_active		919	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_05	status_active_new		64	DERIVED	
+admin_1	Somalia	Banadir	2020_06_05	status_deaths		52	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_05	status_recovered		314	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_05	total		1285	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_05	new		3	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_05	status_active		67	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_05	status_active_new		3	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_05	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_05	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Galmudug State	2020_06_05	total		68	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	new		11	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_active		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_active_new		11	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle State	2020_06_05	total		20	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_05	new		1	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_05	status_active		110	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_05	status_active_new		-24	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_05	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_05	status_recovered		32	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_05	status_recovered_new		9	DERIVED	
+admin_1	Somalia	Jubaland State	2020_06_05	total		142	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_05	new		2	DERIVED	
+admin_1	Somalia	Puntland	2020_06_05	status_active		169	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_05	status_active_new		2	DERIVED	
+admin_1	Somalia	Puntland	2020_06_05	status_deaths		6	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_05	status_recovered		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_05	total		194	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_05	new		8	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_05	status_active		314	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_05	status_active_new		20	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_05	status_deaths		19	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_05	status_recovered		51	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_05	status_recovered_new		3	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_05	total		384	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_05	new		1	DERIVED	
+admin_1	Somalia	South West State	2020_06_05	status_active		109	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_05	status_active_new		1	DERIVED	
+admin_1	Somalia	South West State	2020_06_05	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_05	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Somalia	South West State	2020_06_05	total		111	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_09	status_active		945	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_09	status_deaths		54	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_09	status_recovered		330	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_09	total		1329	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_09	status_active		99	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_09	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmudug State	2020_06_09	total		100	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_09	status_active		20	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_09	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle State	2020_06_09	total		21	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_09	status_active		124	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_09	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_09	status_recovered		31	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland State	2020_06_09	total		156	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_09	status_active		152	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_09	status_deaths		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_09	status_recovered		39	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_09	total		196	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_09	status_active		358	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_09	status_deaths		23	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_09	status_recovered		68	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_09	total		449	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_09	status_active		116	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_09	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West State	2020_06_09	total		117	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_10	new		19	DERIVED	
+admin_1	Somalia	Banadir	2020_06_10	status_active		952	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_10	status_active_new		7	DERIVED	
+admin_1	Somalia	Banadir	2020_06_10	status_deaths		342	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_10	status_deaths_new		288	DERIVED	
+admin_1	Somalia	Banadir	2020_06_10	status_recovered		54	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_10	status_recovered_new		-276	DERIVED	
+admin_1	Somalia	Banadir	2020_06_10	total		1348	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_10	status_active		101	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_10	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_10	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_10	total		102	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_10	status_active		22	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_10	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_10	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_10	total		23	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_10	status_active		124	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_10	status_deaths		31	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_10	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_10	total		156	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_10	new		8	DERIVED	
+admin_1	Somalia	Puntland	2020_06_10	status_active		158	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_10	status_active_new		6	DERIVED	
+admin_1	Somalia	Puntland	2020_06_10	status_deaths		41	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_10	status_deaths_new		36	DERIVED	
+admin_1	Somalia	Puntland	2020_06_10	status_recovered		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_10	status_recovered_new		-34	DERIVED	
+admin_1	Somalia	Puntland	2020_06_10	total		204	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_10	new		17	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_10	status_active		370	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_10	status_active_new		12	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_10	status_deaths		73	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_10	status_deaths_new		50	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_10	status_recovered		24	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_10	status_recovered_new		-44	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_10	total		466	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_10	status_active		116	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_10	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_10	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_10	total		117	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_11	status_active		952	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Banadir	2020_06_11	status_deaths		54	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_11	status_deaths_new		-288	DERIVED	
+admin_1	Somalia	Banadir	2020_06_11	status_recovered		342	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Banadir	2020_06_11	status_recovered_new		288	DERIVED	
+admin_1	Somalia	Banadir	2020_06_11	total		1348	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Galmmudug	2020_06_11	status_active		101	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Galmmudug	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_11	status_deaths_new		-1	DERIVED	
+admin_1	Somalia	Galmmudug	2020_06_11	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Galmmudug	2020_06_11	status_recovered_new		1	DERIVED	
+admin_1	Somalia	Galmmudug	2020_06_11	total		102	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_active		22	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_deaths_new		1	DERIVED	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	status_recovered_new		-1	DERIVED	
+admin_1	Somalia	Hir-Shabelle	2020_06_11	total		23	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Jubaland	2020_06_11	status_active		124	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Jubaland	2020_06_11	status_deaths		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_11	status_deaths_new		-30	DERIVED	
+admin_1	Somalia	Jubaland	2020_06_11	status_recovered		31	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Jubaland	2020_06_11	status_recovered_new		30	DERIVED	
+admin_1	Somalia	Jubaland	2020_06_11	total		156	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_11	status_active		158	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Puntland	2020_06_11	status_deaths		5	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_11	status_deaths_new		-36	DERIVED	
+admin_1	Somalia	Puntland	2020_06_11	status_recovered		41	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Puntland	2020_06_11	status_recovered_new		36	DERIVED	
+admin_1	Somalia	Puntland	2020_06_11	total		204	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_11	status_active		370	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_11	status_deaths		24	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_11	status_deaths_new		-49	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_11	status_recovered		73	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	Somaliland	2020_06_11	status_recovered_new		49	DERIVED	
+admin_1	Somalia	Somaliland	2020_06_11	total		466	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_11	new		0	DERIVED	
+admin_1	Somalia	South West	2020_06_11	status_active		116	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_11	status_active_new		0	DERIVED	
+admin_1	Somalia	South West	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_11	status_deaths_new		-1	DERIVED	
+admin_1	Somalia	South West	2020_06_11	status_recovered		1	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
+admin_1	Somalia	South West	2020_06_11	status_recovered_new		1	DERIVED	
+admin_1	Somalia	South West	2020_06_11	total		117	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	

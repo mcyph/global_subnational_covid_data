@@ -1,145 +1,1105 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	PS	PS-JRH	total		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_recovered		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	total		79	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_active		21	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_recovered		58	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	total		140	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_active		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_recovered		138	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_deaths		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	total		59	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_recovered		59	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	total		4	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_recovered		3	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_deaths		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	total		77	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_recovered		77	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	total		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_recovered		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	total		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_recovered		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	total		6	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_recovered		6	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	total		61	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_active		42	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_recovered		18	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_deaths		1	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	total		14	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_active		14	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_recovered		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	total		7	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_active		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_recovered		7	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_deaths		0	01/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	total		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_recovered		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	total		79	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_active		21	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_recovered		58	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	total		140	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_active		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_recovered		138	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_deaths		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	total		59	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_recovered		59	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	total		4	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_recovered		3	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_deaths		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	total		77	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_recovered		77	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	total		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_recovered		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	total		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_recovered		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	total		6	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_recovered		6	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	total		61	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_active		42	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_recovered		18	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_deaths		1	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	total		14	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_active		14	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_recovered		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	total		7	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_active		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_recovered		7	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_deaths		0	02/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	total		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_recovered		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JRH	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	total		79	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_active		21	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_recovered		58	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-HBN	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	total		140	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_active		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_recovered		138	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEM	status_deaths		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	total		59	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_recovered		59	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-BTH	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	total		4	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_recovered		3	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-JEN	status_deaths		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	total		77	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_recovered		77	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-RBH	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	total		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_recovered		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-SLT	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	total		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_recovered		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TBS	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	total		6	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_recovered		6	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-TKM	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	total		61	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_active		42	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_recovered		18	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-GZA	status_deaths		1	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	total		16	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_active		16	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_recovered		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-QQA	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	total		7	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_active		0	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_recovered		7	03/06/2020	https://www.corona.ps/details	''
-admin_1	PS	PS-NBS	status_deaths		0	03/06/2020	https://www.corona.ps/details	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	PS	PS-BTH	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_01	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_01	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_01	status_active		42	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_01	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_01	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_01	total		61	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_01	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_01	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_01	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_01	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_01	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_01	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_01	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_01	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_01	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_01	total		4	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_01	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_01	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_01	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_01	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_01	status_active		14	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_01	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_01	total		14	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_01	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_01	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_01	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_01	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_01	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_01	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_01	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_01	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_01	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_01	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_02	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_02	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_02	status_active		42	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_02	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_02	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_02	total		61	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_02	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_02	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_02	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_02	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_02	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_02	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_02	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_02	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_02	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_02	total		4	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_02	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_02	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_02	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_02	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_02	status_active		14	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_02	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_02	total		14	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_02	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_02	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_02	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_02	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_02	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_02	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_02	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_02	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_02	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_02	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_02	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_02	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_03	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_03	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_03	status_active		42	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_03	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_03	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_03	total		61	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_03	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_03	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_03	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_03	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_03	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_03	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_03	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_03	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_03	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_03	total		4	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_03	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_03	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_03	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_03	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_03	new		2	DERIVED	
+admin_1	PS	PS-QQA	2020_06_03	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_03	status_active_new		2	DERIVED	
+admin_1	PS	PS-QQA	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_03	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_03	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_03	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_03	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_03	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_03	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_03	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_03	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_03	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_03	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_03	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_03	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_03	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_03	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_04	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_04	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_04	new		5	DERIVED	
+admin_1	PS	PS-GZA	2020_06_04	status_active		47	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_04	status_active_new		5	DERIVED	
+admin_1	PS	PS-GZA	2020_06_04	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_04	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_04	total		66	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_04	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_04	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_04	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_04	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_04	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_04	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_04	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_04	new		1	DERIVED	
+admin_1	PS	PS-JEN	2020_06_04	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_04	status_active_new		1	DERIVED	
+admin_1	PS	PS-JEN	2020_06_04	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_04	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_04	total		5	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_04	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_04	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_04	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_04	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_04	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_04	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_04	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_04	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_04	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_04	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_04	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_04	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_04	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_04	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_04	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_04	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_04	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_04	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_04	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_05	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_05	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_05	new		4	DERIVED	
+admin_1	PS	PS-GZA	2020_06_05	status_active		51	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_05	status_active_new		4	DERIVED	
+admin_1	PS	PS-GZA	2020_06_05	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_05	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_05	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_05	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_05	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_05	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_05	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_05	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_05	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_05	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_05	new		3	DERIVED	
+admin_1	PS	PS-JEN	2020_06_05	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_05	status_active_new		3	DERIVED	
+admin_1	PS	PS-JEN	2020_06_05	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_05	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_05	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_05	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_05	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_05	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_05	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_05	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_05	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_05	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_05	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_05	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_05	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_05	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_05	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_05	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_05	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_05	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_05	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_05	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_05	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_05	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_06	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_06	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_06	status_active		51	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_06	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_06	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_06	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_06	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_06	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_06	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_06	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_06	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_06	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_06	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_06	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_06	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_06	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_06	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_06	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_06	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_06	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_06	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_06	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_06	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_06	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_06	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_06	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_06	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_06	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_06	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_06	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_06	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_06	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_06	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_06	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_06	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_06	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_07	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_07	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_07	status_active		51	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_07	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_07	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_07	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_07	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_07	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_07	total		79	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_07	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_07	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_07	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_07	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_07	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_07	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_07	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_07	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_07	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_07	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_07	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_07	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_07	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_07	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_07	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_07	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_07	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_07	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_07	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_07	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_07	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_07	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_07	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_07	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_07	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_07	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_07	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_08	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_08	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_08	status_active		51	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_08	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_08	status_recovered		18	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_08	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_08	new		8	DERIVED	
+admin_1	PS	PS-HBN	2020_06_08	status_active		29	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_08	status_active_new		8	DERIVED	
+admin_1	PS	PS-HBN	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_08	status_recovered		58	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_08	total		87	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_08	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_08	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_08	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_08	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_08	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_08	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_08	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_08	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_08	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_08	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_08	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_08	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_08	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_08	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_08	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_08	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_08	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_08	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_08	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_08	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_08	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_08	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_08	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_08	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_08	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_08	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_08	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_09	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_09	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_09	status_active		29	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_09	status_active_new		-22	DERIVED	
+admin_1	PS	PS-GZA	2020_06_09	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_09	status_recovered		40	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_09	status_recovered_new		22	DERIVED	
+admin_1	PS	PS-GZA	2020_06_09	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_09	new		1	DERIVED	
+admin_1	PS	PS-HBN	2020_06_09	status_active		18	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_09	status_active_new		-11	DERIVED	
+admin_1	PS	PS-HBN	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_09	status_recovered		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_09	status_recovered_new		12	DERIVED	
+admin_1	PS	PS-HBN	2020_06_09	total		88	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_09	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_09	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_09	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_09	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_09	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_09	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_09	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_09	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_09	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_09	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_09	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_09	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_09	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_09	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_09	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_09	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_09	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_09	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_09	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_09	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_09	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_09	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_09	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_09	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_09	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_09	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_09	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_10	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_10	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_10	status_active		29	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_10	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_10	status_recovered		40	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_10	total		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_10	new		7	DERIVED	
+admin_1	PS	PS-HBN	2020_06_10	status_active		25	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_10	status_active_new		7	DERIVED	
+admin_1	PS	PS-HBN	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_10	status_recovered		70	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_10	total		95	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_10	status_active		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_10	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_10	status_recovered		138	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_10	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_10	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_10	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_10	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_10	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_10	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_10	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_10	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_10	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_10	status_active		16	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_10	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_10	total		16	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_10	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_10	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_10	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_10	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_10	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_10	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_10	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_10	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_10	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_10	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_10	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_10	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_11	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_11	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_11	new		2	DERIVED	
+admin_1	PS	PS-GZA	2020_06_11	status_active		30	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_11	status_active_new		1	DERIVED	
+admin_1	PS	PS-GZA	2020_06_11	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_11	status_recovered		41	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_11	status_recovered_new		1	DERIVED	
+admin_1	PS	PS-GZA	2020_06_11	total		72	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_11	status_active		19	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_11	status_active_new		-6	DERIVED	
+admin_1	PS	PS-HBN	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_11	status_recovered		76	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_11	status_recovered_new		6	DERIVED	
+admin_1	PS	PS-HBN	2020_06_11	total		95	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_11	status_active_new		-1	DERIVED	
+admin_1	PS	PS-JEM	2020_06_11	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_11	status_recovered		139	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_11	status_recovered_new		1	DERIVED	
+admin_1	PS	PS-JEM	2020_06_11	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_11	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_11	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_11	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_11	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_11	new		2	DERIVED	
+admin_1	PS	PS-JRH	2020_06_11	status_active		2	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_11	status_active_new		2	DERIVED	
+admin_1	PS	PS-JRH	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_11	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_11	total		3	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_11	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_11	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_11	new		1	DERIVED	
+admin_1	PS	PS-QQA	2020_06_11	status_active		17	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_11	status_active_new		1	DERIVED	
+admin_1	PS	PS-QQA	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_11	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_11	total		17	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_11	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_11	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_11	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_11	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_11	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_11	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_11	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_11	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_11	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_11	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_11	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_11	total		6	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_12	status_recovered		59	https://www.corona.ps/details	
+admin_1	PS	PS-BTH	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-BTH	2020_06_12	total		59	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_12	status_active		30	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_12	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_12	status_recovered		41	https://www.corona.ps/details	
+admin_1	PS	PS-GZA	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-GZA	2020_06_12	total		72	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_12	new		2	DERIVED	
+admin_1	PS	PS-HBN	2020_06_12	status_active		21	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_12	status_active_new		2	DERIVED	
+admin_1	PS	PS-HBN	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_12	status_recovered		76	https://www.corona.ps/details	
+admin_1	PS	PS-HBN	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-HBN	2020_06_12	total		97	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_12	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_12	status_recovered		139	https://www.corona.ps/details	
+admin_1	PS	PS-JEM	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEM	2020_06_12	total		140	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_12	status_active		4	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_12	status_deaths		1	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_12	status_recovered		3	https://www.corona.ps/details	
+admin_1	PS	PS-JEN	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JEN	2020_06_12	total		8	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_12	status_active		2	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_12	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-JRH	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-JRH	2020_06_12	total		3	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_12	status_recovered		7	https://www.corona.ps/details	
+admin_1	PS	PS-NBS	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-NBS	2020_06_12	total		7	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_12	status_active		17	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_12	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-QQA	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-QQA	2020_06_12	total		17	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_12	status_recovered		77	https://www.corona.ps/details	
+admin_1	PS	PS-RBH	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-RBH	2020_06_12	total		77	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_12	status_recovered		1	https://www.corona.ps/details	
+admin_1	PS	PS-SLT	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-SLT	2020_06_12	total		1	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_12	status_recovered		0	https://www.corona.ps/details	
+admin_1	PS	PS-TBS	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TBS	2020_06_12	total		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_12	new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_12	status_active		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_12	status_active_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_12	status_deaths		0	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_12	status_recovered		6	https://www.corona.ps/details	
+admin_1	PS	PS-TKM	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	PS	PS-TKM	2020_06_12	total		6	https://www.corona.ps/details	

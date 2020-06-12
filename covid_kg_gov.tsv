@@ -1,692 +1,1535 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	KG	KG-Y	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		0	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		2	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		3	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		3	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		3	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		3	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		4	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		4	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		6	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		6	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		6	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		6	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		6	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		8	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		10	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		12	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		12	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		12	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		12	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		13	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		13	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		13	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		13	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		13	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-Y	total		14	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		3	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		3	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		3	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		8	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		8	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		8	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		19	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		19	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		19	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		26	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		26	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		39	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		49	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		50	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		54	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		54	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		61	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		67	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		67	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		80	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		80	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		81	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		86	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		89	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		89	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		89	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		91	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		93	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		93	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		93	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		93	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		93	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		102	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		105	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		105	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		109	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		109	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		109	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		109	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		111	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		111	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		113	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		113	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		114	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		114	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		118	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		118	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		123	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		123	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		129	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		132	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		135	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		139	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		144	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		144	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		147	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		147	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		151	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		153	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		153	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		153	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		154	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		154	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		154	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		154	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		155	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		156	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		157	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		159	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		159	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-J	total		162	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-T	total		0	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		1	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		3	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		3	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		3	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		3	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		4	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		5	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		6	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		8	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		8	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		8	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		9	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		9	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		10	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		12	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		13	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		14	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		14	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		18	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		18	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		18	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		19	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		23	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		24	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		24	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		24	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		24	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		24	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		27	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		25	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		26	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		27	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		27	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		28	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		28	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		29	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		29	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		29	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		29	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-B	total		29	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		3	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		3	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		3	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		5	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		12	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		12	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		12	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		25	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		25	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		25	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		25	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		30	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		28	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		30	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		30	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		35	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		35	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		80	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		86	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		96	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		97	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		97	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		116	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		119	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		128	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		128	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		130	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		131	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		135	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		140	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		147	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		147	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		150	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		151	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		154	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		157	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		157	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		159	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		160	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		160	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		161	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		163	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		166	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		167	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		169	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		169	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		169	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		169	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		172	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		172	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		175	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		178	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		180	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		180	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		181	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		181	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		182	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		183	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		183	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		189	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		195	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		197	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		201	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		203	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		204	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		206	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		207	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		211	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		213	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		217	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		217	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		217	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		218	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		219	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-O	total		219	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		0	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		1	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		1	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		3	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		3	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		4	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		5	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		5	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		6	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		6	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		6	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		7	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		7	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		9	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		9	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		17	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		18	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		21	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		27	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		28	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		28	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		28	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		28	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		28	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		30	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		32	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		32	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		34	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		38	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		42	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		43	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		44	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		46	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		52	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		52	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		61	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		61	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		61	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		70	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		72	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		72	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		74	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		78	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		81	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		85	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		141	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		142	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		143	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		148	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		152	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		156	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		156	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		159	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		205	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		208	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		209	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		210	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		213	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		214	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		217	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		218	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		225	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		236	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		237	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		263	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		266	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		269	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		275	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-C	total		275	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		0	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		1	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		1	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		4	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		5	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		5	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		10	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		10	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		10	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		12	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		25	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		34	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		34	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		34	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		45	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		45	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		56	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		67	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		68	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		73	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		74	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		74	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		83	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		83	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		85	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		86	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		88	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		94	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		95	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		96	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		97	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		97	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		98	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		103	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		103	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		115	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		115	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		126	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		127	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		129	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		136	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		137	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		152	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		163	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		163	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		169	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		183	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		194	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		213	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		221	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		242	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		242	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		267	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		272	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		280	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		297	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		310	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		314	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		346	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		358	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		372	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-N	total		373	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		2	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		2	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		2	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		2	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		3	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		3	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		4	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		4	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		7	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		7	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		8	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		8	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		8	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		14	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		15	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		18	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		23	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		23	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		33	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		34	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		40	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		54	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		59	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		69	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		77	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		82	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		87	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		102	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		102	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		111	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		115	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		123	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		133	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		141	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		147	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		151	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		158	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		164	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		167	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		180	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		183	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		188	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		191	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		205	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		231	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		239	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		255	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		257	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		262	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		264	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		266	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		272	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		282	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		282	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		296	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		302	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		305	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		317	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		323	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		330	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		334	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		357	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		366	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		378	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		384	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		401	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		417	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		428	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		449	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		484	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		509	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		516	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		555	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-GB	total		566	02/06/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	18/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	19/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	20/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	21/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	22/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		0	23/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	24/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	25/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	26/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		2	27/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		2	28/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	29/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	30/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		8	31/03/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		9	01/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		10	02/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		10	03/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		12	04/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		12	05/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		14	06/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		20	07/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		34	08/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		37	09/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		37	10/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		42	11/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		54	12/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		59	13/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		59	14/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		71	15/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		71	16/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		73	17/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		74	18/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		83	19/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		87	20/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		93	21/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		97	22/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		101	23/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		104	24/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		108	25/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		109	26/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		110	27/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		110	28/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		110	29/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		111	30/04/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		111	01/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	02/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	03/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	04/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	05/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	06/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	07/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	08/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	09/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	10/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	11/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	12/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		113	13/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		114	14/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		118	15/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		119	16/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		119	17/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		124	18/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		124	19/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		124	20/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		129	21/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		132	22/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		132	23/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		132	24/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		135	25/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		135	26/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		142	27/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		177	28/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		179	29/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		179	30/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		182	31/05/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		191	01/06/2020	https://covid.kg/	''
-admin_1	KG	KG-GO	total		207	02/06/2020	https://covid.kg/	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	KG	KG-B	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_18	total		3	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_18	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_19	total		3	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_19	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_19	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_20	total		3	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_20	new		3	DERIVED	
+admin_1	KG	KG-O	2020_03_20	total		3	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_20	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_20	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_21	new		1	DERIVED	
+admin_1	KG	KG-B	2020_03_21	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_21	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_21	new		2	DERIVED	
+admin_1	KG	KG-GB	2020_03_21	total		2	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_21	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_21	new		5	DERIVED	
+admin_1	KG	KG-J	2020_03_21	total		8	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_21	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_21	total		3	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_21	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_21	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_21	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_22	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_22	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_22	total		2	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_22	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_22	total		8	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_22	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_22	total		3	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_22	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_22	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_22	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_23	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_23	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_23	total		2	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_23	total		0	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_23	total		8	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_23	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_23	new		2	DERIVED	
+admin_1	KG	KG-O	2020_03_23	total		5	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_23	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_23	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_23	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_24	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_24	total		0	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_24	total		2	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_24	new		8	DERIVED	
+admin_1	KG	KG-GO	2020_03_24	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_24	new		11	DERIVED	
+admin_1	KG	KG-J	2020_03_24	total		19	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_24	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_24	new		7	DERIVED	
+admin_1	KG	KG-O	2020_03_24	total		12	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_24	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_24	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_24	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_25	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_25	new		1	DERIVED	
+admin_1	KG	KG-C	2020_03_25	total		1	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_25	new		1	DERIVED	
+admin_1	KG	KG-GB	2020_03_25	total		3	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_25	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_25	total		19	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_25	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_25	total		12	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_25	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_25	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_25	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_26	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_26	total		1	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_26	total		3	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_26	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_26	total		19	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_26	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_26	total		12	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_26	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_26	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_26	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_27	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_27	total		1	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_27	new		1	DERIVED	
+admin_1	KG	KG-GB	2020_03_27	total		4	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_27	new		-6	DERIVED	
+admin_1	KG	KG-GO	2020_03_27	total		2	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_27	new		7	DERIVED	
+admin_1	KG	KG-J	2020_03_27	total		26	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_27	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_27	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_27	new		13	DERIVED	
+admin_1	KG	KG-O	2020_03_27	total		25	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_27	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_27	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_27	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_27	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_28	total		1	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_28	total		4	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_28	total		2	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-J	2020_03_28	total		26	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_28	total		0	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_28	total		25	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_28	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_28	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_28	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_29	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_29	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_29	total		3	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_29	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_03_29	total		7	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_29	new		6	DERIVED	
+admin_1	KG	KG-GO	2020_03_29	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_29	new		13	DERIVED	
+admin_1	KG	KG-J	2020_03_29	total		39	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_29	new		1	DERIVED	
+admin_1	KG	KG-N	2020_03_29	total		1	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_29	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_29	total		25	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_29	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_29	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_29	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_29	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_30	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-C	2020_03_30	total		3	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_03_30	total		7	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_30	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_30	new		10	DERIVED	
+admin_1	KG	KG-J	2020_03_30	total		49	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-N	2020_03_30	total		1	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-O	2020_03_30	total		25	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_30	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_30	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_03_30	total		0	https://covid.kg/	
+admin_1	KG	KG-B	2020_03_31	new		0	DERIVED	
+admin_1	KG	KG-B	2020_03_31	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_03_31	new		1	DERIVED	
+admin_1	KG	KG-C	2020_03_31	total		4	https://covid.kg/	
+admin_1	KG	KG-GB	2020_03_31	new		1	DERIVED	
+admin_1	KG	KG-GB	2020_03_31	total		8	https://covid.kg/	
+admin_1	KG	KG-GO	2020_03_31	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_03_31	total		8	https://covid.kg/	
+admin_1	KG	KG-J	2020_03_31	new		1	DERIVED	
+admin_1	KG	KG-J	2020_03_31	total		50	https://covid.kg/	
+admin_1	KG	KG-N	2020_03_31	new		3	DERIVED	
+admin_1	KG	KG-N	2020_03_31	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_03_31	new		5	DERIVED	
+admin_1	KG	KG-O	2020_03_31	total		30	https://covid.kg/	
+admin_1	KG	KG-T	2020_03_31	new		0	DERIVED	
+admin_1	KG	KG-T	2020_03_31	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_03_31	new		2	DERIVED	
+admin_1	KG	KG-Y	2020_03_31	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_01	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_01	total		1	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_01	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_01	total		5	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_01	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_04_01	total		8	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_01	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_01	total		9	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_01	new		4	DERIVED	
+admin_1	KG	KG-J	2020_04_01	total		54	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_01	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_01	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_01	new		-2	DERIVED	
+admin_1	KG	KG-O	2020_04_01	total		28	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_01	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_01	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_01	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_01	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_02	new		2	DERIVED	
+admin_1	KG	KG-B	2020_04_02	total		3	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_02	total		5	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_04_02	total		8	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_02	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_02	total		10	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_02	total		54	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_02	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_02	new		2	DERIVED	
+admin_1	KG	KG-O	2020_04_02	total		30	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_02	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_02	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_02	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_03	total		3	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_03	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_03	total		6	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_03	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_04_03	total		14	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_03	total		10	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_03	new		7	DERIVED	
+admin_1	KG	KG-J	2020_04_03	total		61	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_03	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_03	total		30	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_03	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_03	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_03	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_04	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_04	total		3	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_04	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_04	total		6	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_04	new		1	DERIVED	
+admin_1	KG	KG-GB	2020_04_04	total		15	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_04	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_04_04	total		12	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_04	new		6	DERIVED	
+admin_1	KG	KG-J	2020_04_04	total		67	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_04	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_04	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_04	new		5	DERIVED	
+admin_1	KG	KG-O	2020_04_04	total		35	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_04	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_04	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_04	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_04	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_05	total		3	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_05	total		6	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_05	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_04_05	total		18	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_05	total		12	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_05	total		67	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_05	total		4	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_05	total		35	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_05	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_05	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_05	total		2	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_06	new		1	DERIVED	
+admin_1	KG	KG-B	2020_04_06	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_06	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_06	total		7	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_06	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_04_06	total		23	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_06	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_04_06	total		14	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_06	new		13	DERIVED	
+admin_1	KG	KG-J	2020_04_06	total		80	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_06	new		1	DERIVED	
+admin_1	KG	KG-N	2020_04_06	total		5	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_06	new		45	DERIVED	
+admin_1	KG	KG-O	2020_04_06	total		80	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_06	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_06	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_06	new		1	DERIVED	
+admin_1	KG	KG-Y	2020_04_06	total		3	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_07	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_07	total		7	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_04_07	total		23	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_07	new		6	DERIVED	
+admin_1	KG	KG-GO	2020_04_07	total		20	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_07	total		80	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_07	total		5	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_07	new		6	DERIVED	
+admin_1	KG	KG-O	2020_04_07	total		86	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_07	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_07	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_07	total		3	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_08	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_08	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_08	new		2	DERIVED	
+admin_1	KG	KG-C	2020_04_08	total		9	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_08	new		10	DERIVED	
+admin_1	KG	KG-GB	2020_04_08	total		33	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_08	new		14	DERIVED	
+admin_1	KG	KG-GO	2020_04_08	total		34	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_08	new		1	DERIVED	
+admin_1	KG	KG-J	2020_04_08	total		81	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_08	new		5	DERIVED	
+admin_1	KG	KG-N	2020_04_08	total		10	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_08	new		10	DERIVED	
+admin_1	KG	KG-O	2020_04_08	total		96	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_08	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_08	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_08	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_08	total		3	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_09	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_09	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_09	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_09	total		9	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_09	new		1	DERIVED	
+admin_1	KG	KG-GB	2020_04_09	total		34	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_09	new		3	DERIVED	
+admin_1	KG	KG-GO	2020_04_09	total		37	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_09	new		5	DERIVED	
+admin_1	KG	KG-J	2020_04_09	total		86	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_09	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_09	total		10	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_09	new		1	DERIVED	
+admin_1	KG	KG-O	2020_04_09	total		97	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_09	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_09	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_09	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_09	total		3	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_10	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_10	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_10	new		8	DERIVED	
+admin_1	KG	KG-C	2020_04_10	total		17	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_10	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_04_10	total		40	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_10	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_10	total		37	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_10	new		3	DERIVED	
+admin_1	KG	KG-J	2020_04_10	total		89	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_10	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_10	total		10	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_10	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_10	total		97	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_10	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_10	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_10	new		1	DERIVED	
+admin_1	KG	KG-Y	2020_04_10	total		4	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_11	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_11	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_11	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_11	total		18	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_11	new		14	DERIVED	
+admin_1	KG	KG-GB	2020_04_11	total		54	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_11	new		5	DERIVED	
+admin_1	KG	KG-GO	2020_04_11	total		42	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_11	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_11	total		89	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_11	new		2	DERIVED	
+admin_1	KG	KG-N	2020_04_11	total		12	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_11	new		19	DERIVED	
+admin_1	KG	KG-O	2020_04_11	total		116	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_11	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_11	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_11	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_11	total		4	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_12	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_12	total		4	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_12	new		3	DERIVED	
+admin_1	KG	KG-C	2020_04_12	total		21	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_12	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_04_12	total		59	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_12	new		12	DERIVED	
+admin_1	KG	KG-GO	2020_04_12	total		54	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_12	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_12	total		89	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_12	new		13	DERIVED	
+admin_1	KG	KG-N	2020_04_12	total		25	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_12	new		3	DERIVED	
+admin_1	KG	KG-O	2020_04_12	total		119	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_12	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_12	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_12	new		2	DERIVED	
+admin_1	KG	KG-Y	2020_04_12	total		6	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_13	new		1	DERIVED	
+admin_1	KG	KG-B	2020_04_13	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_13	new		6	DERIVED	
+admin_1	KG	KG-C	2020_04_13	total		27	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_13	new		10	DERIVED	
+admin_1	KG	KG-GB	2020_04_13	total		69	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_13	new		5	DERIVED	
+admin_1	KG	KG-GO	2020_04_13	total		59	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_13	new		2	DERIVED	
+admin_1	KG	KG-J	2020_04_13	total		91	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_13	new		9	DERIVED	
+admin_1	KG	KG-N	2020_04_13	total		34	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_13	new		9	DERIVED	
+admin_1	KG	KG-O	2020_04_13	total		128	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_13	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_13	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_13	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_13	total		6	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_14	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_14	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_14	total		28	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_14	new		8	DERIVED	
+admin_1	KG	KG-GB	2020_04_14	total		77	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_14	total		59	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_14	new		2	DERIVED	
+admin_1	KG	KG-J	2020_04_14	total		93	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_14	total		34	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_14	total		128	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_14	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_14	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_14	total		6	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_15	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_15	total		28	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_15	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_04_15	total		82	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_15	new		12	DERIVED	
+admin_1	KG	KG-GO	2020_04_15	total		71	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_15	total		93	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_15	total		34	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_15	new		2	DERIVED	
+admin_1	KG	KG-O	2020_04_15	total		130	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_15	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_15	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_15	total		6	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_16	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_16	total		28	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_16	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_04_16	total		87	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_16	total		71	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_16	total		93	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_16	new		11	DERIVED	
+admin_1	KG	KG-N	2020_04_16	total		45	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_16	new		1	DERIVED	
+admin_1	KG	KG-O	2020_04_16	total		131	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_16	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_16	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_16	total		6	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_17	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_17	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_17	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_17	total		28	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_17	new		15	DERIVED	
+admin_1	KG	KG-GB	2020_04_17	total		102	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_17	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_04_17	total		73	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_17	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_17	total		93	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_17	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_17	total		45	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_17	new		4	DERIVED	
+admin_1	KG	KG-O	2020_04_17	total		135	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_17	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_17	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_17	new		2	DERIVED	
+admin_1	KG	KG-Y	2020_04_17	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_18	total		5	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_18	total		28	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_04_18	total		102	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_18	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_18	total		74	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_18	total		93	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_18	new		11	DERIVED	
+admin_1	KG	KG-N	2020_04_18	total		56	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_18	new		5	DERIVED	
+admin_1	KG	KG-O	2020_04_18	total		140	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_18	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_18	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_18	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_19	new		1	DERIVED	
+admin_1	KG	KG-B	2020_04_19	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_19	new		2	DERIVED	
+admin_1	KG	KG-C	2020_04_19	total		30	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_19	new		9	DERIVED	
+admin_1	KG	KG-GB	2020_04_19	total		111	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_19	new		9	DERIVED	
+admin_1	KG	KG-GO	2020_04_19	total		83	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_19	new		9	DERIVED	
+admin_1	KG	KG-J	2020_04_19	total		102	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_19	new		11	DERIVED	
+admin_1	KG	KG-N	2020_04_19	total		67	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_19	new		7	DERIVED	
+admin_1	KG	KG-O	2020_04_19	total		147	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_19	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_19	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_19	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_19	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_20	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_20	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_20	new		2	DERIVED	
+admin_1	KG	KG-C	2020_04_20	total		32	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_20	new		4	DERIVED	
+admin_1	KG	KG-GB	2020_04_20	total		115	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_20	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_04_20	total		87	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_20	new		3	DERIVED	
+admin_1	KG	KG-J	2020_04_20	total		105	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_20	new		1	DERIVED	
+admin_1	KG	KG-N	2020_04_20	total		68	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_20	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_20	total		147	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_20	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_20	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_20	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_20	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_21	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_21	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_21	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_21	total		32	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_21	new		8	DERIVED	
+admin_1	KG	KG-GB	2020_04_21	total		123	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_21	new		6	DERIVED	
+admin_1	KG	KG-GO	2020_04_21	total		93	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_21	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_21	total		105	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_21	new		5	DERIVED	
+admin_1	KG	KG-N	2020_04_21	total		73	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_21	new		3	DERIVED	
+admin_1	KG	KG-O	2020_04_21	total		150	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_21	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_21	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_21	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_21	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_22	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_22	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_22	new		2	DERIVED	
+admin_1	KG	KG-C	2020_04_22	total		34	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_22	new		10	DERIVED	
+admin_1	KG	KG-GB	2020_04_22	total		133	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_22	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_04_22	total		97	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_22	new		4	DERIVED	
+admin_1	KG	KG-J	2020_04_22	total		109	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_22	new		1	DERIVED	
+admin_1	KG	KG-N	2020_04_22	total		74	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_22	new		1	DERIVED	
+admin_1	KG	KG-O	2020_04_22	total		151	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_22	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_22	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_22	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_22	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_23	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_23	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_23	new		4	DERIVED	
+admin_1	KG	KG-C	2020_04_23	total		38	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_23	new		8	DERIVED	
+admin_1	KG	KG-GB	2020_04_23	total		141	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_23	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_04_23	total		101	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_23	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_23	total		109	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_23	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_23	total		74	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_23	new		3	DERIVED	
+admin_1	KG	KG-O	2020_04_23	total		154	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_23	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_23	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_23	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_23	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_24	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_24	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_24	new		4	DERIVED	
+admin_1	KG	KG-C	2020_04_24	total		42	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_24	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_04_24	total		147	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_24	new		3	DERIVED	
+admin_1	KG	KG-GO	2020_04_24	total		104	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_24	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_24	total		109	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_24	new		9	DERIVED	
+admin_1	KG	KG-N	2020_04_24	total		83	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_24	new		3	DERIVED	
+admin_1	KG	KG-O	2020_04_24	total		157	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_24	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_24	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_24	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_24	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_25	total		6	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_25	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_25	total		43	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_25	new		4	DERIVED	
+admin_1	KG	KG-GB	2020_04_25	total		151	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_25	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_04_25	total		108	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_25	total		109	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-N	2020_04_25	total		83	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_25	total		157	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_25	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_25	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_25	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_26	new		2	DERIVED	
+admin_1	KG	KG-B	2020_04_26	total		8	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_26	new		1	DERIVED	
+admin_1	KG	KG-C	2020_04_26	total		44	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_26	new		7	DERIVED	
+admin_1	KG	KG-GB	2020_04_26	total		158	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_26	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_26	total		109	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_26	new		2	DERIVED	
+admin_1	KG	KG-J	2020_04_26	total		111	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_26	new		2	DERIVED	
+admin_1	KG	KG-N	2020_04_26	total		85	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_26	new		2	DERIVED	
+admin_1	KG	KG-O	2020_04_26	total		159	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_26	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_26	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_26	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_26	total		8	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_27	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_27	total		8	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_27	new		2	DERIVED	
+admin_1	KG	KG-C	2020_04_27	total		46	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_27	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_04_27	total		164	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_27	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_27	total		110	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_27	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_27	total		111	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_27	new		1	DERIVED	
+admin_1	KG	KG-N	2020_04_27	total		86	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_27	new		1	DERIVED	
+admin_1	KG	KG-O	2020_04_27	total		160	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_27	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_27	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_27	new		2	DERIVED	
+admin_1	KG	KG-Y	2020_04_27	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_28	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_28	total		8	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_28	new		6	DERIVED	
+admin_1	KG	KG-C	2020_04_28	total		52	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_28	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_04_28	total		167	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_28	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_28	total		110	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_28	new		2	DERIVED	
+admin_1	KG	KG-J	2020_04_28	total		113	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_28	new		2	DERIVED	
+admin_1	KG	KG-N	2020_04_28	total		88	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_28	new		0	DERIVED	
+admin_1	KG	KG-O	2020_04_28	total		160	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_28	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_28	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_28	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_28	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_29	new		1	DERIVED	
+admin_1	KG	KG-B	2020_04_29	total		9	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_29	new		0	DERIVED	
+admin_1	KG	KG-C	2020_04_29	total		52	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_29	new		13	DERIVED	
+admin_1	KG	KG-GB	2020_04_29	total		180	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_29	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_04_29	total		110	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_29	new		0	DERIVED	
+admin_1	KG	KG-J	2020_04_29	total		113	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_29	new		6	DERIVED	
+admin_1	KG	KG-N	2020_04_29	total		94	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_29	new		1	DERIVED	
+admin_1	KG	KG-O	2020_04_29	total		161	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_29	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_29	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_29	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_29	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_04_30	new		0	DERIVED	
+admin_1	KG	KG-B	2020_04_30	total		9	https://covid.kg/	
+admin_1	KG	KG-C	2020_04_30	new		9	DERIVED	
+admin_1	KG	KG-C	2020_04_30	total		61	https://covid.kg/	
+admin_1	KG	KG-GB	2020_04_30	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_04_30	total		183	https://covid.kg/	
+admin_1	KG	KG-GO	2020_04_30	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_04_30	total		111	https://covid.kg/	
+admin_1	KG	KG-J	2020_04_30	new		1	DERIVED	
+admin_1	KG	KG-J	2020_04_30	total		114	https://covid.kg/	
+admin_1	KG	KG-N	2020_04_30	new		1	DERIVED	
+admin_1	KG	KG-N	2020_04_30	total		95	https://covid.kg/	
+admin_1	KG	KG-O	2020_04_30	new		2	DERIVED	
+admin_1	KG	KG-O	2020_04_30	total		163	https://covid.kg/	
+admin_1	KG	KG-T	2020_04_30	new		0	DERIVED	
+admin_1	KG	KG-T	2020_04_30	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_04_30	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_04_30	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_01	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_01	total		10	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_01	new		0	DERIVED	
+admin_1	KG	KG-C	2020_05_01	total		61	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_01	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_05_01	total		188	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_01	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_01	total		111	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_01	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_01	total		114	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_01	new		1	DERIVED	
+admin_1	KG	KG-N	2020_05_01	total		96	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_01	new		3	DERIVED	
+admin_1	KG	KG-O	2020_05_01	total		166	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_01	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_01	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_01	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_01	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_02	new		2	DERIVED	
+admin_1	KG	KG-B	2020_05_02	total		12	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_02	new		0	DERIVED	
+admin_1	KG	KG-C	2020_05_02	total		61	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_02	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_05_02	total		191	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_02	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_05_02	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_02	new		4	DERIVED	
+admin_1	KG	KG-J	2020_05_02	total		118	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_02	new		1	DERIVED	
+admin_1	KG	KG-N	2020_05_02	total		97	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_02	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_02	total		167	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_02	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_02	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_02	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_02	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_03	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_03	total		13	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_03	new		9	DERIVED	
+admin_1	KG	KG-C	2020_05_03	total		70	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_03	new		14	DERIVED	
+admin_1	KG	KG-GB	2020_05_03	total		205	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_03	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_03	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_03	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_03	total		118	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_03	new		0	DERIVED	
+admin_1	KG	KG-N	2020_05_03	total		97	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_03	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_03	total		169	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_03	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_03	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_03	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_03	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_04	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_04	total		14	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_04	new		2	DERIVED	
+admin_1	KG	KG-C	2020_05_04	total		72	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_04	new		26	DERIVED	
+admin_1	KG	KG-GB	2020_05_04	total		231	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_04	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_04	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_04	new		5	DERIVED	
+admin_1	KG	KG-J	2020_05_04	total		123	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_04	new		1	DERIVED	
+admin_1	KG	KG-N	2020_05_04	total		98	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_04	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_04	total		169	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_04	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_04	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_04	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_04	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_05	total		14	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-C	2020_05_05	total		72	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_05	new		8	DERIVED	
+admin_1	KG	KG-GB	2020_05_05	total		239	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_05	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_05	total		123	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_05	new		5	DERIVED	
+admin_1	KG	KG-N	2020_05_05	total		103	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_05	total		169	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_05	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_05	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_05	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_06	new		4	DERIVED	
+admin_1	KG	KG-B	2020_05_06	total		18	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_06	new		2	DERIVED	
+admin_1	KG	KG-C	2020_05_06	total		74	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_06	new		16	DERIVED	
+admin_1	KG	KG-GB	2020_05_06	total		255	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_06	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_06	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_06	new		6	DERIVED	
+admin_1	KG	KG-J	2020_05_06	total		129	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_06	new		0	DERIVED	
+admin_1	KG	KG-N	2020_05_06	total		103	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_06	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_06	total		169	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_06	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_06	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_06	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_06	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_07	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_07	total		18	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_07	new		4	DERIVED	
+admin_1	KG	KG-C	2020_05_07	total		78	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_07	new		2	DERIVED	
+admin_1	KG	KG-GB	2020_05_07	total		257	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_07	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_07	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_07	new		3	DERIVED	
+admin_1	KG	KG-J	2020_05_07	total		132	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_07	new		12	DERIVED	
+admin_1	KG	KG-N	2020_05_07	total		115	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_07	new		3	DERIVED	
+admin_1	KG	KG-O	2020_05_07	total		172	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_07	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_07	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_07	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_07	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_08	total		18	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_08	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_08	total		81	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_08	new		5	DERIVED	
+admin_1	KG	KG-GB	2020_05_08	total		262	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_08	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_08	new		3	DERIVED	
+admin_1	KG	KG-J	2020_05_08	total		135	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-N	2020_05_08	total		115	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_08	total		172	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_08	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_08	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_08	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_09	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_09	total		19	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_09	new		4	DERIVED	
+admin_1	KG	KG-C	2020_05_09	total		85	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_09	new		2	DERIVED	
+admin_1	KG	KG-GB	2020_05_09	total		264	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_09	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_09	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_09	new		4	DERIVED	
+admin_1	KG	KG-J	2020_05_09	total		139	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_09	new		11	DERIVED	
+admin_1	KG	KG-N	2020_05_09	total		126	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_09	new		3	DERIVED	
+admin_1	KG	KG-O	2020_05_09	total		175	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_09	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_09	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_09	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_09	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_10	new		4	DERIVED	
+admin_1	KG	KG-B	2020_05_10	total		23	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_10	new		56	DERIVED	
+admin_1	KG	KG-C	2020_05_10	total		141	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_10	new		2	DERIVED	
+admin_1	KG	KG-GB	2020_05_10	total		266	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_10	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_10	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_10	new		5	DERIVED	
+admin_1	KG	KG-J	2020_05_10	total		144	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_10	new		1	DERIVED	
+admin_1	KG	KG-N	2020_05_10	total		127	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_10	new		3	DERIVED	
+admin_1	KG	KG-O	2020_05_10	total		178	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_10	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_10	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_10	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_10	total		10	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_11	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_11	total		24	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_11	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_11	total		142	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_11	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_05_11	total		272	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_11	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_11	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_11	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_11	total		144	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_11	new		2	DERIVED	
+admin_1	KG	KG-N	2020_05_11	total		129	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_11	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_11	total		180	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_11	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_11	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_11	new		2	DERIVED	
+admin_1	KG	KG-Y	2020_05_11	total		12	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_12	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_12	total		24	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_12	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_12	total		143	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_12	new		10	DERIVED	
+admin_1	KG	KG-GB	2020_05_12	total		282	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_12	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_12	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_12	new		3	DERIVED	
+admin_1	KG	KG-J	2020_05_12	total		147	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_12	new		7	DERIVED	
+admin_1	KG	KG-N	2020_05_12	total		136	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_12	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_12	total		180	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_12	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_12	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_12	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_12	total		12	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_13	total		24	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_13	new		5	DERIVED	
+admin_1	KG	KG-C	2020_05_13	total		148	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-GB	2020_05_13	total		282	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_13	total		113	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_13	total		147	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_13	new		1	DERIVED	
+admin_1	KG	KG-N	2020_05_13	total		137	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_13	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_13	total		181	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_13	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_13	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_13	total		12	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_14	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_14	total		24	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_14	new		4	DERIVED	
+admin_1	KG	KG-C	2020_05_14	total		152	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_14	new		14	DERIVED	
+admin_1	KG	KG-GB	2020_05_14	total		296	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_14	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_05_14	total		114	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_14	new		4	DERIVED	
+admin_1	KG	KG-J	2020_05_14	total		151	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_14	new		15	DERIVED	
+admin_1	KG	KG-N	2020_05_14	total		152	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_14	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_14	total		181	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_14	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_14	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_14	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_14	total		12	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_15	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_15	total		24	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_15	new		4	DERIVED	
+admin_1	KG	KG-C	2020_05_15	total		156	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_15	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_05_15	total		302	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_15	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_05_15	total		118	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_15	new		2	DERIVED	
+admin_1	KG	KG-J	2020_05_15	total		153	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_15	new		11	DERIVED	
+admin_1	KG	KG-N	2020_05_15	total		163	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_15	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_15	total		182	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_15	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_15	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_15	new		1	DERIVED	
+admin_1	KG	KG-Y	2020_05_15	total		13	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_16	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_16	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_16	new		0	DERIVED	
+admin_1	KG	KG-C	2020_05_16	total		156	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_16	new		3	DERIVED	
+admin_1	KG	KG-GB	2020_05_16	total		305	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_16	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_05_16	total		119	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_16	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_16	total		153	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_16	new		0	DERIVED	
+admin_1	KG	KG-N	2020_05_16	total		163	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_16	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_16	total		183	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_16	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_16	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_16	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_16	total		13	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_17	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_17	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_17	total		159	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_17	new		12	DERIVED	
+admin_1	KG	KG-GB	2020_05_17	total		317	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_17	total		119	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_17	total		153	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_17	new		6	DERIVED	
+admin_1	KG	KG-N	2020_05_17	total		169	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_17	total		183	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_17	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_17	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_17	total		13	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_18	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_18	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_18	new		46	DERIVED	
+admin_1	KG	KG-C	2020_05_18	total		205	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_18	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_05_18	total		323	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_18	new		5	DERIVED	
+admin_1	KG	KG-GO	2020_05_18	total		124	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_18	new		1	DERIVED	
+admin_1	KG	KG-J	2020_05_18	total		154	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_18	new		14	DERIVED	
+admin_1	KG	KG-N	2020_05_18	total		183	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_18	new		6	DERIVED	
+admin_1	KG	KG-O	2020_05_18	total		189	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_18	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_18	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_18	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_18	total		13	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_19	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_19	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_19	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_19	total		208	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_19	new		7	DERIVED	
+admin_1	KG	KG-GB	2020_05_19	total		330	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_19	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_19	total		124	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_19	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_19	total		154	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_19	new		11	DERIVED	
+admin_1	KG	KG-N	2020_05_19	total		194	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_19	new		6	DERIVED	
+admin_1	KG	KG-O	2020_05_19	total		195	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_19	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_19	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_19	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_19	total		13	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_20	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_20	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_20	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_20	total		209	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_20	new		4	DERIVED	
+admin_1	KG	KG-GB	2020_05_20	total		334	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_20	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_20	total		124	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_20	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_20	total		154	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_20	new		19	DERIVED	
+admin_1	KG	KG-N	2020_05_20	total		213	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_20	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_20	total		197	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_20	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_20	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_20	new		1	DERIVED	
+admin_1	KG	KG-Y	2020_05_20	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_21	new		2	DERIVED	
+admin_1	KG	KG-B	2020_05_21	total		27	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_21	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_21	total		210	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_21	new		23	DERIVED	
+admin_1	KG	KG-GB	2020_05_21	total		357	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_21	new		5	DERIVED	
+admin_1	KG	KG-GO	2020_05_21	total		129	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_21	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_21	total		154	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_21	new		8	DERIVED	
+admin_1	KG	KG-N	2020_05_21	total		221	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_21	new		4	DERIVED	
+admin_1	KG	KG-O	2020_05_21	total		201	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_21	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_21	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_21	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_21	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_22	new		-2	DERIVED	
+admin_1	KG	KG-B	2020_05_22	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_22	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_22	total		213	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_22	new		9	DERIVED	
+admin_1	KG	KG-GB	2020_05_22	total		366	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_22	new		3	DERIVED	
+admin_1	KG	KG-GO	2020_05_22	total		132	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_22	new		1	DERIVED	
+admin_1	KG	KG-J	2020_05_22	total		155	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_22	new		21	DERIVED	
+admin_1	KG	KG-N	2020_05_22	total		242	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_22	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_22	total		203	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_22	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_22	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_22	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_22	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_23	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_23	total		25	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_23	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_23	total		214	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_23	new		12	DERIVED	
+admin_1	KG	KG-GB	2020_05_23	total		378	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_23	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_23	total		132	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_23	new		1	DERIVED	
+admin_1	KG	KG-J	2020_05_23	total		156	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_23	new		0	DERIVED	
+admin_1	KG	KG-N	2020_05_23	total		242	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_23	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_23	total		204	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_23	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_23	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_23	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_23	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_24	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_24	total		26	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_24	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_24	total		217	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_24	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_05_24	total		384	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_24	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_24	total		132	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_24	new		1	DERIVED	
+admin_1	KG	KG-J	2020_05_24	total		157	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_24	new		25	DERIVED	
+admin_1	KG	KG-N	2020_05_24	total		267	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_24	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_24	total		206	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_24	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_24	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_24	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_24	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_25	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_25	total		27	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_25	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_25	total		218	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_25	new		17	DERIVED	
+admin_1	KG	KG-GB	2020_05_25	total		401	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_25	new		3	DERIVED	
+admin_1	KG	KG-GO	2020_05_25	total		135	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_25	new		2	DERIVED	
+admin_1	KG	KG-J	2020_05_25	total		159	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_25	new		5	DERIVED	
+admin_1	KG	KG-N	2020_05_25	total		272	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_25	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_25	total		207	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_25	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_25	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_25	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_25	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_26	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_26	total		27	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_26	new		7	DERIVED	
+admin_1	KG	KG-C	2020_05_26	total		225	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_26	new		16	DERIVED	
+admin_1	KG	KG-GB	2020_05_26	total		417	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_26	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_26	total		135	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_26	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_26	total		159	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_26	new		8	DERIVED	
+admin_1	KG	KG-N	2020_05_26	total		280	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_26	new		4	DERIVED	
+admin_1	KG	KG-O	2020_05_26	total		211	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_26	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_26	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_26	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_26	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_27	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_27	total		28	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_27	new		11	DERIVED	
+admin_1	KG	KG-C	2020_05_27	total		236	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_27	new		11	DERIVED	
+admin_1	KG	KG-GB	2020_05_27	total		428	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_27	new		7	DERIVED	
+admin_1	KG	KG-GO	2020_05_27	total		142	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_27	new		3	DERIVED	
+admin_1	KG	KG-J	2020_05_27	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_27	new		17	DERIVED	
+admin_1	KG	KG-N	2020_05_27	total		297	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_27	new		2	DERIVED	
+admin_1	KG	KG-O	2020_05_27	total		213	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_27	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_27	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_27	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_27	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_28	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_28	total		28	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_28	new		1	DERIVED	
+admin_1	KG	KG-C	2020_05_28	total		237	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_28	new		21	DERIVED	
+admin_1	KG	KG-GB	2020_05_28	total		449	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_28	new		35	DERIVED	
+admin_1	KG	KG-GO	2020_05_28	total		177	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_28	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_28	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_28	new		13	DERIVED	
+admin_1	KG	KG-N	2020_05_28	total		310	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_28	new		4	DERIVED	
+admin_1	KG	KG-O	2020_05_28	total		217	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_28	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_28	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_28	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_28	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_29	new		1	DERIVED	
+admin_1	KG	KG-B	2020_05_29	total		29	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_29	new		26	DERIVED	
+admin_1	KG	KG-C	2020_05_29	total		263	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_29	new		35	DERIVED	
+admin_1	KG	KG-GB	2020_05_29	total		484	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_29	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_05_29	total		179	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_29	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_29	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_29	new		4	DERIVED	
+admin_1	KG	KG-N	2020_05_29	total		314	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_29	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_29	total		217	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_29	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_29	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_29	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_29	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_30	total		29	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_30	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_30	total		266	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_30	new		25	DERIVED	
+admin_1	KG	KG-GB	2020_05_30	total		509	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_05_30	total		179	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_30	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_30	new		32	DERIVED	
+admin_1	KG	KG-N	2020_05_30	total		346	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-O	2020_05_30	total		217	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_30	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_30	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_30	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_05_31	new		0	DERIVED	
+admin_1	KG	KG-B	2020_05_31	total		29	https://covid.kg/	
+admin_1	KG	KG-C	2020_05_31	new		3	DERIVED	
+admin_1	KG	KG-C	2020_05_31	total		269	https://covid.kg/	
+admin_1	KG	KG-GB	2020_05_31	new		7	DERIVED	
+admin_1	KG	KG-GB	2020_05_31	total		516	https://covid.kg/	
+admin_1	KG	KG-GO	2020_05_31	new		3	DERIVED	
+admin_1	KG	KG-GO	2020_05_31	total		182	https://covid.kg/	
+admin_1	KG	KG-J	2020_05_31	new		0	DERIVED	
+admin_1	KG	KG-J	2020_05_31	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_05_31	new		12	DERIVED	
+admin_1	KG	KG-N	2020_05_31	total		358	https://covid.kg/	
+admin_1	KG	KG-O	2020_05_31	new		1	DERIVED	
+admin_1	KG	KG-O	2020_05_31	total		218	https://covid.kg/	
+admin_1	KG	KG-T	2020_05_31	new		0	DERIVED	
+admin_1	KG	KG-T	2020_05_31	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_05_31	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_05_31	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_01	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_01	total		29	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_01	new		6	DERIVED	
+admin_1	KG	KG-C	2020_06_01	total		275	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_01	new		39	DERIVED	
+admin_1	KG	KG-GB	2020_06_01	total		555	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_01	new		9	DERIVED	
+admin_1	KG	KG-GO	2020_06_01	total		191	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_01	new		0	DERIVED	
+admin_1	KG	KG-J	2020_06_01	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_01	new		14	DERIVED	
+admin_1	KG	KG-N	2020_06_01	total		372	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_01	new		1	DERIVED	
+admin_1	KG	KG-O	2020_06_01	total		219	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_01	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_01	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_01	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_01	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_02	total		29	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-C	2020_06_02	total		275	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_02	new		11	DERIVED	
+admin_1	KG	KG-GB	2020_06_02	total		566	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_02	new		16	DERIVED	
+admin_1	KG	KG-GO	2020_06_02	total		207	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-J	2020_06_02	total		162	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_02	new		1	DERIVED	
+admin_1	KG	KG-N	2020_06_02	total		373	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-O	2020_06_02	total		219	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_02	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_02	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_02	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_03	new		1	DERIVED	
+admin_1	KG	KG-B	2020_06_03	total		30	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_03	new		0	DERIVED	
+admin_1	KG	KG-C	2020_06_03	total		275	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_03	new		16	DERIVED	
+admin_1	KG	KG-GB	2020_06_03	total		582	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_03	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_06_03	total		207	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_03	new		1	DERIVED	
+admin_1	KG	KG-J	2020_06_03	total		163	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_03	new		7	DERIVED	
+admin_1	KG	KG-N	2020_06_03	total		380	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_03	new		1	DERIVED	
+admin_1	KG	KG-O	2020_06_03	total		220	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_03	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_03	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_03	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_03	total		14	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_04	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_04	total		30	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_04	new		1	DERIVED	
+admin_1	KG	KG-C	2020_06_04	total		276	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_04	new		15	DERIVED	
+admin_1	KG	KG-GB	2020_06_04	total		597	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_04	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_06_04	total		211	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_04	new		0	DERIVED	
+admin_1	KG	KG-J	2020_06_04	total		163	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_04	new		1	DERIVED	
+admin_1	KG	KG-N	2020_06_04	total		381	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_04	new		6	DERIVED	
+admin_1	KG	KG-O	2020_06_04	total		226	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_04	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_04	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_04	new		1	DERIVED	
+admin_1	KG	KG-Y	2020_06_04	total		15	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_05	new		1	DERIVED	
+admin_1	KG	KG-B	2020_06_05	total		31	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_05	new		7	DERIVED	
+admin_1	KG	KG-C	2020_06_05	total		283	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_05	new		14	DERIVED	
+admin_1	KG	KG-GB	2020_06_05	total		611	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_05	new		1	DERIVED	
+admin_1	KG	KG-GO	2020_06_05	total		212	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_05	new		0	DERIVED	
+admin_1	KG	KG-J	2020_06_05	total		163	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_05	new		6	DERIVED	
+admin_1	KG	KG-N	2020_06_05	total		387	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_05	new		5	DERIVED	
+admin_1	KG	KG-O	2020_06_05	total		231	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_05	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_05	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_05	new		3	DERIVED	
+admin_1	KG	KG-Y	2020_06_05	total		18	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_06	new		1	DERIVED	
+admin_1	KG	KG-B	2020_06_06	total		32	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_06	new		8	DERIVED	
+admin_1	KG	KG-C	2020_06_06	total		291	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_06	new		11	DERIVED	
+admin_1	KG	KG-GB	2020_06_06	total		622	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_06	new		11	DERIVED	
+admin_1	KG	KG-GO	2020_06_06	total		223	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_06	new		2	DERIVED	
+admin_1	KG	KG-J	2020_06_06	total		165	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_06	new		3	DERIVED	
+admin_1	KG	KG-N	2020_06_06	total		390	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_06	new		2	DERIVED	
+admin_1	KG	KG-O	2020_06_06	total		233	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_06	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_06	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_06	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_06	total		18	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_07	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_07	total		32	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_07	new		3	DERIVED	
+admin_1	KG	KG-C	2020_06_07	total		294	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_07	new		9	DERIVED	
+admin_1	KG	KG-GB	2020_06_07	total		631	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_07	new		9	DERIVED	
+admin_1	KG	KG-GO	2020_06_07	total		232	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_07	new		1	DERIVED	
+admin_1	KG	KG-J	2020_06_07	total		166	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_07	new		8	DERIVED	
+admin_1	KG	KG-N	2020_06_07	total		398	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_07	new		3	DERIVED	
+admin_1	KG	KG-O	2020_06_07	total		236	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_07	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_07	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_07	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_07	total		18	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_08	total		32	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_08	new		7	DERIVED	
+admin_1	KG	KG-C	2020_06_08	total		301	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_08	new		18	DERIVED	
+admin_1	KG	KG-GB	2020_06_08	total		649	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-GO	2020_06_08	total		232	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-J	2020_06_08	total		166	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-N	2020_06_08	total		398	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-O	2020_06_08	total		236	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_08	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_08	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_08	total		18	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_09	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_09	total		32	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_09	new		2	DERIVED	
+admin_1	KG	KG-C	2020_06_09	total		303	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_09	new		6	DERIVED	
+admin_1	KG	KG-GB	2020_06_09	total		655	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_09	new		4	DERIVED	
+admin_1	KG	KG-GO	2020_06_09	total		236	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_09	new		3	DERIVED	
+admin_1	KG	KG-J	2020_06_09	total		169	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_09	new		1	DERIVED	
+admin_1	KG	KG-N	2020_06_09	total		399	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_09	new		3	DERIVED	
+admin_1	KG	KG-O	2020_06_09	total		239	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_09	new		0	DERIVED	
+admin_1	KG	KG-T	2020_06_09	total		0	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_09	new		4	DERIVED	
+admin_1	KG	KG-Y	2020_06_09	total		22	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_10	new		0	DERIVED	
+admin_1	KG	KG-B	2020_06_10	total		32	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_10	new		6	DERIVED	
+admin_1	KG	KG-C	2020_06_10	total		309	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_10	new		19	DERIVED	
+admin_1	KG	KG-GB	2020_06_10	total		674	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_10	new		6	DERIVED	
+admin_1	KG	KG-GO	2020_06_10	total		242	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_10	new		2	DERIVED	
+admin_1	KG	KG-J	2020_06_10	total		171	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_10	new		1	DERIVED	
+admin_1	KG	KG-N	2020_06_10	total		400	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_10	new		3	DERIVED	
+admin_1	KG	KG-O	2020_06_10	total		242	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_10	new		1	DERIVED	
+admin_1	KG	KG-T	2020_06_10	total		1	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_10	new		0	DERIVED	
+admin_1	KG	KG-Y	2020_06_10	total		22	https://covid.kg/	
+admin_1	KG	KG-B	2020_06_11	new		1	DERIVED	
+admin_1	KG	KG-B	2020_06_11	total		33	https://covid.kg/	
+admin_1	KG	KG-C	2020_06_11	new		3	DERIVED	
+admin_1	KG	KG-C	2020_06_11	total		312	https://covid.kg/	
+admin_1	KG	KG-GB	2020_06_11	new		17	DERIVED	
+admin_1	KG	KG-GB	2020_06_11	total		691	https://covid.kg/	
+admin_1	KG	KG-GO	2020_06_11	new		2	DERIVED	
+admin_1	KG	KG-GO	2020_06_11	total		244	https://covid.kg/	
+admin_1	KG	KG-J	2020_06_11	new		3	DERIVED	
+admin_1	KG	KG-J	2020_06_11	total		174	https://covid.kg/	
+admin_1	KG	KG-N	2020_06_11	new		1	DERIVED	
+admin_1	KG	KG-N	2020_06_11	total		401	https://covid.kg/	
+admin_1	KG	KG-O	2020_06_11	new		4	DERIVED	
+admin_1	KG	KG-O	2020_06_11	total		246	https://covid.kg/	
+admin_1	KG	KG-T	2020_06_11	new		2	DERIVED	
+admin_1	KG	KG-T	2020_06_11	total		3	https://covid.kg/	
+admin_1	KG	KG-Y	2020_06_11	new		3	DERIVED	
+admin_1	KG	KG-Y	2020_06_11	total		25	https://covid.kg/	

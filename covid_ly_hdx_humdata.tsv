@@ -1,172 +1,551 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	Libya	Benghazi	total		4	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_active		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_active		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	total		4	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_active		4	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		68	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		4	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		37	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		27	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	total		64	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_deaths		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_active		63	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_active		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	total		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_active		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	total		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_active		1	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Al Mahruqah	total		3	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Al Mahruqah	status_deaths		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Al Mahruqah	status_recovered		0	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Al Mahruqah	status_active		3	01/06/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_active		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_active		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	total		4	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_active		4	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		59	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		4	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		26	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		29	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	total		25	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_deaths		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_active		24	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_active		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	total		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_active		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	total		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_deaths		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_recovered		0	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sabratha	status_active		1	28/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		56	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		25	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		28	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	total		20	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_deaths		1	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_active		19	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	total		1	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_active		1	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	total		3	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_active		3	27/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		56	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		25	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		28	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	total		2	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-SB	status_active		2	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	total		1	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-ZA	status_active		1	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	total		3	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Zliten	status_active		3	26/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		50	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		20	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		27	19/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		49	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		13	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		33	12/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		49	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		9	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		37	07/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_recovered		1	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		48	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		9	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		36	06/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_active		1	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		48	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		9	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		36	05/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_active		1	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		48	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		8	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		37	03/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	total		4	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Benghazi	status_recovered		4	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	total		10	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	LY	LY-MI	status_recovered		10	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	total		1	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Sorman	status_active		1	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	total		46	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_deaths		3	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_recovered		4	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
-admin_1	Libya	Tripoli	status_active		39	01/05/2020	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	LY	LY-BA	2020_05_01	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_01	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_01	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_01	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_01	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_01	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_01	status_active		39	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_01	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_01	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_01	total		46	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_03	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_03	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_03	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_03	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_03	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_03	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_03	status_active		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_03	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_03	status_recovered		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_03	total		48	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_05	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_05	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_05	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_05	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_05	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_05	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_05	status_active		36	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_05	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_05	status_recovered		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_05	total		48	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_06	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_06	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_06	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_06	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_06	new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_06	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_06	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_06	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_06	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_06	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_06	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_06	new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_06	status_active		36	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_06	status_active_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_06	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_06	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_06	status_recovered		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_06	status_recovered_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_06	total		48	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_07	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_07	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_07	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_07	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_07	new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_07	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_07	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_07	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_07	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_07	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_07	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_07	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_07	new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_05_07	status_active		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_07	status_active_new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_05_07	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_07	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_07	status_recovered		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_07	status_recovered_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_07	total		49	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_12	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_12	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_12	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_12	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_12	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_12	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_12	status_active		33	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_12	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_12	status_recovered		13	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_12	total		49	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_19	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_19	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_19	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_19	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_19	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_19	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_19	status_active		27	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_19	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_19	status_recovered		20	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_19	total		50	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_26	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_26	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_26	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_26	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_26	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_26	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_26	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_26	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_26	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_26	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_26	status_active		28	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_26	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_26	status_recovered		25	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_26	total		56	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_26	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_26	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_27	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_27	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_27	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_27	new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_27	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_27	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_27	new		18	DERIVED	
+admin_1	LY	LY-SB	2020_05_27	status_active		19	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_27	status_active_new		17	DERIVED	
+admin_1	LY	LY-SB	2020_05_27	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_27	total		20	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_27	new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_05_27	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_27	status_active_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_05_27	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_27	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_27	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_27	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_27	new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_27	status_active		28	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_27	status_active_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_27	status_deaths		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_27	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_27	status_recovered		25	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_27	status_recovered_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_05_27	total		56	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_27	new		0	DERIVED	
+admin_1	Libya	Zliten	2020_05_27	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_27	status_active_new		0	DERIVED	
+admin_1	Libya	Zliten	2020_05_27	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_28	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_28	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_28	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_05_28	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_28	new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_28	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_28	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_05_28	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_28	new		5	DERIVED	
+admin_1	LY	LY-SB	2020_05_28	status_active		24	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_28	status_active_new		5	DERIVED	
+admin_1	LY	LY-SB	2020_05_28	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-SB	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_05_28	total		25	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_28	new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_05_28	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_28	status_active_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_05_28	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_05_28	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_05_28	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_28	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_28	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_28	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_05_28	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_28	new		3	DERIVED	
+admin_1	Libya	Tripoli	2020_05_28	status_active		29	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_28	status_active_new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_05_28	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_28	status_deaths_new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_05_28	status_recovered		26	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_05_28	status_recovered_new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_05_28	total		59	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_28	new		1	DERIVED	
+admin_1	Libya	Zliten	2020_05_28	status_active		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_28	status_active_new		1	DERIVED	
+admin_1	Libya	Zliten	2020_05_28	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_28	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_05_28	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_01	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_01	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_01	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_01	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_01	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_01	total		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_01	status_active		63	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_01	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_01	total		64	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_01	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_01	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_01	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_01	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_01	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_01	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_01	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_01	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_01	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_01	status_active		27	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_01	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_01	status_recovered		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_01	total		68	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_01	status_active		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_01	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_01	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_01	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_02	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_02	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_02	status_active_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_02	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_02	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_02	new		2	DERIVED	
+admin_1	LY	LY-MI	2020_06_02	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_02	status_active_new		2	DERIVED	
+admin_1	LY	LY-MI	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_02	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_02	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_02	new		20	DERIVED	
+admin_1	LY	LY-SB	2020_06_02	status_active		83	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_02	status_active_new		20	DERIVED	
+admin_1	LY	LY-SB	2020_06_02	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-SB	2020_06_02	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-SB	2020_06_02	total		84	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_02	new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_02	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_02	status_active_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_02	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_02	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_02	new		2	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_active		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_active_new		2	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_02	total		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_02	new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_02	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_02	status_active_new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_02	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_02	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_02	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_02	status_active		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_02	status_active_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_02	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_02	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_02	new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_06_02	status_active		28	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_02	status_active_new		1	DERIVED	
+admin_1	Libya	Tripoli	2020_06_02	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_06_02	status_recovered		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_06_02	total		69	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_02	new		1	DERIVED	
+admin_1	Libya	Zliten	2020_06_02	status_active		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_02	status_active_new		1	DERIVED	
+admin_1	Libya	Zliten	2020_06_02	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_02	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_02	total		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_04	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_04	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_04	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_04	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_04	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_04	status_active		83	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_04	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_04	total		84	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_04	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_04	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_04	status_active		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_04	total		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_04	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_04	total		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_04	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_04	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_04	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_04	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_04	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_04	status_active		29	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_04	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_04	status_recovered		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_04	total		70	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_04	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_04	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_04	status_active		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_04	total		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_05	new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_05	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_05	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_05	new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_05	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_05	status_active_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_05	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_05	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_05	new		7	DERIVED	
+admin_1	LY	LY-SB	2020_06_05	status_active		90	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_05	status_active_new		7	DERIVED	
+admin_1	LY	LY-SB	2020_06_05	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-SB	2020_06_05	total		91	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_05	new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_05	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_05	status_active_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_05	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_05	new		3	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_05	status_active		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_05	status_active_new		3	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_05	total		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_05	new		0	DERIVED	
+admin_1	Libya	Gharyan	2020_06_05	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_05	status_active_new		0	DERIVED	
+admin_1	Libya	Gharyan	2020_06_05	total		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_05	new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_05	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_05	status_active_new		0	DERIVED	
+admin_1	Libya	Sabratha	2020_06_05	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_05	new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_05	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_05	status_active_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_05	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_05	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_05	new		3	DERIVED	
+admin_1	Libya	Tripoli	2020_06_05	status_active		32	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_05	status_active_new		3	DERIVED	
+admin_1	Libya	Tripoli	2020_06_05	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_06_05	status_recovered		37	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_06_05	total		73	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_05	new		0	DERIVED	
+admin_1	Libya	Xanthan	2020_06_05	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_05	status_active_new		0	DERIVED	
+admin_1	Libya	Xanthan	2020_06_05	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_05	new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_05	status_active		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_05	status_active_new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_05	total		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_08	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_08	total		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_08	status_active		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_08	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_08	total		17	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_08	status_active		124	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_08	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_08	total		125	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_08	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_08	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_08	status_active		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_08	total		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_08	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_08	total		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_08	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_08	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_08	status_active		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_08	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_08	total		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_08	status_active		48	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_08	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_08	status_recovered		38	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_08	total		90	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_08	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_08	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_08	status_active		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_08	total		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_09	new		1	DERIVED	
+admin_1	LY	LY-BA	2020_06_09	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_09	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-BA	2020_06_09	total		5	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_09	new		2	DERIVED	
+admin_1	LY	LY-MI	2020_06_09	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_09	status_active_new		2	DERIVED	
+admin_1	LY	LY-MI	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_09	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	LY	LY-MI	2020_06_09	total		19	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_09	new		17	DERIVED	
+admin_1	LY	LY-SB	2020_06_09	status_active		141	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_09	status_active_new		17	DERIVED	
+admin_1	LY	LY-SB	2020_06_09	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	LY	LY-SB	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_09	total		142	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_09	new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_09	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_09	status_active_new		0	DERIVED	
+admin_1	LY	LY-ZA	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_09	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_09	new		0	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_09	status_active		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_09	status_active_new		0	DERIVED	
+admin_1	Libya	Al Mahruqah	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_09	total		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_09	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_09	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_09	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_09	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_09	new		0	DERIVED	
+admin_1	Libya	Gharyan	2020_06_09	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_09	status_active_new		0	DERIVED	
+admin_1	Libya	Gharyan	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_09	total		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_09	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_09	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_09	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_09	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_09	new		9	DERIVED	
+admin_1	Libya	Sabratha	2020_06_09	status_active		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_09	status_active_new		9	DERIVED	
+admin_1	Libya	Sabratha	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_09	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_09	new		7	DERIVED	
+admin_1	Libya	Sorman	2020_06_09	status_active		11	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_09	status_active_new		7	DERIVED	
+admin_1	Libya	Sorman	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_09	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	Libya	Sorman	2020_06_09	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_09	new		18	DERIVED	
+admin_1	Libya	Tripoli	2020_06_09	status_active		62	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_09	status_active_new		14	DERIVED	
+admin_1	Libya	Tripoli	2020_06_09	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Libya	Tripoli	2020_06_09	status_recovered		42	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_09	status_recovered_new		4	DERIVED	
+admin_1	Libya	Tripoli	2020_06_09	total		108	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_09	new		0	DERIVED	
+admin_1	Libya	Xanthan	2020_06_09	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_09	status_active_new		0	DERIVED	
+admin_1	Libya	Xanthan	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_09	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_09	new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_09	status_active		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_09	status_active_new		0	DERIVED	
+admin_1	Libya	Zliten	2020_06_09	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_09	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_09	total		7	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_11	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_11	status_recovered		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-BA	2020_06_11	total		6	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_11	status_active		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_11	status_recovered		10	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-MI	2020_06_11	total		19	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_11	status_active		167	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_11	status_deaths		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-SB	2020_06_11	total		168	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_11	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	LY	LY-ZA	2020_06_11	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_11	status_active		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al Mahruqah	2020_06_11	total		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_11	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Al-Jafara	2020_06_11	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_11	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Ghadames	2020_06_11	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_11	status_active		13	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Gharyan	2020_06_11	total		13	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_11	status_active		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Khoms	2020_06_11	total		3	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_11	status_active		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Riqdalin	2020_06_11	total		2	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_11	status_active		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sabratha	2020_06_11	total		12	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_11	status_active		13	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_11	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Sorman	2020_06_11	total		14	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_11	status_active		70	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_11	status_deaths		4	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_11	status_recovered		43	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Tripoli	2020_06_11	total		117	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_11	status_active		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_11	status_recovered		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Xanthan	2020_06_11	total		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_11	status_active		8	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_11	status_deaths		0	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_11	status_recovered		1	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	
+admin_1	Libya	Zliten	2020_06_11	total		9	https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases	

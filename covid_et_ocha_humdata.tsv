@@ -1,83 +1,109 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	ET	ET-AA	total		172	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		125	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		20	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		9	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		7	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		17	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SN	total		5	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		25	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-TI	total		7	13/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	total		107	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		60	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		9	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		7	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		5	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		13	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SN	total		1	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		17	06/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	total		102	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		55	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		1	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		6	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		4	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		11	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SN	total		1	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		6	04/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	total		101	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		54	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		1	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		6	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		4	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		11	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		4	01/05/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	total		101	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		54	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		1	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		5	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		3	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		11	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		4	30/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	total		101	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_deaths		3	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_recovered		47	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AA	status_active		54	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AF	total		1	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	total		5	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_recovered		2	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-AM	status_active		3	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	total		8	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_recovered		1	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-DD	status_active		7	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-OR	total		10	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
-admin_1	ET	ET-SO	total		1	29/04/2020	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	ET	ET-AA	2020_04_29	status_active		54	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_29	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_29	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_29	total		101	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_04_29	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_29	status_active		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_29	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_29	total		5	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_29	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_29	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_29	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_04_29	total		10	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_04_29	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_30	new		0	DERIVED	
+admin_1	ET	ET-AA	2020_04_30	status_active		54	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_30	status_active_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_04_30	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_30	status_deaths_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_04_30	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_04_30	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_04_30	total		101	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_04_30	new		0	DERIVED	
+admin_1	ET	ET-AF	2020_04_30	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_30	new		0	DERIVED	
+admin_1	ET	ET-AM	2020_04_30	status_active		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_30	status_active_new		0	DERIVED	
+admin_1	ET	ET-AM	2020_04_30	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_04_30	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-AM	2020_04_30	total		5	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_30	new		0	DERIVED	
+admin_1	ET	ET-DD	2020_04_30	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_30	status_active_new		0	DERIVED	
+admin_1	ET	ET-DD	2020_04_30	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_04_30	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-DD	2020_04_30	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_04_30	new		1	DERIVED	
+admin_1	ET	ET-OR	2020_04_30	total		11	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_04_30	new		3	DERIVED	
+admin_1	ET	ET-SO	2020_04_30	total		4	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_01	new		0	DERIVED	
+admin_1	ET	ET-AA	2020_05_01	status_active		54	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_01	status_active_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_05_01	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_01	status_deaths_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_05_01	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_01	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-AA	2020_05_01	total		101	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_05_01	new		0	DERIVED	
+admin_1	ET	ET-AF	2020_05_01	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_01	new		1	DERIVED	
+admin_1	ET	ET-AM	2020_05_01	status_active		4	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_01	status_active_new		1	DERIVED	
+admin_1	ET	ET-AM	2020_05_01	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_01	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-AM	2020_05_01	total		6	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_01	new		0	DERIVED	
+admin_1	ET	ET-DD	2020_05_01	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_01	status_active_new		0	DERIVED	
+admin_1	ET	ET-DD	2020_05_01	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_01	status_recovered_new		0	DERIVED	
+admin_1	ET	ET-DD	2020_05_01	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_05_01	new		0	DERIVED	
+admin_1	ET	ET-OR	2020_05_01	total		11	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_05_01	new		0	DERIVED	
+admin_1	ET	ET-SO	2020_05_01	total		4	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_04	status_active		55	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_04	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_04	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_04	total		102	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_05_04	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_04	status_active		4	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_04	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_04	total		6	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_04	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_04	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_04	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_05_04	total		11	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SN	2020_05_04	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_05_04	total		6	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_06	status_active		60	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_06	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_06	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_06	total		107	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_05_06	total		9	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_06	status_active		5	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_06	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_06	total		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_06	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_06	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_06	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_05_06	total		13	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SN	2020_05_06	total		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_05_06	total		17	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_13	status_active		125	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_13	status_deaths		3	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_13	status_recovered		47	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AA	2020_05_13	total		172	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AF	2020_05_13	total		20	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_13	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_13	status_recovered		2	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-AM	2020_05_13	total		9	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_13	status_active		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_13	status_recovered		1	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-DD	2020_05_13	total		8	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-OR	2020_05_13	total		17	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SN	2020_05_13	total		5	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-SO	2020_05_13	total		25	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
+admin_1	ET	ET-TI	2020_05_13	total		7	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	

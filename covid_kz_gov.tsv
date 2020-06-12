@@ -1,139 +1,1076 @@
-region_parent	region_schema	region_child	datatype	agerange	value	date_updated	source_url	text_match
-admin_1	Kazakhstan	KZ-AST	total		2207	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	total		2647	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	total		867	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	total		166	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	total		343	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	total		361	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	total		1105	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	total		135	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	total		380	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	total		665	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	total		932	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	total		182	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	total		402	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	total		272	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	total		206	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	total		59	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	total		379	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_recovered		1121	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_recovered		1552	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_recovered		308	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_recovered		107	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	status_recovered		189	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	status_recovered		186	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	status_recovered		314	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_recovered		54	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_recovered		196	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_recovered		309	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_recovered		243	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_recovered		85	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	status_recovered		247	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_recovered		136	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_recovered		149	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	status_recovered		37	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_recovered		225	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_deaths		6	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_deaths		10	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_deaths		8	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_deaths		4	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_deaths		1	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_deaths		1	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_deaths		1	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_deaths		3	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_deaths		2	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_deaths		1	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_deaths		3	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_deaths		1	01/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	total		2207	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	total		2647	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	total		867	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	total		166	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	total		343	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	total		361	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	total		1105	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	total		135	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	total		380	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	total		665	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	total		932	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	total		182	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	total		402	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	total		272	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	total		206	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	total		59	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	total		379	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_recovered		1143	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_recovered		1598	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_recovered		315	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_recovered		107	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	status_recovered		189	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	status_recovered		191	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	status_recovered		333	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_recovered		54	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_recovered		196	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_recovered		316	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_recovered		255	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_recovered		87	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	status_recovered		247	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_recovered		141	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_recovered		153	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	status_recovered		37	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_recovered		225	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_deaths		6	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_deaths		10	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_deaths		8	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_deaths		4	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_deaths		1	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_deaths		1	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_deaths		1	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_deaths		3	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_deaths		2	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_deaths		1	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_deaths		3	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_deaths		1	02/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	total		2266	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	total		2676	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	total		885	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	total		166	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	total		349	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	total		376	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	total		1119	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	total		142	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	total		393	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	total		692	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	total		956	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	total		182	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	total		418	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	total		291	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	total		217	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	total		59	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	total		384	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_recovered		1170	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_recovered		1634	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_recovered		372	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_recovered		113	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKT	status_recovered		192	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALM	status_recovered		191	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ATY	status_recovered		481	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_recovered		54	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_recovered		204	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_recovered		319	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_recovered		280	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_recovered		88	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KZY	status_recovered		255	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_recovered		151	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_recovered		154	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SEV	status_recovered		43	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_recovered		240	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AST	status_deaths		7	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ALA	status_deaths		10	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-SHY	status_deaths		9	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-AKM	status_deaths		4	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-VOS	status_deaths		1	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZHA	status_deaths		1	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-ZAP	status_deaths		1	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KAR	status_deaths		3	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-KUS	status_deaths		2	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-MAN	status_deaths		1	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-PAV	status_deaths		4	03/06/2020	https://www.coronavirus2020.kz/kz	''
-admin_1	Kazakhstan	KZ-YUZ	status_deaths		1	03/06/2020	https://www.coronavirus2020.kz/kz	''
+region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	Kazakhstan	KZ-AKM	2020_06_01	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_01	status_recovered		107	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_01	total		166	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_01	status_recovered		189	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_01	total		343	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_01	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_01	status_recovered		1552	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_01	total		2647	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_01	status_recovered		186	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_01	total		361	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_01	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_01	status_recovered		1121	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_01	total		2207	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_01	status_recovered		314	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_01	total		1105	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_01	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_01	status_recovered		243	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_01	total		932	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_01	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_01	status_recovered		85	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_01	total		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_01	status_recovered		247	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_01	total		402	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_01	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_01	status_recovered		136	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_01	total		272	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_01	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_01	status_recovered		149	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_01	total		206	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_01	status_recovered		37	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_01	total		59	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_01	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_01	status_recovered		308	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_01	total		867	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_01	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_01	status_recovered		54	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_01	total		135	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_01	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_01	status_recovered		225	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_01	total		379	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_01	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_01	status_recovered		309	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_01	total		665	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_01	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_01	status_recovered		196	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_01	total		380	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	status_recovered		107	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_02	total		166	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_02	status_recovered		189	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_02	total		343	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	status_recovered		1598	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	status_recovered_new		46	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_02	total		2647	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_02	status_recovered		191	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_02	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_02	total		361	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	status_recovered		1143	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	status_recovered_new		22	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_02	total		2207	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_02	status_recovered		333	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_02	status_recovered_new		19	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_02	total		1105	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	status_recovered		255	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	status_recovered_new		12	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_02	total		932	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	status_recovered		87	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_02	total		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_02	status_recovered		247	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_02	total		402	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	status_recovered		141	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_02	total		272	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	status_recovered		153	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_02	total		206	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_02	status_recovered		37	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_02	total		59	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	status_recovered		315	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_02	total		867	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	status_recovered		54	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_02	total		135	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	status_recovered		225	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_02	total		379	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	status_recovered		316	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_02	total		665	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	status_recovered		196	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_02	total		380	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	status_recovered		113	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_03	total		166	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_03	new		6	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_03	status_recovered		192	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_03	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_03	total		349	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	new		29	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	status_recovered		1634	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	status_recovered_new		36	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_03	total		2676	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_03	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_03	status_recovered		191	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_03	total		376	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	new		59	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	status_deaths		7	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	status_recovered		1170	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	status_recovered_new		27	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_03	total		2266	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_03	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_03	status_recovered		481	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_03	status_recovered_new		148	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_03	total		1119	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	new		24	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	status_recovered		280	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	status_recovered_new		25	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_03	total		956	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	status_recovered		88	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_03	total		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_03	new		16	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_03	status_recovered		255	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_03	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_03	total		418	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	new		19	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	status_recovered		151	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	status_recovered_new		10	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_03	total		291	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	status_recovered		154	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_03	total		217	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_03	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_03	status_recovered		43	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_03	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_03	total		59	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	new		18	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	status_recovered		372	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	status_recovered_new		57	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_03	total		885	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	status_recovered		54	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_03	total		142	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	status_recovered		240	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	status_recovered_new		15	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_03	total		384	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	new		27	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	status_recovered		319	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_03	total		692	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	new		13	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	status_recovered		204	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_03	total		393	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	status_recovered		134	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	status_recovered_new		21	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_04	total		166	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_04	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_04	status_recovered		196	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_04	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_04	total		363	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	new		39	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	status_recovered		1697	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	status_recovered_new		63	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_04	total		2715	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_04	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_04	status_recovered		214	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_04	status_recovered_new		23	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_04	total		381	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	new		23	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	status_recovered		1206	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	status_recovered_new		36	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_04	total		2289	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_04	new		21	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_04	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_04	status_recovered		532	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_04	status_recovered_new		51	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_04	total		1140	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	status_recovered		314	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	status_recovered_new		34	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_04	total		956	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	status_recovered		96	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_04	total		184	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_04	new		30	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_04	status_recovered		270	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_04	status_recovered_new		15	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_04	total		448	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	new		17	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	status_recovered		157	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_04	total		308	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	status_recovered		159	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_04	total		217	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_04	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_04	status_recovered		43	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_04	total		61	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	new		21	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	status_recovered		389	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	status_recovered_new		17	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_04	total		906	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	new		6	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	status_recovered		57	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_04	total		148	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	status_recovered		240	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_04	total		384	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	new		40	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	status_recovered		327	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_04	total		732	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	status_recovered		209	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_04	total		398	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	status_recovered		138	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_05	total		167	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_05	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_05	status_recovered		209	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_05	status_recovered_new		13	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_05	total		367	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	new		26	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	status_recovered		1736	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	status_recovered_new		39	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_05	total		2741	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_05	new		21	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_05	status_recovered		248	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_05	status_recovered_new		34	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_05	total		402	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	new		55	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	status_recovered		1291	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	status_recovered_new		85	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_05	total		2344	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	new		35	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	status_recovered		606	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	status_recovered_new		74	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_05	total		1175	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	new		68	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	status_recovered		379	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	status_recovered_new		65	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_05	total		1024	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	status_recovered		101	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_05	total		191	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_05	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_05	status_recovered		276	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_05	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_05	total		449	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	status_recovered		161	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_05	total		308	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	status_recovered		160	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_05	total		224	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_05	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_05	status_recovered		43	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_05	total		64	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	status_recovered		397	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_05	total		909	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	status_recovered		57	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_05	total		159	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	status_recovered		247	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_05	total		384	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	new		22	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	status_recovered		344	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	status_recovered_new		17	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_05	total		754	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	status_recovered		213	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_05	total		405	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	status_recovered		138	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_06	total		172	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_06	new		6	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_06	status_recovered		214	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_06	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_06	total		373	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	new		49	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	status_recovered		1770	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	status_recovered_new		34	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_06	total		2790	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_06	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_06	status_recovered		267	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_06	status_recovered_new		19	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_06	total		413	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	new		35	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	status_recovered		1318	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	status_recovered_new		27	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_06	total		2379	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	new		10	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	status_recovered		746	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	status_recovered_new		140	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_06	total		1185	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	new		48	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	status_recovered		405	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	status_recovered_new		26	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_06	total		1072	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	status_recovered		106	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_06	total		195	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_06	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_06	status_recovered		281	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_06	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_06	total		452	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	status_recovered		162	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_06	total		319	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	status_recovered		160	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_06	total		229	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_06	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_06	status_recovered		47	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_06	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_06	total		64	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	status_recovered		404	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_06	total		924	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	status_recovered		60	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_06	total		168	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	status_recovered		254	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_06	total		389	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	new		22	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	status_recovered		353	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	status_recovered_new		9	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_06	total		776	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	status_recovered		218	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_06	total		412	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	status_recovered		138	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_07	total		174	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_07	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_07	status_recovered		221	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_07	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_07	total		388	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	new		31	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	status_recovered		1801	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	status_recovered_new		31	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_07	total		2821	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_07	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_07	status_recovered		267	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_07	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_07	total		422	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	new		37	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	status_recovered		1374	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	status_recovered_new		56	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_07	total		2416	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	status_recovered		769	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	status_recovered_new		23	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_07	total		1196	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	new		33	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	status_recovered		442	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	status_recovered_new		37	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_07	total		1105	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	status_recovered		116	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	status_recovered_new		10	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_07	total		198	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_07	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_07	status_recovered		286	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_07	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_07	total		456	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	status_recovered		164	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_07	total		323	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	new		13	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	status_deaths		5	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	status_recovered		170	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	status_recovered_new		10	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_07	total		242	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_07	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_07	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_07	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_07	total		64	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	new		8	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	status_recovered		412	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_07	total		932	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	status_recovered		63	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_07	total		177	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	status_recovered		256	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_07	total		392	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	new		8	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	status_recovered		383	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	status_recovered_new		30	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_07	total		784	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	status_recovered		225	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_07	total		421	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	status_recovered		141	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_08	total		175	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_08	new		13	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_08	status_recovered		231	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_08	status_recovered_new		10	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_08	total		401	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	new		29	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	status_recovered		1875	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	status_recovered_new		74	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_08	total		2850	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_08	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_08	status_recovered		282	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_08	status_recovered_new		15	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_08	total		426	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	new		38	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	status_deaths		9	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	status_recovered		1435	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	status_recovered_new		61	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_08	total		2454	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	new		6	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	status_recovered		773	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_08	total		1202	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	new		24	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	status_recovered		461	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	status_recovered_new		19	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_08	total		1129	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	status_recovered		127	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	status_recovered_new		11	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_08	total		200	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_08	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_08	status_recovered		291	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_08	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_08	total		461	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	status_recovered		168	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_08	total		325	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	status_recovered		170	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_08	total		257	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_08	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_08	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_08	total		64	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	new		10	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	status_recovered		420	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_08	total		942	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	new		8	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	status_recovered		65	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_08	total		185	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	status_recovered		257	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_08	total		395	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	new		21	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	status_recovered		407	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	status_recovered_new		24	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_08	total		805	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	status_recovered		225	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_08	total		423	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	status_recovered		141	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_09	total		176	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_09	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_09	status_recovered		234	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_09	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_09	total		401	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	new		32	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	status_recovered		1906	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	status_recovered_new		31	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_09	total		2882	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_09	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_09	status_recovered		287	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_09	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_09	total		441	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	new		24	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	status_recovered		1621	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	status_recovered_new		186	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_09	total		2478	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	status_recovered		820	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	status_recovered_new		47	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_09	total		1213	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	new		18	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	status_recovered		477	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	status_recovered_new		16	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_09	total		1147	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	status_recovered		136	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	status_recovered_new		9	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_09	total		202	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_09	new		4	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_09	status_recovered		298	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_09	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_09	total		465	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	status_recovered		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	status_recovered_new		14	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_09	total		328	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	status_deaths		7	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	status_recovered		170	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_09	total		268	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_09	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_09	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_09	total		64	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	status_recovered		432	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	status_recovered_new		12	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_09	total		956	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	status_recovered		71	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_09	total		190	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	status_recovered		257	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_09	total		400	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	new		13	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	status_recovered		423	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	status_recovered_new		16	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_09	total		818	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	status_recovered		234	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	status_recovered_new		9	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_09	total		430	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	status_recovered		141	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_10	total		177	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_10	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_10	status_recovered		244	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_10	status_recovered_new		10	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_10	total		401	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	new		22	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	status_recovered		1929	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	status_recovered_new		23	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_10	total		2904	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_10	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_10	status_recovered		287	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_10	total		446	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	new		42	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	status_recovered		1679	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	status_recovered_new		58	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_10	total		2520	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	status_recovered		834	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	status_recovered_new		14	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_10	total		1222	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	new		41	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	status_deaths		6	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	status_recovered		530	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	status_recovered_new		53	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_10	total		1188	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	status_recovered		141	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_10	total		205	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_10	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_10	status_recovered		304	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_10	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_10	total		465	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	status_recovered		193	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	status_recovered_new		11	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_10	total		331	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	new		16	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	status_recovered		172	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_10	total		284	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_10	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_10	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_10	total		65	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	new		22	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	status_recovered		443	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	status_recovered_new		11	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_10	total		978	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	new		9	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	status_recovered		83	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	status_recovered_new		12	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_10	total		199	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	status_deaths_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	status_recovered		265	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	status_recovered_new		8	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_10	total		403	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	new		27	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	status_recovered		451	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	status_recovered_new		28	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_10	total		845	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	status_recovered		271	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	status_recovered_new		37	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_10	total		441	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	status_recovered		144	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	status_recovered_new		3	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_11	total		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_11	new		26	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_11	status_recovered		250	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_11	status_recovered_new		6	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_11	total		427	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	new		35	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	status_recovered		1976	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	status_recovered_new		47	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_11	total		2939	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_11	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_11	status_recovered		309	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_11	status_recovered_new		22	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_11	total		457	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	new		23	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	status_deaths		14	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	status_deaths_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	status_recovered		1770	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	status_recovered_new		91	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_11	total		2543	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	status_recovered		876	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	status_recovered_new		42	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_11	total		1227	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	new		50	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	status_deaths		7	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	status_recovered		590	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	status_recovered_new		60	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_11	total		1238	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	new		3	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	status_recovered		143	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_11	total		208	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_11	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_11	status_recovered		309	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_11	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_11	total		470	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	new		12	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	status_recovered		197	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	status_recovered_new		4	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_11	total		343	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	status_recovered		181	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	status_recovered_new		9	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_11	total		286	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_11	new		7	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_11	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_11	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_11	total		72	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	status_recovered		448	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	status_recovered_new		5	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_11	total		992	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	status_recovered		84	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_11	total		204	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	new		8	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	status_recovered		267	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_11	total		411	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	new		18	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	status_deaths_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	status_recovered		475	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	status_recovered_new		24	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_11	total		863	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	new		16	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	status_recovered		278	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_11	total		457	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	new		2	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	status_deaths		4	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	status_recovered		145	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-AKM	2020_06_12	total		184	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_12	new		17	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_12	status_recovered		252	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AKT	2020_06_12	status_recovered_new		2	DERIVED	
+admin_1	Kazakhstan	KZ-AKT	2020_06_12	total		444	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	new		18	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	status_recovered		2008	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	status_recovered_new		32	DERIVED	
+admin_1	Kazakhstan	KZ-ALA	2020_06_12	total		2957	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_12	new		13	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_12	status_recovered		321	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ALM	2020_06_12	status_recovered_new		12	DERIVED	
+admin_1	Kazakhstan	KZ-ALM	2020_06_12	total		470	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	new		27	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	status_deaths		14	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	status_recovered		1829	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	status_recovered_new		59	DERIVED	
+admin_1	Kazakhstan	KZ-AST	2020_06_12	total		2570	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	status_recovered		892	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	status_recovered_new		16	DERIVED	
+admin_1	Kazakhstan	KZ-ATY	2020_06_12	total		1232	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	new		52	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	status_deaths		7	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	status_recovered		619	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	status_recovered_new		29	DERIVED	
+admin_1	Kazakhstan	KZ-KAR	2020_06_12	total		1290	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	new		1	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	status_deaths		2	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	status_recovered		155	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	status_recovered_new		12	DERIVED	
+admin_1	Kazakhstan	KZ-KUS	2020_06_12	total		209	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_12	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_12	status_recovered		346	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-KZY	2020_06_12	status_recovered_new		37	DERIVED	
+admin_1	Kazakhstan	KZ-KZY	2020_06_12	total		484	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	new		14	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	status_recovered		204	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-MAN	2020_06_12	total		357	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	new		10	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	status_deaths		8	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	status_recovered		182	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	status_recovered_new		1	DERIVED	
+admin_1	Kazakhstan	KZ-PAV	2020_06_12	total		296	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_12	new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_12	status_recovered		48	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SEV	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SEV	2020_06_12	total		72	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	new		30	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	status_deaths		10	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	status_recovered		455	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	status_recovered_new		7	DERIVED	
+admin_1	Kazakhstan	KZ-SHY	2020_06_12	total		1022	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	new		11	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	status_recovered		93	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	status_recovered_new		9	DERIVED	
+admin_1	Kazakhstan	KZ-VOS	2020_06_12	total		215	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	status_recovered		267	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	status_recovered_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-YUZ	2020_06_12	total		416	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	new		15	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	status_deaths		3	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	status_recovered		488	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	status_recovered_new		13	DERIVED	
+admin_1	Kazakhstan	KZ-ZAP	2020_06_12	total		878	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	new		5	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	status_deaths		1	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	status_recovered		289	https://www.coronavirus2020.kz/kz	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	status_recovered_new		11	DERIVED	
+admin_1	Kazakhstan	KZ-ZHA	2020_06_12	total		462	https://www.coronavirus2020.kz/kz	
