@@ -8,7 +8,9 @@ common universal format, so as to be able to use it for
 comparative analysis and similar purposes.
 
 Preliminary and has not been checked so will contain errors! 
-Should not be used for anything important.
+Should not be used for anything important, and is for strictly non-commercial purposes only.
+
+If you use this data, please acknowledge the sources below, and cite that it was automatically aggregated by the [https://github.com/mcyph/covid_19_au_grab](covid_19_au_grab project) by Dave Morrissey.
 
 Data from the following URLs:
 
