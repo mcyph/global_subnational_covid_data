@@ -12,7 +12,7 @@ The data is obtained from original sources where possible, though some of the da
 Preliminary and has not been checked so will contain errors! 
 Should not be used for anything important, and is strictly for non-commercial purposes only.
 
-If you use this data, please acknowledge the sources below, and cite that it was automatically aggregated by the [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) by David Morrissey.
+If you use this data, please acknowledge the sources below, and cite that it was automatically aggregated using the [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) by David Morrissey.
 
 Data from the following URLs:
 
