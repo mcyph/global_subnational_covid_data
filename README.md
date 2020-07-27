@@ -7,10 +7,12 @@ World. The goal is to be able to convert this data into a
 common universal format, so as to be able to use it for 
 comparative analysis and similar purposes.
 
-Preliminary and has not been checked so will contain errors! 
-Should not be used for anything important, and is for strictly non-commercial purposes only.
+The data is obtained from original sources where possible, though some of the data also comes from aggregated sources like (https://github.com/CSSEGISandData/COVID-19)[John Hopkins University], (https://github.com/microsoft/Bing-COVID-19-Data)[Microsoft Bing] or (https://data.humdata.org/dataset/europe-covid-19-subnational-cases)[European Commission Joint Research Centre].
 
-If you use this data, please acknowledge the sources below, and cite that it was automatically aggregated by the (https://github.com/mcyph/covid_19_au_grab)[covid_19_au_grab project] by Dave Morrissey.
+Preliminary and has not been checked so will contain errors! 
+Should not be used for anything important, and is strictly for non-commercial purposes only.
+
+If you use this data, please acknowledge the sources below, and cite that it was automatically aggregated by the (https://github.com/mcyph/covid_19_au_grab)[covid_19_au_grab project] by David Morrissey.
 
 Data from the following URLs:
 
