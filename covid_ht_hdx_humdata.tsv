@@ -1,924 +1,884 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_1	ht	grand anse	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_08	total		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_08	total		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_08	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_08	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_08	total		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_08	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_08	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_08	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_08	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_08	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_08	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_08	total		107	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_08	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_08	total		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_08	total		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_08	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_08	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_12	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_12	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_12	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_12	total		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_12	total		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_12	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_12	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_12	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_12	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_12	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_12	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_12	total		166	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_12	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_12	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_12	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_12	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_12	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_16	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_16	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_16	total		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_16	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_16	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_16	total		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_16	total		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_16	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_05_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_16	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_16	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_16	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_16	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_16	new		87	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_16	total		353	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_16	status_deaths		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_05_16	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_16	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_16	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_16	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_16	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_16	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_20	total		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_20	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_20	total		62	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_20	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_20	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_20	total		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_20	total		22	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_20	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_20	total		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_20	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_20	total		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_20	total		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_20	new		65	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_20	total		567	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_20	status_deaths		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_20	status_deaths_new		3	DERIVED	
-admin_1	ht	ht-sd	2020_05_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_20	total		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_20	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_20	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_20	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_20	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_24	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_24	total		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_24	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_24	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_24	total		84	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_24	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_24	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_24	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_24	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_24	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_24	total		36	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_24	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_05_24	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_24	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_24	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_24	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_24	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_24	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_24	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-no	2020_05_24	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_24	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_24	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_24	new		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_24	total		769	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_24	status_deaths		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_24	status_deaths_new		3	DERIVED	
-admin_1	ht	ht-sd	2020_05_24	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_24	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_24	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_24	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_24	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_24	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_24	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_27	total		17	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_27	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_27	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_27	total		86	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_27	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_05_27	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_27	total		35	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_27	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_27	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_27	total		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_27	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_27	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-ne	2020_05_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_27	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_27	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_27	total		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_27	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_27	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_27	total		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_27	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_27	new		118	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_27	total		1141	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_27	status_deaths		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_05_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_27	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_27	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_27	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_27	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_27	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_05_30	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_30	total		20	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_30	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	grand anse	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_05_30	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_30	total		119	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_30	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ar	2020_05_30	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-ce	2020_05_30	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_30	total		61	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_30	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ce	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_05_30	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_30	total		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_30	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-nd	2020_05_30	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-ne	2020_05_30	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_30	total		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_30	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ne	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_05_30	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_30	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_30	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ni	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_05_30	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_30	total		29	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_30	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-no	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_05_30	new		244	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_30	total		1738	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_30	status_deaths		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-ou	2020_05_30	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-sd	2020_05_30	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_30	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_30	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-sd	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_05_30	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_30	total		40	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_30	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-05-2020.pdf	
-admin_1	ht	ht-se	2020_05_30	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_02	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_02	total		35	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_02	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_02	total		153	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_02	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_02	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-ce	2020_06_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_02	total		77	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_02	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_02	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_02	total		67	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_02	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_02	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_02	total		34	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_02	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_02	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_02	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_02	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_02	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_02	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_02	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_02	new		104	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_02	total		2098	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_02	status_deaths		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_02	total		52	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_02	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_02	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_02	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_02	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_02	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_05	total		43	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_05	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_05	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_05	total		166	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_05	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_05	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_05	total		99	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_05	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_05	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_05	total		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_05	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_05	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_05	total		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_05	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_05	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_05	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_05	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_05	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_05	total		53	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_05	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_05	new		87	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_05	total		2436	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_05	status_deaths		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_05	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_05	total		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_05	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_05	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_05	total		63	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_05	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_05	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_08	total		48	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_08	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_08	total		186	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_08	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_08	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_08	total		107	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_08	total		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_08	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_08	total		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_08	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_08	total		35	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_08	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_08	total		58	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_08	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_08	new		118	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_08	total		2970	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_08	status_deaths		31	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_08	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-sd	2020_06_08	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_08	total		56	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_08	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_08	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_08	total		77	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_08	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_08-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_08	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_11	total		67	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_11	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_11	total		195	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_11	status_deaths		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_11	total		116	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_11	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_11	total		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_11	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_11	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_11	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_11	total		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_11	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_11	total		62	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_11	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_11	total		3188	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_11	status_deaths		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_11	total		59	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_11	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_11	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_11	total		79	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_11	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_11-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_11	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_14	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_14	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_14	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_14	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_14	total		224	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_14	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_14	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_14	total		133	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_14	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_14	new		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_14	total		121	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_14	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_14	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_14	total		58	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_14	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_14	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-ni	2020_06_14	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_14	total		57	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_14	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_14	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_14	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_14	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_14	new		91	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_14	total		3525	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_14	status_deaths		39	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_14	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-sd	2020_06_14	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_14	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_14	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_14	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_14	total		87	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_14	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_14-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_14	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_16	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_16	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_16	total		224	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_16	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_16	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_16	total		158	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_16	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_16	total		130	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_16	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_16	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-ne	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_16	total		60	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_16	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_16	total		57	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_16	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_16	total		84	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_16	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_16	new		122	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_16	total		3709	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_16	status_deaths		41	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_16	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_16	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_16	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_16	new		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_16	total		100	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_16	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_16-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_16	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_18	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_18	total		91	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_18	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_18	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_18	total		229	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_18	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_18	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_18	total		176	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_18	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_18	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_18	total		152	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_18	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_18	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_18	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_18	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_18	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_18	total		69	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_18	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_18	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-no	2020_06_18	new		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_18	total		103	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_18	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_18	new		34	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_18	total		3871	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_18	status_deaths		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_18	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-sd	2020_06_18	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_18	total		110	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_18	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_18	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_18	total		109	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_18	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_18-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_18	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_20	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_20	total		91	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_20	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_20	new		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_20	total		245	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_20	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_20	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_20	total		198	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_20	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_20	new		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_20	total		164	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_20	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_20	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_20	total		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_20	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_20	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_20	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_20	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_20	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_20	total		106	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_20	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_20	new		78	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_20	total		4025	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_20	status_deaths		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_20	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_20	total		123	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_20	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_20	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_20	total		113	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_20	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_20-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_20	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_22	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_22	total		96	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_22	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_22	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_22	total		260	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_22	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_22	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_22	total		204	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_22	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_22	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_22	total		166	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_22	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_22	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-ne	2020_06_22	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_22	total		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_22	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_22	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_22	total		75	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_22	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_22	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_22	total		106	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_22	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_22	new		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_22	total		4101	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_22	status_deaths		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_22	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_22	total		127	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_22	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_22	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_22	total		113	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_22	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_22-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_22	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_24	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_24	total		110	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_24	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_24	new		17	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_24	total		277	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_24	status_deaths		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_24	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_24	total		226	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_24	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_24	new		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_24	total		179	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_24	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_24	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_24	total		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_24	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_24	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_24	total		79	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_24	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_24	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_24	total		116	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_24	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_24	new		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_24	total		4226	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_24	status_deaths		50	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_24	status_deaths_new		3	DERIVED	
-admin_1	ht	ht-sd	2020_06_24	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_24	total		135	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_24	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_24	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-se	2020_06_24	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_24	total		119	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_24	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_24-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_24	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_26	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_26	total		115	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_26	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_26	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_26	total		287	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_26	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_26	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_26	total		249	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_26	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_26	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_26	total		207	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_26	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_26	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-ne	2020_06_26	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_26	total		86	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_26	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_26	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_26	total		82	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_26	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_26	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_26	total		118	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_26	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_26	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_26	total		4369	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_26	status_deaths		51	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_06_26	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_26	total		144	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_26	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_26	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_26	total		120	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_26	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_26-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_26	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_28	total		115	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_28	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_28	total		287	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_28	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_28	total		249	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_28	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_28	total		208	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_28	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_28	total		86	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_28	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_28	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_28	total		88	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_28	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_28	total		119	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_28	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_28	new		61	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_28	total		4498	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_28	status_deaths		52	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_28	status_deaths_new		1	DERIVED	
-admin_1	ht	ht-sd	2020_06_28	new		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_28	total		156	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_28	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_28	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_28	total		127	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_28	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_28	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_06_30	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_30	total		126	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_30	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	grand anse	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_06_30	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_30	total		303	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_30	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ar	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_06_30	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_30	total		260	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_30	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ce	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_06_30	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_30	total		212	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_30	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-nd	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_06_30	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_30	total		97	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_30	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ne	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_06_30	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_30	total		92	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_30	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ni	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_06_30	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_30	total		123	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_30	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-no	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_06_30	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_30	total		4539	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_30	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-ou	2020_06_30	status_deaths_new		2	DERIVED	
-admin_1	ht	ht-sd	2020_06_30	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_30	total		161	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_30	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-sd	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_06_30	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_30	total		127	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_30	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_30-06-2020.pdf	
-admin_1	ht	ht-se	2020_06_30	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_07_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_02	total		127	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_02	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_07_02	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_02	total		312	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_02	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_07_02	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_02	total		267	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_02	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_07_02	new		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_02	total		241	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_02	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_07_02	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_02	total		98	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_02	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_07_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_02	total		93	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_02	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_07_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_02	total		125	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_02	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_07_02	new		85	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_02	total		4669	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_02	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_07_02	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_02	total		162	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_02	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_07_02	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_02	total		136	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_02	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_02-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_07_04	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_04	total		128	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_04	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_07_04	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_04	total		317	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_04	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_07_04	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_04	total		283	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_04	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_07_04	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_04	total		241	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_04	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_07_04	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_04	total		98	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_04	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_07_04	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_04	total		95	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_04	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_07_04	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_04	total		129	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_04	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_07_04	new		25	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_04	total		4741	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_04	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_07_04	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_04	total		163	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_04	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_07_04	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_04	total		138	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_04	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_04-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	ht	grand anse	2020_07_06	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_06	total		132	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_06	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	grand anse	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ar	2020_07_06	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_06	total		325	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_06	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ar	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ce	2020_07_06	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_06	total		287	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_06	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ce	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-nd	2020_07_06	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_06	total		244	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_06	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-nd	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ne	2020_07_06	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_06	total		100	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_06	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ne	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ni	2020_07_06	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_06	total		95	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_06	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ni	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-no	2020_07_06	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_06	total		130	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_06	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-no	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-ou	2020_07_06	new		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_06	total		4810	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_06	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-ou	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-sd	2020_07_06	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_06	total		164	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_06	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-sd	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	ht	ht-se	2020_07_06	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_06	total		145	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_06	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-07-2020.pdf	
-admin_1	ht	ht-se	2020_07_06	status_deaths_new		4	DERIVED	
+admin_1	ht	grand anse	2020_05_09	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	grand anse	2020_05_09	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	grand anse	2020_05_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	grand anse	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_09	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ar	2020_05_09	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ar	2020_05_09	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ar	2020_05_09	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ce	2020_05_09	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ce	2020_05_09	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ce	2020_05_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ce	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_09	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-nd	2020_05_09	total		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-nd	2020_05_09	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-nd	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ne	2020_05_09	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ne	2020_05_09	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ne	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ni	2020_05_09	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ni	2020_05_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ni	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-no	2020_05_09	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-no	2020_05_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-no	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_09	new		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ou	2020_05_09	total		126	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ou	2020_05_09	status_deaths		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-ou	2020_05_09	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-sd	2020_05_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-sd	2020_05_09	total		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-sd	2020_05_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-sd	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-se	2020_05_09	total		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-se	2020_05_09	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-05-2020%20VC.pdf	
+admin_1	ht	ht-se	2020_05_09	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_13	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_13	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_13	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_13	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_13	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_13	total		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_13	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_13	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_13	total		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_13	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_13	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_13	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_13	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_13	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_13	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_13	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_13	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_13	new		32	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_13	total		198	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_13	status_deaths		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_13	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-sd	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_13	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_13	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_13	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_13	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_13	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_13-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_13	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_17	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_17	total		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_17	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_17	total		52	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_17	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_17	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_17	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_17	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_17	total		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_17	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_17	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_17	total		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_17	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_17	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_17	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_17	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_17	total		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_17	new		43	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_17	total		396	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_17	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_17	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_05_17	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_17	total		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_17	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_17	total		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_17	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_17	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_21	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_21	total		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_21	new		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_21	total		74	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_21	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_21	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_21	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_21	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_21	total		22	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_21	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_21	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_21	total		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_21	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_21	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_21	total		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_21	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_21	total		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_21	new		59	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_21	total		626	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_21	status_deaths		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_05_21	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_21	total		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_21	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_21	total		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_21	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_21	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_25	total		16	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_25	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_25	total		84	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_25	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_25	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_25	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_25	total		36	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_25	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_25	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_25	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_25	total		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_25	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_25	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_25	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_25	new		111	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_25	total		880	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_25	status_deaths		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_25	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-sd	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_25	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_25	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_25	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_25	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_25	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_28	total		17	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_28	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_28	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_28	total		92	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_28	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_28	new		25	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_28	total		60	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_28	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_28	total		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_28	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_28	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_28	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_28	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_28	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_28	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_28	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_28	total		29	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_28	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_28	new		100	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_28	total		1241	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_28	status_deaths		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_05_28	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_28	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_28	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_28	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_28	total		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_28	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_28-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_31	total		20	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_31	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	grand anse	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_05_31	new		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_31	total		132	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_31	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ar	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_31	total		61	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_31	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ce	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_05_31	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_31	total		58	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_31	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-nd	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_05_31	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_31	total		32	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_31	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ne	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_31	total		18	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_31	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ni	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_31	total		29	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_31	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-no	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_05_31	new		71	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_31	total		1809	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_31	status_deaths		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-ou	2020_05_31	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_31	total		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_31	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-sd	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_05_31	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_31	total		40	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_31	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_31-05-2020.pdf	
+admin_1	ht	ht-se	2020_05_31	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_03	total		35	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_03	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_03	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_03	total		154	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_03	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_03	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_03	total		88	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_03	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_03	total		67	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_03	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_03	total		34	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_03	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_03	total		26	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_03	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_03	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_03	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_03	new		88	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_03	total		2186	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_03	status_deaths		28	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_03	total		52	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_03	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_03	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_03	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_03	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_06	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_06	total		48	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_06	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_06	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_06	total		168	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_06	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_06	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_06	total		102	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_06	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_06	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_06	total		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_06	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_06	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_06	total		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_06	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_06	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_06	total		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_06	status_deaths		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_06	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_06	total		58	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_06	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_06	new		233	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_06	total		2669	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_06	status_deaths		29	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_06	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_06_06	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_06	total		56	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_06	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_06	new		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_06	total		75	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_06	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_06-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_06	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_09	total		48	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_09	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_09	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_09	total		193	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_09	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_09	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_09	total		116	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_09	total		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_09	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_09	total		44	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_09	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_09	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_09	total		42	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_09	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_09	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-no	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_09	total		58	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_09	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_09	new		111	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_09	total		3081	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_09	status_deaths		32	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_09	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_09	total		56	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_09	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_09	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_09	total		77	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_09	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_09-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_09	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_12	new		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_12	total		82	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_12	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_12	new		25	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_12	total		220	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_12	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_12	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ce	2020_06_12	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_12	total		124	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_12	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_12	new		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_12	total		102	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_12	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_12	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ne	2020_06_12	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_12	total		49	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_12	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_12	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_12	total		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_12	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_12	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_12	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_12	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_12	new		112	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_12	total		3300	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_12	status_deaths		37	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_12	new		20	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_12	total		79	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_12	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_12	status_deaths_new		4	DERIVED	
+admin_1	ht	ht-se	2020_06_12	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_12	total		85	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_12	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_12-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_12	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_15	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_15	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_15	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_15	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_15	total		224	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_15	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_15	new		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_15	total		152	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_15	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_15	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_15	total		130	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_15	status_deaths		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_15	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-ne	2020_06_15	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_15	total		60	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_15	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_15	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_15	total		57	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_15	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_15	new		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_15	total		84	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_15	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_15	new		62	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_15	total		3587	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_15	status_deaths		41	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_15	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-sd	2020_06_15	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_15	total		83	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_15	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_15	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_15	total		87	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_15	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_15-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_15	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_17	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_17	total		90	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_17	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_17	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_17	total		229	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_17	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_17	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_17	total		166	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_17	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_17	new		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_17	total		151	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_17	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_17	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_17	total		69	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_17	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_17	new		11	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_17	total		68	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_17	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_17	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_17	total		87	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_17	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_17	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ou	2020_06_17	new		128	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_17	total		3837	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_17	status_deaths		42	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_17	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_06_17	new		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_17	total		110	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_17	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_17	new		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_17	total		109	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_17	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_17-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_17	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_19	total		91	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_19	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_19	total		229	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_19	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_19	new		19	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_19	total		195	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_19	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_19	total		152	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_19	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_19	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_19	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_19	total		69	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_19	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_19	total		103	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_19	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_19	new		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_19	total		3947	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_19	status_deaths		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_19	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_06_19	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_19	total		112	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_19	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_19	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_19	total		109	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_19	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_19-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_19	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_21	new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_21	total		91	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_21	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_21	total		245	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_21	status_deaths		13	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_21	total		198	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_21	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_21	total		164	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_21	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_21	total		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_21	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_21	total		70	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_21	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_21	total		106	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_21	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_21	total		4025	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_21	status_deaths		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_21	total		123	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_21	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_21	new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_21	total		113	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_21	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_21-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_21	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_23	new		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_23	total		101	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_23	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_23	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_23	total		260	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_23	status_deaths		14	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_23	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ce	2020_06_23	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_23	total		212	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_23	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_23	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_23	total		166	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_23	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_23	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_23	total		76	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_23	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_23	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_23	total		79	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_23	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_23	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_23	total		106	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_23	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_23	new		81	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_23	total		4182	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_23	status_deaths		47	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_23	status_deaths_new		2	DERIVED	
+admin_1	ht	ht-sd	2020_06_23	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_23	total		134	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_23	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_23	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_23	total		113	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_23	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_23-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_23	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_25	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_25	total		112	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_25	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_25	new		8	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_25	total		285	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_25	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_25	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ce	2020_06_25	new		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_25	total		238	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_25	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_25	new		21	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_25	total		200	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_25	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_25	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_25	total		78	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_25	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_25	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_25	total		82	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_25	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_25	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_25	total		118	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_25	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_25	new		128	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_25	total		4354	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_25	status_deaths		51	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_25	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-sd	2020_06_25	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_25	total		135	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_25	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_25	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_25	total		120	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_25	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_25-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_25	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_27	total		115	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_27	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_27	status_deaths_new		1	DERIVED	
+admin_1	ht	ht-ar	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_27	total		287	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_27	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_27	total		249	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_27	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_27	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_27	total		208	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_27	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_27	total		86	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_27	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_27	total		82	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_27	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_27	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_27	total		119	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_27	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_27	status_deaths_new		3	DERIVED	
+admin_1	ht	ht-ou	2020_06_27	new		68	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_27	total		4437	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_27	status_deaths		51	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_27	total		144	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_27	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_27	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_27	total		120	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_27	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_27-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_27	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_06_29	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_29	total		115	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_29	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	grand anse	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_06_29	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_29	total		288	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_29	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ar	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_06_29	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_29	total		249	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_29	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ce	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_06_29	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_29	total		211	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_29	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-nd	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_06_29	new		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_29	total		96	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_29	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ne	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_06_29	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_29	total		88	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_29	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ni	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_06_29	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_29	total		120	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_29	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-no	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_06_29	new		27	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_29	total		4525	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_29	status_deaths		52	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-ou	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_06_29	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_29	total		156	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_29	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-sd	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_06_29	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_29	total		127	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_29	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_29-06-2020.pdf	
+admin_1	ht	ht-se	2020_06_29	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_07_01	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_01	total		126	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_01	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_01	status_deaths_new		3	DERIVED	
+admin_1	ht	ht-ar	2020_07_01	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_01	total		305	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_01	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_07_01	new		7	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_01	total		267	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_01	status_deaths		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_07_01	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_01	total		212	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_01	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_07_01	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_01	total		97	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_01	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_07_01	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_01	total		92	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_01	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_07_01	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_01	total		124	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_01	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_07_01	new		45	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_01	total		4584	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_01	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_07_01	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_01	total		161	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_01	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_07_01	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_01	total		133	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_01	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_01-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_01	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_07_03	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_03	total		128	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_03	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_07_03	new		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_03	total		316	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_03	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_07_03	new		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_03	total		273	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_03	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_03	status_deaths_new		3	DERIVED	
+admin_1	ht	ht-nd	2020_07_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_03	total		241	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_03	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_07_03	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_03	total		98	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_03	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_07_03	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_03	total		94	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_03	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_07_03	new		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_03	total		128	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_03	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_07_03	new		47	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_03	total		4716	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_03	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_07_03	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_03	total		163	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_03	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_07_03	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_03	total		137	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_03	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_03-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	ht	grand anse	2020_07_05	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_05	total		129	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_05	status_deaths		9	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	grand anse	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ar	2020_07_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_05	total		318	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_05	status_deaths		15	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ar	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ce	2020_07_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_05	total		283	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_05	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ce	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-nd	2020_07_05	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_05	total		242	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_05	status_deaths		12	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-nd	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ne	2020_07_05	new		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_05	total		100	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_05	status_deaths		4	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ne	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ni	2020_07_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_05	total		95	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_05	status_deaths		3	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ni	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-no	2020_07_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_05	total		129	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_05	status_deaths		6	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-no	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-ou	2020_07_05	new		33	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_05	total		4773	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_05	status_deaths		54	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-ou	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-sd	2020_07_05	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_05	total		163	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_05	status_deaths		5	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-sd	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	ht	ht-se	2020_07_05	new		1	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_05	total		139	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_05	status_deaths		2	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_05-07-2020.pdf	
+admin_1	ht	ht-se	2020_07_05	status_deaths_new		0	DERIVED	
 admin_1	ht	grand anse	2020_07_07	new		0	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_07-07-2020.pdf	
 admin_1	ht	grand anse	2020_07_07	total		132	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_07-07-2020.pdf	
 admin_1	ht	grand anse	2020_07_07	status_deaths		10	https://mspp.gouv.ht/site/downloads/Sitrep%20COVID-19_07-07-2020.pdf	
