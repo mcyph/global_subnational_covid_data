@@ -1,9 +1,9 @@
 source_id	source_url	source_desc
 au_nt	https://coronavirus.nt.gov.au	
 au_qld	https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19	
-au_nsw	https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx	
 au_vic	https://www.dhhs.vic.gov.au/coronavirus	
 au_wa	https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus	
+au_nsw	https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx	
 au_act	https://www.covid19.act.gov.au	
 au_tas	https://coronavirus.tas.gov.au	
 au_sa	https://www.covid-19.sa.gov.au	
@@ -15,47 +15,48 @@ om_gov	https://covid19.moh.gov.om/
 ps_gov	https://www.corona.ps/details	
 sa_gov	https://covid19.moh.gov.sa/	
 tr_dash	https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86	
-ch_open_swiss_data	https://github.com/openZH/covid_19	Creative Commons Attribution 4.0 International
 tr_wikipedia	https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi	
+ye_yemen_corona	http://yemen-corona.com/	
 bw_gov	https://covid19portal.gov.bw/	
 et_ocha_humdata	https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases	
-ye_yemen_corona	http://yemen-corona.com/	
 gh_ghs	https://www.ghanahealthservice.org/covid19/	
-ma_hespress	https://covid.hespress.com/	
 il_wikipedia	https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A4%D7%A8%D7%A6%D7%95%D7%AA_%D7%A0%D7%92%D7%99%D7%A3_%D7%94%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94_%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C	
-mw_moh	https://covid19.health.gov.mw/	
+ma_hespress	https://covid.hespress.com/	
 iq_wikipedia	https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020	
+mw_moh	https://covid19.health.gov.mw/	
 na_dash	https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f	
 ng_ncdc	https://covid19.ncdc.gov.ng/	
 sd_gov	https://covid19.sd/	
 sn_ocha_rowca_humdata	https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal	
 so_ocha_somalia_humdata	https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases	
-za_gov	https://sacoronavirus.co.za/	
+ch_open_swiss_data	https://github.com/openZH/covid_19	Creative Commons Attribution 4.0 International
 bd_gov	https://iedcr.gov.bd/	
 id_kawalcovid19	https://kawalcovid19.id/	
 jp_ministry_unofficial		
+za_gov	https://sacoronavirus.co.za/	
 kr_kaggle_ds4c	https://www.kaggle.com/kimjihoo/coronavirusdataset	
 lk_arimacdev	https://github.com/arimacdev/covid19-srilankan-data	
 mm_covidmyanmar	https://data.covidmyanmar.com	Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com
-cz_mzcr	https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19	
 my_unofficial_github	https://github.com/ynshung/covid-19-malaysia	
-de_unofficial	https://github.com/jgehrcke/covid-19-germany-gae	
-br_kaggle	https://www.kaggle.com/unanimad/corona-virus-brazil	CC0: Public Domain
 np_bipad	https://bipad.gov.np	
-de_rki_dash	https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/	
-ca_covid_19_canada	https://github.com/ishaberry/Covid19Canada	
+br_kaggle	https://www.kaggle.com/unanimad/corona-virus-brazil	CC0: Public Domain
 nz_herald	https://github.com/nzherald/nz-covid19-data	
+ca_covid_19_canada	https://github.com/ishaberry/Covid19Canada	
+cz_mzcr	https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19	
 th_open_data	https://covid19.th-stat.com/th/api	
 co_ocha_humdata	https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia	
-es_datadista	https://github.com/datadista/datasets/	
+de_unofficial	https://github.com/jgehrcke/covid-19-germany-gae	
 tw_cdc	https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV	
 cu_covid19cubadata	https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data	
-eu_subnational	https://data.humdata.org/dataset/europe-covid-19-subnational-cases	
+de_rki_dash	https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/	
 hk_dash	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 ht_hdx_humdata	https://data.humdata.org/dataset/haiti-covid-19-subnational-cases	
-fr_opencovid_fr	https://github.com/opencovid19-fr/data	
+es_datadista	https://github.com/datadista/datasets/	
 ve_ocha_venezuela_humdata	https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela	
 ve_patria	https://covid19.patria.org.ve/estadisticas-venezuela/	
+eu_subnational	https://data.humdata.org/dataset/europe-covid-19-subnational-cases	
+fr_opencovid_fr	https://github.com/opencovid19-fr/data	
+world_jhu_admin0	https://github.com/CSSEGISandData/COVID-19	
 fr_sante_publique	https://www.data.gouv.fr/fr/organizations/sante-publique-france/	
 gr_covid_19_greece	https://covid-19-greece.herokuapp.com	
 hr_gov	https://www.koronavirus.hr/	
@@ -71,7 +72,6 @@ si_sledilnik	https://covid-19.sledilnik.org/sl/stats
 gb_uk_unofficial	https://github.com/tomwhite/covid-19-uk-data	
 lv_infogram	https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija	
 lt_dash	https://registrucentras.maps.arcgis.com/apps/opsdashboard/index.html#/becd01f2fade4149ba7a9e5baaddcd8d	
-world_jhu_admin0	https://github.com/CSSEGISandData/COVID-19	
 world_jhu_admin1	https://github.com/CSSEGISandData/COVID-19	
 world_jhu_admin2	https://github.com/CSSEGISandData/COVID-19	
 world_bing	https://github.com/microsoft/Bing-COVID-19-Data	
