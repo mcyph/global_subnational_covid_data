@@ -1,7 +1,7 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
 admin_1	au	au-nt	2020_04_08	new		0	DERIVED	
 admin_1	au	au-nt	2020_04_08	status_recovered_new		0	DERIVED	
-admin_1	au	au-nt	2020_04_08	tests_new		194	DERIVED	
+admin_1	au	au-nt	2020_04_08	tests_new		257	DERIVED	
 admin_1	au	au-nt	2020_04_11	total		28	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_11	status_recovered		2	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_11	tests_total		3243	https://coronavirus.nt.gov.au/current-status	
@@ -50,7 +50,7 @@ admin_1	au	au-nt	2020_05_16	tests_new		176	DERIVED
 admin_1	au	au-nt	2020_05_20	new		0	DERIVED	
 admin_1	au	au-nt	2020_05_20	total		30	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_05_20	status_recovered		30	https://coronavirus.nt.gov.au/current-status	
-admin_1	au	au-nt	2020_05_20	status_recovered_new		1	DERIVED	
+admin_1	au	au-nt	2020_05_20	status_recovered_new		2	DERIVED	
 admin_1	au	au-nt	2020_05_20	tests_total		6517	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_05_20	tests_new		100	DERIVED	
 admin_1	au	au-nt	2020_05_25	total		30	https://coronavirus.nt.gov.au/current-status	
