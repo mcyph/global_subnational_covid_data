@@ -1,13 +1,13 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
 admin_1	au	au-nt	2020_04_08	new		0	DERIVED	
 admin_1	au	au-nt	2020_04_08	status_recovered_new		0	DERIVED	
-admin_1	au	au-nt	2020_04_08	tests_new		257	DERIVED	
+admin_1	au	au-nt	2020_04_08	tests_new		194	DERIVED	
 admin_1	au	au-nt	2020_04_11	total		28	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_11	status_recovered		2	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_11	tests_total		3243	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_14	new		0	DERIVED	
 admin_1	au	au-nt	2020_04_14	status_recovered_new		0	DERIVED	
-admin_1	au	au-nt	2020_04_14	tests_new		0	DERIVED	
+admin_1	au	au-nt	2020_04_14	tests_new		123	DERIVED	
 admin_1	au	au-nt	2020_04_17	total		28	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_17	status_recovered		9	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_04_17	tests_total		3489	https://coronavirus.nt.gov.au/current-status	
@@ -31,7 +31,7 @@ admin_1	au	au-nt	2020_05_02	status_recovered		25	https://coronavirus.nt.gov.au/c
 admin_1	au	au-nt	2020_05_02	tests_total		4721	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_05_05	new		0	DERIVED	
 admin_1	au	au-nt	2020_05_05	status_recovered_new		2	DERIVED	
-admin_1	au	au-nt	2020_05_05	tests_new		27	DERIVED	
+admin_1	au	au-nt	2020_05_05	tests_new		97	DERIVED	
 admin_1	au	au-nt	2020_05_07	total		30	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_05_07	status_recovered		28	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_05_07	tests_total		5003	https://coronavirus.nt.gov.au/current-status	
@@ -146,12 +146,9 @@ admin_1	au	au-nt	2020_07_03	status_recovered		30	https://coronavirus.nt.gov.au/c
 admin_1	au	au-nt	2020_07_03	status_recovered_new		0	DERIVED	
 admin_1	au	au-nt	2020_07_03	tests_total		13959	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_07_03	tests_new		355	DERIVED	
-admin_1	au	au-nt	2020_07_07	new		0	DERIVED	
-admin_1	au	au-nt	2020_07_07	total		31	https://coronavirus.nt.gov.au/current-status	
-admin_1	au	au-nt	2020_07_07	status_recovered		30	https://coronavirus.nt.gov.au/current-status	
-admin_1	au	au-nt	2020_07_07	status_recovered_new		0	DERIVED	
-admin_1	au	au-nt	2020_07_07	tests_total		14773	https://coronavirus.nt.gov.au/current-status	
-admin_1	au	au-nt	2020_07_07	tests_new		25	DERIVED	
+admin_1	au	au-nt	2020_07_06	total		31	https://coronavirus.nt.gov.au/current-status	
+admin_1	au	au-nt	2020_07_06	status_recovered		30	https://coronavirus.nt.gov.au/current-status	
+admin_1	au	au-nt	2020_07_06	tests_total		14748	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_07_08	new		0	DERIVED	
 admin_1	au	au-nt	2020_07_08	total		31	https://coronavirus.nt.gov.au/current-status	
 admin_1	au	au-nt	2020_07_08	status_recovered		30	https://coronavirus.nt.gov.au/current-status	

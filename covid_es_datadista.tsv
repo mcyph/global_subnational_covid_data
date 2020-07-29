@@ -1,5 +1,6 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
 admin_1	es	es-an	2020_02_20	total		0	https://github.com/datadista/datasets/	
+admin_0		es	2020_02_21	tests_total		3	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_02_22	tests_total		0	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_02_22	tests_new		0	DERIVED	
 admin_1	es	es-ar	2020_02_22	tests_total		0	https://github.com/datadista/datasets/	
@@ -40,10 +41,10 @@ admin_1	es	es-vc	2020_02_22	status_hospitalized		33	https://github.com/datadista
 admin_1	es	es-vc	2020_02_22	status_hospitalized_new		3	DERIVED	
 admin_1	es	es-vc	2020_02_22	tests_total		0	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_02_22	tests_new		0	DERIVED	
-admin_0		es	2020_02_24	tests_total		3	https://github.com/datadista/datasets/	
-admin_0		es	2020_02_24	tests_new		0	DERIVED	
-admin_0		es	2020_02_27	new		8	DERIVED	
-admin_0		es	2020_02_27	total		18	https://github.com/datadista/datasets/	
+admin_0		es	2020_02_25	new		1	DERIVED	
+admin_0		es	2020_02_25	total		4	https://github.com/datadista/datasets/	
+admin_0		es	2020_02_28	tests_total		36	https://github.com/datadista/datasets/	
+admin_0		es	2020_02_28	tests_new		18	DERIVED	
 admin_1	es	es-an	2020_02_29	tests_total		12	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_02_29	tests_new		4	DERIVED	
 admin_1	es	es-ar	2020_02_29	tests_total		0	https://github.com/datadista/datasets/	
@@ -86,10 +87,12 @@ admin_1	es	es-vc	2020_02_29	status_hospitalized		85	https://github.com/datadista
 admin_1	es	es-vc	2020_02_29	status_hospitalized_new		7	DERIVED	
 admin_1	es	es-vc	2020_02_29	tests_total		15	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_02_29	tests_new		5	DERIVED	
-admin_0		es	2020_03_02	tests_total		138	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_02	tests_new		55	DERIVED	
-admin_0		es	2020_03_05	new		82	DERIVED	
-admin_0		es	2020_03_05	total		351	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_03	new		57	DERIVED	
+admin_0		es	2020_03_03	total		195	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_06	status_deaths		5	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_06	status_deaths_new		2	DERIVED	
+admin_0		es	2020_03_06	tests_total		533	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_06	tests_new		182	DERIVED	
 admin_1	es	es-an	2020_03_07	tests_total		34	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_07	tests_new		7	DERIVED	
 admin_1	es	es-ar	2020_03_07	tests_total		5	https://github.com/datadista/datasets/	
@@ -134,14 +137,14 @@ admin_1	es	es-vc	2020_03_07	status_hospitalized		146	https://github.com/datadist
 admin_1	es	es-vc	2020_03_07	status_hospitalized_new		8	DERIVED	
 admin_1	es	es-vc	2020_03_07	tests_total		37	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_03_07	tests_new		7	DERIVED	
-admin_0		es	2020_03_09	status_deaths		28	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_09	status_deaths_new		11	DERIVED	
-admin_0		es	2020_03_09	tests_total		1535	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_09	tests_new		435	DERIVED	
-admin_0		es	2020_03_12	new		1154	DERIVED	
-admin_0		es	2020_03_12	total		4433	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_12	status_recovered		202	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_12	status_recovered_new		14	DERIVED	
+admin_0		es	2020_03_10	new		767	DERIVED	
+admin_0		es	2020_03_10	total		2302	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_10	status_recovered		138	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_10	status_recovered_new		114	DERIVED	
+admin_0		es	2020_03_13	status_deaths		124	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_13	status_deaths_new		39	DERIVED	
+admin_0		es	2020_03_13	tests_total		5955	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_13	tests_new		1522	DERIVED	
 admin_1	es	es-an	2020_03_14	status_deaths		6	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_14	status_hospitalized		92	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_14	status_deaths_new		4	DERIVED	
@@ -256,14 +259,14 @@ admin_1	es	es-vc	2020_03_14	status_deaths_new		1	DERIVED
 admin_1	es	es-vc	2020_03_14	status_hospitalized_new		32	DERIVED	
 admin_1	es	es-vc	2020_03_14	tests_total		409	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_03_14	tests_new		279	DERIVED	
-admin_0		es	2020_03_16	status_deaths		318	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_16	status_deaths_new		22	DERIVED	
-admin_0		es	2020_03_16	tests_total		11488	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_16	tests_new		1702	DERIVED	
-admin_0		es	2020_03_19	new		4037	DERIVED	
-admin_0		es	2020_03_19	total		21744	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_19	status_recovered		1210	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_19	status_recovered_new		239	DERIVED	
+admin_0		es	2020_03_17	new		2523	DERIVED	
+admin_0		es	2020_03_17	total		14011	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_17	status_recovered		913	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_17	status_recovered_new		327	DERIVED	
+admin_0		es	2020_03_20	status_deaths		995	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_20	status_deaths_new		229	DERIVED	
+admin_0		es	2020_03_20	tests_total		26299	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_20	tests_new		4555	DERIVED	
 admin_1	es	es-an	2020_03_21	status_deaths		47	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_21	status_hospitalized		724	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_21	status_deaths_new		7	DERIVED	
@@ -378,70 +381,20 @@ admin_1	es	es-vc	2020_03_21	status_deaths_new		19	DERIVED
 admin_1	es	es-vc	2020_03_21	status_hospitalized_new		189	DERIVED	
 admin_1	es	es-vc	2020_03_21	tests_total		1604	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_03_21	tests_new		241	DERIVED	
-admin_0		es	2020_03_23	total_male		9736	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female		9182	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths		2146	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths_new		431	DERIVED	
-admin_0		es	2020_03_23	tests_total		41263	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	tests_new		4630	DERIVED	
-admin_0		es	2020_03_23	total	0-9	129	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	0-9	65	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	0-9	64	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	0-9	0	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	0-9	34	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	0-9	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	10-19	221	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	10-19	98	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	10-19	123	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	10-19	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	10-19	15	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	10-19	0	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	20-29	1285	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	20-29	559	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	20-29	724	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	20-29	4	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	20-29	183	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	20-29	8	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	30-39	2208	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	30-39	949	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	30-39	1258	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	30-39	3	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	30-39	365	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	30-39	15	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	40-49	2919	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	40-49	1428	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	40-49	1487	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	40-49	9	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	40-49	663	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	40-49	40	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	50-59	3129	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	50-59	1520	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	50-59	1603	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	50-59	20	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	50-59	936	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	50-59	89	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	60-69	2916	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	60-69	1557	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	60-69	1338	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	60-69	63	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	60-69	1230	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	60-69	132	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total	70-79	3132	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_male	70-79	1894	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	total_female	70-79	1237	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_deaths	70-79	164	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_hospitalized	70-79	1678	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_23	status_icu	70-79	165	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	total	80 y +	3020	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	total_male	80 y +	1666	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	total_female	80 y +	1348	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	status_deaths	80 y +	541	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	status_hospitalized	80 y +	1710	https://github.com/datadista/datasets/	
 admin_0		es	2020_03_23	status_icu	80 y +	34	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_25	new		-27109	DERIVED	
-admin_0		es	2020_03_25	total		57519	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_25	status_recovered		5054	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_25	status_recovered_new		1356	DERIVED	
+admin_0		es	2020_03_24	new		30022	DERIVED	
+admin_0		es	2020_03_24	total		20471	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_24	status_recovered		3698	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_24	status_recovered_new		581	DERIVED	
+admin_0		es	2020_03_26	status_deaths		3920	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_26	status_deaths_new		613	DERIVED	
+admin_0		es	2020_03_26	tests_total		66492	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_26	tests_new		8973	DERIVED	
 admin_1	es	es-an	2020_03_27	status_deaths		175	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_27	status_hospitalized		2106	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_03_27	status_deaths_new		31	DERIVED	
@@ -556,116 +509,116 @@ admin_1	es	es-vc	2020_03_27	status_deaths_new		36	DERIVED
 admin_1	es	es-vc	2020_03_27	status_hospitalized_new		249	DERIVED	
 admin_1	es	es-vc	2020_03_27	tests_total		4034	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_03_27	tests_new		502	DERIVED	
-admin_0		es	2020_03_29	total_male		25166	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female		25054	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths		6223	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new		710	DERIVED	
-admin_0		es	2020_03_29	tests_total		90357	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	tests_new		6440	DERIVED	
-admin_0		es	2020_03_29	new	0-9	21	DERIVED	
-admin_0		es	2020_03_29	total	0-9	207	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	0-9	110	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	0-9	96	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	0-9	0	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	0-9	65	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	0-9	3	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	0-9	0	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	0-9	16	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	0-9	2	DERIVED	
-admin_0		es	2020_03_29	new	10-19	43	DERIVED	
-admin_0		es	2020_03_29	total	10-19	360	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	10-19	162	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	10-19	195	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	10-19	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	10-19	47	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	10-19	2	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	10-19	0	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	10-19	12	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	10-19	1	DERIVED	
-admin_0		es	2020_03_29	new	20-29	714	DERIVED	
-admin_0		es	2020_03_29	total	20-29	2802	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	20-29	1106	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	20-29	1693	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	20-29	6	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	20-29	444	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	20-29	22	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	20-29	2	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	20-29	134	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	20-29	4	DERIVED	
-admin_0		es	2020_03_29	new	30-39	1394	DERIVED	
-admin_0		es	2020_03_29	total	30-39	5168	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	30-39	2210	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	30-39	2957	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	30-39	10	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	30-39	1070	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	30-39	60	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	30-39	3	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	30-39	373	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	30-39	19	DERIVED	
-admin_0		es	2020_03_29	new	40-49	2180	DERIVED	
-admin_0		es	2020_03_29	total	40-49	7731	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	40-49	3586	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	40-49	4143	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	40-49	35	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	40-49	2204	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	40-49	134	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	40-49	16	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	40-49	744	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	40-49	26	DERIVED	
-admin_0		es	2020_03_29	new	50-59	2711	DERIVED	
-admin_0		es	2020_03_29	total	50-59	9135	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	50-59	4382	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	50-59	4751	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	50-59	74	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	50-59	3350	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	50-59	286	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	50-59	37	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	50-59	1149	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	50-59	59	DERIVED	
-admin_0		es	2020_03_29	new	60-69	2515	DERIVED	
-admin_0		es	2020_03_29	total	60-69	8495	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	60-69	4589	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	60-69	3903	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	60-69	225	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	60-69	4459	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	60-69	519	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	60-69	102	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	60-69	1460	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	60-69	127	DERIVED	
-admin_0		es	2020_03_29	new	70-79	2493	DERIVED	
-admin_0		es	2020_03_29	total	70-79	8416	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	70-79	4994	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	70-79	3422	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	70-79	749	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	70-79	5729	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	70-79	597	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	70-79	406	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	70-79	1939	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	70-79	107	DERIVED	
-admin_0		es	2020_03_29	new	80-89	1620	DERIVED	
-admin_0		es	2020_03_29	total	80-89	6117	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	80-89	3297	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	80-89	2820	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	80-89	1195	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	80-89	4054	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	80-89	62	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	80-89	553	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	80-89	1263	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	80-89	6	DERIVED	
-admin_0		es	2020_03_29	new	90+	339	DERIVED	
-admin_0		es	2020_03_29	total	90+	1804	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_male	90+	730	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	total_female	90+	1074	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths	90+	438	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_hospitalized	90+	1014	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_icu	90+	3	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_29	status_deaths_new	90+	172	DERIVED	
-admin_0		es	2020_03_29	status_hospitalized_new	90+	248	DERIVED	
-admin_0		es	2020_03_29	status_icu_new	90+	-2	DERIVED	
-admin_0		es	2020_03_31	new		8158	DERIVED	
-admin_0		es	2020_03_31	total		55484	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_31	status_recovered		16882	https://github.com/datadista/datasets/	
-admin_0		es	2020_03_31	status_recovered_new		2075	DERIVED	
+admin_0		es	2020_03_28	total_male		18070	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female		18127	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	new	0-9	5	DERIVED	
+admin_0		es	2020_03_28	total	0-9	186	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	0-9	103	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	0-9	83	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	0-9	0	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	0-9	49	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	0-9	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	0-9	0	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	0-9	3	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	0-9	0	DERIVED	
+admin_0		es	2020_03_28	new	10-19	5	DERIVED	
+admin_0		es	2020_03_28	total	10-19	317	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	10-19	143	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	10-19	174	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	10-19	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	10-19	35	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	10-19	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	10-19	0	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	10-19	-1	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	10-19	0	DERIVED	
+admin_0		es	2020_03_28	new	20-29	77	DERIVED	
+admin_0		es	2020_03_28	total	20-29	2088	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	20-29	857	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	20-29	1228	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	20-29	4	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	20-29	310	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	20-29	18	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	20-29	0	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	20-29	15	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	20-29	2	DERIVED	
+admin_0		es	2020_03_28	new	30-39	199	DERIVED	
+admin_0		es	2020_03_28	total	30-39	3774	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	30-39	1626	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	30-39	2148	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	30-39	7	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	30-39	697	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	30-39	41	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	30-39	0	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	30-39	42	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	30-39	0	DERIVED	
+admin_0		es	2020_03_28	new	40-49	309	DERIVED	
+admin_0		es	2020_03_28	total	40-49	5551	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	40-49	2578	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	40-49	2973	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	40-49	19	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	40-49	1460	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	40-49	108	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	40-49	0	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	40-49	112	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	40-49	9	DERIVED	
+admin_0		es	2020_03_28	new	50-59	394	DERIVED	
+admin_0		es	2020_03_28	total	50-59	6424	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	50-59	3054	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	50-59	3368	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	50-59	37	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	50-59	2201	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	50-59	227	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	50-59	2	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	50-59	157	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	50-59	22	DERIVED	
+admin_0		es	2020_03_28	new	60-69	347	DERIVED	
+admin_0		es	2020_03_28	total	60-69	5980	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	60-69	3187	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	60-69	2790	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	60-69	123	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	60-69	2999	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	60-69	392	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	60-69	4	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	60-69	215	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	60-69	32	DERIVED	
+admin_0		es	2020_03_28	new	70-79	303	DERIVED	
+admin_0		es	2020_03_28	total	70-79	5923	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	70-79	3527	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	70-79	2396	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	70-79	343	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	70-79	3790	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	70-79	490	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	70-79	24	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	70-79	215	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	70-79	36	DERIVED	
+admin_0		es	2020_03_28	new	80-89	230	DERIVED	
+admin_0		es	2020_03_28	total	80-89	4497	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	80-89	2421	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	80-89	2076	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	80-89	642	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	80-89	2791	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	80-89	56	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	80-89	34	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	80-89	137	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	80-89	1	DERIVED	
+admin_0		es	2020_03_28	new	90+	87	DERIVED	
+admin_0		es	2020_03_28	total	90+	1465	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_male	90+	574	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	total_female	90+	891	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths	90+	266	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_hospitalized	90+	766	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_icu	90+	5	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_28	status_deaths_new	90+	11	DERIVED	
+admin_0		es	2020_03_28	status_hospitalized_new	90+	31	DERIVED	
+admin_0		es	2020_03_28	status_icu_new	90+	0	DERIVED	
+admin_0		es	2020_03_30	new		5797	DERIVED	
+admin_0		es	2020_03_30	total		51626	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_30	status_recovered		14807	https://github.com/datadista/datasets/	
+admin_0		es	2020_03_30	status_recovered_new		1471	DERIVED	
+admin_0		es	2020_04_01	status_deaths		8674	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_01	status_deaths_new		930	DERIVED	
+admin_0		es	2020_04_01	tests_total		111737	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_01	tests_new		7425	DERIVED	
 admin_1	es	es-an	2020_04_02	status_deaths		376	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_02	status_hospitalized		3673	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_02	status_deaths_new		33	DERIVED	
@@ -780,116 +733,116 @@ admin_1	es	es-vc	2020_04_02	status_deaths_new		68	DERIVED
 admin_1	es	es-vc	2020_04_02	status_hospitalized_new		103	DERIVED	
 admin_1	es	es-vc	2020_04_02	tests_total		6624	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_04_02	tests_new		316	DERIVED	
-admin_0		es	2020_04_04	total_male		34789	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female		35885	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths		11171	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new		777	DERIVED	
-admin_0		es	2020_04_04	tests_total		133307	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	tests_new		6697	DERIVED	
-admin_0		es	2020_04_04	new	0-9	0	DERIVED	
-admin_0		es	2020_04_04	total	0-9	251	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	0-9	134	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	0-9	117	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	0-9	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	0-9	86	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	0-9	7	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	0-9	1	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	0-9	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	0-9	0	DERIVED	
-admin_0		es	2020_04_04	new	10-19	0	DERIVED	
-admin_0		es	2020_04_04	total	10-19	445	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	10-19	217	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	10-19	228	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	10-19	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	10-19	78	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	10-19	3	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	10-19	0	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	10-19	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	10-19	0	DERIVED	
-admin_0		es	2020_04_04	new	20-29	0	DERIVED	
-admin_0		es	2020_04_04	total	20-29	3662	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	20-29	1380	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	20-29	2279	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	20-29	6	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	20-29	557	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	20-29	30	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	20-29	0	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	20-29	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	20-29	0	DERIVED	
-admin_0		es	2020_04_04	new	30-39	0	DERIVED	
-admin_0		es	2020_04_04	total	30-39	6997	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	30-39	2884	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	30-39	4113	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	30-39	19	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	30-39	1411	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	30-39	89	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	30-39	0	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	30-39	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	30-39	0	DERIVED	
-admin_0		es	2020_04_04	new	40-49	0	DERIVED	
-admin_0		es	2020_04_04	total	40-49	10759	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	40-49	4909	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	40-49	5849	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	40-49	50	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	40-49	3119	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	40-49	227	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	40-49	2	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	40-49	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	40-49	0	DERIVED	
-admin_0		es	2020_04_04	new	50-59	0	DERIVED	
-admin_0		es	2020_04_04	total	50-59	12986	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	50-59	6098	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	50-59	6887	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	50-59	139	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	50-59	4947	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	50-59	453	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	50-59	6	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	50-59	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	50-59	0	DERIVED	
-admin_0		es	2020_04_04	new	60-69	0	DERIVED	
-admin_0		es	2020_04_04	total	60-69	11927	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	60-69	6475	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	60-69	5449	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	60-69	401	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	60-69	6720	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	60-69	823	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	60-69	14	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	60-69	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	60-69	0	DERIVED	
-admin_0		es	2020_04_04	new	70-79	0	DERIVED	
-admin_0		es	2020_04_04	total	70-79	11630	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	70-79	6886	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	70-79	4742	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	70-79	1283	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	70-79	8348	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	70-79	859	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	70-79	45	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	70-79	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	70-79	0	DERIVED	
-admin_0		es	2020_04_04	new	80-89	0	DERIVED	
-admin_0		es	2020_04_04	total	80-89	9064	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	80-89	4667	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	80-89	4397	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	80-89	2014	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	80-89	6085	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	80-89	94	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	80-89	69	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	80-89	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	80-89	0	DERIVED	
-admin_0		es	2020_04_04	new	90+	0	DERIVED	
-admin_0		es	2020_04_04	total	90+	2963	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_male	90+	1139	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	total_female	90+	1824	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths	90+	795	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_hospitalized	90+	1594	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_icu	90+	6	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_04	status_deaths_new	90+	29	DERIVED	
-admin_0		es	2020_04_04	status_hospitalized_new	90+	0	DERIVED	
-admin_0		es	2020_04_04	status_icu_new	90+	0	DERIVED	
-admin_0		es	2020_04_06	new		3674	DERIVED	
-admin_0		es	2020_04_06	total		88190	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_06	status_recovered		35723	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_06	status_recovered_new		2022	DERIVED	
+admin_0		es	2020_04_03	total_male		34789	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female		35885	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	new	0-9	1	DERIVED	
+admin_0		es	2020_04_03	total	0-9	251	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	0-9	134	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	0-9	117	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	0-9	0	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	0-9	86	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	0-9	7	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	0-9	0	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	0-9	0	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	0-9	0	DERIVED	
+admin_0		es	2020_04_03	new	10-19	11	DERIVED	
+admin_0		es	2020_04_03	total	10-19	445	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	10-19	217	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	10-19	228	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	10-19	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	10-19	78	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	10-19	3	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	10-19	0	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	10-19	6	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	10-19	0	DERIVED	
+admin_0		es	2020_04_03	new	20-29	72	DERIVED	
+admin_0		es	2020_04_03	total	20-29	3662	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	20-29	1380	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	20-29	2279	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	20-29	6	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	20-29	557	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	20-29	30	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	20-29	0	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	20-29	11	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	20-29	1	DERIVED	
+admin_0		es	2020_04_03	new	30-39	144	DERIVED	
+admin_0		es	2020_04_03	total	30-39	6997	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	30-39	2884	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	30-39	4113	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	30-39	19	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	30-39	1411	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	30-39	89	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	30-39	1	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	30-39	35	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	30-39	3	DERIVED	
+admin_0		es	2020_04_03	new	40-49	208	DERIVED	
+admin_0		es	2020_04_03	total	40-49	10759	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	40-49	4909	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	40-49	5849	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	40-49	48	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	40-49	3119	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	40-49	227	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	40-49	-1	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	40-49	80	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	40-49	12	DERIVED	
+admin_0		es	2020_04_03	new	50-59	264	DERIVED	
+admin_0		es	2020_04_03	total	50-59	12986	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	50-59	6098	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	50-59	6887	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	50-59	133	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	50-59	4947	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	50-59	453	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	50-59	2	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	50-59	152	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	50-59	21	DERIVED	
+admin_0		es	2020_04_03	new	60-69	270	DERIVED	
+admin_0		es	2020_04_03	total	60-69	11927	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	60-69	6475	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	60-69	5449	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	60-69	387	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	60-69	6720	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	60-69	823	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	60-69	14	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	60-69	209	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	60-69	44	DERIVED	
+admin_0		es	2020_04_03	new	70-79	262	DERIVED	
+admin_0		es	2020_04_03	total	70-79	11630	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	70-79	6886	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	70-79	4742	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	70-79	1238	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	70-79	8348	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	70-79	859	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	70-79	62	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	70-79	234	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	70-79	39	DERIVED	
+admin_0		es	2020_04_03	new	80-89	207	DERIVED	
+admin_0		es	2020_04_03	total	80-89	9064	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	80-89	4667	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	80-89	4397	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	80-89	1945	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	80-89	6085	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	80-89	94	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	80-89	66	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	80-89	156	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	80-89	2	DERIVED	
+admin_0		es	2020_04_03	new	90+	68	DERIVED	
+admin_0		es	2020_04_03	total	90+	2963	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_male	90+	1139	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	total_female	90+	1824	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths	90+	766	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_hospitalized	90+	1594	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_icu	90+	6	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_03	status_deaths_new	90+	38	DERIVED	
+admin_0		es	2020_04_03	status_hospitalized_new	90+	31	DERIVED	
+admin_0		es	2020_04_03	status_icu_new	90+	0	DERIVED	
+admin_0		es	2020_04_05	new		5552	DERIVED	
+admin_0		es	2020_04_05	total		87537	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_05	status_recovered		33701	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_05	status_recovered_new		3528	DERIVED	
+admin_0		es	2020_04_07	status_deaths		13224	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_07	status_deaths_new		755	DERIVED	
+admin_0		es	2020_04_07	tests_total		147799	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_07	tests_new		5266	DERIVED	
 admin_1	es	es-an	2020_04_08	status_deaths		652	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_08	status_hospitalized		4599	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_08	status_deaths_new		47	DERIVED	
@@ -1004,116 +957,116 @@ admin_1	es	es-vc	2020_04_08	status_deaths_new		43	DERIVED
 admin_1	es	es-vc	2020_04_08	status_hospitalized_new		102	DERIVED	
 admin_1	es	es-vc	2020_04_08	tests_total		7964	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_04_08	tests_new		309	DERIVED	
-admin_0		es	2020_04_10	total_male		52130	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female		56976	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths		15407	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new		647	DERIVED	
-admin_0		es	2020_04_10	tests_total		163820	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	tests_new		4620	DERIVED	
-admin_0		es	2020_04_10	new	0-9	3	DERIVED	
-admin_0		es	2020_04_10	total	0-9	288	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	0-9	145	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	0-9	142	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	0-9	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	0-9	88	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	0-9	7	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	0-9	0	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	0-9	1	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	0-9	0	DERIVED	
-admin_0		es	2020_04_10	new	10-19	5	DERIVED	
-admin_0		es	2020_04_10	total	10-19	593	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	10-19	289	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	10-19	304	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	10-19	1	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	10-19	119	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	10-19	5	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	10-19	0	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	10-19	1	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	10-19	0	DERIVED	
-admin_0		es	2020_04_10	new	20-29	96	DERIVED	
-admin_0		es	2020_04_10	total	20-29	5477	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	20-29	1939	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	20-29	3531	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	20-29	11	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	20-29	835	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	20-29	53	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	20-29	0	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	20-29	7	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	20-29	0	DERIVED	
-admin_0		es	2020_04_10	new	30-39	177	DERIVED	
-admin_0		es	2020_04_10	total	30-39	10518	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	30-39	4209	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	30-39	6307	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	30-39	24	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	30-39	2222	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	30-39	162	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	30-39	0	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	30-39	18	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	30-39	2	DERIVED	
-admin_0		es	2020_04_10	new	40-49	363	DERIVED	
-admin_0		es	2020_04_10	total	40-49	16451	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	40-49	7340	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	40-49	9107	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	40-49	66	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	40-49	5026	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	40-49	399	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	40-49	5	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	40-49	62	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	40-49	-3	DERIVED	
-admin_0		es	2020_04_10	new	50-59	506	DERIVED	
-admin_0		es	2020_04_10	total	50-59	20342	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	50-59	9370	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	50-59	10963	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	50-59	206	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	50-59	8152	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	50-59	890	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	50-59	9	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	50-59	146	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	50-59	13	DERIVED	
-admin_0		es	2020_04_10	new	60-69	382	DERIVED	
-admin_0		es	2020_04_10	total	60-69	18095	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	60-69	9736	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	60-69	8354	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	60-69	624	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	60-69	10564	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	60-69	1462	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	60-69	27	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	60-69	187	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	60-69	6	DERIVED	
-admin_0		es	2020_04_10	new	70-79	340	DERIVED	
-admin_0		es	2020_04_10	total	70-79	17297	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	70-79	10060	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	70-79	7230	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	70-79	1848	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	70-79	12824	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	70-79	1464	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	70-79	75	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	70-79	236	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	70-79	7	DERIVED	
-admin_0		es	2020_04_10	new	80-89	521	DERIVED	
-admin_0		es	2020_04_10	total	80-89	14739	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	80-89	7171	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	80-89	7566	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	80-89	3035	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	80-89	9784	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	80-89	150	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	80-89	171	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	80-89	261	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	80-89	0	DERIVED	
-admin_0		es	2020_04_10	new	90+	306	DERIVED	
-admin_0		es	2020_04_10	total	90+	5346	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_male	90+	1871	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	total_female	90+	3472	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths	90+	1290	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_hospitalized	90+	2610	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_icu	90+	17	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_10	status_deaths_new	90+	90	DERIVED	
-admin_0		es	2020_04_10	status_hospitalized_new	90+	83	DERIVED	
-admin_0		es	2020_04_10	status_icu_new	90+	0	DERIVED	
-admin_0		es	2020_04_12	new		62530	DERIVED	
-admin_0		es	2020_04_12	total		119994	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_12	status_recovered		57026	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_12	status_recovered_new		2908	DERIVED	
+admin_0		es	2020_04_09	total_male		50977	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female		55450	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	new	0-9	-2	DERIVED	
+admin_0		es	2020_04_09	total	0-9	285	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	0-9	146	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	0-9	138	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	0-9	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	0-9	87	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	0-9	7	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	0-9	0	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	0-9	6	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	0-9	1	DERIVED	
+admin_0		es	2020_04_09	new	10-19	35	DERIVED	
+admin_0		es	2020_04_09	total	10-19	588	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	10-19	281	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	10-19	307	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	10-19	1	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	10-19	118	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	10-19	5	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	10-19	0	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	10-19	7	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	10-19	0	DERIVED	
+admin_0		es	2020_04_09	new	20-29	268	DERIVED	
+admin_0		es	2020_04_09	total	20-29	5381	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	20-29	1918	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	20-29	3458	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	20-29	11	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	20-29	828	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	20-29	53	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	20-29	2	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	20-29	24	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	20-29	3	DERIVED	
+admin_0		es	2020_04_09	new	30-39	522	DERIVED	
+admin_0		es	2020_04_09	total	30-39	10341	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	30-39	4141	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	30-39	6199	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	30-39	24	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	30-39	2204	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	30-39	160	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	30-39	1	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	30-39	75	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	30-39	17	DERIVED	
+admin_0		es	2020_04_09	new	40-49	832	DERIVED	
+admin_0		es	2020_04_09	total	40-49	16088	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	40-49	7217	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	40-49	8869	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	40-49	61	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	40-49	4964	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	40-49	402	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	40-49	8	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	40-49	215	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	40-49	33	DERIVED	
+admin_0		es	2020_04_09	new	50-59	1046	DERIVED	
+admin_0		es	2020_04_09	total	50-59	19836	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	50-59	9175	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	50-59	10658	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	50-59	197	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	50-59	8006	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	50-59	877	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	50-59	11	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	50-59	340	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	50-59	113	DERIVED	
+admin_0		es	2020_04_09	new	60-69	740	DERIVED	
+admin_0		es	2020_04_09	total	60-69	17713	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	60-69	9542	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	60-69	8167	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	60-69	597	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	60-69	10377	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	60-69	1456	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	60-69	70	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	60-69	357	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	60-69	180	DERIVED	
+admin_0		es	2020_04_09	new	70-79	700	DERIVED	
+admin_0		es	2020_04_09	total	70-79	16957	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	70-79	9855	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	70-79	7100	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	70-79	1773	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	70-79	12588	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	70-79	1457	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	70-79	170	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	70-79	431	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	70-79	194	DERIVED	
+admin_0		es	2020_04_09	new	80-89	1150	DERIVED	
+admin_0		es	2020_04_09	total	80-89	14218	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	80-89	6938	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	80-89	7279	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	80-89	2864	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	80-89	9523	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	80-89	150	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	80-89	349	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	80-89	612	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	80-89	24	DERIVED	
+admin_0		es	2020_04_09	new	90+	701	DERIVED	
+admin_0		es	2020_04_09	total	90+	5040	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_male	90+	1764	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	total_female	90+	3275	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths	90+	1200	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_hospitalized	90+	2527	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_icu	90+	17	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_09	status_deaths_new	90+	214	DERIVED	
+admin_0		es	2020_04_09	status_hospitalized_new	90+	291	DERIVED	
+admin_0		es	2020_04_09	status_icu_new	90+	5	DERIVED	
+admin_0		es	2020_04_11	new		1167	DERIVED	
+admin_0		es	2020_04_11	total		168782	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_11	status_recovered		54118	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_11	status_recovered_new		3258	DERIVED	
+admin_0		es	2020_04_13	status_deaths		17064	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_13	status_deaths_new		549	DERIVED	
+admin_0		es	2020_04_13	tests_total		176003	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_13	tests_new		3160	DERIVED	
 admin_1	es	es-an	2020_04_14	status_deaths		865	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_14	status_hospitalized		5147	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_14	status_deaths_new		29	DERIVED	
@@ -1230,10 +1183,6 @@ admin_1	es	es-vc	2020_04_14	tests_total		9424	https://github.com/datadista/datas
 admin_1	es	es-vc	2020_04_14	tests_new		211	DERIVED	
 admin_0		es	2020_04_15	total_male		58020	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_15	total_female		64777	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_15	status_deaths		18282	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_15	status_deaths_new		682	DERIVED	
-admin_0		es	2020_04_15	tests_total		184062	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_15	tests_new		4715	DERIVED	
 admin_0		es	2020_04_15	new	0-9	-13	DERIVED	
 admin_0		es	2020_04_15	total	0-9	382	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_15	total_male	0-9	205	https://github.com/datadista/datasets/	
@@ -1334,10 +1283,14 @@ admin_0		es	2020_04_15	status_icu	90+	16	https://github.com/datadista/datasets/
 admin_0		es	2020_04_15	status_deaths_new	90+	8	DERIVED	
 admin_0		es	2020_04_15	status_hospitalized_new	90+	-65	DERIVED	
 admin_0		es	2020_04_15	status_icu_new	90+	0	DERIVED	
-admin_0		es	2020_04_17	new		2707	DERIVED	
-admin_0		es	2020_04_17	total		193200	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_17	status_recovered		72952	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_17	status_recovered_new		3491	DERIVED	
+admin_0		es	2020_04_16	new		65642	DERIVED	
+admin_0		es	2020_04_16	total		133082	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_16	status_recovered		69461	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_16	status_recovered_new		3782	DERIVED	
+admin_0		es	2020_04_18	status_deaths		20046	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_18	status_deaths_new		556	DERIVED	
+admin_0		es	2020_04_18	tests_total		198160	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_18	tests_new		4960	DERIVED	
 admin_1	es	es-an	2020_04_19	status_deaths		1013	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_19	status_hospitalized		5473	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_19	status_deaths_new		20	DERIVED	
@@ -1454,10 +1407,6 @@ admin_1	es	es-vc	2020_04_19	tests_total		10339	https://github.com/datadista/data
 admin_1	es	es-vc	2020_04_19	tests_new		89	DERIVED	
 admin_0		es	2020_04_20	total_male		66881	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_20	total_female		78473	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_20	status_deaths		20851	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_20	status_deaths_new		397	DERIVED	
-admin_0		es	2020_04_20	tests_total		206937	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_20	tests_new		3616	DERIVED	
 admin_0		es	2020_04_20	new	0-9	-51	DERIVED	
 admin_0		es	2020_04_20	total	0-9	400	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_20	total_male	0-9	267	https://github.com/datadista/datasets/	
@@ -1558,10 +1507,14 @@ admin_0		es	2020_04_20	status_icu	90+	27	https://github.com/datadista/datasets/
 admin_0		es	2020_04_20	status_deaths_new	90+	118	DERIVED	
 admin_0		es	2020_04_20	status_hospitalized_new	90+	340	DERIVED	
 admin_0		es	2020_04_20	status_icu_new	90+	3	DERIVED	
-admin_0		es	2020_04_22	new		3805	DERIVED	
-admin_0		es	2020_04_22	total		148113	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_22	status_recovered		85915	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_22	status_recovered_new		3401	DERIVED	
+admin_0		es	2020_04_21	new		3667	DERIVED	
+admin_0		es	2020_04_21	total		145783	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_21	status_recovered		82514	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_21	status_recovered_new		1927	DERIVED	
+admin_0		es	2020_04_23	status_deaths		22156	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_23	status_deaths_new		439	DERIVED	
+admin_0		es	2020_04_23	tests_total		219187	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_23	tests_new		4778	DERIVED	
 admin_1	es	es-an	2020_04_24	status_deaths		1131	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_24	status_hospitalized		5715	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_24	status_deaths_new		24	DERIVED	
@@ -1678,10 +1631,6 @@ admin_1	es	es-vc	2020_04_24	tests_total		11123	https://github.com/datadista/data
 admin_1	es	es-vc	2020_04_24	tests_new		217	DERIVED	
 admin_0		es	2020_04_25	total_male		87042	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_25	total_female		108187	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_25	status_deaths		22898	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_25	status_deaths_new		377	DERIVED	
-admin_0		es	2020_04_25	tests_total		226603	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_25	tests_new		3889	DERIVED	
 admin_0		es	2020_04_25	new	0-9	118	DERIVED	
 admin_0		es	2020_04_25	total	0-9	624	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_25	total_male	0-9	330	https://github.com/datadista/datasets/	
@@ -1782,10 +1731,16 @@ admin_0		es	2020_04_25	status_icu	90+	32	https://github.com/datadista/datasets/
 admin_0		es	2020_04_25	status_deaths_new	90+	294	DERIVED	
 admin_0		es	2020_04_25	status_hospitalized_new	90+	490	DERIVED	
 admin_0		es	2020_04_25	status_icu_new	90+	4	DERIVED	
-admin_0		es	2020_04_27	new		9511	DERIVED	
-admin_0		es	2020_04_27	total		231990	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_27	status_recovered		100875	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_27	status_recovered_new		2144	DERIVED	
+admin_0		es	2020_04_26	new		-31737	DERIVED	
+admin_0		es	2020_04_26	total		229406	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_26	status_recovered		98731	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_26	status_recovered_new		3023	DERIVED	
+admin_0		es	2020_04_28	status_deaths		23813	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_28	status_hospitalized		113910	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_28	status_deaths_new		297	DERIVED	
+admin_0		es	2020_04_28	status_hospitalized_new		761	DERIVED	
+admin_0		es	2020_04_28	tests_total		234984	https://github.com/datadista/datasets/	
+admin_0		es	2020_04_28	tests_new		2994	DERIVED	
 admin_1	es	es-an	2020_04_29	status_deaths		1207	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_29	status_hospitalized		5873	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_04_29	status_deaths_new		19	DERIVED	
@@ -1902,14 +1857,6 @@ admin_1	es	es-vc	2020_04_29	tests_total		12058	https://github.com/datadista/data
 admin_1	es	es-vc	2020_04_29	tests_new		242	DERIVED	
 admin_0		es	2020_04_30	total_male		92748	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_30	total_female		117651	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_30	status_deaths		24537	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_30	status_hospitalized		115787	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_30	status_icu		10745	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_30	status_deaths_new		265	DERIVED	
-admin_0		es	2020_04_30	status_hospitalized_new		793	DERIVED	
-admin_0		es	2020_04_30	status_icu_new		57	DERIVED	
-admin_0		es	2020_04_30	tests_total		241653	https://github.com/datadista/datasets/	
-admin_0		es	2020_04_30	tests_new		3197	DERIVED	
 admin_0		es	2020_04_30	new	0-9	24	DERIVED	
 admin_0		es	2020_04_30	total	0-9	694	https://github.com/datadista/datasets/	
 admin_0		es	2020_04_30	total_male	0-9	377	https://github.com/datadista/datasets/	
@@ -2010,10 +1957,18 @@ admin_0		es	2020_04_30	status_icu	90+	43	https://github.com/datadista/datasets/
 admin_0		es	2020_04_30	status_deaths_new	90+	172	DERIVED	
 admin_0		es	2020_04_30	status_hospitalized_new	90+	192	DERIVED	
 admin_0		es	2020_04_30	status_icu_new	90+	5	DERIVED	
-admin_0		es	2020_05_02	new		-32356	DERIVED	
-admin_0		es	2020_05_02	total		247516	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_02	status_recovered		117248	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_02	status_recovered_new		2572	DERIVED	
+admin_0		es	2020_05_01	new		3195	DERIVED	
+admin_0		es	2020_05_01	total		211609	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_01	status_recovered		114676	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_01	status_recovered_new		2626	DERIVED	
+admin_0		es	2020_05_03	status_deaths		25260	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_03	status_hospitalized		117550	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_03	status_icu		10940	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_03	status_deaths_new		163	DERIVED	
+admin_0		es	2020_05_03	status_hospitalized_new		529	DERIVED	
+admin_0		es	2020_05_03	status_icu_new		64	DERIVED	
+admin_0		es	2020_05_03	tests_total		249050	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_03	tests_new		1534	DERIVED	
 admin_1	es	es-an	2020_05_04	status_deaths		1267	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_04	status_hospitalized		5983	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_04	status_deaths_new		4	DERIVED	
@@ -2130,14 +2085,6 @@ admin_1	es	es-vc	2020_05_04	tests_total		13000	https://github.com/datadista/data
 admin_1	es	es-vc	2020_05_04	tests_new		42	DERIVED	
 admin_0		es	2020_05_05	total_male		94835	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_05	total_female		121419	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_05	status_deaths		25610	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_05	status_hospitalized		118619	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_05	status_icu		10998	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_05	status_deaths_new		186	DERIVED	
-admin_0		es	2020_05_05	status_hospitalized_new		692	DERIVED	
-admin_0		es	2020_05_05	status_icu_new		37	DERIVED	
-admin_0		es	2020_05_05	tests_total		252001	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_05	tests_new		1964	DERIVED	
 admin_0		es	2020_05_05	new	0-9	-1	DERIVED	
 admin_0		es	2020_05_05	total	0-9	730	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_05	total_male	0-9	399	https://github.com/datadista/datasets/	
@@ -2238,10 +2185,18 @@ admin_0		es	2020_05_05	status_icu	90+	46	https://github.com/datadista/datasets/
 admin_0		es	2020_05_05	status_deaths_new	90+	6	DERIVED	
 admin_0		es	2020_05_05	status_hospitalized_new	90+	9	DERIVED	
 admin_0		es	2020_05_05	status_icu_new	90+	-1	DERIVED	
-admin_0		es	2020_05_06	new		38735	DERIVED	
+admin_0		es	2020_05_06	new		2991	DERIVED	
 admin_0		es	2020_05_06	total		217375	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_06	status_recovered		126002	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_06	status_recovered_new		2516	DERIVED	
+admin_0		es	2020_05_07	status_deaths		26062	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_07	status_hospitalized		119958	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_07	status_icu		11104	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_07	status_deaths_new		208	DERIVED	
+admin_0		es	2020_05_07	status_hospitalized_new		510	DERIVED	
+admin_0		es	2020_05_07	status_icu_new		55	DERIVED	
+admin_0		es	2020_05_07	tests_total		257932	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_07	tests_new		2940	DERIVED	
 admin_1	es	es-an	2020_05_08	status_deaths		1317	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_08	status_hospitalized		6069	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_08	status_deaths_new		16	DERIVED	
@@ -2358,14 +2313,6 @@ admin_1	es	es-vc	2020_05_08	tests_total		13775	https://github.com/datadista/data
 admin_1	es	es-vc	2020_05_08	tests_new		162	DERIVED	
 admin_0		es	2020_05_09	total_male		96287	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_09	total_female		124085	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_09	status_deaths		26469	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_09	status_hospitalized		121156	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_09	status_icu		11222	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_09	status_deaths_new		178	DERIVED	
-admin_0		es	2020_05_09	status_hospitalized_new		464	DERIVED	
-admin_0		es	2020_05_09	status_icu_new		36	DERIVED	
-admin_0		es	2020_05_09	tests_total		263677	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_09	tests_new		2733	DERIVED	
 admin_0		es	2020_05_09	new	0-9	0	DERIVED	
 admin_0		es	2020_05_09	total	0-9	765	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_09	total_male	0-9	416	https://github.com/datadista/datasets/	
@@ -2466,10 +2413,18 @@ admin_0		es	2020_05_09	status_icu	90+	46	https://github.com/datadista/datasets/
 admin_0		es	2020_05_09	status_deaths_new	90+	0	DERIVED	
 admin_0		es	2020_05_09	status_hospitalized_new	90+	0	DERIVED	
 admin_0		es	2020_05_09	status_icu_new	90+	0	DERIVED	
-admin_0		es	2020_05_10	new		11723	DERIVED	
+admin_0		es	2020_05_10	new		-31579	DERIVED	
 admin_0		es	2020_05_10	total		265401	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_10	status_recovered		136166	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_10	status_recovered_new		2214	DERIVED	
+admin_0		es	2020_05_11	status_deaths		26737	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_11	status_hospitalized		121849	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_11	status_icu		11264	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_11	status_deaths_new		124	DERIVED	
+admin_0		es	2020_05_11	status_hospitalized_new		245	DERIVED	
+admin_0		es	2020_05_11	status_icu_new		15	DERIVED	
+admin_0		es	2020_05_11	tests_total		268729	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_11	tests_new		3328	DERIVED	
 admin_1	es	es-an	2020_05_12	status_deaths		1332	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_12	status_hospitalized		6114	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_12	status_deaths_new		6	DERIVED	
@@ -2586,14 +2541,6 @@ admin_1	es	es-vc	2020_05_12	tests_total		14101	https://github.com/datadista/data
 admin_1	es	es-vc	2020_05_12	tests_new		111	DERIVED	
 admin_0		es	2020_05_13	total_male		102382	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_13	total_female		135047	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_13	status_deaths		27091	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_13	status_hospitalized		122736	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_13	status_icu		11311	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_13	status_deaths_new		182	DERIVED	
-admin_0		es	2020_05_13	status_hospitalized_new		389	DERIVED	
-admin_0		es	2020_05_13	status_icu_new		25	DERIVED	
-admin_0		es	2020_05_13	tests_total		271752	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_13	tests_new		1500	DERIVED	
 admin_0		es	2020_05_13	new	0-9	-1	DERIVED	
 admin_0		es	2020_05_13	total	0-9	857	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_13	total_male	0-9	465	https://github.com/datadista/datasets/	
@@ -2694,10 +2641,18 @@ admin_0		es	2020_05_13	status_icu	90+	48	https://github.com/datadista/datasets/
 admin_0		es	2020_05_13	status_deaths_new	90+	4	DERIVED	
 admin_0		es	2020_05_13	status_hospitalized_new	90+	5	DERIVED	
 admin_0		es	2020_05_13	status_icu_new	90+	0	DERIVED	
-admin_0		es	2020_05_14	new		-32657	DERIVED	
+admin_0		es	2020_05_14	new		1660	DERIVED	
 admin_0		es	2020_05_14	total		272943	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_14	status_recovered		143374	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_14	status_recovered_new		2551	DERIVED	
+admin_0		es	2020_05_15	status_deaths		27449	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_15	status_hospitalized		123343	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_15	status_icu		11353	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_15	status_deaths_new		141	DERIVED	
+admin_0		es	2020_05_15	status_hospitalized_new		290	DERIVED	
+admin_0		es	2020_05_15	status_icu_new		26	DERIVED	
+admin_0		es	2020_05_15	tests_total		274804	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_15	tests_new		1861	DERIVED	
 admin_1	es	es-an	2020_05_16	status_deaths		1358	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_16	status_hospitalized		6174	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_16	status_deaths_new		3	DERIVED	
@@ -2814,14 +2769,6 @@ admin_1	es	es-vc	2020_05_16	tests_total		14701	https://github.com/datadista/data
 admin_1	es	es-vc	2020_05_16	tests_new		130	DERIVED	
 admin_0		es	2020_05_17	total_male		102983	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_17	total_female		135909	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_17	status_deaths		27634	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_17	status_hospitalized		123835	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_17	status_icu		11378	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_17	status_deaths_new		85	DERIVED	
-admin_0		es	2020_05_17	status_hospitalized_new		257	DERIVED	
-admin_0		es	2020_05_17	status_icu_new		14	DERIVED	
-admin_0		es	2020_05_17	tests_total		278020	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_17	tests_new		1020	DERIVED	
 admin_0		es	2020_05_17	new	0-9	0	DERIVED	
 admin_0		es	2020_05_17	total	0-9	877	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_17	total_male	0-9	463	https://github.com/datadista/datasets/	
@@ -2926,6 +2873,14 @@ admin_0		es	2020_05_18	new		39423	DERIVED
 admin_0		es	2020_05_18	total		278548	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_18	status_recovered		150376	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_18	status_recovered_new		797	DERIVED	
+admin_0		es	2020_05_19	status_deaths		27793	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_19	status_hospitalized		124421	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_19	status_icu		11403	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_19	status_deaths_new		100	DERIVED	
+admin_0		es	2020_05_19	status_hospitalized_new		430	DERIVED	
+admin_0		es	2020_05_19	status_icu_new		12	DERIVED	
+admin_0		es	2020_05_19	tests_total		279012	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_19	tests_new		464	DERIVED	
 admin_1	es	es-an	2020_05_20	status_deaths		1375	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_20	status_hospitalized		6210	https://github.com/datadista/datasets/	
 admin_1	es	es-an	2020_05_20	status_deaths_new		4	DERIVED	
@@ -3040,14 +2995,6 @@ admin_1	es	es-vc	2020_05_20	status_deaths_new		5	DERIVED
 admin_1	es	es-vc	2020_05_20	status_hospitalized_new		5	DERIVED	
 admin_1	es	es-vc	2020_05_20	tests_total		14797	https://github.com/datadista/datasets/	
 admin_1	es	es-vc	2020_05_20	tests_new		38	DERIVED	
-admin_0		es	2020_05_21	status_deaths		27940	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_21	status_hospitalized		124521	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_21	status_icu		11454	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_21	status_deaths_new		48	DERIVED	
-admin_0		es	2020_05_21	status_hospitalized_new		140	DERIVED	
-admin_0		es	2020_05_21	status_icu_new		20	DERIVED	
-admin_0		es	2020_05_21	tests_total		280117	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_21	tests_new		455	DERIVED	
 admin_0		es	2020_05_22	new		-27834	DERIVED	
 admin_0		es	2020_05_22	total		252283	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_22	total_male		106970	https://github.com/datadista/datasets/	
@@ -3112,70 +3059,70 @@ admin_0		es	2020_05_22	total_female	90+	14289	https://github.com/datadista/datas
 admin_0		es	2020_05_22	status_deaths	90+	4417	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_22	status_hospitalized	90+	6369	https://github.com/datadista/datasets/	
 admin_0		es	2020_05_22	status_icu	90+	57	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_25	status_deaths		26834	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_25	status_hospitalized		122439	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_25	status_icu		11298	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_25	status_deaths_new		-1918	DERIVED	
-admin_0		es	2020_05_25	status_hospitalized_new		-2406	DERIVED	
-admin_0		es	2020_05_25	status_icu_new		-179	DERIVED	
-admin_0		es	2020_05_25	tests_total		235400	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_25	tests_new		-372	DERIVED	
-admin_0		es	2020_05_28	status_deaths		27119	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_28	status_hospitalized		123804	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_28	status_icu		11389	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_28	status_deaths_new		1	DERIVED	
-admin_0		es	2020_05_28	status_hospitalized_new		147	DERIVED	
-admin_0		es	2020_05_28	status_icu_new		15	DERIVED	
-admin_0		es	2020_05_28	tests_total		237906	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_28	tests_new		1137	DERIVED	
-admin_0		es	2020_05_31	status_deaths		27127	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_31	status_hospitalized		123871	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_31	status_icu		11400	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_31	status_deaths_new		2	DERIVED	
-admin_0		es	2020_05_31	status_hospitalized_new		-116	DERIVED	
-admin_0		es	2020_05_31	status_icu_new		-4	DERIVED	
-admin_0		es	2020_05_31	tests_total		239429	https://github.com/datadista/datasets/	
-admin_0		es	2020_05_31	tests_new		201	DERIVED	
-admin_0		es	2020_06_03	status_deaths		27128	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_03	status_hospitalized		124013	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_03	status_icu		11415	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_03	status_deaths_new		1	DERIVED	
-admin_0		es	2020_06_03	status_hospitalized_new		39	DERIVED	
-admin_0		es	2020_06_03	status_icu_new		2	DERIVED	
-admin_0		es	2020_06_03	tests_total		240326	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_03	tests_new		394	DERIVED	
-admin_0		es	2020_06_06	status_deaths		27135	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_06	status_hospitalized		124302	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_06	status_icu		11604	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_06	status_deaths_new		1	DERIVED	
-admin_0		es	2020_06_06	status_hospitalized_new		58	DERIVED	
-admin_0		es	2020_06_06	status_icu_new		172	DERIVED	
-admin_0		es	2020_06_06	tests_total		241310	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_06	tests_new		332	DERIVED	
-admin_0		es	2020_06_09	status_deaths		27136	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_09	status_hospitalized		124407	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_09	status_icu		11614	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_09	status_deaths_new		0	DERIVED	
-admin_0		es	2020_06_09	status_hospitalized_new		59	DERIVED	
-admin_0		es	2020_06_09	status_icu_new		3	DERIVED	
-admin_0		es	2020_06_09	tests_total		241966	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_09	tests_new		249	DERIVED	
-admin_0		es	2020_06_12	status_deaths		27136	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_12	status_hospitalized		124584	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_12	status_icu		11617	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_12	status_deaths_new		0	DERIVED	
-admin_0		es	2020_06_12	status_hospitalized_new		48	DERIVED	
-admin_0		es	2020_06_12	status_icu_new		0	DERIVED	
-admin_0		es	2020_06_12	tests_total		243209	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_12	tests_new		502	DERIVED	
-admin_0		es	2020_06_15	status_deaths		27136	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_15	status_hospitalized		124642	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_15	status_icu		11620	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_15	status_deaths_new		0	DERIVED	
-admin_0		es	2020_06_15	status_hospitalized_new		11	DERIVED	
-admin_0		es	2020_06_15	status_icu_new		1	DERIVED	
-admin_0		es	2020_06_15	tests_total		244109	https://github.com/datadista/datasets/	
-admin_0		es	2020_06_15	tests_new		181	DERIVED	
+admin_0		es	2020_05_23	status_deaths		28678	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_23	status_hospitalized		124757	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_23	status_icu		11474	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_23	status_deaths_new		50	DERIVED	
+admin_0		es	2020_05_23	status_hospitalized_new		115	DERIVED	
+admin_0		es	2020_05_23	status_icu_new		12	DERIVED	
+admin_0		es	2020_05_23	tests_total		235290	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_23	tests_new		466	DERIVED	
+admin_0		es	2020_05_27	status_deaths		27118	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_27	status_hospitalized		123657	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_27	status_icu		11374	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_27	status_deaths_new		1	DERIVED	
+admin_0		es	2020_05_27	status_hospitalized_new		475	DERIVED	
+admin_0		es	2020_05_27	status_icu_new		10	DERIVED	
+admin_0		es	2020_05_27	tests_total		236769	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_27	tests_new		510	DERIVED	
+admin_0		es	2020_05_30	status_deaths		27125	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_30	status_hospitalized		123987	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_30	status_icu		11404	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_30	status_deaths_new		4	DERIVED	
+admin_0		es	2020_05_30	status_hospitalized_new		96	DERIVED	
+admin_0		es	2020_05_30	status_icu_new		7	DERIVED	
+admin_0		es	2020_05_30	tests_total		239228	https://github.com/datadista/datasets/	
+admin_0		es	2020_05_30	tests_new		664	DERIVED	
+admin_0		es	2020_06_02	status_deaths		27127	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_02	status_hospitalized		123974	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_02	status_icu		11413	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_02	status_deaths_new		0	DERIVED	
+admin_0		es	2020_06_02	status_hospitalized_new		95	DERIVED	
+admin_0		es	2020_06_02	status_icu_new		14	DERIVED	
+admin_0		es	2020_06_02	tests_total		239932	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_02	tests_new		294	DERIVED	
+admin_0		es	2020_06_05	status_deaths		27134	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_05	status_hospitalized		124244	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_05	status_icu		11432	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_05	status_deaths_new		1	DERIVED	
+admin_0		es	2020_06_05	status_hospitalized_new		17	DERIVED	
+admin_0		es	2020_06_05	status_icu_new		6	DERIVED	
+admin_0		es	2020_06_05	tests_total		240978	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_05	tests_new		318	DERIVED	
+admin_0		es	2020_06_08	status_deaths		27136	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_08	status_hospitalized		124348	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_08	status_icu		11611	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_08	status_deaths_new		0	DERIVED	
+admin_0		es	2020_06_08	status_hospitalized_new		25	DERIVED	
+admin_0		es	2020_06_08	status_icu_new		3	DERIVED	
+admin_0		es	2020_06_08	tests_total		241717	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_08	tests_new		167	DERIVED	
+admin_0		es	2020_06_11	status_deaths		27136	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_11	status_hospitalized		124536	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_11	status_icu		11617	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_11	status_deaths_new		0	DERIVED	
+admin_0		es	2020_06_11	status_hospitalized_new		57	DERIVED	
+admin_0		es	2020_06_11	status_icu_new		4	DERIVED	
+admin_0		es	2020_06_11	tests_total		242707	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_11	tests_new		427	DERIVED	
+admin_0		es	2020_06_14	status_deaths		27136	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_14	status_hospitalized		124631	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_14	status_icu		11619	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_14	status_deaths_new		0	DERIVED	
+admin_0		es	2020_06_14	status_hospitalized_new		9	DERIVED	
+admin_0		es	2020_06_14	status_icu_new		0	DERIVED	
+admin_0		es	2020_06_14	tests_total		243928	https://github.com/datadista/datasets/	
+admin_0		es	2020_06_14	tests_new		323	DERIVED	
 admin_0		es	2020_06_17	status_deaths		27136	https://github.com/datadista/datasets/	
 admin_0		es	2020_06_17	status_hospitalized		124732	https://github.com/datadista/datasets/	
 admin_0		es	2020_06_17	status_icu		11630	https://github.com/datadista/datasets/	
@@ -3248,14 +3195,10 @@ admin_0		es	2020_07_03	status_hospitalized_new		267	DERIVED
 admin_0		es	2020_07_03	status_icu_new		37	DERIVED	
 admin_0		es	2020_07_03	tests_total		250545	https://github.com/datadista/datasets/	
 admin_0		es	2020_07_03	tests_new		442	DERIVED	
-admin_0		es	2020_07_07	status_deaths		28392	https://github.com/datadista/datasets/	
-admin_0		es	2020_07_07	status_hospitalized		125616	https://github.com/datadista/datasets/	
-admin_0		es	2020_07_07	status_icu		11706	https://github.com/datadista/datasets/	
-admin_0		es	2020_07_07	status_deaths_new		4	DERIVED	
-admin_0		es	2020_07_07	status_hospitalized_new		44	DERIVED	
-admin_0		es	2020_07_07	status_icu_new		0	DERIVED	
-admin_0		es	2020_07_07	tests_total		252130	https://github.com/datadista/datasets/	
-admin_0		es	2020_07_07	tests_new		341	DERIVED	
+admin_0		es	2020_07_06	status_deaths		28388	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_06	status_hospitalized		125572	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_06	status_icu		11706	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_06	tests_total		251789	https://github.com/datadista/datasets/	
 admin_0		es	2020_07_08	status_deaths		28396	https://github.com/datadista/datasets/	
 admin_0		es	2020_07_08	status_hospitalized		125630	https://github.com/datadista/datasets/	
 admin_0		es	2020_07_08	status_icu		11707	https://github.com/datadista/datasets/	
@@ -3364,3 +3307,11 @@ admin_0		es	2020_07_28	status_hospitalized_new		89	DERIVED
 admin_0		es	2020_07_28	status_icu_new		11	DERIVED	
 admin_0		es	2020_07_28	tests_total		280610	https://github.com/datadista/datasets/	
 admin_0		es	2020_07_28	tests_new		1828	DERIVED	
+admin_0		es	2020_07_29	status_deaths		28441	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_29	status_hospitalized		126690	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_29	status_icu		11764	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_29	status_deaths_new		5	DERIVED	
+admin_0		es	2020_07_29	status_hospitalized_new		104	DERIVED	
+admin_0		es	2020_07_29	status_icu_new		5	DERIVED	
+admin_0		es	2020_07_29	tests_total		282641	https://github.com/datadista/datasets/	
+admin_0		es	2020_07_29	tests_new		2031	DERIVED	
