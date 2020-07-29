@@ -1,18 +1,18 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
 admin_0		hk	2020_01_23	total		3	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_01_23	total		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_01_24	new		3	DERIVED	
+admin_0		hk	2020_01_24	new		1	DERIVED	
 admin_0		hk	2020_01_24	total_female		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_01_24	new		2	DERIVED	
 hk_district	hk	sha tin	2020_01_24	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_01_26	total		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_01_29	total_male		8	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_01_29	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_01_30	total		7	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_01_30	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_01_30	new		1	DERIVED	
 hk_district	hk	central & western	2020_01_30	total		3	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwai tsing	2020_01_30	total		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_02_02	new		18	DERIVED	
+admin_0		hk	2020_02_02	new		1	DERIVED	
 admin_0		hk	2020_02_04	total_female		10	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kowloon	2020_02_04	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_02_05	total_male		15	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -25,7 +25,7 @@ admin_0		hk	2020_02_06	total		7	https://chp-dashboard.geodata.gov.hk/covid-19/en
 hk_district	hk	kwai tsing	2020_02_06	total		5	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_02_07	new		1	DERIVED	
 hk_district	hk	wong tai sin	2020_02_09	total		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_02_10	new		1	DERIVED	
+admin_0		hk	2020_02_10	new		-31	DERIVED	
 hk_district	hk	eastern	2020_02_10	total		5	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_02_10	total		7	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_02_11	total_female		28	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -34,11 +34,11 @@ hk_district	hk	wan chai	2020_02_11	new		1	DERIVED
 admin_0		hk	2020_02_12	total_male		28	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwai tsing	2020_02_12	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_02_12	total		10	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_02_13	total		59	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_02_13	total		15	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wan chai	2020_02_13	total		14	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_02_14	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwai tsing	2020_02_14	total		10	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_02_17	new		9	DERIVED	
+admin_0		hk	2020_02_17	new		-9	DERIVED	
 hk_district	hk	eastern	2020_02_17	new		4	DERIVED	
 hk_district	hk	kowloon	2020_02_17	new		1	DERIVED	
 hk_district	hk	kowloon	2020_02_17	total		6	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -47,7 +47,7 @@ hk_district	hk	wong tai sin	2020_02_17	total		3	https://chp-dashboard.geodata.go
 admin_0		hk	2020_02_19	total_male		44	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_02_19	total_female		37	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_02_19	total		18	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_02_20	total		87	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_02_20	total		12	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_02_23	total		2	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwun tong	2020_02_23	total		13	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_02_24	new		22	DERIVED	
@@ -65,7 +65,7 @@ admin_0		hk	2020_02_28	total		141	https://chp-dashboard.geodata.gov.hk/covid-19/
 hk_district	hk		2020_03_01	total		11	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwun tong	2020_03_01	total		17	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_03_01	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_03_02	new		112	DERIVED	
+admin_0		hk	2020_03_02	new		5	DERIVED	
 hk_district	hk	eastern	2020_03_02	new		1	DERIVED	
 admin_0		hk	2020_03_04	total_female		104	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_03_04	total		46	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -73,7 +73,7 @@ admin_0		hk	2020_03_06	total_male		77	https://chp-dashboard.geodata.gov.hk/covid
 hk_district	hk	central & western	2020_03_06	total		22	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kowloon	2020_03_06	total		8	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_03_06	total		14	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_03_07	total		26	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_03_07	total		185	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_03_07	total		8	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wan chai	2020_03_08	new		2	DERIVED	
 hk_district	hk	wan chai	2020_03_08	total		40	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -98,7 +98,7 @@ hk_district	hk	wong tai sin	2020_03_17	new		1	DERIVED
 hk_district	hk	yau tsim mong	2020_03_17	new		6	DERIVED	
 hk_district	hk	yau tsim mong	2020_03_17	total		33	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	黄大仙	2020_03_18	total		1	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_03_20	new		394	DERIVED	
+admin_0		hk	2020_03_20	new		51	DERIVED	
 admin_0		hk	2020_03_20	total_female		205	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_03_20	total		21	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_03_20	total		101	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -128,12 +128,12 @@ hk_district	hk	sha tin	2020_03_24	new		2	DERIVED
 hk_district	hk	sha tin	2020_03_24	total		33	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_03_24	new		4	DERIVED	
 hk_district	hk	yau tsim mong	2020_03_24	total		76	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_03_26	new		685	DERIVED	
+admin_0		hk	2020_03_26	new		8	DERIVED	
 admin_0		hk	2020_03_26	total_female		350	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_03_26	total		39	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_03_26	total		182	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_03_26	total		28	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_03_27	total		37	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_03_27	total		187	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_03_27	total_male		466	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_03_27	new		3	DERIVED	
 hk_district	hk	eastern	2020_03_27	total		79	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -165,7 +165,7 @@ hk_district	hk	central & western	2020_04_01	total		263	https://chp-dashboard.geo
 hk_district	hk	sha tin	2020_04_01	new		2	DERIVED	
 hk_district	hk	sha tin	2020_04_01	total		58	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_04_01	total		42	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_02	total		142	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_04_02	total		289	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_04_02	total_male		680	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_04_02	new		3	DERIVED	
 hk_district	hk	eastern	2020_04_02	total		100	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -188,14 +188,14 @@ hk_district	hk	central & western	2020_04_05	new		6	DERIVED
 hk_district	hk	sai kung	2020_04_05	total		13	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_04_05	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_04_05	total		238	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_07	new		-9	DERIVED	
+admin_0		hk	2020_04_07	new		-1207	DERIVED	
 admin_0		hk	2020_04_07	total_female		604	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_04_07	total		69	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_04_07	total		289	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_04_07	new		3	DERIVED	
 hk_district	hk	sha tin	2020_04_07	total		69	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_04_07	total		47	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_08	total		337	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_04_08	total		180	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_04_08	total_male		772	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_04_09	new		2	DERIVED	
 hk_district	hk	eastern	2020_04_09	total		104	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -213,7 +213,7 @@ hk_district	hk	central & western	2020_04_11	new		3	DERIVED
 hk_district	hk	yau tsim mong	2020_04_11	new		2	DERIVED	
 hk_district	hk	yau tsim mong	2020_04_11	total		260	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	tsuen wan	2020_04_12	total		22	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_13	new		-1292	DERIVED	
+admin_0		hk	2020_04_13	new		-182	DERIVED	
 admin_0		hk	2020_04_13	total_female		640	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_04_13	total		82	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_04_13	total		313	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -228,10 +228,10 @@ hk_district	hk	sham shui po	2020_04_16	total		48	https://chp-dashboard.geodata.g
 hk_district	hk	yau tsim mong	2020_04_16	total		261	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_04_17	total		107	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wan chai	2020_04_17	total		275	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_18	new		1106	DERIVED	
+admin_0		hk	2020_04_18	new		1	DERIVED	
 admin_0		hk	2020_04_18	total_female		651	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_04_18	total		90	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_04_19	total		1467	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_04_19	total		406	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_04_19	total_male		816	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kowloon	2020_04_19	total		81	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_04_22	new		3	DERIVED	
@@ -257,24 +257,24 @@ hk_district	hk		2020_05_13	total		109	https://chp-dashboard.geodata.gov.hk/covid
 hk_district	hk	yau tsim mong	2020_05_13	total		263	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	tsuen wan	2020_05_14	new		2	DERIVED	
 hk_district	hk	tsuen wan	2020_05_14	total		31	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_05_15	new		26	DERIVED	
+admin_0		hk	2020_05_15	new		-1315	DERIVED	
 hk_district	hk	central & western	2020_05_15	total		319	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_05_17	total		411	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_05_17	total		41	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_17	total_male		838	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_17	total_female		670	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_05_17	total		112	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_05_22	new		25	DERIVED	
-admin_0		hk	2020_05_22	total		139	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_05_22	new		-274	DERIVED	
+admin_0		hk	2020_05_22	total		163	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_22	total_male		843	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_22	total_female		675	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_05_22	new		1	DERIVED	
 hk_district	hk		2020_05_22	total		121	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_05_22	total		49	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_05_27	total		1519	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_05_27	total		368	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_27	total_male		844	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_05_27	total		122	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_29	total_female		679	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_05_30	new		1346	DERIVED	
+admin_0		hk	2020_05_30	new		1519	DERIVED	
 admin_0		hk	2020_05_30	total		18	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_05_30	total_male		856	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_05_30	new		3	DERIVED	
@@ -283,58 +283,58 @@ hk_district	hk	kwai tsing	2020_06_01	new		6	DERIVED
 hk_district	hk	kwai tsing	2020_06_01	total		67	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_06_01	total		81	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_06_01	total		50	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_02	new		-378	DERIVED	
-admin_0		hk	2020_06_02	total		142	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_02	new		20	DERIVED	
+admin_0		hk	2020_06_02	total		46	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_02	total_male		863	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_02	total_female		707	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_02	total		140	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_06_02	new		18	DERIVED	
 hk_district	hk	sha tin	2020_06_04	total		100	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_05	new		-1528	DERIVED	
+admin_0		hk	2020_06_05	new		-231	DERIVED	
 admin_0		hk	2020_06_05	total		1579	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_05	total_female		710	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_05	new		3	DERIVED	
 hk_district	hk		2020_06_05	total		148	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_06	total_male		870	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_08	new		1207	DERIVED	
-admin_0		hk	2020_06_08	total		427	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_08	new		-1156	DERIVED	
+admin_0		hk	2020_06_08	total		1584	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_08	total_female		714	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_08	new		1	DERIVED	
 hk_district	hk		2020_06_08	total		153	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_12	total		1586	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_12	total_female		716	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_13	new		232	DERIVED	
+admin_0		hk	2020_06_13	new		1391	DERIVED	
 admin_0		hk	2020_06_13	total_male		871	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_06_13	new		1	DERIVED	
 hk_district	hk	sha tin	2020_06_13	total		103	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_15	total		429	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_15	total_female		717	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_15	total		154	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_17	total		145	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_17	total		197	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_17	total_male		873	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_17	total_female		723	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_17	total		162	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_19	new		1457	DERIVED	
-admin_0		hk	2020_06_19	total		198	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_19	new		-122	DERIVED	
+admin_0		hk	2020_06_19	total		147	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_19	total_male		877	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_19	total_female		726	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_19	new		3	DERIVED	
 hk_district	hk		2020_06_19	total		169	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_21	new		236	DERIVED	
-admin_0		hk	2020_06_21	total		1607	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_21	new		3	DERIVED	
+admin_0		hk	2020_06_21	total		378	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_21	total_female		729	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_21	new		3	DERIVED	
 hk_district	hk		2020_06_21	total		173	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_22	total_male		893	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wan chai	2020_06_22	total		277	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_23	new		-11	DERIVED	
-admin_0		hk	2020_06_23	total		389	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_23	new		186	DERIVED	
+admin_0		hk	2020_06_23	total		447	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_23	total_female		751	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_23	new		16	DERIVED	
 hk_district	hk		2020_06_23	total		218	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_24	total_male		903	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_25	new		-1205	DERIVED	
-admin_0		hk	2020_06_25	total		391	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_25	new		-1625	DERIVED	
+admin_0		hk	2020_06_25	total		1669	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_25	total_female		757	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_25	new		14	DERIVED	
 hk_district	hk		2020_06_25	total		234	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -344,22 +344,22 @@ admin_0		hk	2020_06_27	total		1673	https://chp-dashboard.geodata.gov.hk/covid-19
 admin_0		hk	2020_06_27	total_female		758	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_27	new		1	DERIVED	
 hk_district	hk		2020_06_27	total		238	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_06_29	new		2	DERIVED	
-admin_0		hk	2020_06_29	total		393	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_06_29	new		-59	DERIVED	
+admin_0		hk	2020_06_29	total		198	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_29	total_male		917	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_06_29	total_female		762	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_06_29	new		3	DERIVED	
 hk_district	hk		2020_06_29	total		243	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_06_29	total		264	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_01	new		43	DERIVED	
-admin_0		hk	2020_07_01	total		402	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_01	new		11	DERIVED	
+admin_0		hk	2020_07_01	total		38	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_01	total_male		931	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_01	total_female		781	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_01	total		270	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sha tin	2020_07_01	new		3	DERIVED	
 hk_district	hk	sha tin	2020_07_01	total		108	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_07_01	total		51	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_03	new		1515	DERIVED	
+admin_0		hk	2020_07_03	new		-1509	DERIVED	
 admin_0		hk	2020_07_03	total		408	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_03	total_male		935	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_03	total_female		791	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -368,8 +368,8 @@ hk_district	hk		2020_07_03	total		284	https://chp-dashboard.geodata.gov.hk/covid
 hk_district	hk	central & western	2020_07_04	total		320	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wan chai	2020_07_04	total		278	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_04	total		265	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_05	new		5	DERIVED	
-admin_0		hk	2020_07_05	total		172	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_05	new		-1531	DERIVED	
+admin_0		hk	2020_07_05	total		221	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_05	total_male		945	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_05	total_female		806	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_05	new		8	DERIVED	
@@ -377,8 +377,8 @@ hk_district	hk		2020_07_05	total		299	https://chp-dashboard.geodata.gov.hk/covid
 hk_district	hk	kowloon	2020_07_05	total		83	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwun tong	2020_07_05	total		88	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	sham shui po	2020_07_05	total		55	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_07	new		31	DERIVED	
-admin_0		hk	2020_07_07	total		10	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_07	new		1750	DERIVED	
+admin_0		hk	2020_07_07	total		175	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_07	total_male		983	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_07	total_female		817	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_07	new		3	DERIVED	
@@ -394,7 +394,7 @@ hk_district	hk	wong tai sin	2020_07_07	total		29	https://chp-dashboard.geodata.g
 hk_district	hk	yau tsim mong	2020_07_07	new		4	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_07	total		271	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_08	new		-1581	DERIVED	
-admin_0		hk	2020_07_08	total		4	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_08	total		1856	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_08	total_male		1014	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_08	total_female		842	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_08	new		3	DERIVED	
@@ -416,7 +416,7 @@ hk_district	hk	wong tai sin	2020_07_08	total		49	https://chp-dashboard.geodata.g
 hk_district	hk	yau tsim mong	2020_07_08	new		10	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_08	total		281	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_09	new		-205	DERIVED	
-admin_0		hk	2020_07_09	total		496	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_09	total		71	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_09	total_male		1047	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_09	total_female		872	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_09	new		5	DERIVED	
@@ -440,7 +440,7 @@ hk_district	hk	wong tai sin	2020_07_09	total		85	https://chp-dashboard.geodata.g
 hk_district	hk	yau tsim mong	2020_07_09	new		5	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_09	total		286	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_10	new		175	DERIVED	
-admin_0		hk	2020_07_10	total		437	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_10	total		1994	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_10	total_male		1076	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_10	total_female		918	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_10	new		5	DERIVED	
@@ -461,7 +461,7 @@ hk_district	hk	wong tai sin	2020_07_10	total		101	https://chp-dashboard.geodata.
 hk_district	hk	yau tsim mong	2020_07_10	new		5	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_10	total		291	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_11	new		47	DERIVED	
-admin_0		hk	2020_07_11	total		512	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_11	total		447	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_11	total_male		1091	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_11	total_female		946	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_11	new		11	DERIVED	
@@ -480,8 +480,8 @@ hk_district	hk	wong tai sin	2020_07_11	new		16	DERIVED
 hk_district	hk	wong tai sin	2020_07_11	total		117	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_11	new		5	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_11	total		296	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_12	new		-39	DERIVED	
-admin_0		hk	2020_07_12	total		514	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_12	new		-214	DERIVED	
+admin_0		hk	2020_07_12	total		197	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_12	total_male		1123	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_12	total_female		985	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_12	new		7	DERIVED	
@@ -506,8 +506,8 @@ hk_district	hk	wong tai sin	2020_07_12	new		13	DERIVED
 hk_district	hk	wong tai sin	2020_07_12	total		130	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_12	new		4	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_12	total		300	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_13	new		115	DERIVED	
-admin_0		hk	2020_07_13	total		27	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_13	new		496	DERIVED	
+admin_0		hk	2020_07_13	total		59	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_13	total_male		1148	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_13	total_female		1018	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk		2020_07_13	new		12	DERIVED	
@@ -532,8 +532,8 @@ hk_district	hk	wong tai sin	2020_07_13	new		11	DERIVED
 hk_district	hk	wong tai sin	2020_07_13	total		141	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_13	new		14	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_13	total		314	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_14	new		-300	DERIVED	
-admin_0		hk	2020_07_14	total		60	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_14	new		-506	DERIVED	
+admin_0		hk	2020_07_14	total		465	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_14	total_male		1170	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_14	total_female		1035	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	eastern	2020_07_14	new		1	DERIVED	
@@ -553,8 +553,8 @@ hk_district	hk	wong tai sin	2020_07_14	new		12	DERIVED
 hk_district	hk	wong tai sin	2020_07_14	total		153	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_14	new		4	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_14	total		318	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_15	new		454	DERIVED	
-admin_0		hk	2020_07_15	total		324	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_15	new		255	DERIVED	
+admin_0		hk	2020_07_15	total		247	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_15	total_male		1175	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_15	total_female		1048	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_15	total		324	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -572,8 +572,8 @@ hk_district	hk	wong tai sin	2020_07_15	new		4	DERIVED
 hk_district	hk	wong tai sin	2020_07_15	total		157	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_15	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_15	total		319	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_16	new		-190	DERIVED	
-admin_0		hk	2020_07_16	total		17	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_16	new		9	DERIVED	
+admin_0		hk	2020_07_16	total		343	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_16	total_male		1203	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_16	total_female		1074	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_16	new		4	DERIVED	
@@ -596,7 +596,7 @@ hk_district	hk	wong tai sin	2020_07_16	total		172	https://chp-dashboard.geodata.
 hk_district	hk	yau tsim mong	2020_07_16	new		3	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_16	total		322	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_17	new		-215	DERIVED	
-admin_0		hk	2020_07_17	total		258	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_17	total		29	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_17	total_male		1214	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_17	total_female		1090	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_17	new		7	DERIVED	
@@ -611,7 +611,7 @@ hk_district	hk	wong tai sin	2020_07_17	new		7	DERIVED
 hk_district	hk	wong tai sin	2020_07_17	total		179	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_17	new		3	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_17	total		325	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_18	new		227	DERIVED	
+admin_0		hk	2020_07_18	new		141	DERIVED	
 admin_0		hk	2020_07_18	total		366	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_18	total_male		1231	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_18	total_female		1110	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -629,8 +629,8 @@ hk_district	hk	wong tai sin	2020_07_18	new		8	DERIVED
 hk_district	hk	wong tai sin	2020_07_18	total		187	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_18	new		9	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_18	total		334	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_19	new		-226	DERIVED	
-admin_0		hk	2020_07_19	total		203	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_19	new		69	DERIVED	
+admin_0		hk	2020_07_19	total		62	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_19	total_male		1245	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_19	total_female		1128	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_19	new		2	DERIVED	
@@ -647,8 +647,8 @@ hk_district	hk	wong tai sin	2020_07_19	new		12	DERIVED
 hk_district	hk	wong tai sin	2020_07_19	total		199	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_19	new		4	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_19	total		338	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_20	new		306	DERIVED	
-admin_0		hk	2020_07_20	total		543	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_20	new		97	DERIVED	
+admin_0		hk	2020_07_20	total		302	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_20	total_male		1259	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_20	total_female		1138	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_20	new		1	DERIVED	
@@ -668,8 +668,8 @@ hk_district	hk	wong tai sin	2020_07_20	new		5	DERIVED
 hk_district	hk	wong tai sin	2020_07_20	total		204	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_20	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_20	total		339	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_21	new		-162	DERIVED	
-admin_0		hk	2020_07_21	total		2406	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_21	new		-65	DERIVED	
+admin_0		hk	2020_07_21	total		488	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_21	total_male		1262	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_21	total_female		1144	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	central & western	2020_07_21	new		1	DERIVED	
@@ -684,8 +684,8 @@ hk_district	hk	wong tai sin	2020_07_21	new		2	DERIVED
 hk_district	hk	wong tai sin	2020_07_21	total		206	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_21	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_21	total		340	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_22	new		98	DERIVED	
-admin_0		hk	2020_07_22	total		489	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_22	new		186	DERIVED	
+admin_0		hk	2020_07_22	total		283	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_22	total_male		1267	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_22	total_female		1146	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	kwun tong	2020_07_22	total		162	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
@@ -695,13 +695,13 @@ hk_district	hk	wong tai sin	2020_07_22	new		1	DERIVED
 hk_district	hk	wong tai sin	2020_07_22	total		207	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	yau tsim mong	2020_07_22	new		1	DERIVED	
 hk_district	hk	yau tsim mong	2020_07_22	total		341	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_23	new		2111	DERIVED	
+admin_0		hk	2020_07_23	new		1926	DERIVED	
 admin_0		hk	2020_07_23	total		207	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_23	total_male		1268	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_23	total_female		1147	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	tsuen wan	2020_07_23	total		49	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wong tai sin	2020_07_23	new		1	DERIVED	
 hk_district	hk	wong tai sin	2020_07_23	total		208	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
-admin_0		hk	2020_07_27	total		100	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
+admin_0		hk	2020_07_27	total		2416	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 admin_0		hk	2020_07_27	total_male		1269	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
 hk_district	hk	wong tai sin	2020_07_27	total		209	https://chp-dashboard.geodata.gov.hk/covid-19/en.html	
