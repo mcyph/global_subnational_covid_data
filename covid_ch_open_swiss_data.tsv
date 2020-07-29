@@ -7465,9 +7465,11 @@ admin_1	ch	ch-lu	2020_07_15	status_hospitalized_new		1	DERIVED
 admin_1	ch	ch-lu	2020_07_15	status_icu_new		1	DERIVED	
 admin_1	ch	ch-ne	2020_07_15	new		3	DERIVED	
 admin_1	ch	ch-ne	2020_07_15	total		761	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
+admin_1	ch	ch-ne	2020_07_15	status_deaths		83	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
 admin_1	ch	ch-ne	2020_07_15	status_hospitalized		1	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
 admin_1	ch	ch-ne	2020_07_15	status_icu		0	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
 admin_1	ch	ch-ne	2020_07_15	status_icu_ventilators		0	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
+admin_1	ch	ch-ne	2020_07_15	status_deaths_new		0	DERIVED	
 admin_1	ch	ch-ne	2020_07_15	status_hospitalized_new		-1	DERIVED	
 admin_1	ch	ch-ne	2020_07_15	status_icu_new		0	DERIVED	
 admin_1	ch	ch-ne	2020_07_15	status_icu_ventilators_new		0	DERIVED	
@@ -9480,6 +9482,12 @@ admin_1	ch	ch-lu	2020_07_28	status_icu		4	https://gesundheit.lu.ch/themen/Humanm
 admin_1	ch	ch-lu	2020_07_28	status_deaths_new		0	DERIVED	
 admin_1	ch	ch-lu	2020_07_28	status_hospitalized_new		0	DERIVED	
 admin_1	ch	ch-lu	2020_07_28	status_icu_new		1	DERIVED	
+admin_1	ch	ch-ne	2020_07_28	status_hospitalized		1	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
+admin_1	ch	ch-ne	2020_07_28	status_icu		0	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
+admin_1	ch	ch-ne	2020_07_28	status_icu_ventilators		0	https://www.ne.ch/autorites/DFS/SCSP/medecin-cantonal/maladies-vaccinations/Documents/Covid-19-Statistiques/COVID19_PublicationInternet.xlsx	
+admin_1	ch	ch-ne	2020_07_28	status_hospitalized_new		-1	DERIVED	
+admin_1	ch	ch-ne	2020_07_28	status_icu_new		0	DERIVED	
+admin_1	ch	ch-ne	2020_07_28	status_icu_ventilators_new		0	DERIVED	
 admin_1	ch	ch-ow	2020_07_28	new		0	DERIVED	
 admin_1	ch	ch-ow	2020_07_28	total		90	https://www.ow.ch/dl.php/de/5f20278d76116/OW-1103775-v1-Statistik_OW_Covid-19.XLSX	
 admin_1	ch	ch-ow	2020_07_28	status_deaths		0	https://www.ow.ch/dl.php/de/5f20278d76116/OW-1103775-v1-Statistik_OW_Covid-19.XLSX	
@@ -9573,10 +9581,31 @@ admin_1	ch	ch-ag	2020_07_29	status_deaths		48	https://www.ag.ch/de/themen_1/coro
 admin_1	ch	ch-ag	2020_07_29	status_deaths_new		0	DERIVED	
 admin_1	ch	ch-ai	2020_07_29	total		25	https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus	
 admin_1	ch	ch-ai	2020_07_29	status_deaths		0	https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus	
+admin_1	ch	ch-ar	2020_07_29	new		0	DERIVED	
+admin_1	ch	ch-ar	2020_07_29	total		108	https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/	
+admin_1	ch	ch-ar	2020_07_29	status_deaths		3	https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/	
+admin_1	ch	ch-ar	2020_07_29	status_hospitalized		0	https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/	
+admin_1	ch	ch-ar	2020_07_29	status_icu		0	https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/	
+admin_1	ch	ch-ar	2020_07_29	status_deaths_new		0	DERIVED	
+admin_1	ch	ch-ar	2020_07_29	status_hospitalized_new		-1	DERIVED	
+admin_1	ch	ch-ar	2020_07_29	status_icu_new		0	DERIVED	
+admin_1	ch	ch-be	2020_07_29	new		2	DERIVED	
+admin_1	ch	ch-be	2020_07_29	total		2094	https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html	
+admin_1	ch	ch-be	2020_07_29	status_deaths		97	https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html	
+admin_1	ch	ch-be	2020_07_29	status_hospitalized		12	https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html	
+admin_1	ch	ch-be	2020_07_29	status_icu		2	https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html	
+admin_1	ch	ch-be	2020_07_29	status_icu_ventilators		0	https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html	
+admin_1	ch	ch-be	2020_07_29	status_deaths_new		0	DERIVED	
 admin_1	ch	ch-bs	2020_07_29	new		4	DERIVED	
 admin_1	ch	ch-bs	2020_07_29	total		1043	https://www.gesundheit.bs.ch	
 admin_1	ch	ch-bs	2020_07_29	status_deaths		52	https://www.gesundheit.bs.ch	
 admin_1	ch	ch-bs	2020_07_29	status_deaths_new		0	DERIVED	
+admin_1	ch	ch-gl	2020_07_29	new		0	DERIVED	
+admin_1	ch	ch-gl	2020_07_29	total		138	https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx	
+admin_1	ch	ch-gl	2020_07_29	status_deaths		13	https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx	
+admin_1	ch	ch-gl	2020_07_29	status_hospitalized		1	https://www.gl.ch/public/upload/assets/29702/COVID-19_Fallzahlen_Kanton_Glarus.xlsx	
+admin_1	ch	ch-gl	2020_07_29	status_deaths_new		0	DERIVED	
+admin_1	ch	ch-gl	2020_07_29	status_hospitalized_new		0	DERIVED	
 admin_1	ch	ch-lu	2020_07_29	new		6	DERIVED	
 admin_1	ch	ch-lu	2020_07_29	total		854	https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus	
 admin_1	ch	ch-lu	2020_07_29	status_deaths		20	https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus	
@@ -9625,6 +9654,12 @@ admin_1	ch	ch-ti	2020_07_29	status_deaths_new		0	DERIVED
 admin_1	ch	ch-ti	2020_07_29	status_hospitalized_new		-1	DERIVED	
 admin_1	ch	ch-ti	2020_07_29	status_icu_new		-1	DERIVED	
 admin_1	ch	ch-ti	2020_07_29	status_icu_ventilators_new		-1	DERIVED	
+admin_1	ch	ch-ur	2020_07_29	new		1	DERIVED	
+admin_1	ch	ch-ur	2020_07_29	total		116	https://www.ur.ch/themen/2962	
+admin_1	ch	ch-ur	2020_07_29	status_deaths		7	https://www.ur.ch/themen/2962	
+admin_1	ch	ch-ur	2020_07_29	status_hospitalized		1	https://www.ur.ch/themen/2962	
+admin_1	ch	ch-ur	2020_07_29	status_deaths_new		0	DERIVED	
+admin_1	ch	ch-ur	2020_07_29	status_hospitalized_new		0	DERIVED	
 admin_1	ch	ch-zg	2020_07_29	new		6	DERIVED	
 admin_1	ch	ch-zg	2020_07_29	total		279	https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona	
 admin_1	ch	ch-zg	2020_07_29	status_deaths		9	https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle/themen/gesundheit/corona	
@@ -9633,3 +9668,7 @@ admin_1	ch	ch-zg	2020_07_29	status_icu		0	https://www.zg.ch/behoerden/gesundheit
 admin_1	ch	ch-zg	2020_07_29	status_deaths_new		0	DERIVED	
 admin_1	ch	ch-zg	2020_07_29	status_hospitalized_new		0	DERIVED	
 admin_1	ch	ch-zg	2020_07_29	status_icu_new		0	DERIVED	
+admin_1	ch	principality of liechtenstein	2020_07_29	new		1	DERIVED	
+admin_1	ch	principality of liechtenstein	2020_07_29	total		88	https://www.regierung.li/media/attachments/413-corona-situationsbericht-0729.pdf	
+admin_1	ch	principality of liechtenstein	2020_07_29	status_deaths		1	https://www.regierung.li/media/attachments/413-corona-situationsbericht-0729.pdf	
+admin_1	ch	principality of liechtenstein	2020_07_29	status_deaths_new		0	DERIVED	
