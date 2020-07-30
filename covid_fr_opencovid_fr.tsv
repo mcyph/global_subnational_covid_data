@@ -1,5 +1,5 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_0		fr	2020_01_24	status_hospitalized		3	https://solidarites-sante.gouv.fr/IMG/pdf/200124-cp_coronavirus.pdf	
+admin_0		fr	2020_01_24	status_hospitalized		3	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine	
 admin_1	fr	fr-16	2020_01_24	total		0	https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020	
 admin_1	fr	fr-17	2020_01_24	total		0	https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020	
 admin_1	fr	fr-19	2020_01_24	total		0	https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020	
@@ -23,12 +23,12 @@ admin_1	fr	fr-33	2020_01_29	status_hospitalized		1	https://www.santepubliquefran
 admin_0		fr	2020_01_30	new		1	DERIVED	
 admin_0		fr	2020_01_30	status_deaths_new		0	DERIVED	
 admin_0		fr	2020_01_30	status_hospitalized_new		1	DERIVED	
-admin_0		fr	2020_01_31	status_hospitalized		6	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine	
+admin_0		fr	2020_01_31	status_hospitalized		6	https://www.dailymotion.com/video/x7rc6k1	
 admin_0		fr	2020_01_31	status_recovered		0	https://www.dailymotion.com/video/x7rc6k1	
 admin_0		fr	2020_01_31	status_active		-6	https://www.dailymotion.com/video/x7rc6k1	
 admin_1	fr	fr-33	2020_01_31	new		0	DERIVED	
 admin_1	fr	fr-33	2020_01_31	status_hospitalized_new		0	DERIVED	
-admin_0		fr	2020_02_03	total		6	https://www.dailymotion.com/video/x7rg9dz	
+admin_0		fr	2020_02_03	total		6	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine	
 admin_0		fr	2020_02_03	status_deaths		0	https://www.dailymotion.com/video/x7rg9dz	
 admin_0		fr	2020_02_05	status_icu		1	https://www.dailymotion.com/video/x7rjaok	
 admin_0		fr	2020_02_05	status_icu_new		0	DERIVED	
@@ -39,12 +39,12 @@ admin_1	fr	fr-33	2020_02_05	status_hospitalized		1	https://www.santepubliquefran
 admin_0		fr	2020_02_06	new		0	DERIVED	
 admin_0		fr	2020_02_06	status_deaths_new		0	DERIVED	
 admin_0		fr	2020_02_06	status_hospitalized_new		0	DERIVED	
-admin_0		fr	2020_02_08	status_hospitalized		11	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine	
+admin_0		fr	2020_02_08	status_hospitalized		11	https://www.dailymotion.com/video/x7rmoy6	
 admin_0		fr	2020_02_08	status_recovered		0	https://www.dailymotion.com/video/x7rmoy6	
 admin_0		fr	2020_02_08	status_active		-11	https://www.dailymotion.com/video/x7rmoy6	
 admin_1	fr	fr-74	2020_02_08	status_hospitalized		5	https://www.dailymotion.com/video/x7rmoy6	
-admin_0		fr	2020_02_10	total		11	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine	
-admin_0		fr	2020_02_10	status_deaths		0	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine	
+admin_0		fr	2020_02_10	total		11	https://www.dailymotion.com/video/x7roqav	
+admin_0		fr	2020_02_10	status_deaths		0	https://www.dailymotion.com/video/x7roqav	
 admin_1	fr	fr-33	2020_02_12	new		0	DERIVED	
 admin_1	fr	fr-33	2020_02_12	total		1	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine	
 admin_1	fr	fr-33	2020_02_12	status_hospitalized		1	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine	
@@ -56,7 +56,7 @@ admin_1	fr	fr-74	2020_02_12	status_deaths_new		0	DERIVED
 admin_0		fr	2020_02_13	new		0	DERIVED	
 admin_0		fr	2020_02_13	status_icu		1	https://www.dailymotion.com/video/x7rrptk	
 admin_0		fr	2020_02_13	status_deaths_new		0	DERIVED	
-admin_0		fr	2020_02_13	status_hospitalized_new		-1	DERIVED	
+admin_0		fr	2020_02_13	status_hospitalized_new		-3	DERIVED	
 admin_0		fr	2020_02_13	status_icu_new		0	DERIVED	
 admin_0		fr	2020_02_13	status_recovered_new		1	DERIVED	
 admin_0		fr	2020_02_13	status_active_new		1	DERIVED	
@@ -70,9 +70,9 @@ admin_1	fr	fr-33	2020_02_20	status_hospitalized		1	https://www.santepubliquefran
 admin_1	fr	fr-74	2020_02_20	status_deaths		0	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
 admin_0		fr	2020_02_21	status_hospitalized_new		-10	DERIVED	
 admin_0		fr	2020_02_23	status_hospitalized		1	https://www.dailymotion.com/video/x7s4yks	
-admin_0		fr	2020_02_25	new		0	DERIVED	
-admin_0		fr	2020_02_25	total		14	https://www.dailymotion.com/video/x7s7wtl	
-admin_0		fr	2020_02_25	status_deaths		1	https://www.dailymotion.com/video/x7s7wtl	
+admin_0		fr	2020_02_25	new		2	DERIVED	
+admin_0		fr	2020_02_25	total		12	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
+admin_0		fr	2020_02_25	status_deaths		1	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
 admin_0		fr	2020_02_25	status_recovered		11	https://www.dailymotion.com/video/x7s7wtl	
 admin_0		fr	2020_02_25	status_active		-3	https://www.dailymotion.com/video/x7s7wtl	
 admin_0		fr	2020_02_25	status_deaths_new		0	DERIVED	
@@ -133,7 +133,7 @@ admin_1	fr	fr-57	2020_03_02	total		0	https://www.grand-est.ars.sante.fr/system/f
 admin_1	fr	fr-67	2020_03_02	total		2	https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf	
 admin_1	fr	fr-68	2020_03_02	total		3	https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf	
 admin_1	fr	fr-88	2020_03_02	total		0	https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf	
-admin_0		fr	2020_03_03	new		34	DERIVED	
+admin_0		fr	2020_03_03	new		21	DERIVED	
 admin_0		fr	2020_03_03	total		212	https://www.dailymotion.com/video/x7sgicv	
 admin_0		fr	2020_03_03	status_deaths		4	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
 admin_0		fr	2020_03_03	status_recovered		12	https://www.dailymotion.com/video/x7sgicv	
@@ -168,8 +168,8 @@ admin_1	fr	fr-15	2020_03_04	new		0	DERIVED
 admin_1	fr	fr-15	2020_03_04	total		0	https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf	
 admin_1	fr	fr-15	2020_03_04	status_deaths		0	https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf	
 admin_1	fr	fr-15	2020_03_04	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-26	2020_03_04	new		2	DERIVED	
-admin_1	fr	fr-26	2020_03_04	total		1	https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf	
+admin_1	fr	fr-26	2020_03_04	new		1	DERIVED	
+admin_1	fr	fr-26	2020_03_04	total		2	https://github.com/lperez31/coronavirus-france-dataset	
 admin_1	fr	fr-38	2020_03_04	new		0	DERIVED	
 admin_1	fr	fr-38	2020_03_04	total		0	https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf	
 admin_1	fr	fr-42	2020_03_04	new		0	DERIVED	
@@ -196,7 +196,7 @@ admin_1	fr	fr-74	2020_03_04	total		39	https://www.auvergne-rhone-alpes.ars.sante
 admin_1	fr	fr-88	2020_03_04	status_deaths		0	https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf	
 admin_1	fr	fr-90	2020_03_04	new		1	DERIVED	
 admin_1	fr	fr-90	2020_03_04	total		7	https://github.com/lperez31/coronavirus-france-dataset	
-admin_1	fr	fr-gf	2020_03_04	total		5	https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_04_CP%20COVID-19.pdf	
+admin_1	fr	fr-gf	2020_03_04	total		5	https://github.com/lperez31/coronavirus-france-dataset	
 admin_0		fr	2020_03_05	status_icu_new		8	DERIVED	
 admin_1	fr	fr-12	2020_03_05	new		2	DERIVED	
 admin_1	fr	fr-12	2020_03_05	total		4	https://github.com/lperez31/coronavirus-france-dataset	
@@ -244,7 +244,7 @@ admin_1	fr	fr-45	2020_03_06	new		3	DERIVED
 admin_1	fr	fr-45	2020_03_06	total		4	https://github.com/lperez31/coronavirus-france-dataset	
 admin_1	fr	fr-45	2020_03_06	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-59	2020_03_06	new		3	DERIVED	
-admin_1	fr	fr-59	2020_03_06	total		4	https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis	
+admin_1	fr	fr-59	2020_03_06	total		4	https://github.com/lperez31/coronavirus-france-dataset	
 admin_1	fr	fr-80	2020_03_06	new		1	DERIVED	
 admin_1	fr	fr-80	2020_03_06	total		3	https://github.com/lperez31/coronavirus-france-dataset	
 admin_1	fr	fr-83	2020_03_06	new		0	DERIVED	
@@ -278,7 +278,7 @@ admin_1	fr	fr-17	2020_03_08	status_active		-6	https://www.nouvelle-aquitaine.ars
 admin_1	fr	fr-17	2020_03_08	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-17	2020_03_08	status_active_new		-5	DERIVED	
 admin_1	fr	fr-19	2020_03_08	new		1	DERIVED	
-admin_1	fr	fr-19	2020_03_08	total		1	https://github.com/lperez31/coronavirus-france-dataset	
+admin_1	fr	fr-19	2020_03_08	total		1	https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf	
 admin_1	fr	fr-23	2020_03_08	new		0	DERIVED	
 admin_1	fr	fr-23	2020_03_08	total		0	https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf	
 admin_1	fr	fr-24	2020_03_08	new		0	DERIVED	
@@ -374,7 +374,7 @@ admin_1	fr	fr-26	2020_03_10	status_deaths_new		0	DERIVED
 admin_1	fr	fr-28	2020_03_10	status_deaths		0	http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf	
 admin_1	fr	fr-29	2020_03_10	status_deaths		0	http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires	
 admin_1	fr	fr-29	2020_03_10	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-35	2020_03_10	status_deaths		0	http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires	
+admin_1	fr	fr-35	2020_03_10	status_deaths		0	https://github.com/opencovid19-fr/data	
 admin_1	fr	fr-35	2020_03_10	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-36	2020_03_10	status_deaths		0	http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf	
 admin_1	fr	fr-37	2020_03_10	status_deaths		0	http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf	
@@ -416,7 +416,7 @@ admin_1	fr	fr-73	2020_03_10	status_deaths		1	https://www.auvergne-rhone-alpes.ar
 admin_1	fr	fr-73	2020_03_10	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-74	2020_03_10	status_deaths		0	https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf	
 admin_1	fr	fr-74	2020_03_10	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-80	2020_03_10	status_deaths		2	https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2010032020_0.pdf	
+admin_1	fr	fr-80	2020_03_10	status_deaths		2	http://www.somme.gouv.fr/content/download/31875/197389/file/10%20mars%202020.pdf	
 admin_1	fr	fr-80	2020_03_10	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-84	2020_03_10	status_deaths		0	https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-10-mars	
 admin_1	fr	fr-88	2020_03_10	new		11	DERIVED	
@@ -533,7 +533,7 @@ admin_1	fr	fr-18	2020_03_13	new		0	DERIVED
 admin_1	fr	fr-18	2020_03_13	total		1	https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf	
 admin_1	fr	fr-28	2020_03_13	new		2	DERIVED	
 admin_1	fr	fr-28	2020_03_13	total		7	https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf	
-admin_1	fr	fr-2a	2020_03_13	new		20	DERIVED	
+admin_1	fr	fr-2a	2020_03_13	new		17	DERIVED	
 admin_1	fr	fr-2a	2020_03_13	total		70	https://twitter.com/ARSCORSE1/status/1238526973816733697	
 admin_1	fr	fr-2b	2020_03_13	new		4	DERIVED	
 admin_1	fr	fr-2b	2020_03_13	total		15	https://twitter.com/ARSCORSE1/status/1238526973816733697	
@@ -669,7 +669,7 @@ admin_1	fr	fr-22	2020_03_16	total		5	https://www.bretagne.ars.sante.fr/system/fi
 admin_1	fr	fr-25	2020_03_16	status_deaths		1	https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.16_COVID19_SITUATION%20BFC.pdf	
 admin_1	fr	fr-25	2020_03_16	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-29	2020_03_16	new		1	DERIVED	
-admin_1	fr	fr-29	2020_03_16	total		35	http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires	
+admin_1	fr	fr-29	2020_03_16	total		35	https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200316.pdf	
 admin_1	fr	fr-2a	2020_03_16	status_deaths		7	https://twitter.com/ARSCORSE1/status/1239595508013969409	
 admin_1	fr	fr-2a	2020_03_16	status_icu		2	https://twitter.com/ARSCORSE1/status/1239595508013969409	
 admin_1	fr	fr-2a	2020_03_16	status_deaths_new		2	DERIVED	
@@ -677,7 +677,7 @@ admin_1	fr	fr-2a	2020_03_16	status_icu_new		0	DERIVED
 admin_1	fr	fr-2b	2020_03_16	status_deaths		0	https://twitter.com/ARSCORSE1/status/1239595508013969409	
 admin_1	fr	fr-2b	2020_03_16	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-35	2020_03_16	new		1	DERIVED	
-admin_1	fr	fr-35	2020_03_16	total		44	http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires	
+admin_1	fr	fr-35	2020_03_16	total		44	https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200316.pdf	
 admin_1	fr	fr-39	2020_03_16	status_deaths		1	https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.16_COVID19_SITUATION%20BFC.pdf	
 admin_1	fr	fr-39	2020_03_16	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-56	2020_03_16	new		15	DERIVED	
@@ -699,7 +699,7 @@ admin_1	fr	fr-gp	2020_03_16	total		18	https://www.guadeloupe.ars.sante.fr/system
 admin_1	fr	fr-mq	2020_03_16	total		16	https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2016%20Mars%202020.pdf	
 admin_1	fr	fr-mq	2020_03_16	status_deaths		0	https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2016%20Mars%202020.pdf	
 admin_0		fr	2020_03_17	new		1097	DERIVED	
-admin_0		fr	2020_03_17	total		7730	https://www.dailymotion.com/video/x7srn0c	
+admin_0		fr	2020_03_17	total		7730	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
 admin_0		fr	2020_03_17	status_deaths		175	https://www.dailymotion.com/video/x7srn0c	
 admin_0		fr	2020_03_17	status_hospitalized		2579	https://www.dailymotion.com/video/x7srn0c	
 admin_0		fr	2020_03_17	status_icu		699	https://www.dailymotion.com/video/x7srn0c	
@@ -913,19 +913,19 @@ admin_1	fr	fr-gp	2020_03_23	new		4	DERIVED
 admin_1	fr	fr-gp	2020_03_23	total		62	https://www.guadeloupe.ars.sante.fr/system/files/2020-03/23032020%20point%20de%20situation%20Coronavirus.pdf	
 admin_0		fr	2020_03_24	new		2446	DERIVED	
 admin_0		fr	2020_03_24	total		22302	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
-admin_0		fr	2020_03_24	status_deaths		1100	https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde	
+admin_0		fr	2020_03_24	status_deaths		1100	OpenCOVID19-fr	
 admin_0		fr	2020_03_24	status_hospitalized		10176	https://solidarites-sante.gouv.fr/IMG/pdf/point_de_situation_mardi_24_mars_2020vf.pdf	
 admin_0		fr	2020_03_24	status_icu		2516	https://solidarites-sante.gouv.fr/IMG/pdf/point_de_situation_mardi_24_mars_2020vf.pdf	
 admin_0		fr	2020_03_24	status_recovered		3281	OpenCOVID19-fr	
 admin_0		fr	2020_03_24	status_deaths_new		240	DERIVED	
-admin_0		fr	2020_03_24	status_hospitalized_new		1488	DERIVED	
+admin_0		fr	2020_03_24	status_hospitalized_new		1490	DERIVED	
 admin_0		fr	2020_03_24	status_icu_new		423	DERIVED	
 admin_0		fr	2020_03_24	status_recovered_new		714	DERIVED	
 admin_1	fr	fr-01	2020_03_24	status_deaths		0	Santé publique France Data	
 admin_1	fr	fr-01	2020_03_24	status_hospitalized		22	Santé publique France Data	
 admin_1	fr	fr-01	2020_03_24	status_icu		3	Santé publique France Data	
 admin_1	fr	fr-01	2020_03_24	status_recovered		11	Santé publique France Data	
-admin_1	fr	fr-01	2020_03_24	status_deaths_new		0	DERIVED	
+admin_1	fr	fr-01	2020_03_24	status_deaths_new		-5	DERIVED	
 admin_1	fr	fr-01	2020_03_24	status_hospitalized_new		5	DERIVED	
 admin_1	fr	fr-01	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-01	2020_03_24	status_recovered_new		4	DERIVED	
@@ -933,7 +933,7 @@ admin_1	fr	fr-02	2020_03_24	status_deaths		33	Santé publique France Data
 admin_1	fr	fr-02	2020_03_24	status_hospitalized		107	Santé publique France Data	
 admin_1	fr	fr-02	2020_03_24	status_icu		27	Santé publique France Data	
 admin_1	fr	fr-02	2020_03_24	status_recovered		85	Santé publique France Data	
-admin_1	fr	fr-02	2020_03_24	status_deaths_new		2	DERIVED	
+admin_1	fr	fr-02	2020_03_24	status_deaths_new		-6	DERIVED	
 admin_1	fr	fr-02	2020_03_24	status_hospitalized_new		16	DERIVED	
 admin_1	fr	fr-02	2020_03_24	status_icu_new		4	DERIVED	
 admin_1	fr	fr-02	2020_03_24	status_recovered_new		23	DERIVED	
@@ -986,8 +986,8 @@ admin_1	fr	fr-08	2020_03_24	status_hospitalized_new		-1	DERIVED
 admin_1	fr	fr-08	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-08	2020_03_24	status_recovered_new		1	DERIVED	
 admin_1	fr	fr-09	2020_03_24	status_deaths		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-09	2020_03_24	status_hospitalized		3	Santé publique France Data	
-admin_1	fr	fr-09	2020_03_24	status_icu		3	Santé publique France Data	
+admin_1	fr	fr-09	2020_03_24	status_hospitalized		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-09	2020_03_24	status_icu		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-09	2020_03_24	status_recovered		3	Santé publique France Data	
 admin_1	fr	fr-09	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-09	2020_03_24	status_hospitalized_new		0	DERIVED	
@@ -999,22 +999,22 @@ admin_1	fr	fr-10	2020_03_24	status_icu		4	Santé publique France Data
 admin_1	fr	fr-10	2020_03_24	status_recovered		0	Santé publique France Data	
 admin_1	fr	fr-10	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-10	2020_03_24	status_hospitalized_new		3	DERIVED	
-admin_1	fr	fr-10	2020_03_24	status_icu_new		-5	DERIVED	
+admin_1	fr	fr-10	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-10	2020_03_24	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-11	2020_03_24	status_deaths		12	Santé publique France Data	
-admin_1	fr	fr-11	2020_03_24	status_hospitalized		33	Santé publique France Data	
+admin_1	fr	fr-11	2020_03_24	status_hospitalized		33	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-11	2020_03_24	status_icu		11	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-11	2020_03_24	status_recovered		13	Santé publique France Data	
+admin_1	fr	fr-11	2020_03_24	status_recovered		13	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-11	2020_03_24	status_deaths_new		2	DERIVED	
 admin_1	fr	fr-11	2020_03_24	status_hospitalized_new		-2	DERIVED	
-admin_1	fr	fr-11	2020_03_24	status_icu_new		-2	DERIVED	
+admin_1	fr	fr-11	2020_03_24	status_icu_new		-1	DERIVED	
 admin_1	fr	fr-11	2020_03_24	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-12	2020_03_24	status_deaths		1	Santé publique France Data	
-admin_1	fr	fr-12	2020_03_24	status_hospitalized		19	Santé publique France Data	
-admin_1	fr	fr-12	2020_03_24	status_icu		3	Santé publique France Data	
+admin_1	fr	fr-12	2020_03_24	status_hospitalized		18	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-12	2020_03_24	status_icu		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-12	2020_03_24	status_recovered		5	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-12	2020_03_24	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-12	2020_03_24	status_hospitalized_new		4	DERIVED	
+admin_1	fr	fr-12	2020_03_24	status_hospitalized_new		5	DERIVED	
 admin_1	fr	fr-12	2020_03_24	status_icu_new		1	DERIVED	
 admin_1	fr	fr-12	2020_03_24	status_recovered_new		1	DERIVED	
 admin_1	fr	fr-13	2020_03_24	status_deaths		7	Santé publique France Data	
@@ -1027,7 +1027,7 @@ admin_1	fr	fr-13	2020_03_24	status_icu_new		18	DERIVED
 admin_1	fr	fr-13	2020_03_24	status_recovered_new		29	DERIVED	
 admin_1	fr	fr-14	2020_03_24	new		17	DERIVED	
 admin_1	fr	fr-14	2020_03_24	total		147	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
-admin_1	fr	fr-14	2020_03_24	status_deaths		1	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
+admin_1	fr	fr-14	2020_03_24	status_deaths		1	Santé publique France Data	
 admin_1	fr	fr-14	2020_03_24	status_hospitalized		29	Santé publique France Data	
 admin_1	fr	fr-14	2020_03_24	status_icu		10	Santé publique France Data	
 admin_1	fr	fr-14	2020_03_24	status_recovered		7	Santé publique France Data	
@@ -1149,38 +1149,38 @@ admin_1	fr	fr-29	2020_03_24	status_deaths_new		1	DERIVED
 admin_1	fr	fr-29	2020_03_24	status_hospitalized_new		0	DERIVED	
 admin_1	fr	fr-29	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-29	2020_03_24	status_recovered_new		5	DERIVED	
-admin_1	fr	fr-2a	2020_03_24	status_deaths		7	Santé publique France Data	
+admin_1	fr	fr-2a	2020_03_24	status_deaths		11	https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation	
 admin_1	fr	fr-2a	2020_03_24	status_hospitalized		63	Santé publique France Data	
 admin_1	fr	fr-2a	2020_03_24	status_icu		8	https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation	
 admin_1	fr	fr-2a	2020_03_24	status_recovered		18	Santé publique France Data	
-admin_1	fr	fr-2a	2020_03_24	status_deaths_new		4	DERIVED	
+admin_1	fr	fr-2a	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-2a	2020_03_24	status_hospitalized_new		-21	DERIVED	
-admin_1	fr	fr-2a	2020_03_24	status_icu_new		0	DERIVED	
+admin_1	fr	fr-2a	2020_03_24	status_icu_new		2	DERIVED	
 admin_1	fr	fr-2a	2020_03_24	status_recovered_new		4	DERIVED	
 admin_1	fr	fr-2b	2020_03_24	status_deaths		1	https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation	
 admin_1	fr	fr-2b	2020_03_24	status_hospitalized		7	Santé publique France Data	
-admin_1	fr	fr-2b	2020_03_24	status_icu		0	Santé publique France Data	
+admin_1	fr	fr-2b	2020_03_24	status_icu		0	https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation	
 admin_1	fr	fr-2b	2020_03_24	status_recovered		33	Santé publique France Data	
 admin_1	fr	fr-2b	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-2b	2020_03_24	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-2b	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-2b	2020_03_24	status_recovered_new		2	DERIVED	
-admin_1	fr	fr-30	2020_03_24	status_deaths		4	Santé publique France Data	
-admin_1	fr	fr-30	2020_03_24	status_hospitalized		14	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-30	2020_03_24	status_deaths		5	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-30	2020_03_24	status_hospitalized		14	Santé publique France Data	
 admin_1	fr	fr-30	2020_03_24	status_icu		8	Santé publique France Data	
-admin_1	fr	fr-30	2020_03_24	status_recovered		14	Santé publique France Data	
-admin_1	fr	fr-30	2020_03_24	status_deaths_new		3	DERIVED	
+admin_1	fr	fr-30	2020_03_24	status_recovered		14	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-30	2020_03_24	status_deaths_new		2	DERIVED	
 admin_1	fr	fr-30	2020_03_24	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-30	2020_03_24	status_icu_new		3	DERIVED	
 admin_1	fr	fr-30	2020_03_24	status_recovered_new		3	DERIVED	
-admin_1	fr	fr-31	2020_03_24	status_deaths		3	Santé publique France Data	
-admin_1	fr	fr-31	2020_03_24	status_hospitalized		89	Santé publique France Data	
+admin_1	fr	fr-31	2020_03_24	status_deaths		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-31	2020_03_24	status_hospitalized		89	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-31	2020_03_24	status_icu		29	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-31	2020_03_24	status_recovered		38	Santé publique France Data	
+admin_1	fr	fr-31	2020_03_24	status_recovered		36	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-31	2020_03_24	status_deaths_new		1	DERIVED	
-admin_1	fr	fr-31	2020_03_24	status_hospitalized_new		18	DERIVED	
+admin_1	fr	fr-31	2020_03_24	status_hospitalized_new		21	DERIVED	
 admin_1	fr	fr-31	2020_03_24	status_icu_new		9	DERIVED	
-admin_1	fr	fr-31	2020_03_24	status_recovered_new		11	DERIVED	
+admin_1	fr	fr-31	2020_03_24	status_recovered_new		13	DERIVED	
 admin_1	fr	fr-32	2020_03_24	status_deaths		0	Santé publique France Data	
 admin_1	fr	fr-32	2020_03_24	status_hospitalized		8	Santé publique France Data	
 admin_1	fr	fr-32	2020_03_24	status_icu		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
@@ -1197,13 +1197,13 @@ admin_1	fr	fr-33	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-33	2020_03_24	status_hospitalized_new		31	DERIVED	
 admin_1	fr	fr-33	2020_03_24	status_icu_new		17	DERIVED	
 admin_1	fr	fr-33	2020_03_24	status_recovered_new		8	DERIVED	
-admin_1	fr	fr-34	2020_03_24	status_deaths		10	Santé publique France Data	
-admin_1	fr	fr-34	2020_03_24	status_hospitalized		99	Santé publique France Data	
-admin_1	fr	fr-34	2020_03_24	status_icu		34	Santé publique France Data	
+admin_1	fr	fr-34	2020_03_24	status_deaths		10	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-34	2020_03_24	status_hospitalized		97	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-34	2020_03_24	status_icu		32	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-34	2020_03_24	status_recovered		49	Santé publique France Data	
 admin_1	fr	fr-34	2020_03_24	status_deaths_new		1	DERIVED	
-admin_1	fr	fr-34	2020_03_24	status_hospitalized_new		15	DERIVED	
-admin_1	fr	fr-34	2020_03_24	status_icu_new		3	DERIVED	
+admin_1	fr	fr-34	2020_03_24	status_hospitalized_new		17	DERIVED	
+admin_1	fr	fr-34	2020_03_24	status_icu_new		6	DERIVED	
 admin_1	fr	fr-34	2020_03_24	status_recovered_new		7	DERIVED	
 admin_1	fr	fr-35	2020_03_24	status_deaths		2	Santé publique France Data	
 admin_1	fr	fr-35	2020_03_24	status_hospitalized		33	Santé publique France Data	
@@ -1213,7 +1213,7 @@ admin_1	fr	fr-35	2020_03_24	status_deaths_new		1	DERIVED
 admin_1	fr	fr-35	2020_03_24	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-35	2020_03_24	status_icu_new		-1	DERIVED	
 admin_1	fr	fr-35	2020_03_24	status_recovered_new		6	DERIVED	
-admin_1	fr	fr-36	2020_03_24	status_deaths		2	https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf	
+admin_1	fr	fr-36	2020_03_24	status_deaths		2	Santé publique France Data	
 admin_1	fr	fr-36	2020_03_24	status_hospitalized		19	Santé publique France Data	
 admin_1	fr	fr-36	2020_03_24	status_icu		7	Santé publique France Data	
 admin_1	fr	fr-36	2020_03_24	status_recovered		0	Santé publique France Data	
@@ -1221,7 +1221,7 @@ admin_1	fr	fr-36	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-36	2020_03_24	status_hospitalized_new		3	DERIVED	
 admin_1	fr	fr-36	2020_03_24	status_icu_new		2	DERIVED	
 admin_1	fr	fr-36	2020_03_24	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-37	2020_03_24	status_deaths		2	Santé publique France Data	
+admin_1	fr	fr-37	2020_03_24	status_deaths		2	https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf	
 admin_1	fr	fr-37	2020_03_24	status_hospitalized		22	Santé publique France Data	
 admin_1	fr	fr-37	2020_03_24	status_icu		6	Santé publique France Data	
 admin_1	fr	fr-37	2020_03_24	status_recovered		4	Santé publique France Data	
@@ -1253,7 +1253,7 @@ admin_1	fr	fr-40	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-40	2020_03_24	status_hospitalized_new		0	DERIVED	
 admin_1	fr	fr-40	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-40	2020_03_24	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-41	2020_03_24	status_deaths		0	Santé publique France Data	
+admin_1	fr	fr-41	2020_03_24	status_deaths		0	https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf	
 admin_1	fr	fr-41	2020_03_24	status_hospitalized		10	Santé publique France Data	
 admin_1	fr	fr-41	2020_03_24	status_icu		1	Santé publique France Data	
 admin_1	fr	fr-41	2020_03_24	status_recovered		6	Santé publique France Data	
@@ -1265,7 +1265,7 @@ admin_1	fr	fr-42	2020_03_24	status_deaths		13	Santé publique France Data
 admin_1	fr	fr-42	2020_03_24	status_hospitalized		160	Santé publique France Data	
 admin_1	fr	fr-42	2020_03_24	status_icu		29	Santé publique France Data	
 admin_1	fr	fr-42	2020_03_24	status_recovered		26	Santé publique France Data	
-admin_1	fr	fr-42	2020_03_24	status_deaths_new		4	DERIVED	
+admin_1	fr	fr-42	2020_03_24	status_deaths_new		3	DERIVED	
 admin_1	fr	fr-42	2020_03_24	status_hospitalized_new		37	DERIVED	
 admin_1	fr	fr-42	2020_03_24	status_icu_new		4	DERIVED	
 admin_1	fr	fr-42	2020_03_24	status_recovered_new		6	DERIVED	
@@ -1294,11 +1294,11 @@ admin_1	fr	fr-45	2020_03_24	status_hospitalized_new		0	DERIVED
 admin_1	fr	fr-45	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-45	2020_03_24	status_recovered_new		-1	DERIVED	
 admin_1	fr	fr-46	2020_03_24	status_deaths		0	Santé publique France Data	
-admin_1	fr	fr-46	2020_03_24	status_hospitalized		2	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-46	2020_03_24	status_icu		0	Santé publique France Data	
+admin_1	fr	fr-46	2020_03_24	status_hospitalized		2	Santé publique France Data	
+admin_1	fr	fr-46	2020_03_24	status_icu		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-46	2020_03_24	status_recovered		4	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-46	2020_03_24	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-46	2020_03_24	status_hospitalized_new		0	DERIVED	
+admin_1	fr	fr-46	2020_03_24	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-46	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-46	2020_03_24	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-47	2020_03_24	status_deaths		1	Santé publique France Data	
@@ -1309,9 +1309,9 @@ admin_1	fr	fr-47	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-47	2020_03_24	status_hospitalized_new		-2	DERIVED	
 admin_1	fr	fr-47	2020_03_24	status_icu_new		-2	DERIVED	
 admin_1	fr	fr-47	2020_03_24	status_recovered_new		1	DERIVED	
-admin_1	fr	fr-48	2020_03_24	status_deaths		0	Santé publique France Data	
+admin_1	fr	fr-48	2020_03_24	status_deaths		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-48	2020_03_24	status_hospitalized		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-48	2020_03_24	status_icu		2	Santé publique France Data	
+admin_1	fr	fr-48	2020_03_24	status_icu		2	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-48	2020_03_24	status_recovered		2	Santé publique France Data	
 admin_1	fr	fr-48	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-48	2020_03_24	status_hospitalized_new		3	DERIVED	
@@ -1365,7 +1365,7 @@ admin_1	fr	fr-54	2020_03_24	status_icu		79	Santé publique France Data
 admin_1	fr	fr-54	2020_03_24	status_recovered		25	Santé publique France Data	
 admin_1	fr	fr-54	2020_03_24	status_deaths_new		5	DERIVED	
 admin_1	fr	fr-54	2020_03_24	status_hospitalized_new		40	DERIVED	
-admin_1	fr	fr-54	2020_03_24	status_icu_new		24	DERIVED	
+admin_1	fr	fr-54	2020_03_24	status_icu_new		-3	DERIVED	
 admin_1	fr	fr-54	2020_03_24	status_recovered_new		9	DERIVED	
 admin_1	fr	fr-55	2020_03_24	status_deaths		9	Santé publique France Data	
 admin_1	fr	fr-55	2020_03_24	status_hospitalized		96	Santé publique France Data	
@@ -1373,7 +1373,7 @@ admin_1	fr	fr-55	2020_03_24	status_icu		7	Santé publique France Data
 admin_1	fr	fr-55	2020_03_24	status_recovered		20	Santé publique France Data	
 admin_1	fr	fr-55	2020_03_24	status_deaths_new		7	DERIVED	
 admin_1	fr	fr-55	2020_03_24	status_hospitalized_new		10	DERIVED	
-admin_1	fr	fr-55	2020_03_24	status_icu_new		0	DERIVED	
+admin_1	fr	fr-55	2020_03_24	status_icu_new		-2	DERIVED	
 admin_1	fr	fr-55	2020_03_24	status_recovered_new		4	DERIVED	
 admin_1	fr	fr-56	2020_03_24	status_deaths		17	Santé publique France Data	
 admin_1	fr	fr-56	2020_03_24	status_hospitalized		67	Santé publique France Data	
@@ -1403,7 +1403,7 @@ admin_1	fr	fr-59	2020_03_24	status_deaths		8	https://www.hauts-de-france.ars.san
 admin_1	fr	fr-59	2020_03_24	status_hospitalized		183	Santé publique France Data	
 admin_1	fr	fr-59	2020_03_24	status_icu		76	Santé publique France Data	
 admin_1	fr	fr-59	2020_03_24	status_recovered		32	Santé publique France Data	
-admin_1	fr	fr-59	2020_03_24	status_deaths_new		4	DERIVED	
+admin_1	fr	fr-59	2020_03_24	status_deaths_new		15	DERIVED	
 admin_1	fr	fr-59	2020_03_24	status_hospitalized_new		38	DERIVED	
 admin_1	fr	fr-59	2020_03_24	status_icu_new		8	DERIVED	
 admin_1	fr	fr-59	2020_03_24	status_recovered_new		2	DERIVED	
@@ -1411,18 +1411,18 @@ admin_1	fr	fr-60	2020_03_24	status_deaths		61	https://www.hauts-de-france.ars.sa
 admin_1	fr	fr-60	2020_03_24	status_hospitalized		189	Santé publique France Data	
 admin_1	fr	fr-60	2020_03_24	status_icu		35	Santé publique France Data	
 admin_1	fr	fr-60	2020_03_24	status_recovered		71	Santé publique France Data	
-admin_1	fr	fr-60	2020_03_24	status_deaths_new		9	DERIVED	
+admin_1	fr	fr-60	2020_03_24	status_deaths_new		-19	DERIVED	
 admin_1	fr	fr-60	2020_03_24	status_hospitalized_new		15	DERIVED	
 admin_1	fr	fr-60	2020_03_24	status_icu_new		4	DERIVED	
 admin_1	fr	fr-60	2020_03_24	status_recovered_new		17	DERIVED	
 admin_1	fr	fr-61	2020_03_24	new		1	DERIVED	
 admin_1	fr	fr-61	2020_03_24	total		28	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
 admin_1	fr	fr-61	2020_03_24	status_deaths		0	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
-admin_1	fr	fr-61	2020_03_24	status_hospitalized		9	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
+admin_1	fr	fr-61	2020_03_24	status_hospitalized		8	Santé publique France Data	
 admin_1	fr	fr-61	2020_03_24	status_icu		2	Santé publique France Data	
 admin_1	fr	fr-61	2020_03_24	status_recovered		10	Santé publique France Data	
 admin_1	fr	fr-61	2020_03_24	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-61	2020_03_24	status_hospitalized_new		2	DERIVED	
+admin_1	fr	fr-61	2020_03_24	status_hospitalized_new		3	DERIVED	
 admin_1	fr	fr-61	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-61	2020_03_24	status_recovered_new		3	DERIVED	
 admin_1	fr	fr-62	2020_03_24	status_deaths		3	https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2024032020.pdf	
@@ -1449,21 +1449,21 @@ admin_1	fr	fr-64	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-64	2020_03_24	status_hospitalized_new		4	DERIVED	
 admin_1	fr	fr-64	2020_03_24	status_icu_new		4	DERIVED	
 admin_1	fr	fr-64	2020_03_24	status_recovered_new		2	DERIVED	
-admin_1	fr	fr-65	2020_03_24	status_deaths		0	Santé publique France Data	
-admin_1	fr	fr-65	2020_03_24	status_hospitalized		6	Santé publique France Data	
+admin_1	fr	fr-65	2020_03_24	status_deaths		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-65	2020_03_24	status_hospitalized		6	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-65	2020_03_24	status_icu		1	Santé publique France Data	
-admin_1	fr	fr-65	2020_03_24	status_recovered		3	Santé publique France Data	
+admin_1	fr	fr-65	2020_03_24	status_recovered		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-65	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-65	2020_03_24	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-65	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-65	2020_03_24	status_recovered_new		1	DERIVED	
-admin_1	fr	fr-66	2020_03_24	status_deaths		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-66	2020_03_24	status_deaths		7	Santé publique France Data	
 admin_1	fr	fr-66	2020_03_24	status_hospitalized		92	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-66	2020_03_24	status_icu		28	Santé publique France Data	
-admin_1	fr	fr-66	2020_03_24	status_recovered		12	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-66	2020_03_24	status_icu		27	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-66	2020_03_24	status_recovered		12	Santé publique France Data	
 admin_1	fr	fr-66	2020_03_24	status_deaths_new		1	DERIVED	
-admin_1	fr	fr-66	2020_03_24	status_hospitalized_new		10	DERIVED	
-admin_1	fr	fr-66	2020_03_24	status_icu_new		5	DERIVED	
+admin_1	fr	fr-66	2020_03_24	status_hospitalized_new		8	DERIVED	
+admin_1	fr	fr-66	2020_03_24	status_icu_new		6	DERIVED	
 admin_1	fr	fr-66	2020_03_24	status_recovered_new		6	DERIVED	
 admin_1	fr	fr-67	2020_03_24	status_deaths		69	Santé publique France Data	
 admin_1	fr	fr-67	2020_03_24	status_hospitalized		621	Santé publique France Data	
@@ -1471,7 +1471,7 @@ admin_1	fr	fr-67	2020_03_24	status_icu		163	Santé publique France Data
 admin_1	fr	fr-67	2020_03_24	status_recovered		120	Santé publique France Data	
 admin_1	fr	fr-67	2020_03_24	status_deaths_new		19	DERIVED	
 admin_1	fr	fr-67	2020_03_24	status_hospitalized_new		76	DERIVED	
-admin_1	fr	fr-67	2020_03_24	status_icu_new		24	DERIVED	
+admin_1	fr	fr-67	2020_03_24	status_icu_new		-4	DERIVED	
 admin_1	fr	fr-67	2020_03_24	status_recovered_new		43	DERIVED	
 admin_1	fr	fr-68	2020_03_24	status_deaths		187	Santé publique France Data	
 admin_1	fr	fr-68	2020_03_24	status_hospitalized		713	Santé publique France Data	
@@ -1539,12 +1539,12 @@ admin_1	fr	fr-75	2020_03_24	status_icu_new		61	DERIVED
 admin_1	fr	fr-75	2020_03_24	status_recovered_new		34	DERIVED	
 admin_1	fr	fr-76	2020_03_24	new		38	DERIVED	
 admin_1	fr	fr-76	2020_03_24	total		233	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
-admin_1	fr	fr-76	2020_03_24	status_deaths		12	Santé publique France Data	
+admin_1	fr	fr-76	2020_03_24	status_deaths		12	https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf	
 admin_1	fr	fr-76	2020_03_24	status_hospitalized		98	Santé publique France Data	
 admin_1	fr	fr-76	2020_03_24	status_icu		18	Santé publique France Data	
 admin_1	fr	fr-76	2020_03_24	status_recovered		11	Santé publique France Data	
-admin_1	fr	fr-76	2020_03_24	status_deaths_new		4	DERIVED	
-admin_1	fr	fr-76	2020_03_24	status_hospitalized_new		15	DERIVED	
+admin_1	fr	fr-76	2020_03_24	status_deaths_new		3	DERIVED	
+admin_1	fr	fr-76	2020_03_24	status_hospitalized_new		16	DERIVED	
 admin_1	fr	fr-76	2020_03_24	status_icu_new		4	DERIVED	
 admin_1	fr	fr-76	2020_03_24	status_recovered_new		3	DERIVED	
 admin_1	fr	fr-77	2020_03_24	status_deaths		11	Santé publique France Data	
@@ -1571,26 +1571,26 @@ admin_1	fr	fr-79	2020_03_24	status_deaths_new		0	DERIVED
 admin_1	fr	fr-79	2020_03_24	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-79	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-79	2020_03_24	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-80	2020_03_24	status_deaths		27	https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2024032020.pdf	
+admin_1	fr	fr-80	2020_03_24	status_deaths		13	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_24	status_hospitalized		147	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_24	status_icu		36	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_24	status_recovered		28	Santé publique France Data	
-admin_1	fr	fr-80	2020_03_24	status_deaths_new		-10	DERIVED	
+admin_1	fr	fr-80	2020_03_24	status_deaths_new		18	DERIVED	
 admin_1	fr	fr-80	2020_03_24	status_hospitalized_new		10	DERIVED	
 admin_1	fr	fr-80	2020_03_24	status_icu_new		-1	DERIVED	
 admin_1	fr	fr-80	2020_03_24	status_recovered_new		6	DERIVED	
-admin_1	fr	fr-81	2020_03_24	status_deaths		1	Santé publique France Data	
-admin_1	fr	fr-81	2020_03_24	status_hospitalized		8	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-81	2020_03_24	status_icu		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-81	2020_03_24	status_recovered		4	Santé publique France Data	
+admin_1	fr	fr-81	2020_03_24	status_deaths		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-81	2020_03_24	status_hospitalized		8	Santé publique France Data	
+admin_1	fr	fr-81	2020_03_24	status_icu		3	Santé publique France Data	
+admin_1	fr	fr-81	2020_03_24	status_recovered		4	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-81	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-81	2020_03_24	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-81	2020_03_24	status_icu_new		0	DERIVED	
 admin_1	fr	fr-81	2020_03_24	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-82	2020_03_24	status_deaths		1	Santé publique France Data	
-admin_1	fr	fr-82	2020_03_24	status_hospitalized		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
-admin_1	fr	fr-82	2020_03_24	status_icu		1	Santé publique France Data	
-admin_1	fr	fr-82	2020_03_24	status_recovered		2	Santé publique France Data	
+admin_1	fr	fr-82	2020_03_24	status_deaths		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-82	2020_03_24	status_hospitalized		3	Santé publique France Data	
+admin_1	fr	fr-82	2020_03_24	status_icu		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
+admin_1	fr	fr-82	2020_03_24	status_recovered		3	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf	
 admin_1	fr	fr-82	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-82	2020_03_24	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-82	2020_03_24	status_icu_new		0	DERIVED	
@@ -1641,7 +1641,7 @@ admin_1	fr	fr-88	2020_03_24	status_icu		11	Santé publique France Data
 admin_1	fr	fr-88	2020_03_24	status_recovered		36	Santé publique France Data	
 admin_1	fr	fr-88	2020_03_24	status_deaths_new		4	DERIVED	
 admin_1	fr	fr-88	2020_03_24	status_hospitalized_new		11	DERIVED	
-admin_1	fr	fr-88	2020_03_24	status_icu_new		-9	DERIVED	
+admin_1	fr	fr-88	2020_03_24	status_icu_new		1	DERIVED	
 admin_1	fr	fr-88	2020_03_24	status_recovered_new		12	DERIVED	
 admin_1	fr	fr-89	2020_03_24	status_deaths		2	Santé publique France Data	
 admin_1	fr	fr-89	2020_03_24	status_hospitalized		18	Santé publique France Data	
@@ -1699,14 +1699,14 @@ admin_1	fr	fr-95	2020_03_24	status_deaths_new		10	DERIVED
 admin_1	fr	fr-95	2020_03_24	status_hospitalized_new		13	DERIVED	
 admin_1	fr	fr-95	2020_03_24	status_icu_new		16	DERIVED	
 admin_1	fr	fr-95	2020_03_24	status_recovered_new		35	DERIVED	
-admin_1	fr	fr-gf	2020_03_24	status_deaths		0	https://pbs.twimg.com/media/ET56UVeWsAASLJs?format=jpg&name=large	
+admin_1	fr	fr-gf	2020_03_24	status_deaths		0	Santé publique France Data	
 admin_1	fr	fr-gf	2020_03_24	status_hospitalized		0	Santé publique France Data	
 admin_1	fr	fr-gf	2020_03_24	status_icu		0	Santé publique France Data	
-admin_1	fr	fr-gf	2020_03_24	status_recovered		6	https://pbs.twimg.com/media/ET56UVeWsAASLJs?format=jpg&name=large	
+admin_1	fr	fr-gf	2020_03_24	status_recovered		0	Santé publique France Data	
 admin_1	fr	fr-gf	2020_03_24	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-gf	2020_03_24	status_hospitalized_new		0	DERIVED	
 admin_1	fr	fr-gf	2020_03_24	status_icu_new		0	DERIVED	
-admin_1	fr	fr-gf	2020_03_24	status_recovered_new		0	DERIVED	
+admin_1	fr	fr-gf	2020_03_24	status_recovered_new		6	DERIVED	
 admin_1	fr	fr-gp	2020_03_24	status_deaths		1	https://www.guadeloupe.ars.sante.fr/system/files/2020-03/24032020%20CP%20point%20de%20situation.pdf.pdf	
 admin_1	fr	fr-gp	2020_03_24	status_hospitalized		20	https://www.guadeloupe.ars.sante.fr/system/files/2020-03/24032020%20CP%20point%20de%20situation.pdf.pdf	
 admin_1	fr	fr-gp	2020_03_24	status_icu		7	https://www.guadeloupe.ars.sante.fr/system/files/2020-03/24032020%20CP%20point%20de%20situation.pdf.pdf	
@@ -1800,13 +1800,13 @@ admin_1	fr	fr-gp	2020_03_29	status_active		-86	https://www.guadeloupe.ars.sante.
 admin_1	fr	fr-gp	2020_03_29	status_active_new		-4	DERIVED	
 admin_0		fr	2020_03_30	new		4376	DERIVED	
 admin_0		fr	2020_03_30	total		44550	https://www.dailymotion.com/video/x7t0k3s	
-admin_0		fr	2020_03_30	status_deaths		3024	https://www.dailymotion.com/video/x7t0k3s	
-admin_0		fr	2020_03_30	status_hospitalized		21008	https://www.dailymotion.com/video/x7t0k3s	
-admin_0		fr	2020_03_30	status_icu		5056	OpenCOVID19-fr	
+admin_0		fr	2020_03_30	status_deaths		3024	OpenCOVID19-fr	
+admin_0		fr	2020_03_30	status_hospitalized		20946	OpenCOVID19-fr	
+admin_0		fr	2020_03_30	status_icu		5107	https://www.dailymotion.com/video/x7t0k3s	
 admin_0		fr	2020_03_30	status_recovered		7924	https://www.dailymotion.com/video/x7t0k3s	
 admin_0		fr	2020_03_30	status_deaths_new		418	DERIVED	
-admin_0		fr	2020_03_30	status_hospitalized_new		1635	DERIVED	
-admin_0		fr	2020_03_30	status_icu_new		515	DERIVED	
+admin_0		fr	2020_03_30	status_hospitalized_new		1654	DERIVED	
+admin_0		fr	2020_03_30	status_icu_new		464	DERIVED	
 admin_0		fr	2020_03_30	status_recovered_new		792	DERIVED	
 admin_1	fr	fr-01	2020_03_30	status_deaths		10	Santé publique France Data	
 admin_1	fr	fr-01	2020_03_30	status_hospitalized		67	Santé publique France Data	
@@ -1820,7 +1820,7 @@ admin_1	fr	fr-02	2020_03_30	status_deaths		31	https://www.hauts-de-france.ars.sa
 admin_1	fr	fr-02	2020_03_30	status_hospitalized		135	Santé publique France Data	
 admin_1	fr	fr-02	2020_03_30	status_icu		34	Santé publique France Data	
 admin_1	fr	fr-02	2020_03_30	status_recovered		67	Santé publique France Data	
-admin_1	fr	fr-02	2020_03_30	status_deaths_new		2	DERIVED	
+admin_1	fr	fr-02	2020_03_30	status_deaths_new		14	DERIVED	
 admin_1	fr	fr-02	2020_03_30	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-02	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-02	2020_03_30	status_recovered_new		-29	DERIVED	
@@ -1875,10 +1875,10 @@ admin_1	fr	fr-08	2020_03_30	status_recovered_new		0	DERIVED
 admin_1	fr	fr-09	2020_03_30	status_deaths		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-09	2020_03_30	status_hospitalized		11	Santé publique France Data	
 admin_1	fr	fr-09	2020_03_30	status_icu		3	Santé publique France Data	
-admin_1	fr	fr-09	2020_03_30	status_recovered		4	Santé publique France Data	
+admin_1	fr	fr-09	2020_03_30	status_recovered		4	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-09	2020_03_30	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-09	2020_03_30	status_hospitalized_new		2	DERIVED	
-admin_1	fr	fr-09	2020_03_30	status_icu_new		2	DERIVED	
+admin_1	fr	fr-09	2020_03_30	status_icu_new		1	DERIVED	
 admin_1	fr	fr-09	2020_03_30	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-10	2020_03_30	status_deaths		7	Santé publique France Data	
 admin_1	fr	fr-10	2020_03_30	status_hospitalized		70	Santé publique France Data	
@@ -1888,16 +1888,16 @@ admin_1	fr	fr-10	2020_03_30	status_deaths_new		0	DERIVED
 admin_1	fr	fr-10	2020_03_30	status_hospitalized_new		5	DERIVED	
 admin_1	fr	fr-10	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-10	2020_03_30	status_recovered_new		1	DERIVED	
-admin_1	fr	fr-11	2020_03_30	status_deaths		18	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-11	2020_03_30	status_deaths		18	Santé publique France Data	
 admin_1	fr	fr-11	2020_03_30	status_hospitalized		73	Santé publique France Data	
 admin_1	fr	fr-11	2020_03_30	status_icu		20	Santé publique France Data	
-admin_1	fr	fr-11	2020_03_30	status_recovered		36	Santé publique France Data	
+admin_1	fr	fr-11	2020_03_30	status_recovered		36	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-11	2020_03_30	status_deaths_new		1	DERIVED	
-admin_1	fr	fr-11	2020_03_30	status_hospitalized_new		-8	DERIVED	
+admin_1	fr	fr-11	2020_03_30	status_hospitalized_new		-9	DERIVED	
 admin_1	fr	fr-11	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-11	2020_03_30	status_recovered_new		1	DERIVED	
-admin_1	fr	fr-12	2020_03_30	status_deaths		6	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-12	2020_03_30	status_hospitalized		40	Santé publique France Data	
+admin_1	fr	fr-12	2020_03_30	status_deaths		6	Santé publique France Data	
+admin_1	fr	fr-12	2020_03_30	status_hospitalized		40	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-12	2020_03_30	status_icu		8	Santé publique France Data	
 admin_1	fr	fr-12	2020_03_30	status_recovered		19	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-12	2020_03_30	status_deaths_new		0	DERIVED	
@@ -2048,26 +2048,26 @@ admin_1	fr	fr-2b	2020_03_30	status_deaths_new		0	DERIVED
 admin_1	fr	fr-2b	2020_03_30	status_hospitalized_new		0	DERIVED	
 admin_1	fr	fr-2b	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-2b	2020_03_30	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-30	2020_03_30	status_deaths		9	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-30	2020_03_30	status_hospitalized		44	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-30	2020_03_30	status_deaths		9	Santé publique France Data	
+admin_1	fr	fr-30	2020_03_30	status_hospitalized		44	Santé publique France Data	
 admin_1	fr	fr-30	2020_03_30	status_icu		17	Santé publique France Data	
 admin_1	fr	fr-30	2020_03_30	status_recovered		19	Santé publique France Data	
-admin_1	fr	fr-30	2020_03_30	status_deaths_new		0	DERIVED	
+admin_1	fr	fr-30	2020_03_30	status_deaths_new		3	DERIVED	
 admin_1	fr	fr-30	2020_03_30	status_hospitalized_new		5	DERIVED	
 admin_1	fr	fr-30	2020_03_30	status_icu_new		3	DERIVED	
 admin_1	fr	fr-30	2020_03_30	status_recovered_new		0	DERIVED	
 admin_1	fr	fr-31	2020_03_30	status_deaths		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-31	2020_03_30	status_hospitalized		214	Santé publique France Data	
+admin_1	fr	fr-31	2020_03_30	status_hospitalized		213	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-31	2020_03_30	status_icu		78	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-31	2020_03_30	status_recovered		70	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-31	2020_03_30	status_recovered		70	Santé publique France Data	
 admin_1	fr	fr-31	2020_03_30	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-31	2020_03_30	status_hospitalized_new		28	DERIVED	
+admin_1	fr	fr-31	2020_03_30	status_hospitalized_new		27	DERIVED	
 admin_1	fr	fr-31	2020_03_30	status_icu_new		13	DERIVED	
 admin_1	fr	fr-31	2020_03_30	status_recovered_new		5	DERIVED	
 admin_1	fr	fr-32	2020_03_30	status_deaths		1	Santé publique France Data	
 admin_1	fr	fr-32	2020_03_30	status_hospitalized		19	Santé publique France Data	
-admin_1	fr	fr-32	2020_03_30	status_icu		4	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-32	2020_03_30	status_recovered		1	Santé publique France Data	
+admin_1	fr	fr-32	2020_03_30	status_icu		4	Santé publique France Data	
+admin_1	fr	fr-32	2020_03_30	status_recovered		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-32	2020_03_30	status_deaths_new		1	DERIVED	
 admin_1	fr	fr-32	2020_03_30	status_hospitalized_new		0	DERIVED	
 admin_1	fr	fr-32	2020_03_30	status_icu_new		0	DERIVED	
@@ -2080,14 +2080,14 @@ admin_1	fr	fr-33	2020_03_30	status_deaths_new		4	DERIVED
 admin_1	fr	fr-33	2020_03_30	status_hospitalized_new		51	DERIVED	
 admin_1	fr	fr-33	2020_03_30	status_icu_new		15	DERIVED	
 admin_1	fr	fr-33	2020_03_30	status_recovered_new		37	DERIVED	
-admin_1	fr	fr-34	2020_03_30	status_deaths		24	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-34	2020_03_30	status_deaths		24	Santé publique France Data	
 admin_1	fr	fr-34	2020_03_30	status_hospitalized		244	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-34	2020_03_30	status_icu		65	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-34	2020_03_30	status_recovered		121	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-34	2020_03_30	status_deaths_new		2	DERIVED	
+admin_1	fr	fr-34	2020_03_30	status_recovered		109	Santé publique France Data	
+admin_1	fr	fr-34	2020_03_30	status_deaths_new		1	DERIVED	
 admin_1	fr	fr-34	2020_03_30	status_hospitalized_new		10	DERIVED	
 admin_1	fr	fr-34	2020_03_30	status_icu_new		9	DERIVED	
-admin_1	fr	fr-34	2020_03_30	status_recovered_new		1	DERIVED	
+admin_1	fr	fr-34	2020_03_30	status_recovered_new		26	DERIVED	
 admin_1	fr	fr-35	2020_03_30	status_deaths		7	Santé publique France Data	
 admin_1	fr	fr-35	2020_03_30	status_hospitalized		91	Santé publique France Data	
 admin_1	fr	fr-35	2020_03_30	status_icu		17	Santé publique France Data	
@@ -2176,14 +2176,14 @@ admin_1	fr	fr-45	2020_03_30	status_deaths_new		3	DERIVED
 admin_1	fr	fr-45	2020_03_30	status_hospitalized_new		24	DERIVED	
 admin_1	fr	fr-45	2020_03_30	status_icu_new		1	DERIVED	
 admin_1	fr	fr-45	2020_03_30	status_recovered_new		6	DERIVED	
-admin_1	fr	fr-46	2020_03_30	status_deaths		0	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-46	2020_03_30	status_deaths		0	Santé publique France Data	
 admin_1	fr	fr-46	2020_03_30	status_hospitalized		5	Santé publique France Data	
 admin_1	fr	fr-46	2020_03_30	status_icu		2	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-46	2020_03_30	status_recovered		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-46	2020_03_30	status_recovered		7	Santé publique France Data	
 admin_1	fr	fr-46	2020_03_30	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-46	2020_03_30	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-46	2020_03_30	status_icu_new		0	DERIVED	
-admin_1	fr	fr-46	2020_03_30	status_recovered_new		0	DERIVED	
+admin_1	fr	fr-46	2020_03_30	status_recovered_new		1	DERIVED	
 admin_1	fr	fr-47	2020_03_30	status_deaths		3	Santé publique France Data	
 admin_1	fr	fr-47	2020_03_30	status_hospitalized		27	Santé publique France Data	
 admin_1	fr	fr-47	2020_03_30	status_icu		7	Santé publique France Data	
@@ -2193,9 +2193,9 @@ admin_1	fr	fr-47	2020_03_30	status_hospitalized_new		0	DERIVED
 admin_1	fr	fr-47	2020_03_30	status_icu_new		-1	DERIVED	
 admin_1	fr	fr-47	2020_03_30	status_recovered_new		2	DERIVED	
 admin_1	fr	fr-48	2020_03_30	status_deaths		0	Santé publique France Data	
-admin_1	fr	fr-48	2020_03_30	status_hospitalized		8	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-48	2020_03_30	status_icu		2	Santé publique France Data	
-admin_1	fr	fr-48	2020_03_30	status_recovered		6	Santé publique France Data	
+admin_1	fr	fr-48	2020_03_30	status_hospitalized		8	Santé publique France Data	
+admin_1	fr	fr-48	2020_03_30	status_icu		2	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-48	2020_03_30	status_recovered		6	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-48	2020_03_30	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-48	2020_03_30	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-48	2020_03_30	status_icu_new		0	DERIVED	
@@ -2280,11 +2280,11 @@ admin_1	fr	fr-58	2020_03_30	status_deaths_new		0	DERIVED
 admin_1	fr	fr-58	2020_03_30	status_hospitalized_new		3	DERIVED	
 admin_1	fr	fr-58	2020_03_30	status_icu_new		1	DERIVED	
 admin_1	fr	fr-58	2020_03_30	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-59	2020_03_30	status_deaths		55	Santé publique France Data	
+admin_1	fr	fr-59	2020_03_30	status_deaths		28	https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2030032020.pdf	
 admin_1	fr	fr-59	2020_03_30	status_hospitalized		512	Santé publique France Data	
 admin_1	fr	fr-59	2020_03_30	status_icu		180	Santé publique France Data	
 admin_1	fr	fr-59	2020_03_30	status_recovered		135	Santé publique France Data	
-admin_1	fr	fr-59	2020_03_30	status_deaths_new		6	DERIVED	
+admin_1	fr	fr-59	2020_03_30	status_deaths_new		12	DERIVED	
 admin_1	fr	fr-59	2020_03_30	status_hospitalized_new		66	DERIVED	
 admin_1	fr	fr-59	2020_03_30	status_icu_new		23	DERIVED	
 admin_1	fr	fr-59	2020_03_30	status_recovered_new		24	DERIVED	
@@ -2292,7 +2292,7 @@ admin_1	fr	fr-60	2020_03_30	status_deaths		100	https://www.hauts-de-france.ars.s
 admin_1	fr	fr-60	2020_03_30	status_hospitalized		276	Santé publique France Data	
 admin_1	fr	fr-60	2020_03_30	status_icu		52	Santé publique France Data	
 admin_1	fr	fr-60	2020_03_30	status_recovered		139	Santé publique France Data	
-admin_1	fr	fr-60	2020_03_30	status_deaths_new		8	DERIVED	
+admin_1	fr	fr-60	2020_03_30	status_deaths_new		-2	DERIVED	
 admin_1	fr	fr-60	2020_03_30	status_hospitalized_new		17	DERIVED	
 admin_1	fr	fr-60	2020_03_30	status_icu_new		3	DERIVED	
 admin_1	fr	fr-60	2020_03_30	status_recovered_new		10	DERIVED	
@@ -2328,22 +2328,22 @@ admin_1	fr	fr-64	2020_03_30	status_deaths_new		3	DERIVED
 admin_1	fr	fr-64	2020_03_30	status_hospitalized_new		3	DERIVED	
 admin_1	fr	fr-64	2020_03_30	status_icu_new		2	DERIVED	
 admin_1	fr	fr-64	2020_03_30	status_recovered_new		2	DERIVED	
-admin_1	fr	fr-65	2020_03_30	status_deaths		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-65	2020_03_30	status_deaths		1	Santé publique France Data	
 admin_1	fr	fr-65	2020_03_30	status_hospitalized		29	Santé publique France Data	
-admin_1	fr	fr-65	2020_03_30	status_icu		7	Santé publique France Data	
+admin_1	fr	fr-65	2020_03_30	status_icu		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-65	2020_03_30	status_recovered		9	Santé publique France Data	
 admin_1	fr	fr-65	2020_03_30	status_deaths_new		0	DERIVED	
 admin_1	fr	fr-65	2020_03_30	status_hospitalized_new		4	DERIVED	
 admin_1	fr	fr-65	2020_03_30	status_icu_new		2	DERIVED	
 admin_1	fr	fr-65	2020_03_30	status_recovered_new		2	DERIVED	
-admin_1	fr	fr-66	2020_03_30	status_deaths		13	Santé publique France Data	
-admin_1	fr	fr-66	2020_03_30	status_hospitalized		126	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-66	2020_03_30	status_deaths		12	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-66	2020_03_30	status_hospitalized		123	Santé publique France Data	
 admin_1	fr	fr-66	2020_03_30	status_icu		37	Santé publique France Data	
-admin_1	fr	fr-66	2020_03_30	status_recovered		60	Santé publique France Data	
-admin_1	fr	fr-66	2020_03_30	status_deaths_new		1	DERIVED	
-admin_1	fr	fr-66	2020_03_30	status_hospitalized_new		-3	DERIVED	
+admin_1	fr	fr-66	2020_03_30	status_recovered		59	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-66	2020_03_30	status_deaths_new		2	DERIVED	
+admin_1	fr	fr-66	2020_03_30	status_hospitalized_new		-2	DERIVED	
 admin_1	fr	fr-66	2020_03_30	status_icu_new		4	DERIVED	
-admin_1	fr	fr-66	2020_03_30	status_recovered_new		7	DERIVED	
+admin_1	fr	fr-66	2020_03_30	status_recovered_new		8	DERIVED	
 admin_1	fr	fr-67	2020_03_30	status_deaths		153	Santé publique France Data	
 admin_1	fr	fr-67	2020_03_30	status_hospitalized		912	Santé publique France Data	
 admin_1	fr	fr-67	2020_03_30	status_icu		249	Santé publique France Data	
@@ -2384,7 +2384,7 @@ admin_1	fr	fr-71	2020_03_30	status_deaths_new		7	DERIVED
 admin_1	fr	fr-71	2020_03_30	status_hospitalized_new		3	DERIVED	
 admin_1	fr	fr-71	2020_03_30	status_icu_new		7	DERIVED	
 admin_1	fr	fr-71	2020_03_30	status_recovered_new		0	DERIVED	
-admin_1	fr	fr-72	2020_03_30	status_deaths		5	https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-30-bulletin%20information%20COVID-19_0.pdf	
+admin_1	fr	fr-72	2020_03_30	status_deaths		5	Santé publique France Data	
 admin_1	fr	fr-72	2020_03_30	status_hospitalized		98	Santé publique France Data	
 admin_1	fr	fr-72	2020_03_30	status_icu		23	Santé publique France Data	
 admin_1	fr	fr-72	2020_03_30	status_recovered		30	Santé publique France Data	
@@ -2448,24 +2448,24 @@ admin_1	fr	fr-79	2020_03_30	status_deaths_new		0	DERIVED
 admin_1	fr	fr-79	2020_03_30	status_hospitalized_new		2	DERIVED	
 admin_1	fr	fr-79	2020_03_30	status_icu_new		-1	DERIVED	
 admin_1	fr	fr-79	2020_03_30	status_recovered_new		4	DERIVED	
-admin_1	fr	fr-80	2020_03_30	status_deaths		42	https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2030032020.pdf	
+admin_1	fr	fr-80	2020_03_30	status_deaths		36	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_30	status_hospitalized		241	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_30	status_icu		59	Santé publique France Data	
 admin_1	fr	fr-80	2020_03_30	status_recovered		73	Santé publique France Data	
-admin_1	fr	fr-80	2020_03_30	status_deaths_new		-1	DERIVED	
+admin_1	fr	fr-80	2020_03_30	status_deaths_new		11	DERIVED	
 admin_1	fr	fr-80	2020_03_30	status_hospitalized_new		13	DERIVED	
 admin_1	fr	fr-80	2020_03_30	status_icu_new		9	DERIVED	
 admin_1	fr	fr-80	2020_03_30	status_recovered_new		7	DERIVED	
-admin_1	fr	fr-81	2020_03_30	status_deaths		2	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-81	2020_03_30	status_hospitalized		39	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
+admin_1	fr	fr-81	2020_03_30	status_deaths		2	Santé publique France Data	
+admin_1	fr	fr-81	2020_03_30	status_hospitalized		39	Santé publique France Data	
 admin_1	fr	fr-81	2020_03_30	status_icu		17	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-81	2020_03_30	status_recovered		10	Santé publique France Data	
+admin_1	fr	fr-81	2020_03_30	status_recovered		10	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-81	2020_03_30	status_deaths_new		1	DERIVED	
 admin_1	fr	fr-81	2020_03_30	status_hospitalized_new		1	DERIVED	
 admin_1	fr	fr-81	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-81	2020_03_30	status_recovered_new		3	DERIVED	
-admin_1	fr	fr-82	2020_03_30	status_deaths		1	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
-admin_1	fr	fr-82	2020_03_30	status_hospitalized		7	Santé publique France Data	
+admin_1	fr	fr-82	2020_03_30	status_deaths		1	Santé publique France Data	
+admin_1	fr	fr-82	2020_03_30	status_hospitalized		7	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-82	2020_03_30	status_icu		5	https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf	
 admin_1	fr	fr-82	2020_03_30	status_recovered		3	Santé publique France Data	
 admin_1	fr	fr-82	2020_03_30	status_deaths_new		0	DERIVED	
@@ -2488,7 +2488,7 @@ admin_1	fr	fr-84	2020_03_30	status_deaths_new		1	DERIVED
 admin_1	fr	fr-84	2020_03_30	status_hospitalized_new		14	DERIVED	
 admin_1	fr	fr-84	2020_03_30	status_icu_new		2	DERIVED	
 admin_1	fr	fr-84	2020_03_30	status_recovered_new		2	DERIVED	
-admin_1	fr	fr-85	2020_03_30	status_deaths		4	https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-30-bulletin%20information%20COVID-19_0.pdf	
+admin_1	fr	fr-85	2020_03_30	status_deaths		4	Santé publique France Data	
 admin_1	fr	fr-85	2020_03_30	status_hospitalized		75	Santé publique France Data	
 admin_1	fr	fr-85	2020_03_30	status_icu		15	Santé publique France Data	
 admin_1	fr	fr-85	2020_03_30	status_recovered		14	Santé publique France Data	
@@ -2588,9 +2588,9 @@ admin_1	fr	fr-gp	2020_03_30	status_deaths		4	Santé publique France Data
 admin_1	fr	fr-gp	2020_03_30	status_hospitalized		35	Santé publique France Data	
 admin_1	fr	fr-gp	2020_03_30	status_icu		11	Santé publique France Data	
 admin_1	fr	fr-gp	2020_03_30	status_recovered		18	Santé publique France Data	
-admin_1	fr	fr-gp	2020_03_30	status_deaths_new		2	DERIVED	
-admin_1	fr	fr-gp	2020_03_30	status_hospitalized_new		9	DERIVED	
-admin_1	fr	fr-gp	2020_03_30	status_icu_new		-1	DERIVED	
+admin_1	fr	fr-gp	2020_03_30	status_deaths_new		0	DERIVED	
+admin_1	fr	fr-gp	2020_03_30	status_hospitalized_new		-9	DERIVED	
+admin_1	fr	fr-gp	2020_03_30	status_icu_new		1	DERIVED	
 admin_1	fr	fr-gp	2020_03_30	status_recovered_new		9	DERIVED	
 admin_1	fr	fr-mq	2020_03_30	status_deaths		3	Santé publique France Data	
 admin_1	fr	fr-mq	2020_03_30	status_hospitalized		57	Santé publique France Data	
@@ -2609,13 +2609,13 @@ admin_1	fr	fr-re	2020_03_30	status_hospitalized_new		3	DERIVED
 admin_1	fr	fr-re	2020_03_30	status_icu_new		0	DERIVED	
 admin_1	fr	fr-re	2020_03_30	status_recovered_new		1	DERIVED	
 admin_1	fr	fr-yt	2020_03_30	status_deaths		0	Santé publique France Data	
-admin_1	fr	fr-yt	2020_03_30	status_hospitalized		0	Santé publique France Data	
+admin_1	fr	fr-yt	2020_03_30	status_hospitalized		10	https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2030%20mars%20COVID-19_0.pdf	
 admin_1	fr	fr-yt	2020_03_30	status_icu		0	Santé publique France Data	
-admin_1	fr	fr-yt	2020_03_30	status_recovered		0	Santé publique France Data	
+admin_1	fr	fr-yt	2020_03_30	status_recovered		10	https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2030%20mars%20COVID-19_0.pdf	
 admin_1	fr	fr-yt	2020_03_30	status_deaths_new		0	DERIVED	
-admin_1	fr	fr-yt	2020_03_30	status_hospitalized_new		10	DERIVED	
-admin_1	fr	fr-yt	2020_03_30	status_icu_new		3	DERIVED	
-admin_1	fr	fr-yt	2020_03_30	status_recovered_new		10	DERIVED	
+admin_1	fr	fr-yt	2020_03_30	status_hospitalized_new		0	DERIVED	
+admin_1	fr	fr-yt	2020_03_30	status_icu_new		1	DERIVED	
+admin_1	fr	fr-yt	2020_03_30	status_recovered_new		0	DERIVED	
 admin_0		fr	2020_04_01	status_active		-46054	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_01	status_active_new		-3370	DERIVED	
 admin_1	fr	fr-yt	2020_04_03	new		12	DERIVED	
@@ -2624,13 +2624,13 @@ admin_1	fr	fr-yt	2020_04_03	status_active		-115	https://www.mayotte.ars.sante.fr
 admin_1	fr	fr-yt	2020_04_03	status_active_new		-9	DERIVED	
 admin_0		fr	2020_04_05	new		1873	DERIVED	
 admin_0		fr	2020_04_05	total		70478	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_05	status_deaths		5889	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_05	status_hospitalized		28747	OpenCOVID19-fr	
-admin_0		fr	2020_04_05	status_icu		6859	OpenCOVID19-fr	
-admin_0		fr	2020_04_05	status_recovered		16182	OpenCOVID19-fr	
+admin_0		fr	2020_04_05	status_deaths		5889	OpenCOVID19-fr	
+admin_0		fr	2020_04_05	status_hospitalized		28891	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_05	status_icu		6978	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_05	status_recovered		16183	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_05	status_deaths_new		357	DERIVED	
-admin_0		fr	2020_04_05	status_hospitalized_new		748	DERIVED	
-admin_0		fr	2020_04_05	status_icu_new		140	DERIVED	
+admin_0		fr	2020_04_05	status_hospitalized_new		604	DERIVED	
+admin_0		fr	2020_04_05	status_icu_new		21	DERIVED	
 admin_0		fr	2020_04_05	status_recovered_new		745	DERIVED	
 admin_1	fr	fr-01	2020_04_05	status_deaths		24	Santé publique France Data	
 admin_1	fr	fr-01	2020_04_05	status_hospitalized		112	Santé publique France Data	
@@ -3464,13 +3464,13 @@ admin_1	fr	fr-85	2020_04_08	status_active		-92	https://www.pays-de-la-loire.ars.
 admin_1	fr	fr-85	2020_04_08	status_active_new		4	DERIVED	
 admin_0		fr	2020_04_11	new		3114	DERIVED	
 admin_0		fr	2020_04_11	total		93790	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_11	status_deaths		8943	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_11	status_hospitalized		31320	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_11	status_deaths		8943	OpenCOVID19-fr	
+admin_0		fr	2020_04_11	status_hospitalized		31159	OpenCOVID19-fr	
 admin_0		fr	2020_04_11	status_icu		6752	OpenCOVID19-fr	
-admin_0		fr	2020_04_11	status_recovered		26390	OpenCOVID19-fr	
+admin_0		fr	2020_04_11	status_recovered		26391	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_11	status_deaths_new		345	DERIVED	
-admin_0		fr	2020_04_11	status_hospitalized_new		-108	DERIVED	
-admin_0		fr	2020_04_11	status_icu_new		8	DERIVED	
+admin_0		fr	2020_04_11	status_hospitalized_new		212	DERIVED	
+admin_0		fr	2020_04_11	status_icu_new		-121	DERIVED	
 admin_0		fr	2020_04_11	status_recovered_new		1459	DERIVED	
 admin_1	fr	fr-01	2020_04_11	status_deaths		42	Santé publique France Data	
 admin_1	fr	fr-01	2020_04_11	status_hospitalized		118	Santé publique France Data	
@@ -4285,11 +4285,11 @@ admin_0		fr	2020_04_13	status_active_new		-2141	DERIVED
 admin_0		fr	2020_04_16	new		2641	DERIVED	
 admin_0		fr	2020_04_16	total		108847	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_16	status_deaths		11060	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_16	status_hospitalized		31172	OpenCOVID19-fr	
+admin_0		fr	2020_04_16	status_hospitalized		31305	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_16	status_icu		6248	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_16	status_recovered		32806	OpenCOVID19-fr	
 admin_0		fr	2020_04_16	status_deaths_new		410	DERIVED	
-admin_0		fr	2020_04_16	status_hospitalized_new		-318	DERIVED	
+admin_0		fr	2020_04_16	status_hospitalized_new		-607	DERIVED	
 admin_0		fr	2020_04_16	status_icu_new		-318	DERIVED	
 admin_0		fr	2020_04_16	status_recovered_new		1860	DERIVED	
 admin_1	fr	fr-01	2020_04_16	status_deaths		52	Santé publique France Data	
@@ -5104,14 +5104,14 @@ admin_0		fr	2020_04_18	status_active		-75838	Ministère des Solidarités et de l
 admin_0		fr	2020_04_18	status_active_new		-1006	DERIVED	
 admin_0		fr	2020_04_21	new		2667	DERIVED	
 admin_0		fr	2020_04_21	total		117324	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_21	status_deaths		12900	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_21	status_deaths		12892	OpenCOVID19-fr	
 admin_0		fr	2020_04_21	status_hospitalized		30106	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_21	status_icu		5433	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_04_21	status_recovered		39175	OpenCOVID19-fr	
+admin_0		fr	2020_04_21	status_recovered		39181	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_21	status_deaths_new		387	DERIVED	
 admin_0		fr	2020_04_21	status_hospitalized_new		-478	DERIVED	
-admin_0		fr	2020_04_21	status_icu_new		-250	DERIVED	
-admin_0		fr	2020_04_21	status_recovered_new		1778	DERIVED	
+admin_0		fr	2020_04_21	status_icu_new		-349	DERIVED	
+admin_0		fr	2020_04_21	status_recovered_new		1772	DERIVED	
 admin_1	fr	fr-01	2020_04_21	status_deaths		64	Santé publique France Data	
 admin_1	fr	fr-01	2020_04_21	status_hospitalized		169	Santé publique France Data	
 admin_1	fr	fr-01	2020_04_21	status_icu		23	Santé publique France Data	
@@ -5926,11 +5926,11 @@ admin_0		fr	2020_04_26	new		461	DERIVED
 admin_0		fr	2020_04_26	total		124575	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_04_26	status_deaths		14191	OpenCOVID19-fr	
 admin_0		fr	2020_04_26	status_hospitalized		28114	OpenCOVID19-fr	
-admin_0		fr	2020_04_26	status_icu		4598	OpenCOVID19-fr	
-admin_0		fr	2020_04_26	status_recovered		44903	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_26	status_icu		4682	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_04_26	status_recovered		44896	OpenCOVID19-fr	
 admin_0		fr	2020_04_26	status_deaths_new		163	DERIVED	
-admin_0		fr	2020_04_26	status_hospitalized_new		98	DERIVED	
-admin_0		fr	2020_04_26	status_icu_new		41	DERIVED	
+admin_0		fr	2020_04_26	status_hospitalized_new		-5	DERIVED	
+admin_0		fr	2020_04_26	status_icu_new		-43	DERIVED	
 admin_0		fr	2020_04_26	status_recovered_new		309	DERIVED	
 admin_1	fr	fr-01	2020_04_26	status_deaths		75	Santé publique France Data	
 admin_1	fr	fr-01	2020_04_26	status_hospitalized		165	Santé publique France Data	
@@ -6744,14 +6744,14 @@ admin_0		fr	2020_04_28	status_active		-82973	Ministère des Solidarités et de l
 admin_0		fr	2020_04_28	status_active_new		-147	DERIVED	
 admin_0		fr	2020_05_01	new		604	DERIVED	
 admin_0		fr	2020_05_01	total		130185	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_01	status_deaths		15350	OpenCOVID19-fr	
+admin_0		fr	2020_05_01	status_deaths		15369	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_01	status_hospitalized		25809	OpenCOVID19-fr	
 admin_0		fr	2020_05_01	status_icu		3878	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_01	status_recovered		50212	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_01	status_deaths_new		125	DERIVED	
+admin_0		fr	2020_05_01	status_recovered		50204	OpenCOVID19-fr	
+admin_0		fr	2020_05_01	status_deaths_new		106	DERIVED	
 admin_0		fr	2020_05_01	status_hospitalized_new		-305	DERIVED	
-admin_0		fr	2020_05_01	status_icu_new		-128	DERIVED	
-admin_0		fr	2020_05_01	status_recovered_new		728	DERIVED	
+admin_0		fr	2020_05_01	status_icu_new		-200	DERIVED	
+admin_0		fr	2020_05_01	status_recovered_new		736	DERIVED	
 admin_1	fr	fr-01	2020_05_01	status_deaths		81	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_01	status_hospitalized		158	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_01	status_icu		13	Santé publique France Data	
@@ -7565,12 +7565,12 @@ admin_0		fr	2020_05_03	status_active_new		-86	DERIVED
 admin_0		fr	2020_05_06	new		4183	DERIVED	
 admin_0		fr	2020_05_06	total		137150	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_06	status_deaths		16237	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_06	status_hospitalized		23912	OpenCOVID19-fr	
-admin_0		fr	2020_05_06	status_icu		3147	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_06	status_hospitalized		23983	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_06	status_icu		3095	OpenCOVID19-fr	
 admin_0		fr	2020_05_06	status_recovered		53963	OpenCOVID19-fr	
 admin_0		fr	2020_05_06	status_deaths_new		177	DERIVED	
-admin_0		fr	2020_05_06	status_hospitalized_new		-718	DERIVED	
-admin_0		fr	2020_05_06	status_icu_new		-335	DERIVED	
+admin_0		fr	2020_05_06	status_hospitalized_new		-863	DERIVED	
+admin_0		fr	2020_05_06	status_icu_new		-283	DERIVED	
 admin_0		fr	2020_05_06	status_recovered_new		1236	DERIVED	
 admin_1	fr	fr-01	2020_05_06	status_deaths		85	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_06	status_hospitalized		142	Santé publique France Data	
@@ -8385,11 +8385,11 @@ admin_0		fr	2020_05_07	status_active_new		426	DERIVED
 admin_0		fr	2020_05_10	new		209	DERIVED	
 admin_0		fr	2020_05_10	total		139063	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_10	status_deaths		16623	OpenCOVID19-fr	
-admin_0		fr	2020_05_10	status_hospitalized		22502	OpenCOVID19-fr	
-admin_0		fr	2020_05_10	status_icu		2776	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_10	status_hospitalized		22569	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_10	status_icu		2728	OpenCOVID19-fr	
 admin_0		fr	2020_05_10	status_recovered		56208	OpenCOVID19-fr	
-admin_0		fr	2020_05_10	status_deaths_new		88	DERIVED	
-admin_0		fr	2020_05_10	status_hospitalized_new		22	DERIVED	
+admin_0		fr	2020_05_10	status_deaths_new		69	DERIVED	
+admin_0		fr	2020_05_10	status_hospitalized_new		-112	DERIVED	
 admin_0		fr	2020_05_10	status_icu_new		-36	DERIVED	
 admin_0		fr	2020_05_10	status_recovered_new		188	DERIVED	
 admin_1	fr	fr-01	2020_05_10	status_deaths		86	Santé publique France Data	
@@ -9204,13 +9204,13 @@ admin_0		fr	2020_05_11	status_active		-82795	Ministère des Solidarités et de l
 admin_0		fr	2020_05_11	status_active_new		51	DERIVED	
 admin_0		fr	2020_05_14	new		622	DERIVED	
 admin_0		fr	2020_05_14	total		141356	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_14	status_deaths		17224	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_14	status_hospitalized		20401	OpenCOVID19-fr	
-admin_0		fr	2020_05_14	status_icu		2256	OpenCOVID19-fr	
+admin_0		fr	2020_05_14	status_deaths		17205	OpenCOVID19-fr	
+admin_0		fr	2020_05_14	status_hospitalized		20463	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_14	status_icu		2299	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_14	status_recovered		59605	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_14	status_deaths_new		104	DERIVED	
+admin_0		fr	2020_05_14	status_deaths_new		142	DERIVED	
 admin_0		fr	2020_05_14	status_hospitalized_new		-608	DERIVED	
-admin_0		fr	2020_05_14	status_icu_new		-86	DERIVED	
+admin_0		fr	2020_05_14	status_icu_new		-129	DERIVED	
 admin_0		fr	2020_05_14	status_recovered_new		923	DERIVED	
 admin_1	fr	fr-01	2020_05_14	status_deaths		88	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_14	status_hospitalized		137	Santé publique France Data	
@@ -10026,12 +10026,12 @@ admin_0		fr	2020_05_18	new		492	DERIVED
 admin_0		fr	2020_05_18	total		142903	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_18	status_deaths		17570	OpenCOVID19-fr	
 admin_0		fr	2020_05_18	status_hospitalized		19015	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_18	status_icu		1998	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_18	status_recovered		61719	OpenCOVID19-fr	
-admin_0		fr	2020_05_18	status_deaths_new		142	DERIVED	
+admin_0		fr	2020_05_18	status_icu		1958	OpenCOVID19-fr	
+admin_0		fr	2020_05_18	status_recovered		61728	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_18	status_deaths_new		123	DERIVED	
 admin_0		fr	2020_05_18	status_hospitalized_new		-346	DERIVED	
 admin_0		fr	2020_05_18	status_icu_new		-89	DERIVED	
-admin_0		fr	2020_05_18	status_recovered_new		515	DERIVED	
+admin_0		fr	2020_05_18	status_recovered_new		506	DERIVED	
 admin_1	fr	fr-01	2020_05_18	status_deaths		90	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_18	status_hospitalized		132	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_18	status_icu		6	Santé publique France Data	
@@ -10844,14 +10844,14 @@ admin_0		fr	2020_05_19	status_active		-80864	Ministère des Solidarités et de l
 admin_0		fr	2020_05_19	status_active_new		311	DERIVED	
 admin_0		fr	2020_05_22	new		393	DERIVED	
 admin_0		fr	2020_05_22	total		144556	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_22	status_deaths		17925	OpenCOVID19-fr	
-admin_0		fr	2020_05_22	status_hospitalized		17383	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_22	status_deaths		17944	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_22	status_hospitalized		17327	OpenCOVID19-fr	
 admin_0		fr	2020_05_22	status_icu		1701	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_22	status_recovered		64209	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_22	status_deaths_new		74	DERIVED	
-admin_0		fr	2020_05_22	status_hospitalized_new		-200	DERIVED	
-admin_0		fr	2020_05_22	status_icu_new		-81	DERIVED	
-admin_0		fr	2020_05_22	status_recovered_new		351	DERIVED	
+admin_0		fr	2020_05_22	status_deaths_new		55	DERIVED	
+admin_0		fr	2020_05_22	status_hospitalized_new		-144	DERIVED	
+admin_0		fr	2020_05_22	status_icu_new		-44	DERIVED	
+admin_0		fr	2020_05_22	status_recovered_new		342	DERIVED	
 admin_1	fr	fr-01	2020_05_22	status_deaths		94	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_22	status_hospitalized		113	Santé publique France Data	
 admin_1	fr	fr-01	2020_05_22	status_icu		2	Santé publique France Data	
@@ -11664,11 +11664,11 @@ admin_0		fr	2020_05_23	status_active		-80259	Ministère des Solidarités et de l
 admin_0		fr	2020_05_23	status_active_new		88	DERIVED	
 admin_0		fr	2020_05_26	new		276	DERIVED	
 admin_0		fr	2020_05_26	total		145555	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_26	status_deaths		18195	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_05_26	status_deaths		18175	OpenCOVID19-fr	
 admin_0		fr	2020_05_26	status_hospitalized		16264	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_26	status_icu		1555	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_26	status_recovered		65870	OpenCOVID19-fr	
-admin_0		fr	2020_05_26	status_deaths_new		82	DERIVED	
+admin_0		fr	2020_05_26	status_deaths_new		83	DERIVED	
 admin_0		fr	2020_05_26	status_hospitalized_new		-533	DERIVED	
 admin_0		fr	2020_05_26	status_icu_new		-90	DERIVED	
 admin_0		fr	2020_05_26	status_recovered_new		680	DERIVED	
@@ -12484,12 +12484,12 @@ admin_0		fr	2020_05_27	status_active		-79162	Ministère des Solidarités et de l
 admin_0		fr	2020_05_27	status_active_new		514	DERIVED	
 admin_0		fr	2020_05_29	new		597	DERIVED	
 admin_0		fr	2020_05_29	total		149668	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_29	status_deaths		18387	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_05_29	status_hospitalized		14643	OpenCOVID19-fr	
+admin_0		fr	2020_05_29	status_deaths		18367	OpenCOVID19-fr	
+admin_0		fr	2020_05_29	status_hospitalized		14695	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_29	status_icu		1328	OpenCOVID19-fr	
-admin_0		fr	2020_05_29	status_recovered		67794	OpenCOVID19-fr	
+admin_0		fr	2020_05_29	status_recovered		67803	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_05_29	status_deaths_new		61	DERIVED	
-admin_0		fr	2020_05_29	status_hospitalized_new		-513	DERIVED	
+admin_0		fr	2020_05_29	status_hospitalized_new		-512	DERIVED	
 admin_0		fr	2020_05_29	status_icu_new		-68	DERIVED	
 admin_0		fr	2020_05_29	status_recovered_new		612	DERIVED	
 admin_1	fr	fr-01	2020_05_29	status_deaths		95	Santé publique France Data	
@@ -13306,11 +13306,11 @@ admin_0		fr	2020_06_01	new		338	DERIVED
 admin_0		fr	2020_06_01	total		152091	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_01	status_deaths		18506	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_01	status_hospitalized		14237	OpenCOVID19-fr	
-admin_0		fr	2020_06_01	status_icu		1270	OpenCOVID19-fr	
-admin_0		fr	2020_06_01	status_recovered		68440	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_01	status_deaths_new		11	DERIVED	
+admin_0		fr	2020_06_01	status_icu		1302	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_01	status_recovered		68431	OpenCOVID19-fr	
+admin_0		fr	2020_06_01	status_deaths_new		31	DERIVED	
 admin_0		fr	2020_06_01	status_hospitalized_new		17	DERIVED	
-admin_0		fr	2020_06_01	status_icu_new		15	DERIVED	
+admin_0		fr	2020_06_01	status_icu_new		-17	DERIVED	
 admin_0		fr	2020_06_01	status_recovered_new		85	DERIVED	
 admin_1	fr	fr-01	2020_06_01	status_deaths		95	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_01	status_hospitalized		91	Santé publique France Data	
@@ -14944,14 +14944,14 @@ admin_0		fr	2020_06_05	status_active		-82551	Ministère des Solidarités et de l
 admin_0		fr	2020_06_05	status_active_new		-83	DERIVED	
 admin_0		fr	2020_06_07	new		343	DERIVED	
 admin_0		fr	2020_06_07	total		153977	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_07	status_deaths		18785	OpenCOVID19-fr	
+admin_0		fr	2020_06_07	status_deaths		18805	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_07	status_hospitalized		12415	OpenCOVID19-fr	
 admin_0		fr	2020_06_07	status_icu		1053	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_07	status_recovered		70842	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_07	status_recovered		70832	OpenCOVID19-fr	
 admin_0		fr	2020_06_07	status_deaths_new		13	DERIVED	
-admin_0		fr	2020_06_07	status_hospitalized_new		-18	DERIVED	
+admin_0		fr	2020_06_07	status_hospitalized_new		28	DERIVED	
 admin_0		fr	2020_06_07	status_icu_new		-35	DERIVED	
-admin_0		fr	2020_06_07	status_recovered_new		36	DERIVED	
+admin_0		fr	2020_06_07	status_recovered_new		46	DERIVED	
 admin_1	fr	fr-01	2020_06_07	status_deaths		98	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_07	status_hospitalized		74	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_07	status_icu		0	Santé publique France Data	
@@ -15765,13 +15765,13 @@ admin_0		fr	2020_06_08	status_active_new		9	DERIVED
 admin_0		fr	2020_06_10	new		545	DERIVED	
 admin_0		fr	2020_06_10	total		155136	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_10	status_deaths		18915	OpenCOVID19-fr	
-admin_0		fr	2020_06_10	status_hospitalized		11678	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_10	status_icu		933	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_10	status_hospitalized		11632	OpenCOVID19-fr	
+admin_0		fr	2020_06_10	status_icu		904	OpenCOVID19-fr	
 admin_0		fr	2020_06_10	status_recovered		71822	OpenCOVID19-fr	
 admin_0		fr	2020_06_10	status_deaths_new		43	DERIVED	
-admin_0		fr	2020_06_10	status_hospitalized_new		-283	DERIVED	
-admin_0		fr	2020_06_10	status_icu_new		-51	DERIVED	
-admin_0		fr	2020_06_10	status_recovered_new		326	DERIVED	
+admin_0		fr	2020_06_10	status_hospitalized_new		-237	DERIVED	
+admin_0		fr	2020_06_10	status_icu_new		7	DERIVED	
+admin_0		fr	2020_06_10	status_recovered_new		336	DERIVED	
 admin_1	fr	fr-01	2020_06_10	status_deaths		100	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_10	status_hospitalized		72	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_10	status_icu		0	Santé publique France Data	
@@ -16584,7 +16584,7 @@ admin_0		fr	2020_06_11	status_active		-83412	Ministère des Solidarités et de l
 admin_0		fr	2020_06_11	status_active_new		-108	DERIVED	
 admin_0		fr	2020_06_13	new		526	DERIVED	
 admin_0		fr	2020_06_13	total		156813	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_13	status_deaths		18994	OpenCOVID19-fr	
+admin_0		fr	2020_06_13	status_deaths		19014	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_13	status_hospitalized		10864	OpenCOVID19-fr	
 admin_0		fr	2020_06_13	status_icu		871	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_13	status_recovered		72798	OpenCOVID19-fr	
@@ -17404,14 +17404,14 @@ admin_0		fr	2020_06_14	status_active		-84361	Ministère des Solidarités et de l
 admin_0		fr	2020_06_14	status_active_new		-356	DERIVED	
 admin_0		fr	2020_06_16	new		344	DERIVED	
 admin_0		fr	2020_06_16	total		157716	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_16	status_deaths		19070	OpenCOVID19-fr	
-admin_0		fr	2020_06_16	status_hospitalized		10535	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_16	status_icu		792	OpenCOVID19-fr	
-admin_0		fr	2020_06_16	status_recovered		73325	OpenCOVID19-fr	
+admin_0		fr	2020_06_16	status_deaths		19090	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_16	status_hospitalized		10490	OpenCOVID19-fr	
+admin_0		fr	2020_06_16	status_icu		820	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_16	status_recovered		73335	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_16	status_deaths_new		38	DERIVED	
-admin_0		fr	2020_06_16	status_hospitalized_new		-217	DERIVED	
+admin_0		fr	2020_06_16	status_hospitalized_new		-172	DERIVED	
 admin_0		fr	2020_06_16	status_icu_new		-26	DERIVED	
-admin_0		fr	2020_06_16	status_recovered_new		301	DERIVED	
+admin_0		fr	2020_06_16	status_recovered_new		291	DERIVED	
 admin_1	fr	fr-01	2020_06_16	status_deaths		101	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_16	status_hospitalized		65	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_16	status_icu		0	Santé publique France Data	
@@ -18227,10 +18227,10 @@ admin_0		fr	2020_06_18	total		158641	Ministère des Solidarités et de la Santé
 admin_0		fr	2020_06_18	status_deaths		19146	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_18	status_hospitalized		10125	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_18	status_icu		752	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_18	status_recovered		73887	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_18	status_deaths_new		8	DERIVED	
+admin_0		fr	2020_06_18	status_recovered		73877	OpenCOVID19-fr	
+admin_0		fr	2020_06_18	status_deaths_new		28	DERIVED	
 admin_0		fr	2020_06_18	status_hospitalized_new		-142	DERIVED	
-admin_0		fr	2020_06_18	status_icu_new		-48	DERIVED	
+admin_0		fr	2020_06_18	status_icu_new		-20	DERIVED	
 admin_0		fr	2020_06_18	status_recovered_new		220	DERIVED	
 admin_1	fr	fr-01	2020_06_18	status_deaths		102	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_18	status_hospitalized		63	Santé publique France Data	
@@ -19045,12 +19045,12 @@ admin_0		fr	2020_06_19	status_active_new		-581	DERIVED
 admin_0		fr	2020_06_20	new		641	DERIVED	
 admin_0		fr	2020_06_20	total		160093	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_20	status_deaths		19156	OpenCOVID19-fr	
-admin_0		fr	2020_06_20	status_hospitalized		9792	OpenCOVID19-fr	
+admin_0		fr	2020_06_20	status_hospitalized		9837	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_20	status_icu		715	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_20	status_recovered		74312	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_20	status_deaths_new		36	DERIVED	
-admin_0		fr	2020_06_20	status_hospitalized_new		-88	DERIVED	
-admin_0		fr	2020_06_20	status_icu_new		-40	DERIVED	
+admin_0		fr	2020_06_20	status_hospitalized_new		-178	DERIVED	
+admin_0		fr	2020_06_20	status_icu_new		-12	DERIVED	
 admin_0		fr	2020_06_20	status_recovered_new		185	DERIVED	
 admin_1	fr	fr-01	2020_06_20	status_deaths		102	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_20	status_hospitalized		61	Santé publique France Data	
@@ -19866,11 +19866,11 @@ admin_0		fr	2020_06_22	new		373	DERIVED
 admin_0		fr	2020_06_22	total		160750	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_22	status_deaths		19206	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_22	status_hospitalized		9648	OpenCOVID19-fr	
-admin_0		fr	2020_06_22	status_icu		701	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_22	status_icu		673	OpenCOVID19-fr	
 admin_0		fr	2020_06_22	status_recovered		74612	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_22	status_deaths_new		3	DERIVED	
-admin_0		fr	2020_06_22	status_hospitalized_new		-130	DERIVED	
-admin_0		fr	2020_06_22	status_icu_new		-42	DERIVED	
+admin_0		fr	2020_06_22	status_deaths_new		23	DERIVED	
+admin_0		fr	2020_06_22	status_hospitalized_new		-85	DERIVED	
+admin_0		fr	2020_06_22	status_icu_new		14	DERIVED	
 admin_0		fr	2020_06_22	status_recovered_new		230	DERIVED	
 admin_1	fr	fr-01	2020_06_22	status_deaths		102	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_22	status_hospitalized		61	Santé publique France Data	
@@ -20688,10 +20688,10 @@ admin_0		fr	2020_06_24	status_deaths		19223	OpenCOVID19-fr
 admin_0		fr	2020_06_24	status_hospitalized		9254	OpenCOVID19-fr	
 admin_0		fr	2020_06_24	status_icu		630	OpenCOVID19-fr	
 admin_0		fr	2020_06_24	status_recovered		75117	OpenCOVID19-fr	
-admin_0		fr	2020_06_24	status_deaths_new		11	DERIVED	
+admin_0		fr	2020_06_24	status_deaths_new		31	DERIVED	
 admin_0		fr	2020_06_24	status_hospitalized_new		-192	DERIVED	
-admin_0		fr	2020_06_24	status_icu_new		-24	DERIVED	
-admin_0		fr	2020_06_24	status_recovered_new		256	DERIVED	
+admin_0		fr	2020_06_24	status_icu_new		4	DERIVED	
+admin_0		fr	2020_06_24	status_recovered_new		266	DERIVED	
 admin_1	fr	fr-01	2020_06_24	status_deaths		103	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_24	status_hospitalized		58	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_24	status_icu		0	Santé publique France Data	
@@ -21507,11 +21507,11 @@ admin_0		fr	2020_06_26	total		162936	Ministère des Solidarités et de la Santé
 admin_0		fr	2020_06_26	status_deaths		19270	OpenCOVID19-fr	
 admin_0		fr	2020_06_26	status_hospitalized		8886	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_26	status_icu		634	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_26	status_recovered		75639	OpenCOVID19-fr	
+admin_0		fr	2020_06_26	status_recovered		75649	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_26	status_deaths_new		26	DERIVED	
 admin_0		fr	2020_06_26	status_hospitalized_new		-300	DERIVED	
-admin_0		fr	2020_06_26	status_icu_new		-45	DERIVED	
-admin_0		fr	2020_06_26	status_recovered_new		298	DERIVED	
+admin_0		fr	2020_06_26	status_icu_new		-17	DERIVED	
+admin_0		fr	2020_06_26	status_recovered_new		288	DERIVED	
 admin_1	fr	fr-01	2020_06_26	status_deaths		103	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_26	status_hospitalized		55	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_26	status_icu		0	Santé publique France Data	
@@ -22324,14 +22324,14 @@ admin_0		fr	2020_06_27	status_active		-87805	Ministère des Solidarités et de l
 admin_0		fr	2020_06_27	status_active_new		-518	DERIVED	
 admin_0		fr	2020_06_28	new		526	DERIVED	
 admin_0		fr	2020_06_28	total		163980	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_28	status_deaths		19290	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_28	status_deaths		19287	OpenCOVID19-fr	
 admin_0		fr	2020_06_28	status_hospitalized		8727	OpenCOVID19-fr	
 admin_0		fr	2020_06_28	status_icu		594	OpenCOVID19-fr	
-admin_0		fr	2020_06_28	status_recovered		75833	OpenCOVID19-fr	
-admin_0		fr	2020_06_28	status_deaths_new		2	DERIVED	
-admin_0		fr	2020_06_28	status_hospitalized_new		0	DERIVED	
+admin_0		fr	2020_06_28	status_recovered		75649	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_28	status_deaths_new		0	DERIVED	
+admin_0		fr	2020_06_28	status_hospitalized_new		171	DERIVED	
 admin_0		fr	2020_06_28	status_icu_new		0	DERIVED	
-admin_0		fr	2020_06_28	status_recovered_new		0	DERIVED	
+admin_0		fr	2020_06_28	status_recovered_new		184	DERIVED	
 admin_1	fr	fr-01	2020_06_28	status_deaths		103	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_28	status_hospitalized		51	Santé publique France Data	
 admin_1	fr	fr-01	2020_06_28	status_icu		0	Santé publique France Data	
@@ -23146,8 +23146,8 @@ admin_0		fr	2020_06_30	new		541	DERIVED
 admin_0		fr	2020_06_30	total		164801	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_06_30	status_deaths		19326	OpenCOVID19-fr	
 admin_0		fr	2020_06_30	status_hospitalized		8491	OpenCOVID19-fr	
-admin_0		fr	2020_06_30	status_icu		602	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_06_30	status_recovered		76274	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_06_30	status_icu		574	OpenCOVID19-fr	
+admin_0		fr	2020_06_30	status_recovered		76264	OpenCOVID19-fr	
 admin_0		fr	2020_06_30	status_deaths_new		41	DERIVED	
 admin_0		fr	2020_06_30	status_hospitalized_new		-152	DERIVED	
 admin_0		fr	2020_06_30	status_icu_new		-17	DERIVED	
@@ -23964,14 +23964,14 @@ admin_0		fr	2020_07_01	status_active		-89170	Ministère des Solidarités et de l
 admin_0		fr	2020_07_01	status_active_new		-643	DERIVED	
 admin_0		fr	2020_07_02	new		659	DERIVED	
 admin_0		fr	2020_07_02	total		166378	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_02	status_deaths		19378	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_02	status_hospitalized		8148	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_02	status_icu		545	OpenCOVID19-fr	
+admin_0		fr	2020_07_02	status_deaths		19358	OpenCOVID19-fr	
+admin_0		fr	2020_07_02	status_hospitalized		8103	OpenCOVID19-fr	
+admin_0		fr	2020_07_02	status_icu		573	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_02	status_recovered		76802	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_02	status_deaths_new		14	DERIVED	
-admin_0		fr	2020_07_02	status_hospitalized_new		-233	DERIVED	
-admin_0		fr	2020_07_02	status_icu_new		19	DERIVED	
-admin_0		fr	2020_07_02	status_recovered_new		243	DERIVED	
+admin_0		fr	2020_07_02	status_hospitalized_new		-143	DERIVED	
+admin_0		fr	2020_07_02	status_icu_new		-9	DERIVED	
+admin_0		fr	2020_07_02	status_recovered_new		253	DERIVED	
 admin_1	fr	fr-01	2020_07_02	status_deaths		103	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_02	status_hospitalized		49	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_02	status_icu		0	Santé publique France Data	
@@ -24789,9 +24789,9 @@ admin_0		fr	2020_07_04	status_hospitalized		7863	OpenCOVID19-fr
 admin_0		fr	2020_07_04	status_icu		517	OpenCOVID19-fr	
 admin_0		fr	2020_07_04	status_recovered		77160	OpenCOVID19-fr	
 admin_0		fr	2020_07_04	status_deaths_new		-8	DERIVED	
-admin_0		fr	2020_07_04	status_hospitalized_new		-83	DERIVED	
-admin_0		fr	2020_07_04	status_icu_new		-43	DERIVED	
-admin_0		fr	2020_07_04	status_recovered_new		111	DERIVED	
+admin_0		fr	2020_07_04	status_hospitalized_new		-127	DERIVED	
+admin_0		fr	2020_07_04	status_icu_new		-16	DERIVED	
+admin_0		fr	2020_07_04	status_recovered_new		100	DERIVED	
 admin_1	fr	fr-01	2020_07_04	status_deaths		104	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_04	status_hospitalized		46	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_04	status_icu		1	Santé publique France Data	
@@ -25604,13 +25604,13 @@ admin_0		fr	2020_07_06	new		176	DERIVED
 admin_0		fr	2020_07_06	total		168335	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_06	status_deaths		19403	OpenCOVID19-fr	
 admin_0		fr	2020_07_06	status_hospitalized		7850	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_06	status_icu		548	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_06	status_recovered		77308	OpenCOVID19-fr	
+admin_0		fr	2020_07_06	status_icu		521	OpenCOVID19-fr	
+admin_0		fr	2020_07_06	status_recovered		77319	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_06	status_active		-91016	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_06	status_deaths_new		33	DERIVED	
 admin_0		fr	2020_07_06	status_hospitalized_new		-57	DERIVED	
-admin_0		fr	2020_07_06	status_icu_new		0	DERIVED	
-admin_0		fr	2020_07_06	status_recovered_new		140	DERIVED	
+admin_0		fr	2020_07_06	status_icu_new		27	DERIVED	
+admin_0		fr	2020_07_06	status_recovered_new		129	DERIVED	
 admin_1	fr	fr-01	2020_07_06	status_deaths		104	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_06	status_hospitalized		45	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_06	status_icu		1	Santé publique France Data	
@@ -26422,13 +26422,13 @@ admin_1	fr	fr-yt	2020_07_06	status_recovered_new		5	DERIVED
 admin_0		fr	2020_07_08	new		663	DERIVED	
 admin_0		fr	2020_07_08	total		169473	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_08	status_deaths		19489	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_08	status_hospitalized		7297	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_08	status_icu		529	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_08	status_hospitalized		7254	OpenCOVID19-fr	
+admin_0		fr	2020_07_08	status_icu		503	OpenCOVID19-fr	
 admin_0		fr	2020_07_08	status_recovered		77996	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_08	status_active		-91477	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_08	status_deaths_new		32	DERIVED	
-admin_0		fr	2020_07_08	status_hospitalized_new		-340	DERIVED	
-admin_0		fr	2020_07_08	status_icu_new		-8	DERIVED	
+admin_0		fr	2020_07_08	status_hospitalized_new		-253	DERIVED	
+admin_0		fr	2020_07_08	status_icu_new		-9	DERIVED	
 admin_0		fr	2020_07_08	status_recovered_new		330	DERIVED	
 admin_0		fr	2020_07_08	status_active_new		-322	DERIVED	
 admin_1	fr	fr-01	2020_07_08	status_deaths		105	Santé publique France Data	
@@ -27241,15 +27241,15 @@ admin_1	fr	fr-yt	2020_07_08	status_icu_new		-1	DERIVED
 admin_1	fr	fr-yt	2020_07_08	status_recovered_new		3	DERIVED	
 admin_0		fr	2020_07_09	new		621	DERIVED	
 admin_0		fr	2020_07_09	total		170094	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_09	status_deaths		19503	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_09	status_deaths		19483	OpenCOVID19-fr	
 admin_0		fr	2020_07_09	status_hospitalized		7177	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_09	status_icu		486	OpenCOVID19-fr	
-admin_0		fr	2020_07_09	status_recovered		78159	OpenCOVID19-fr	
+admin_0		fr	2020_07_09	status_recovered		78170	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_09	status_active		-91924	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_09	status_deaths_new		14	DERIVED	
-admin_0		fr	2020_07_09	status_hospitalized_new		-120	DERIVED	
-admin_0		fr	2020_07_09	status_icu_new		9	DERIVED	
-admin_0		fr	2020_07_09	status_recovered_new		185	DERIVED	
+admin_0		fr	2020_07_09	status_deaths_new		34	DERIVED	
+admin_0		fr	2020_07_09	status_hospitalized_new		-163	DERIVED	
+admin_0		fr	2020_07_09	status_icu_new		-17	DERIVED	
+admin_0		fr	2020_07_09	status_recovered_new		174	DERIVED	
 admin_0		fr	2020_07_09	status_active_new		-447	DERIVED	
 admin_1	fr	fr-01	2020_07_09	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_09	status_hospitalized		39	Santé publique France Data	
@@ -28063,13 +28063,13 @@ admin_0		fr	2020_07_10	new		658	DERIVED
 admin_0		fr	2020_07_10	total		170752	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_10	status_deaths		19528	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_10	status_hospitalized		7020	OpenCOVID19-fr	
-admin_0		fr	2020_07_10	status_icu		471	OpenCOVID19-fr	
+admin_0		fr	2020_07_10	status_icu		496	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_10	status_recovered		78377	OpenCOVID19-fr	
 admin_0		fr	2020_07_10	status_active		-92364	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_10	status_deaths_new		25	DERIVED	
+admin_0		fr	2020_07_10	status_deaths_new		5	DERIVED	
 admin_0		fr	2020_07_10	status_hospitalized_new		-72	DERIVED	
-admin_0		fr	2020_07_10	status_icu_new		-16	DERIVED	
-admin_0		fr	2020_07_10	status_recovered_new		218	DERIVED	
+admin_0		fr	2020_07_10	status_icu_new		-41	DERIVED	
+admin_0		fr	2020_07_10	status_recovered_new		229	DERIVED	
 admin_0		fr	2020_07_10	status_active_new		-440	DERIVED	
 admin_1	fr	fr-01	2020_07_10	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_10	status_hospitalized		40	Santé publique France Data	
@@ -28887,7 +28887,7 @@ admin_0		fr	2020_07_11	status_icu		470	OpenCOVID19-fr
 admin_0		fr	2020_07_11	status_recovered		78454	OpenCOVID19-fr	
 admin_0		fr	2020_07_11	status_deaths_new		6	DERIVED	
 admin_0		fr	2020_07_11	status_hospitalized_new		-67	DERIVED	
-admin_0		fr	2020_07_11	status_icu_new		-26	DERIVED	
+admin_0		fr	2020_07_11	status_icu_new		-1	DERIVED	
 admin_0		fr	2020_07_11	status_recovered_new		66	DERIVED	
 admin_1	fr	fr-01	2020_07_11	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_11	status_hospitalized		40	Santé publique France Data	
@@ -30517,14 +30517,14 @@ admin_1	fr	fr-yt	2020_07_12	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_12	status_recovered_new		1	DERIVED	
 admin_0		fr	2020_07_13	new		288	DERIVED	
 admin_0		fr	2020_07_13	total		172377	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_13	status_deaths		19553	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_13	status_hospitalized		6983	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_13	status_icu		492	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_13	status_deaths		19533	OpenCOVID19-fr	
+admin_0		fr	2020_07_13	status_hospitalized		6941	OpenCOVID19-fr	
+admin_0		fr	2020_07_13	status_icu		467	OpenCOVID19-fr	
 admin_0		fr	2020_07_13	status_recovered		78597	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_13	status_active		-93780	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_13	status_deaths_new		18	DERIVED	
-admin_0		fr	2020_07_13	status_hospitalized_new		-50	DERIVED	
-admin_0		fr	2020_07_13	status_icu_new		-6	DERIVED	
+admin_0		fr	2020_07_13	status_deaths_new		38	DERIVED	
+admin_0		fr	2020_07_13	status_hospitalized_new		-8	DERIVED	
+admin_0		fr	2020_07_13	status_icu_new		19	DERIVED	
 admin_0		fr	2020_07_13	status_recovered_new		100	DERIVED	
 admin_1	fr	fr-01	2020_07_13	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_13	status_hospitalized		40	Santé publique France Data	
@@ -31340,9 +31340,9 @@ admin_0		fr	2020_07_14	status_deaths		19539	OpenCOVID19-fr
 admin_0		fr	2020_07_14	status_hospitalized		6907	OpenCOVID19-fr	
 admin_0		fr	2020_07_14	status_icu		465	OpenCOVID19-fr	
 admin_0		fr	2020_07_14	status_recovered		78670	OpenCOVID19-fr	
-admin_0		fr	2020_07_14	status_deaths_new		6	DERIVED	
-admin_0		fr	2020_07_14	status_hospitalized_new		-34	DERIVED	
-admin_0		fr	2020_07_14	status_icu_new		-2	DERIVED	
+admin_0		fr	2020_07_14	status_deaths_new		-14	DERIVED	
+admin_0		fr	2020_07_14	status_hospitalized_new		-76	DERIVED	
+admin_0		fr	2020_07_14	status_icu_new		-27	DERIVED	
 admin_0		fr	2020_07_14	status_recovered_new		84	DERIVED	
 admin_1	fr	fr-01	2020_07_14	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_14	status_hospitalized		40	Santé publique France Data	
@@ -32154,15 +32154,15 @@ admin_1	fr	fr-yt	2020_07_14	status_icu_new		-1	DERIVED
 admin_1	fr	fr-yt	2020_07_14	status_recovered_new		0	DERIVED	
 admin_0		fr	2020_07_15	new		416	DERIVED	
 admin_0		fr	2020_07_15	total		173304	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_15	status_deaths		19559	OpenCOVID19-fr	
+admin_0		fr	2020_07_15	status_deaths		19579	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_15	status_hospitalized		6873	OpenCOVID19-fr	
 admin_0		fr	2020_07_15	status_icu		482	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_15	status_recovered		78809	OpenCOVID19-fr	
+admin_0		fr	2020_07_15	status_recovered		78820	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_15	status_active		-94484	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_15	status_deaths_new		40	DERIVED	
+admin_0		fr	2020_07_15	status_deaths_new		20	DERIVED	
 admin_0		fr	2020_07_15	status_hospitalized_new		8	DERIVED	
 admin_0		fr	2020_07_15	status_icu_new		-8	DERIVED	
-admin_0		fr	2020_07_15	status_recovered_new		150	DERIVED	
+admin_0		fr	2020_07_15	status_recovered_new		139	DERIVED	
 admin_1	fr	fr-01	2020_07_15	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_15	status_hospitalized		40	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_15	status_icu		2	Santé publique France Data	
@@ -32973,15 +32973,15 @@ admin_1	fr	fr-yt	2020_07_15	status_icu_new		1	DERIVED
 admin_1	fr	fr-yt	2020_07_15	status_recovered_new		6	DERIVED	
 admin_0		fr	2020_07_16	new		534	DERIVED	
 admin_0		fr	2020_07_16	total		173838	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_16	status_deaths		19577	OpenCOVID19-fr	
-admin_0		fr	2020_07_16	status_hospitalized		6796	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_16	status_icu		456	OpenCOVID19-fr	
-admin_0		fr	2020_07_16	status_recovered		79036	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_16	status_deaths		19597	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_16	status_hospitalized		6754	OpenCOVID19-fr	
+admin_0		fr	2020_07_16	status_icu		481	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_16	status_recovered		79025	OpenCOVID19-fr	
 admin_0		fr	2020_07_16	status_active		-94802	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_16	status_deaths_new		18	DERIVED	
-admin_0		fr	2020_07_16	status_hospitalized_new		-161	DERIVED	
-admin_0		fr	2020_07_16	status_icu_new		24	DERIVED	
-admin_0		fr	2020_07_16	status_recovered_new		205	DERIVED	
+admin_0		fr	2020_07_16	status_hospitalized_new		-119	DERIVED	
+admin_0		fr	2020_07_16	status_icu_new		-1	DERIVED	
+admin_0		fr	2020_07_16	status_recovered_new		227	DERIVED	
 admin_0		fr	2020_07_16	status_active_new		-318	DERIVED	
 admin_1	fr	fr-01	2020_07_16	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_16	status_hospitalized		39	Santé publique France Data	
@@ -33793,15 +33793,15 @@ admin_1	fr	fr-yt	2020_07_16	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_16	status_recovered_new		0	DERIVED	
 admin_0		fr	2020_07_17	new		836	DERIVED	
 admin_0		fr	2020_07_17	total		174674	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_17	status_deaths		19591	OpenCOVID19-fr	
+admin_0		fr	2020_07_17	status_deaths		19611	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_17	status_hospitalized		6646	OpenCOVID19-fr	
-admin_0		fr	2020_07_17	status_icu		477	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_17	status_icu		452	OpenCOVID19-fr	
 admin_0		fr	2020_07_17	status_recovered		79233	OpenCOVID19-fr	
 admin_0		fr	2020_07_17	status_active		-95430	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_17	status_deaths_new		14	DERIVED	
-admin_0		fr	2020_07_17	status_hospitalized_new		-66	DERIVED	
-admin_0		fr	2020_07_17	status_icu_new		-29	DERIVED	
-admin_0		fr	2020_07_17	status_recovered_new		219	DERIVED	
+admin_0		fr	2020_07_17	status_hospitalized_new		-108	DERIVED	
+admin_0		fr	2020_07_17	status_icu_new		21	DERIVED	
+admin_0		fr	2020_07_17	status_recovered_new		208	DERIVED	
 admin_0		fr	2020_07_17	status_active_new		-628	DERIVED	
 admin_1	fr	fr-01	2020_07_17	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_17	status_hospitalized		38	Santé publique France Data	
@@ -34617,9 +34617,9 @@ admin_0		fr	2020_07_18	status_deaths		19599	OpenCOVID19-fr
 admin_0		fr	2020_07_18	status_hospitalized		6614	OpenCOVID19-fr	
 admin_0		fr	2020_07_18	status_icu		450	OpenCOVID19-fr	
 admin_0		fr	2020_07_18	status_recovered		79322	OpenCOVID19-fr	
-admin_0		fr	2020_07_18	status_deaths_new		-12	DERIVED	
+admin_0		fr	2020_07_18	status_deaths_new		8	DERIVED	
 admin_0		fr	2020_07_18	status_hospitalized_new		-74	DERIVED	
-admin_0		fr	2020_07_18	status_icu_new		-2	DERIVED	
+admin_0		fr	2020_07_18	status_icu_new		-27	DERIVED	
 admin_0		fr	2020_07_18	status_recovered_new		78	DERIVED	
 admin_1	fr	fr-01	2020_07_18	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_18	status_hospitalized		38	Santé publique France Data	
@@ -36249,14 +36249,14 @@ admin_1	fr	fr-yt	2020_07_19	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_19	status_recovered_new		1	DERIVED	
 admin_0		fr	2020_07_20	new		350	DERIVED	
 admin_0		fr	2020_07_20	total		176754	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_20	status_deaths		19616	OpenCOVID19-fr	
-admin_0		fr	2020_07_20	status_hospitalized		6547	OpenCOVID19-fr	
-admin_0		fr	2020_07_20	status_icu		467	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_20	status_deaths		19636	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_20	status_hospitalized		6589	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_20	status_icu		442	OpenCOVID19-fr	
 admin_0		fr	2020_07_20	status_recovered		79541	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_20	status_active		-97213	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_20	status_deaths_new		36	DERIVED	
-admin_0		fr	2020_07_20	status_hospitalized_new		6	DERIVED	
-admin_0		fr	2020_07_20	status_icu_new		-6	DERIVED	
+admin_0		fr	2020_07_20	status_deaths_new		16	DERIVED	
+admin_0		fr	2020_07_20	status_hospitalized_new		-36	DERIVED	
+admin_0		fr	2020_07_20	status_icu_new		19	DERIVED	
 admin_0		fr	2020_07_20	status_recovered_new		146	DERIVED	
 admin_1	fr	fr-01	2020_07_20	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_20	status_hospitalized		39	Santé publique France Data	
@@ -37073,9 +37073,9 @@ admin_0		fr	2020_07_21	status_hospitalized		6482	Ministère des Solidarités et 
 admin_0		fr	2020_07_21	status_icu		430	OpenCOVID19-fr	
 admin_0		fr	2020_07_21	status_recovered		79723	OpenCOVID19-fr	
 admin_0		fr	2020_07_21	status_active		-97604	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_21	status_deaths_new		-7	DERIVED	
-admin_0		fr	2020_07_21	status_hospitalized_new		-149	DERIVED	
-admin_0		fr	2020_07_21	status_icu_new		13	DERIVED	
+admin_0		fr	2020_07_21	status_deaths_new		13	DERIVED	
+admin_0		fr	2020_07_21	status_hospitalized_new		-107	DERIVED	
+admin_0		fr	2020_07_21	status_icu_new		-12	DERIVED	
 admin_0		fr	2020_07_21	status_recovered_new		204	DERIVED	
 admin_0		fr	2020_07_21	status_active_new		-391	DERIVED	
 admin_1	fr	fr-01	2020_07_21	status_deaths		105	Santé publique France Data	
@@ -37888,15 +37888,15 @@ admin_1	fr	fr-yt	2020_07_21	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_21	status_recovered_new		0	DERIVED	
 admin_0		fr	2020_07_22	new		998	DERIVED	
 admin_0		fr	2020_07_22	total		178336	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_22	status_deaths		19636	OpenCOVID19-fr	
-admin_0		fr	2020_07_22	status_hospitalized		6324	OpenCOVID19-fr	
-admin_0		fr	2020_07_22	status_icu		445	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_22	status_recovered		79946	OpenCOVID19-fr	
+admin_0		fr	2020_07_22	status_deaths		19656	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_22	status_hospitalized		6366	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_22	status_icu		420	OpenCOVID19-fr	
+admin_0		fr	2020_07_22	status_recovered		79957	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_22	status_active		-98379	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_22	status_deaths_new		27	DERIVED	
-admin_0		fr	2020_07_22	status_hospitalized_new		-74	DERIVED	
-admin_0		fr	2020_07_22	status_icu_new		-35	DERIVED	
-admin_0		fr	2020_07_22	status_recovered_new		223	DERIVED	
+admin_0		fr	2020_07_22	status_deaths_new		7	DERIVED	
+admin_0		fr	2020_07_22	status_hospitalized_new		-116	DERIVED	
+admin_0		fr	2020_07_22	status_icu_new		-10	DERIVED	
+admin_0		fr	2020_07_22	status_recovered_new		212	DERIVED	
 admin_0		fr	2020_07_22	status_active_new		-775	DERIVED	
 admin_1	fr	fr-01	2020_07_22	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_22	status_hospitalized		38	Santé publique France Data	
@@ -38708,15 +38708,15 @@ admin_1	fr	fr-yt	2020_07_22	status_icu_new		1	DERIVED
 admin_1	fr	fr-yt	2020_07_22	status_recovered_new		2	DERIVED	
 admin_0		fr	2020_07_23	new		1062	DERIVED	
 admin_0		fr	2020_07_23	total		179398	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_23	status_deaths		19666	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_23	status_deaths		19646	OpenCOVID19-fr	
 admin_0		fr	2020_07_23	status_hospitalized		5915	OpenCOVID19-fr	
-admin_0		fr	2020_07_23	status_icu		436	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_23	status_icu		411	OpenCOVID19-fr	
 admin_0		fr	2020_07_23	status_recovered		80461	OpenCOVID19-fr	
 admin_0		fr	2020_07_23	status_active		-98926	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_23	status_deaths_new		-10	DERIVED	
-admin_0		fr	2020_07_23	status_hospitalized_new		-409	DERIVED	
+admin_0		fr	2020_07_23	status_deaths_new		30	DERIVED	
+admin_0		fr	2020_07_23	status_hospitalized_new		-367	DERIVED	
 admin_0		fr	2020_07_23	status_icu_new		-9	DERIVED	
-admin_0		fr	2020_07_23	status_recovered_new		515	DERIVED	
+admin_0		fr	2020_07_23	status_recovered_new		526	DERIVED	
 admin_0		fr	2020_07_23	status_active_new		-547	DERIVED	
 admin_1	fr	fr-01	2020_07_23	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_23	status_hospitalized		33	Santé publique France Data	
@@ -39533,9 +39533,9 @@ admin_0		fr	2020_07_24	status_hospitalized		5720	Ministère des Solidarités et 
 admin_0		fr	2020_07_24	status_icu		410	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_24	status_recovered		80804	OpenCOVID19-fr	
 admin_0		fr	2020_07_24	status_active		-99713	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_24	status_deaths_new		30	DERIVED	
+admin_0		fr	2020_07_24	status_deaths_new		10	DERIVED	
 admin_0		fr	2020_07_24	status_hospitalized_new		-279	DERIVED	
-admin_0		fr	2020_07_24	status_icu_new		-26	DERIVED	
+admin_0		fr	2020_07_24	status_icu_new		-51	DERIVED	
 admin_0		fr	2020_07_24	status_recovered_new		343	DERIVED	
 admin_0		fr	2020_07_24	status_active_new		-787	DERIVED	
 admin_1	fr	fr-01	2020_07_24	status_deaths		105	Santé publique France Data	
@@ -41980,13 +41980,13 @@ admin_1	fr	fr-yt	2020_07_26	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_26	status_recovered_new		2	DERIVED	
 admin_0		fr	2020_07_27	total		183079	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_27	status_deaths		19693	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_27	status_hospitalized		5655	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_27	status_icu		398	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_27	status_hospitalized		5614	OpenCOVID19-fr	
+admin_0		fr	2020_07_27	status_icu		374	OpenCOVID19-fr	
 admin_0		fr	2020_07_27	status_recovered		81071	OpenCOVID19-fr	
 admin_0		fr	2020_07_27	status_active		-101997	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_27	status_deaths_new		8	DERIVED	
-admin_0		fr	2020_07_27	status_hospitalized_new		-26	DERIVED	
-admin_0		fr	2020_07_27	status_icu_new		7	DERIVED	
+admin_0		fr	2020_07_27	status_hospitalized_new		15	DERIVED	
+admin_0		fr	2020_07_27	status_icu_new		31	DERIVED	
 admin_0		fr	2020_07_27	status_recovered_new		135	DERIVED	
 admin_1	fr	fr-01	2020_07_27	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_27	status_hospitalized		30	Santé publique France Data	
@@ -42798,14 +42798,14 @@ admin_1	fr	fr-yt	2020_07_27	status_icu_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_27	status_recovered_new		0	DERIVED	
 admin_0		fr	2020_07_28	new		725	DERIVED	
 admin_0		fr	2020_07_28	total		183804	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_28	status_deaths		19688	OpenCOVID19-fr	
+admin_0		fr	2020_07_28	status_deaths		19708	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_28	status_hospitalized		5510	OpenCOVID19-fr	
-admin_0		fr	2020_07_28	status_icu		361	OpenCOVID19-fr	
+admin_0		fr	2020_07_28	status_icu		385	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_28	status_recovered		81300	OpenCOVID19-fr	
 admin_0		fr	2020_07_28	status_active		-102493	Ministère des Solidarités et de la Santé	
-admin_0		fr	2020_07_28	status_deaths_new		35	DERIVED	
-admin_0		fr	2020_07_28	status_hospitalized_new		-63	DERIVED	
-admin_0		fr	2020_07_28	status_icu_new		11	DERIVED	
+admin_0		fr	2020_07_28	status_deaths_new		15	DERIVED	
+admin_0		fr	2020_07_28	status_hospitalized_new		-104	DERIVED	
+admin_0		fr	2020_07_28	status_icu_new		-37	DERIVED	
 admin_0		fr	2020_07_28	status_recovered_new		229	DERIVED	
 admin_0		fr	2020_07_28	status_active_new		-496	DERIVED	
 admin_1	fr	fr-01	2020_07_28	status_deaths		105	Santé publique France Data	
@@ -43616,14 +43616,18 @@ admin_1	fr	fr-yt	2020_07_28	status_deaths_new		0	DERIVED
 admin_1	fr	fr-yt	2020_07_28	status_hospitalized_new		-1	DERIVED	
 admin_1	fr	fr-yt	2020_07_28	status_icu_new		0	DERIVED	
 admin_1	fr	fr-yt	2020_07_28	status_recovered_new		3	DERIVED	
-admin_0		fr	2020_07_29	status_deaths		19703	OpenCOVID19-fr	
+admin_0		fr	2020_07_29	new		1392	DERIVED	
+admin_0		fr	2020_07_29	total		185196	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_29	status_deaths		19723	Ministère des Solidarités et de la Santé	
 admin_0		fr	2020_07_29	status_hospitalized		5409	OpenCOVID19-fr	
 admin_0		fr	2020_07_29	status_icu		356	OpenCOVID19-fr	
-admin_0		fr	2020_07_29	status_recovered		81489	OpenCOVID19-fr	
-admin_0		fr	2020_07_29	status_deaths_new		-5	DERIVED	
-admin_0		fr	2020_07_29	status_hospitalized_new		-142	DERIVED	
-admin_0		fr	2020_07_29	status_icu_new		-29	DERIVED	
+admin_0		fr	2020_07_29	status_recovered		81500	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_29	status_active		-103696	Ministère des Solidarités et de la Santé	
+admin_0		fr	2020_07_29	status_deaths_new		15	DERIVED	
+admin_0		fr	2020_07_29	status_hospitalized_new		-101	DERIVED	
+admin_0		fr	2020_07_29	status_icu_new		19	DERIVED	
 admin_0		fr	2020_07_29	status_recovered_new		178	DERIVED	
+admin_0		fr	2020_07_29	status_active_new		-1203	DERIVED	
 admin_1	fr	fr-01	2020_07_29	status_deaths		105	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_29	status_hospitalized		30	Santé publique France Data	
 admin_1	fr	fr-01	2020_07_29	status_icu		1	Santé publique France Data	
