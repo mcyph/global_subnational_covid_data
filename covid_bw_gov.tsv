@@ -1,166 +1,141 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_1	bw	bw-ce	2020_07_04	new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_04	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_04	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_04	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_04	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_04	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_04	status_active_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_04	new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_04	total		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_04	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_04	status_recovered		7	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_04	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_04	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_04	status_active_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_04	new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_04	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_04	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_04	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_04	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_04	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_04	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	total		211	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	total_male		34	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	total_female		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	status_deaths		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	status_recovered		19	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	status_active		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	tests_total		42290	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	tests_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	new	20-35	0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	total	20-35	11	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	new	36-45	0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	total	36-45	18	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	new	46-60	0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	total	46-60	10	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_04	new	61+	0	DERIVED	
-admin_1	bw	bw-se	2020_07_04	total	61+	1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_04	total		6	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	total_male		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	total_female		2	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	status_recovered		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_04	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_04	status_active_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_06	new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_06	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_06	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_06	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_06	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_06	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_06	status_active_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_06	new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_06	total		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_06	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_06	status_recovered		7	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_06	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_06	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_06	status_active_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_06	new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_06	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_06	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_06	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_06	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_06	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_06	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	total		211	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	total_male		34	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	total_female		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	status_deaths		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	status_recovered		19	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	status_active		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	tests_total		42290	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	tests_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	new	20-35	0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	total	20-35	11	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	new	36-45	0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	total	36-45	18	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	new	46-60	0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	total	46-60	10	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_06	new	61+	0	DERIVED	
-admin_1	bw	bw-se	2020_07_06	total	61+	1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_06	total		6	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	total_male		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	total_female		2	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	status_recovered		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_06	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_06	status_active_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_08	new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_08	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_08	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_08	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_08	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ce	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_08	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ce	2020_07_08	status_active_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_08	new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_08	total		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_08	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_08	status_recovered		7	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_08	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-kw	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_08	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-kw	2020_07_08	status_active_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_08	new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_08	total		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_08	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_08	status_recovered		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_08	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-ne	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_08	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-ne	2020_07_08	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	total		211	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	total_male		34	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	total_female		8	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	status_deaths		1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	status_recovered		19	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	status_active		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	status_active_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	tests_total		42290	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	tests_new		0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	new	20-35	0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	total	20-35	11	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	new	36-45	0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	total	36-45	18	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	new	46-60	0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	total	46-60	10	https://covid19portal.gov.bw/	
-admin_1	bw	bw-se	2020_07_08	new	61+	0	DERIVED	
-admin_1	bw	bw-se	2020_07_08	total	61+	1	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_08	total		6	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	total_male		4	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	total_female		2	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	status_deaths		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	status_recovered		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	status_active		0	https://covid19portal.gov.bw/	
-admin_1	bw	bw-so	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_08	status_recovered_new		0	DERIVED	
-admin_1	bw	bw-so	2020_07_08	status_active_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_03	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_03	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_03	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_03	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_03	total		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_03	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_03	status_recovered		7	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_03	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_03	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_03	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_03	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_03	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total		211	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total_male		34	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total_female		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	status_deaths		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	status_recovered		19	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	status_active		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	tests_total		42290	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total	20-35	11	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total	36-45	18	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total	46-60	10	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_03	total	61+	1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	total		6	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	total_male		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	total_female		2	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	status_recovered		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_03	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_05	new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_05	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_05	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_05	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_05	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_05	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_05	status_active_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_05	new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_05	total		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_05	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_05	status_recovered		7	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_05	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_05	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_05	status_active_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_05	new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_05	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_05	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_05	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_05	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_05	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_05	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	total		211	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	total_male		34	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	total_female		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	status_deaths		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	status_recovered		19	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	status_active		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	tests_total		42290	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	tests_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	new	20-35	0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	total	20-35	11	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	new	36-45	0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	total	36-45	18	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	new	46-60	0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	total	46-60	10	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_05	new	61+	0	DERIVED	
+admin_1	bw	bw-se	2020_07_05	total	61+	1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_05	total		6	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	total_male		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	total_female		2	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	status_recovered		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_05	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_05	status_active_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_07	new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_07	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_07	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_07	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_07	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_07	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_07	status_active_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_07	new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_07	total		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_07	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_07	status_recovered		7	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_07	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_07	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_07	status_active_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_07	new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_07	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_07	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_07	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_07	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_07	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_07	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	total		211	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	total_male		34	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	total_female		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	status_deaths		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	status_recovered		19	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	status_active		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	tests_total		42290	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	tests_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	new	20-35	0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	total	20-35	11	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	new	36-45	0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	total	36-45	18	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	new	46-60	0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	total	46-60	10	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_07	new	61+	0	DERIVED	
+admin_1	bw	bw-se	2020_07_07	total	61+	1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_07	total		6	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	total_male		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	total_female		2	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	status_recovered		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_07	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_07	status_active_new		0	DERIVED	
 admin_1	bw	bw-ce	2020_07_09	new		0	DERIVED	
 admin_1	bw	bw-ce	2020_07_09	total		1	https://covid19portal.gov.bw/	
 admin_1	bw	bw-ce	2020_07_09	status_deaths		0	https://covid19portal.gov.bw/	
@@ -1349,3 +1324,57 @@ admin_1	bw	bw-so	2020_07_30	status_active		0	https://covid19portal.gov.bw/
 admin_1	bw	bw-so	2020_07_30	status_deaths_new		0	DERIVED	
 admin_1	bw	bw-so	2020_07_30	status_recovered_new		0	DERIVED	
 admin_1	bw	bw-so	2020_07_30	status_active_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_31	new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_31	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_31	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_31	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_31	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ce	2020_07_31	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_31	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ce	2020_07_31	status_active_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_31	new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_31	total		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_31	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_31	status_recovered		7	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_31	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-kw	2020_07_31	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_31	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-kw	2020_07_31	status_active_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_31	new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_31	total		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_31	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_31	status_recovered		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_31	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-ne	2020_07_31	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_31	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-ne	2020_07_31	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	total		211	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	total_male		34	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	total_female		8	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	status_deaths		1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	status_recovered		19	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	status_active		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	status_active_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	tests_total		42290	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	tests_new		0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	new	20-35	0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	total	20-35	11	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	new	36-45	0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	total	36-45	18	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	new	46-60	0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	total	46-60	10	https://covid19portal.gov.bw/	
+admin_1	bw	bw-se	2020_07_31	new	61+	0	DERIVED	
+admin_1	bw	bw-se	2020_07_31	total	61+	1	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_31	total		6	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	total_male		4	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	total_female		2	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	status_deaths		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	status_recovered		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	status_active		0	https://covid19portal.gov.bw/	
+admin_1	bw	bw-so	2020_07_31	status_deaths_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_31	status_recovered_new		0	DERIVED	
+admin_1	bw	bw-so	2020_07_31	status_active_new		0	DERIVED	
