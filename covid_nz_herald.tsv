@@ -215,7 +215,7 @@ nz_dhb	nz	waitematā	2020_03_23	source_overseas		12	https://github.com/nzherald/
 nz_dhb	nz	waitematā	2020_03_23	total	60-69	4	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_24	new		40	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_24	total		214	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_03_24	status_hospitalized		6	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_03_24	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_24	status_recovered		12	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_24	source_overseas		156	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_24	source_confirmed		58	https://github.com/nzherald/nz-covid19-data	
@@ -359,7 +359,7 @@ nz_dhb	nz	waitematā	2020_03_26	source_confirmed		12	https://github.com/nzherald
 nz_dhb	nz	waitematā	2020_03_26	new	30-39	1	DERIVED	
 nz_dhb	nz	waitematā	2020_03_26	new	40-49	3	DERIVED	
 nz_dhb	nz	waitematā	2020_03_26	new	50-59	2	DERIVED	
-nz_dhb	nz	west coast	2020_03_26	total		3	https://github.com/nzherald/nz-covid19-data	
+nz_dhb	nz	west coast	2020_03_26	total		1	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	west coast	2020_03_26	total_male		2	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	west coast	2020_03_26	total_female		1	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	west coast	2020_03_26	source_overseas		1	https://github.com/nzherald/nz-covid19-data	
@@ -393,7 +393,7 @@ nz_dhb	nz	capital and coast	2020_03_27	total	20-29	7	https://github.com/nzherald
 nz_dhb	nz	hawke's bay	2020_03_27	source_overseas		9	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	hawke's bay	2020_03_27	new	20-29	1	DERIVED	
 nz_dhb	nz	hawke's bay	2020_03_27	total	20-29	2	https://github.com/nzherald/nz-covid19-data	
-nz_dhb	nz	hutt valley	2020_03_27	new		3	DERIVED	
+nz_dhb	nz	hutt valley	2020_03_27	new		7	DERIVED	
 nz_dhb	nz	hutt valley	2020_03_27	total		12	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	hutt valley	2020_03_27	total_male		5	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	hutt valley	2020_03_27	total_female		7	https://github.com/nzherald/nz-covid19-data	
@@ -523,10 +523,10 @@ nz_dhb	nz	waitematā	2020_03_29	total	60-69	7	https://github.com/nzherald/nz-cov
 admin_0		nz	2020_03_30	new		76	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_30	total		608	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_30	status_deaths		1	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_03_30	status_hospitalized		12	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_03_30	status_hospitalized		2	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_30	status_recovered		63	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_30	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_03_30	status_hospitalized_new		1	DERIVED	
+admin_0		nz	2020_03_30	status_hospitalized_new		3	DERIVED	
 admin_0		nz	2020_03_30	status_recovered_new		7	DERIVED	
 admin_0		nz	2020_03_30	source_overseas		361	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_03_30	source_confirmed		244	https://github.com/nzherald/nz-covid19-data	
@@ -787,7 +787,7 @@ admin_0		nz	2020_04_05	status_deaths		1	https://github.com/nzherald/nz-covid19-d
 admin_0		nz	2020_04_05	status_hospitalized		15	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_05	status_recovered		156	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_05	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_04_05	status_hospitalized_new		2	DERIVED	
+admin_0		nz	2020_04_05	status_hospitalized_new		-7	DERIVED	
 admin_0		nz	2020_04_05	status_recovered_new		29	DERIVED	
 admin_0		nz	2020_04_05	source_overseas		468	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_05	source_confirmed		374	https://github.com/nzherald/nz-covid19-data	
@@ -990,13 +990,13 @@ nz_dhb	nz	waitematā	2020_04_10	total	70+	6	https://github.com/nzherald/nz-covid
 admin_0		nz	2020_04_11	new		20	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	total		1035	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	status_deaths		4	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_04_11	status_hospitalized		15	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_04_11	status_hospitalized		5	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	status_recovered		422	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	status_deaths_new		2	DERIVED	
-admin_0		nz	2020_04_11	status_hospitalized_new		-11	DERIVED	
+admin_0		nz	2020_04_11	status_hospitalized_new		-1	DERIVED	
 admin_0		nz	2020_04_11	status_recovered_new		49	DERIVED	
 admin_0		nz	2020_04_11	source_overseas		525	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_04_11	source_confirmed		558	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_04_11	source_confirmed		604	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	source_community		26	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	source_under_investigation		144	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_11	total_male	20-29	107	https://github.com/nzherald/nz-covid19-data	
@@ -1120,10 +1120,10 @@ nz_dhb	nz	southern	2020_04_15	total	15-19	13	https://github.com/nzherald/nz-covi
 admin_0		nz	2020_04_16	new		6	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_16	total		1099	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_16	status_deaths		9	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_04_16	status_hospitalized		12	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_04_16	status_hospitalized		3	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_16	status_recovered		770	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_16	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_04_16	status_hospitalized_new		-10	DERIVED	
+admin_0		nz	2020_04_16	status_hospitalized_new		-1	DERIVED	
 admin_0		nz	2020_04_16	status_recovered_new		42	DERIVED	
 admin_0		nz	2020_04_16	source_overseas		546	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_16	source_confirmed		771	https://github.com/nzherald/nz-covid19-data	
@@ -1232,12 +1232,12 @@ nz_dhb	nz	waitematā	2020_04_19	total		148	https://github.com/nzherald/nz-covid1
 nz_dhb	nz	waitematā	2020_04_19	total_female		88	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	waitematā	2020_04_19	total	60-69	18	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	new		2	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_04_21	total		1107	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_04_21	total		1118	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	status_deaths		13	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	status_hospitalized		12	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	status_recovered		1006	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	status_deaths_new		1	DERIVED	
-admin_0		nz	2020_04_21	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_04_21	status_hospitalized_new		-11	DERIVED	
 admin_0		nz	2020_04_21	status_recovered_new		32	DERIVED	
 admin_0		nz	2020_04_21	source_overseas		564	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_21	source_confirmed		601	https://github.com/nzherald/nz-covid19-data	
@@ -1300,10 +1300,10 @@ admin_0		nz	2020_04_26	status_deaths		18	https://github.com/nzherald/nz-covid19-
 admin_0		nz	2020_04_26	status_hospitalized		7	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_26	status_recovered		1142	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_26	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_04_26	status_hospitalized_new		-6	DERIVED	
+admin_0		nz	2020_04_26	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_04_26	status_recovered_new		24	DERIVED	
 admin_0		nz	2020_04_26	source_overseas		573	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_04_26	source_confirmed		603	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_04_26	source_confirmed		611	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_26	source_community		44	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_04_26	source_under_investigation		29	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	hawke's bay	2020_04_26	total_male		19	https://github.com/nzherald/nz-covid19-data	
@@ -1352,16 +1352,16 @@ nz_dhb	nz	auckland	2020_04_30	total	30-39	25	https://github.com/nzherald/nz-covi
 nz_dhb	nz	waitematā	2020_04_30	total_female		93	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	waitematā	2020_04_30	total	40-49	26	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	new		3	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_01	total		1135	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_01	total		1142	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	total_male		529	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	status_deaths		19	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_01	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_01	status_hospitalized		6	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	status_recovered		1252	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_05_01	status_hospitalized_new		-1	DERIVED	
+admin_0		nz	2020_05_01	status_hospitalized_new		-7	DERIVED	
 admin_0		nz	2020_05_01	status_recovered_new		11	DERIVED	
 admin_0		nz	2020_05_01	source_overseas		577	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_01	source_confirmed		473	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_01	source_confirmed		621	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	source_community		59	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	source_under_investigation		15	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_01	new	20-29	1	DERIVED	
@@ -1402,10 +1402,10 @@ admin_0		nz	2020_05_06	new		1	https://github.com/nzherald/nz-covid19-data
 admin_0		nz	2020_05_06	total		1141	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_06	total_male		532	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_06	status_deaths		21	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_06	status_hospitalized		2	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_06	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_06	status_recovered		1316	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_06	status_deaths_new		1	DERIVED	
-admin_0		nz	2020_05_06	status_hospitalized_new		-4	DERIVED	
+admin_0		nz	2020_05_06	status_hospitalized_new		-2	DERIVED	
 admin_0		nz	2020_05_06	status_recovered_new		14	DERIVED	
 admin_0		nz	2020_05_06	source_overseas		565	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_06	source_confirmed		476	https://github.com/nzherald/nz-covid19-data	
@@ -1436,10 +1436,10 @@ nz_dhb	nz	midcentral	2020_05_09	total_female		15	https://github.com/nzherald/nz-
 nz_dhb	nz	midcentral	2020_05_09	source_overseas		19	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	midcentral	2020_05_09	total	20-29	9	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_10	new		3	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_10	total		1148	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_10	total		1151	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_10	total_female		619	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_10	status_deaths		21	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_10	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_10	status_hospitalized		2	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_10	status_recovered		1371	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_10	status_deaths_new		0	DERIVED	
 admin_0		nz	2020_05_10	status_hospitalized_new		0	DERIVED	
@@ -1463,16 +1463,16 @@ nz_dhb	nz	waitematā	2020_05_10	total_female		98	https://github.com/nzherald/nz-
 nz_dhb	nz	waitematā	2020_05_10	source_confirmed		95	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	waitematā	2020_05_10	total	30-39	27	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	new		0	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_14	total		1152	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_14	total		1151	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	total_female		620	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	status_deaths		21	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_14	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_14	status_hospitalized		2	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	status_recovered		1411	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_05_14	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_05_14	status_hospitalized_new		-2	DERIVED	
 admin_0		nz	2020_05_14	status_recovered_new		9	DERIVED	
 admin_0		nz	2020_05_14	source_overseas		572	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_14	source_confirmed		475	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_14	source_confirmed		628	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	source_community		67	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	source_under_investigation		17	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_14	total	15-19	54	https://github.com/nzherald/nz-covid19-data	
@@ -1512,7 +1512,7 @@ admin_0		nz	2020_05_22	status_deaths_new		0	DERIVED
 admin_0		nz	2020_05_22	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_05_22	status_recovered_new		3	DERIVED	
 admin_0		nz	2020_05_22	source_overseas		576	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_05_22	source_confirmed		630	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_05_22	source_confirmed		464	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_22	source_community		85	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_22	source_under_investigation		2	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_22	total	50-59	186	https://github.com/nzherald/nz-covid19-data	
@@ -1528,7 +1528,7 @@ admin_0		nz	2020_05_26	status_deaths		21	https://github.com/nzherald/nz-covid19-
 admin_0		nz	2020_05_26	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_26	status_recovered		1461	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_26	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_05_26	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_05_26	status_hospitalized_new		-1	DERIVED	
 admin_0		nz	2020_05_26	status_recovered_new		5	DERIVED	
 admin_0		nz	2020_05_26	source_overseas		575	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_05_26	source_confirmed		463	https://github.com/nzherald/nz-covid19-data	
@@ -1668,7 +1668,7 @@ admin_0		nz	2020_06_20	status_recovered		1482	https://github.com/nzherald/nz-cov
 admin_0		nz	2020_06_20	status_deaths_new		0	DERIVED	
 admin_0		nz	2020_06_20	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_06_20	status_recovered_new		0	DERIVED	
-admin_0		nz	2020_06_20	source_overseas		580	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_20	source_overseas		527	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_20	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_20	source_community		89	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_20	source_under_investigation		0	https://github.com/nzherald/nz-covid19-data	
@@ -1695,7 +1695,7 @@ nz_dhb	nz	managed isolation & quarantine	2020_06_21	total	10-14	1	https://github
 nz_dhb	nz	managed isolation & quarantine	2020_06_21	total	30-39	1	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	managed isolation & quarantine	2020_06_21	total	50-59	1	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_22	new		2	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_06_22	total		1165	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_22	total		1163	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_22	total_male		539	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_22	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_22	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
@@ -1758,7 +1758,7 @@ admin_0		nz	2020_06_26	status_recovered		1484	https://github.com/nzherald/nz-cov
 admin_0		nz	2020_06_26	status_deaths_new		0	DERIVED	
 admin_0		nz	2020_06_26	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_06_26	status_recovered_new		0	DERIVED	
-admin_0		nz	2020_06_26	source_overseas		589	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_26	source_overseas		538	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_26	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_26	source_community		89	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_26	source_under_investigation		0	https://github.com/nzherald/nz-covid19-data	
@@ -1781,13 +1781,13 @@ nz_dhb	nz	managed isolation & quarantine	2020_06_27	new	20-29	1	DERIVED
 nz_dhb	nz	managed isolation & quarantine	2020_06_27	total	20-29	6	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	managed isolation & quarantine	2020_06_27	total	30-39	8	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	new		4	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_06_28	total		1177	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_28	total		1176	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	total_male		547	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_06_28	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_28	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	status_recovered		1484	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_06_28	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_06_28	status_hospitalized_new		1	DERIVED	
 admin_0		nz	2020_06_28	status_recovered_new		0	DERIVED	
 admin_0		nz	2020_06_28	source_overseas		595	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_28	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
@@ -1810,10 +1810,10 @@ nz_dhb	nz	managed isolation & quarantine	2020_06_29	total	20-29	7	https://github
 admin_0		nz	2020_06_30	new		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_30	total		1178	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_30	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_06_30	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_06_30	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_30	status_recovered		1484	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_30	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_06_30	status_hospitalized_new		1	DERIVED	
+admin_0		nz	2020_06_30	status_hospitalized_new		-1	DERIVED	
 admin_0		nz	2020_06_30	status_recovered_new		0	DERIVED	
 admin_0		nz	2020_06_30	source_overseas		597	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_06_30	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
@@ -1829,9 +1829,9 @@ admin_0		nz	2020_07_02	status_deaths		22	https://github.com/nzherald/nz-covid19-
 admin_0		nz	2020_07_02	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_02	status_recovered		1490	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_02	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_07_02	status_hospitalized_new		-1	DERIVED	
+admin_0		nz	2020_07_02	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_07_02	status_recovered_new		6	DERIVED	
-admin_0		nz	2020_07_02	source_overseas		599	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_02	source_overseas		547	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_02	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_02	source_community		89	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_02	source_under_investigation		0	https://github.com/nzherald/nz-covid19-data	
@@ -1848,10 +1848,10 @@ nz_dhb	nz	managed isolation & quarantine	2020_07_02	total	30-39	10	https://githu
 admin_0		nz	2020_07_04	new		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_04	total		1180	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_04	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_07_04	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_04	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_04	status_recovered		1490	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_04	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_07_04	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_07_04	status_hospitalized_new		1	DERIVED	
 admin_0		nz	2020_07_04	status_recovered_new		0	DERIVED	
 admin_0		nz	2020_07_04	source_overseas		599	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_04	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
@@ -1864,16 +1864,16 @@ admin_0		nz	2020_07_05	total_male	70+	57	https://github.com/nzherald/nz-covid19-
 admin_0		nz	2020_07_05	source_overseas	70+	37	https://github.com/nzherald/nz-covid19-data	
 nz_dhb	nz	managed isolation & quarantine	2020_07_05	total	70+	2	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	new		1	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_07_06	total		1186	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_06	total		1184	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	total_male		551	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	total_female		634	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_07_06	status_hospitalized		1	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_06	status_hospitalized		0	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	status_recovered		1490	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	status_deaths_new		0	DERIVED	
-admin_0		nz	2020_07_06	status_hospitalized_new		0	DERIVED	
+admin_0		nz	2020_07_06	status_hospitalized_new		1	DERIVED	
 admin_0		nz	2020_07_06	status_recovered_new		0	DERIVED	
-admin_0		nz	2020_07_06	source_overseas		553	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_06	source_overseas		603	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	source_community		89	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_06	source_under_investigation		0	https://github.com/nzherald/nz-covid19-data	
@@ -1893,7 +1893,7 @@ nz_dhb	nz	managed isolation & quarantine	2020_07_06	new	30-39	1	DERIVED
 nz_dhb	nz	managed isolation & quarantine	2020_07_06	total	30-39	13	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_07	total_male	20-29	117	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	new		1	https://github.com/nzherald/nz-covid19-data	
-admin_0		nz	2020_07_08	total		1187	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_08	total		1190	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	total_male		554	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	total_female		635	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	status_deaths		22	https://github.com/nzherald/nz-covid19-data	
@@ -1902,7 +1902,7 @@ admin_0		nz	2020_07_08	status_recovered		1492	https://github.com/nzherald/nz-cov
 admin_0		nz	2020_07_08	status_deaths_new		0	DERIVED	
 admin_0		nz	2020_07_08	status_hospitalized_new		0	DERIVED	
 admin_0		nz	2020_07_08	status_recovered_new		0	DERIVED	
-admin_0		nz	2020_07_08	source_overseas		557	https://github.com/nzherald/nz-covid19-data	
+admin_0		nz	2020_07_08	source_overseas		606	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	source_confirmed		454	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	source_community		89	https://github.com/nzherald/nz-covid19-data	
 admin_0		nz	2020_07_08	source_under_investigation		0	https://github.com/nzherald/nz-covid19-data	
