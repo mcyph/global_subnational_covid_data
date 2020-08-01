@@ -1,9 +1,8 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
+admin_1	au	au-act	2020_03_20	total		6	https://www.covid19.act.gov.au/news-articles/fifth-and-sixth-cases-of-covid-19-confirmed-in-act	
 admin_1	au	au-act	2020_03_20	tests_total		2062	https://www.covid19.act.gov.au/news-articles/fifth-and-sixth-cases-of-covid-19-confirmed-in-act	
-admin_1	au	au-act	2020_03_22	new		10	https://www.covid19.act.gov.au/news-articles/covid-19-update2	
 admin_1	au	au-act	2020_03_22	new_male		7	https://www.covid19.act.gov.au/news-articles/covid-19-update2	
 admin_1	au	au-act	2020_03_22	new_female		3	https://www.covid19.act.gov.au/news-articles/covid-19-update2	
-admin_1	au	au-act	2020_03_22	total		19	https://www.covid19.act.gov.au/news-articles/covid-19-update2	
 admin_1	au	au-act	2020_03_22	status_hospitalized		2	https://www.covid19.act.gov.au/news-articles/covid-19-update2	
 admin_1	au	au-act	2020_03_24	total_male		20	https://www.covid19.act.gov.au/news-articles/covid-19-update3	
 admin_1	au	au-act	2020_03_24	total_female		19	https://www.covid19.act.gov.au/news-articles/covid-19-update3	
@@ -11,10 +10,10 @@ admin_1	au	au-act	2020_03_25	source_overseas		36	https://www.covid19.act.gov.au/
 admin_1	au	au-act	2020_03_25	source_interstate		5	https://www.covid19.act.gov.au/news-articles/covid-19-update4	
 admin_1	au	au-act	2020_03_25	source_confirmed		3	https://www.covid19.act.gov.au/news-articles/covid-19-update4	
 admin_1	au	au-act	2020_03_25	source_community		0	https://www.covid19.act.gov.au/news-articles/covid-19-update4	
+admin_1	au	au-act	2020_03_27	new		9	https://www.covid19.act.gov.au/news-articles/cov-19-update	
+admin_1	au	au-act	2020_03_27	total		62	https://www.covid19.act.gov.au/news-articles/cov-19-update	
 admin_1	au	au-act	2020_03_27	tests_total		3760	https://www.covid19.act.gov.au/news-articles/cov-19-update	
 admin_1	au	au-act	2020_03_27	tests_new		488	DERIVED	
-admin_1	au	au-act	2020_03_28	new		9	https://www.covid19.act.gov.au/news-articles/covid-19-update-28-march	
-admin_1	au	au-act	2020_03_28	total		71	https://www.covid19.act.gov.au/news-articles/covid-19-update-28-march	
 admin_1	au	au-act	2020_03_29	new_male		4	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-march-2020	
 admin_1	au	au-act	2020_03_29	new_female		2	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-march-2020	
 admin_1	au	au-act	2020_03_29	status_hospitalized		6	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-march-2020	
@@ -26,6 +25,8 @@ admin_1	au	au-act	2020_03_31	source_interstate		4	https://www.covid19.act.gov.au
 admin_1	au	au-act	2020_03_31	source_confirmed		9	https://www.covid19.act.gov.au/news-articles/covid-19-update-31-march	
 admin_1	au	au-act	2020_03_31	source_community		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-31-march	
 admin_1	au	au-act	2020_03_31	source_under_investigation		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-31-march	
+admin_1	au	au-act	2020_04_02	new		4	https://www.covid19.act.gov.au/news-articles/covid-19-update-2-april-2020	
+admin_1	au	au-act	2020_04_02	total		87	https://www.covid19.act.gov.au/news-articles/covid-19-update-2-april-2020	
 admin_1	au	au-act	2020_04_02	tests_total		5018	https://www.covid19.act.gov.au/news-articles/covid-19-update-2-april-2020	
 admin_1	au	au-act	2020_04_02	tests_new		160	DERIVED	
 admin_1	au	au-act	2020_04_02	new	0-29	3	DERIVED	
@@ -40,8 +41,6 @@ admin_1	au	au-act	2020_04_02	new	60-69	3	DERIVED
 admin_1	au	au-act	2020_04_02	total	60-69	22	https://www.covid19.act.gov.au/updates/confirmed-case-information	
 admin_1	au	au-act	2020_04_02	new	70+	1	DERIVED	
 admin_1	au	au-act	2020_04_02	total	70+	16	https://www.covid19.act.gov.au/updates/confirmed-case-information	
-admin_1	au	au-act	2020_04_03	new		4	https://www.covid19.act.gov.au/news-articles/covid-19-update-3-april-2020	
-admin_1	au	au-act	2020_04_03	total		91	https://www.covid19.act.gov.au/news-articles/covid-19-update-3-april-2020	
 admin_1	au	au-act	2020_04_04	status_recovered		18	https://www.covid19.act.gov.au/news-articles/covid-19-update-second-death-in-the-act	
 admin_1	au	au-act	2020_04_04	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_04_05	new_male		2	https://www.covid19.act.gov.au/news-articles/covid-19-update-5-april-2020	
@@ -52,7 +51,9 @@ admin_1	au	au-act	2020_04_06	source_overseas		77	https://www.covid19.act.gov.au/
 admin_1	au	au-act	2020_04_06	source_cruise_ship		31	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-april-0-new-cases	
 admin_1	au	au-act	2020_04_06	source_interstate		4	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-april-0-new-cases	
 admin_1	au	au-act	2020_04_06	source_confirmed		13	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-april-0-new-cases	
-admin_1	au	au-act	2020_04_06	source_community		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-april-0-new-cases	
+admin_1	au	au-act	2020_04_08	new		2	https://www.covid19.act.gov.au/news-articles/covid-19-update-8-april-2020	
+admin_1	au	au-act	2020_04_08	total		99	https://www.covid19.act.gov.au/news-articles/covid-19-update-8-april-2020	
+admin_1	au	au-act	2020_04_08	source_community		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-8-april-2020	
 admin_1	au	au-act	2020_04_08	tests_total		5778	https://www.covid19.act.gov.au/news-articles/covid-19-update-8-april-2020	
 admin_1	au	au-act	2020_04_08	tests_new		352	DERIVED	
 admin_1	au	au-act	2020_04_08	new	0-29	0	DERIVED	
@@ -67,25 +68,22 @@ admin_1	au	au-act	2020_04_08	new	60-69	1	DERIVED
 admin_1	au	au-act	2020_04_08	total	60-69	23	https://www.covid19.act.gov.au/updates/confirmed-case-information	
 admin_1	au	au-act	2020_04_08	new	70+	0	DERIVED	
 admin_1	au	au-act	2020_04_08	total	70+	17	https://www.covid19.act.gov.au/updates/confirmed-case-information	
-admin_1	au	au-act	2020_04_09	new		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-9-april-2020	
-admin_1	au	au-act	2020_04_09	total		100	https://www.covid19.act.gov.au/news-articles/covid-19-update-9-april-2020	
-admin_1	au	au-act	2020_04_10	status_deaths		2	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_10	status_recovered		59	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_10	status_deaths		2	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-10-april-2020	
+admin_1	au	au-act	2020_04_10	status_recovered		59	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-10-april-2020	
 admin_1	au	au-act	2020_04_10	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_04_10	status_recovered_new		5	DERIVED	
 admin_1	au	au-act	2020_04_10	source_under_investigation		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_11	status_hospitalized		4	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-11-april-2020	
 admin_1	au	au-act	2020_04_11	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-act	2020_04_13	source_overseas		80	https://www.covid19.act.gov.au/news-articles/covid-19-update-13-april-2020	
+admin_1	au	au-act	2020_04_12	source_overseas		80	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_12	source_interstate		5	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_12	source_confirmed		15	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_13	source_cruise_ship		29	https://www.covid19.act.gov.au/news-articles/covid-19-update-13-april-2020	
-admin_1	au	au-act	2020_04_13	source_interstate		5	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_13	source_confirmed		16	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_13	source_community		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-13-april-2020	
-admin_1	au	au-act	2020_04_15	new		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-third-death-in-the-act	
-admin_1	au	au-act	2020_04_15	total		103	https://www.covid19.act.gov.au/news-articles/covid-19-update-third-death-in-the-act	
+admin_1	au	au-act	2020_04_14	new		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-14-april-2020	
+admin_1	au	au-act	2020_04_14	total		103	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_14	tests_total		6394	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-14-april-2020	
 admin_1	au	au-act	2020_04_15	total_male		60	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_15	total_female		43	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_15	tests_total		6490	https://www.covid19.act.gov.au/news-articles/covid-19-update-third-death-in-the-act	
 admin_1	au	au-act	2020_04_15	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_15	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_15	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -126,7 +124,7 @@ sa3	au-act	tuggeranong	2020_04_15	total		23	https://app.powerbi.com/view?r=eyJrI
 sa3	au-act	urriarra-namadgi	2020_04_15	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	weston creek	2020_04_15	total		7	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_04_15	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_16	status_deaths		3	https://www.covid19.act.gov.au/news-articles/covid-19-update-16-april-2020	
+admin_1	au	au-act	2020_04_16	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_16	status_recovered		79	https://www.covid19.act.gov.au/news-articles/covid-19-update-16-april-2020	
 admin_1	au	au-act	2020_04_16	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_04_16	status_recovered_new		2	DERIVED	
@@ -158,11 +156,11 @@ admin_1	au	au-act	2020_04_18	source_overseas		80	https://app.powerbi.com/view?r=
 admin_1	au	au-act	2020_04_18	source_interstate		5	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_18	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_18	source_community		1	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_20	new		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-20-april-2020	
-admin_1	au	au-act	2020_04_20	total		104	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_19	new		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-april-2020	
+admin_1	au	au-act	2020_04_19	total		103	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-april-2020	
+admin_1	au	au-act	2020_04_19	tests_total		6996	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-april-2020	
 admin_1	au	au-act	2020_04_20	total_male		62	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_20	total_female		42	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_20	tests_total		7063	https://www.covid19.act.gov.au/news-articles/covid-19-update-20-april-2020	
 admin_1	au	au-act	2020_04_20	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_20	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_20	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -203,8 +201,8 @@ sa3	au-act	tuggeranong	2020_04_20	total		23	https://app.powerbi.com/view?r=eyJrI
 sa3	au-act	urriarra-namadgi	2020_04_20	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	weston creek	2020_04_20	total		7	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_04_20	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_21	status_deaths		3	https://www.covid19.act.gov.au/news-articles/covid-19-update-21-april-2020	
-admin_1	au	au-act	2020_04_21	status_recovered		92	https://www.covid19.act.gov.au/news-articles/covid-19-update-21-april-2020	
+admin_1	au	au-act	2020_04_21	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_21	status_recovered		92	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_21	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_04_21	status_recovered_new		1	DERIVED	
 admin_1	au	au-act	2020_04_21	tests_new		63	DERIVED	
@@ -232,12 +230,12 @@ sa3	au-act	tuggeranong	2020_04_23	new		0	DERIVED
 sa3	au-act	urriarra-namadgi	2020_04_23	new		0	DERIVED	
 sa3	au-act	weston creek	2020_04_23	new		0	DERIVED	
 sa3	au-act	woden valley	2020_04_23	new		0	DERIVED	
+admin_1	au	au-act	2020_04_24	new		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-24-april-2020	
+admin_1	au	au-act	2020_04_24	total		105	https://www.covid19.act.gov.au/news-articles/covid-19-update-24-april-2020	
 admin_1	au	au-act	2020_04_24	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-24-april-2020	
-admin_1	au	au-act	2020_04_25	new		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-25-april-2020	
-admin_1	au	au-act	2020_04_25	total		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_04_24	tests_total		7441	https://www.covid19.act.gov.au/news-articles/covid-19-update-24-april-2020	
 admin_1	au	au-act	2020_04_25	total_male		63	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_25	total_female		42	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_25	tests_total		7738	https://www.covid19.act.gov.au/news-articles/covid-19-update-25-april-2020	
 admin_1	au	au-act	2020_04_25	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_25	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_25	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -283,17 +281,17 @@ admin_1	au	au-act	2020_04_26	status_recovered		99	https://www.covid19.act.gov.au
 admin_1	au	au-act	2020_04_26	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_04_26	status_recovered_new		1	DERIVED	
 admin_1	au	au-act	2020_04_26	tests_new		254	DERIVED	
+admin_1	au	au-act	2020_04_29	new		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-april-2020	
+admin_1	au	au-act	2020_04_29	total		106	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-april-2020	
 admin_1	au	au-act	2020_04_29	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-april-2020	
 admin_1	au	au-act	2020_04_29	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-act	2020_04_30	new		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-30-april-2020	
-admin_1	au	au-act	2020_04_30	total		106	https://www.covid19.act.gov.au/news-articles/covid-19-update-30-april-2020	
+admin_1	au	au-act	2020_04_29	tests_total		8442	https://www.covid19.act.gov.au/news-articles/covid-19-update-29-april-2020	
 admin_1	au	au-act	2020_04_30	total_male		63	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	total_female		43	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	source_overseas		82	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	source_interstate		6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	source_community		1	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_04_30	tests_total		8674	https://www.covid19.act.gov.au/news-articles/covid-19-update-30-april-2020	
 admin_1	au	au-act	2020_04_30	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_04_30	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -339,10 +337,10 @@ admin_1	au	au-act	2020_05_01	status_recovered		103	https://www.covid19.act.gov.a
 admin_1	au	au-act	2020_05_01	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_05_01	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_05_01	tests_new		307	DERIVED	
+admin_1	au	au-act	2020_05_04	new		1	https://www.covid19.act.gov.au/news-articles/covid-19-update-4-may-2020	
+admin_1	au	au-act	2020_05_04	total		107	https://www.covid19.act.gov.au/news-articles/covid-19-update-4-may-2020	
 admin_1	au	au-act	2020_05_04	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-4-may-2020	
-admin_1	au	au-act	2020_05_05	new		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-5-may-2020	
-admin_1	au	au-act	2020_05_05	total		107	https://www.covid19.act.gov.au/news-articles/covid-19-update-5-may-2020	
-admin_1	au	au-act	2020_05_05	tests_total		9829	https://www.covid19.act.gov.au/news-articles/covid-19-update-5-may-2020	
+admin_1	au	au-act	2020_05_04	tests_total		9628	https://www.covid19.act.gov.au/news-articles/covid-19-update-4-may-2020	
 admin_1	au	au-act	2020_05_06	status_deaths		3	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-may-2020	
 admin_1	au	au-act	2020_05_06	status_recovered		103	https://www.covid19.act.gov.au/news-articles/covid-19-update-6-may-2020	
 admin_1	au	au-act	2020_05_06	status_deaths_new		0	DERIVED	
@@ -361,7 +359,7 @@ admin_1	au	au-act	2020_05_13	total		107	https://www.covid19.act.gov.au/news-arti
 admin_1	au	au-act	2020_05_13	tests_total		12637	https://www.covid19.act.gov.au/news-articles/covid-19-update-13-may-2020	
 admin_1	au	au-act	2020_05_14	tests_new		429	DERIVED	
 admin_1	au	au-act	2020_05_17	new		0	https://www.covid19.act.gov.au/news-articles/covid-19-update-17-may-2020	
-admin_1	au	au-act	2020_05_17	total		107	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_05_17	total		107	https://www.covid19.act.gov.au/news-articles/covid-19-update-17-may-2020	
 admin_1	au	au-act	2020_05_17	total_male		60	DERIVED	
 admin_1	au	au-act	2020_05_17	total_female		41	DERIVED	
 admin_1	au	au-act	2020_05_17	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -509,7 +507,7 @@ sa3	au-act	woden valley	2020_05_21	new		0	DERIVED
 sa3	au-act	woden valley	2020_05_21	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_05_22	tests_new		230	DERIVED	
 admin_1	au	au-act	2020_05_25	new		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-25-may-2020	
-admin_1	au	au-act	2020_05_25	total		107	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-25-may-2020	
+admin_1	au	au-act	2020_05_25	total		107	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_05_25	total_male		60	DERIVED	
 admin_1	au	au-act	2020_05_25	total_female		41	DERIVED	
 admin_1	au	au-act	2020_05_25	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -582,7 +580,7 @@ sa3	au-act	weston creek	2020_05_25	total		7	https://app.powerbi.com/view?r=eyJrI
 sa3	au-act	woden valley	2020_05_25	new		0	DERIVED	
 sa3	au-act	woden valley	2020_05_25	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_05_29	new		1	https://www.covid19.act.gov.au/news-articles/why-easing-covid-19-restrictions-must-be-managed-carefully	
-admin_1	au	au-act	2020_05_29	total		107	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_05_29	total		107	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-29-may-2020	
 admin_1	au	au-act	2020_05_29	total_male		60	DERIVED	
 admin_1	au	au-act	2020_05_29	total_female		41	DERIVED	
 admin_1	au	au-act	2020_05_29	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -1498,8 +1496,11 @@ sa3	au-act	weston creek	2020_06_29	new		0	DERIVED
 sa3	au-act	weston creek	2020_06_29	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_06_29	new		0	DERIVED	
 sa3	au-act	woden valley	2020_06_29	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_01	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_01	total_male		61	DERIVED	
 admin_1	au	au-act	2020_07_01	total_female		41	DERIVED	
+admin_1	au	au-act	2020_07_01	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_01	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_01	source_overseas		84	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_01	source_interstate		6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_01	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -1544,14 +1545,14 @@ sa3	au-act	tuggeranong	2020_07_01	total		23	https://app.powerbi.com/view?r=eyJrI
 sa3	au-act	urriarra-namadgi	2020_07_01	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	weston creek	2020_07_01	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_07_01	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_02	new		0	DERIVED	
-admin_1	au	au-act	2020_07_02	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_02	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_02	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_02	status_deaths_new		0	DERIVED	
-admin_1	au	au-act	2020_07_02	status_recovered_new		0	DERIVED	
+admin_1	au	au-act	2020_07_03	new		0	DERIVED	
+admin_1	au	au-act	2020_07_03	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_03	total_male		61	DERIVED	
 admin_1	au	au-act	2020_07_03	total_female		41	DERIVED	
+admin_1	au	au-act	2020_07_03	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_03	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_03	status_deaths_new		0	DERIVED	
+admin_1	au	au-act	2020_07_03	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_07_03	source_overseas		84	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_03	source_interstate		6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_03	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -1616,14 +1617,14 @@ sa3	au-act	weston creek	2020_07_03	new		0	DERIVED
 sa3	au-act	weston creek	2020_07_03	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_07_03	new		0	DERIVED	
 sa3	au-act	woden valley	2020_07_03	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_04	new		0	DERIVED	
-admin_1	au	au-act	2020_07_04	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_04	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_04	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_04	status_deaths_new		0	DERIVED	
-admin_1	au	au-act	2020_07_04	status_recovered_new		0	DERIVED	
+admin_1	au	au-act	2020_07_05	new		0	DERIVED	
+admin_1	au	au-act	2020_07_05	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_05	total_male		61	DERIVED	
 admin_1	au	au-act	2020_07_05	total_female		41	DERIVED	
+admin_1	au	au-act	2020_07_05	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_05	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_05	status_deaths_new		0	DERIVED	
+admin_1	au	au-act	2020_07_05	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_07_05	source_overseas		84	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_05	source_interstate		6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_05	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -1688,14 +1689,14 @@ sa3	au-act	weston creek	2020_07_05	new		0	DERIVED
 sa3	au-act	weston creek	2020_07_05	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_07_05	new		0	DERIVED	
 sa3	au-act	woden valley	2020_07_05	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_06	new		0	DERIVED	
-admin_1	au	au-act	2020_07_06	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_06	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_06	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_06	status_deaths_new		0	DERIVED	
-admin_1	au	au-act	2020_07_06	status_recovered_new		0	DERIVED	
+admin_1	au	au-act	2020_07_07	new		0	DERIVED	
+admin_1	au	au-act	2020_07_07	total		108	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_07	total_male		61	DERIVED	
 admin_1	au	au-act	2020_07_07	total_female		41	DERIVED	
+admin_1	au	au-act	2020_07_07	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_07	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_07	status_deaths_new		0	DERIVED	
+admin_1	au	au-act	2020_07_07	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_07_07	source_overseas		84	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_07	source_interstate		6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_07	source_confirmed		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
@@ -1760,97 +1761,66 @@ sa3	au-act	weston creek	2020_07_07	new		0	DERIVED
 sa3	au-act	weston creek	2020_07_07	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 sa3	au-act	woden valley	2020_07_07	new		0	DERIVED	
 sa3	au-act	woden valley	2020_07_07	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_08	new		3	DERIVED	
-admin_1	au	au-act	2020_07_08	total		111	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-8-july-2020	
-admin_1	au	au-act	2020_07_08	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-8-july-2020	
-admin_1	au	au-act	2020_07_08	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-8-july-2020	
-admin_1	au	au-act	2020_07_08	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-8-july-2020	
-admin_1	au	au-act	2020_07_08	status_deaths_new		0	DERIVED	
-admin_1	au	au-act	2020_07_08	status_recovered_new		0	DERIVED	
 admin_1	au	au-act	2020_07_08	tests_total		33226	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-8-july-2020	
-admin_1	au	au-act	2020_07_10	new		1	DERIVED	
-admin_1	au	au-act	2020_07_10	total		113	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-10-july-2020	
-admin_1	au	au-act	2020_07_10	total_male		64	DERIVED	
-admin_1	au	au-act	2020_07_10	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_10	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-10-july-2020	
-admin_1	au	au-act	2020_07_10	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	status_deaths_new		0	DERIVED	
-admin_1	au	au-act	2020_07_10	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-act	2020_07_10	status_recovered_new		0	DERIVED	
-admin_1	au	au-act	2020_07_10	source_overseas		84	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	source_interstate		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	source_confirmed		20	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	source_community		1	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	new		4	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-9-july-2020	
+admin_1	au	au-act	2020_07_09	total		111	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male		63	DERIVED	
+admin_1	au	au-act	2020_07_09	total_female		42	DERIVED	
+admin_1	au	au-act	2020_07_09	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-9-july-2020	
+admin_1	au	au-act	2020_07_09	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	status_deaths_new		0	DERIVED	
+admin_1	au	au-act	2020_07_09	status_hospitalized_new		0	DERIVED	
+admin_1	au	au-act	2020_07_09	status_recovered_new		0	DERIVED	
+admin_1	au	au-act	2020_07_09	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	20-29	18	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	20-29	10	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	20-29	8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	30-39	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	30-39	8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	30-39	5	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	40-49	18	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	40-49	12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	40-49	6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	50-59	21	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	50-59	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	50-59	8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	60-69	22	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	60-69	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	60-69	9	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	70-79	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	70-79	7	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	70-79	6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_male	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_09	total_female	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	belconnen	2020_07_09	total		15	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	canberra east	2020_07_09	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	gungahlin	2020_07_09	total		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	molonglo	2020_07_09	total		4	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	north canberra	2020_07_09	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	south canberra	2020_07_09	total		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	tuggeranong	2020_07_09	total		23	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	urriarra-namadgi	2020_07_09	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	weston creek	2020_07_09	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+sa3	au-act	woden valley	2020_07_09	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_10	tests_total		34801	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-10-july-2020	
 admin_1	au	au-act	2020_07_10	tests_new		949	DERIVED	
-admin_1	au	au-act	2020_07_10	new	0-9	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	0-9	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	10-19	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	10-19	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	20-29	2	DERIVED	
-admin_1	au	au-act	2020_07_10	total	20-29	20	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	20-29	11	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	20-29	9	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	30-39	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	30-39	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	30-39	8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	30-39	5	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	40-49	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	40-49	18	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	40-49	12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	40-49	6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	50-59	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	50-59	21	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	50-59	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	50-59	8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	60-69	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	60-69	22	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	60-69	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	60-69	9	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	70-79	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	70-79	13	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	70-79	7	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	70-79	6	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	80-89	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	80-89	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	new	90+	0	DERIVED	
-admin_1	au	au-act	2020_07_10	total	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_male	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-admin_1	au	au-act	2020_07_10	total_female	90+	0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	belconnen	2020_07_10	new		0	DERIVED	
-sa3	au-act	belconnen	2020_07_10	total		15	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	canberra east	2020_07_10	new		0	DERIVED	
-sa3	au-act	canberra east	2020_07_10	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	gungahlin	2020_07_10	new		1	DERIVED	
-sa3	au-act	gungahlin	2020_07_10	total		18	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	molonglo	2020_07_10	new		4	DERIVED	
-sa3	au-act	molonglo	2020_07_10	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	north canberra	2020_07_10	new		0	DERIVED	
-sa3	au-act	north canberra	2020_07_10	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	south canberra	2020_07_10	new		0	DERIVED	
-sa3	au-act	south canberra	2020_07_10	total		17	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	tuggeranong	2020_07_10	new		0	DERIVED	
-sa3	au-act	tuggeranong	2020_07_10	total		23	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	urriarra-namadgi	2020_07_10	new		0	DERIVED	
-sa3	au-act	urriarra-namadgi	2020_07_10	total		0	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	weston creek	2020_07_10	new		0	DERIVED	
-sa3	au-act	weston creek	2020_07_10	total		8	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
-sa3	au-act	woden valley	2020_07_10	new		0	DERIVED	
-sa3	au-act	woden valley	2020_07_10	total		12	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_11	new		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-11-july-2020	
 admin_1	au	au-act	2020_07_11	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_11	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_11	total_female		43	DERIVED	
 admin_1	au	au-act	2020_07_11	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-11-july-2020	
 admin_1	au	au-act	2020_07_11	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-11-july-2020	
-admin_1	au	au-act	2020_07_11	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-11-july-2020	
+admin_1	au	au-act	2020_07_11	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_11	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_07_11	status_hospitalized_new		0	DERIVED	
 admin_1	au	au-act	2020_07_11	status_recovered_new		0	DERIVED	
@@ -1922,7 +1892,7 @@ admin_1	au	au-act	2020_07_12	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_12	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_12	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_12	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_12	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_12	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-12-july-2020	
 admin_1	au	au-act	2020_07_12	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-12-july-2020	
 admin_1	au	au-act	2020_07_12	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-12-july-2020	
 admin_1	au	au-act	2020_07_12	status_deaths_new		0	DERIVED	
@@ -1998,7 +1968,7 @@ admin_1	au	au-act	2020_07_13	total_male		64	DERIVED
 admin_1	au	au-act	2020_07_13	total_female		43	DERIVED	
 admin_1	au	au-act	2020_07_13	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_13	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-13-july-2020	
-admin_1	au	au-act	2020_07_13	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-13-july-2020	
+admin_1	au	au-act	2020_07_13	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_13	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_07_13	status_hospitalized_new		0	DERIVED	
 admin_1	au	au-act	2020_07_13	status_recovered_new		0	DERIVED	
@@ -2070,9 +2040,9 @@ admin_1	au	au-act	2020_07_14	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_14	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_14	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_14	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_14	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-14-july-2020	
+admin_1	au	au-act	2020_07_14	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_14	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-14-july-2020	
-admin_1	au	au-act	2020_07_14	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-14-july-2020	
+admin_1	au	au-act	2020_07_14	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_14	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_07_14	status_hospitalized_new		0	DERIVED	
 admin_1	au	au-act	2020_07_14	status_recovered_new		0	DERIVED	
@@ -2220,7 +2190,7 @@ admin_1	au	au-act	2020_07_16	total_male		64	DERIVED
 admin_1	au	au-act	2020_07_16	total_female		43	DERIVED	
 admin_1	au	au-act	2020_07_16	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-16-july-2020	
 admin_1	au	au-act	2020_07_16	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-16-july-2020	
-admin_1	au	au-act	2020_07_16	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-16-july-2020	
+admin_1	au	au-act	2020_07_16	status_recovered		105	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_16	status_deaths_new		0	DERIVED	
 admin_1	au	au-act	2020_07_16	status_hospitalized_new		0	DERIVED	
 admin_1	au	au-act	2020_07_16	status_recovered_new		0	DERIVED	
@@ -2440,7 +2410,7 @@ admin_1	au	au-act	2020_07_19	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_19	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_19	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_19	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_19	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_19	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-july-2020	
 admin_1	au	au-act	2020_07_19	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-july-2020	
 admin_1	au	au-act	2020_07_19	status_recovered		105	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-19-july-2020	
 admin_1	au	au-act	2020_07_19	status_deaths_new		0	DERIVED	
@@ -2521,7 +2491,7 @@ admin_1	au	au-act	2020_07_21	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_21	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_21	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_21	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_21	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_21	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-21-july-2020	
 admin_1	au	au-act	2020_07_21	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-21-july-2020	
 admin_1	au	au-act	2020_07_21	status_recovered		107	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-21-july-2020	
 admin_1	au	au-act	2020_07_21	status_deaths_new		0	DERIVED	
@@ -2575,7 +2545,7 @@ admin_1	au	au-act	2020_07_22	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_22	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_22	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_22	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_22	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-22-july-2020	
+admin_1	au	au-act	2020_07_22	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_22	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-22-july-2020	
 admin_1	au	au-act	2020_07_22	status_recovered		107	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_22	status_deaths_new		0	DERIVED	
@@ -2649,7 +2619,7 @@ admin_1	au	au-act	2020_07_23	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_23	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_23	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_23	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_23	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-23-july-2020	
+admin_1	au	au-act	2020_07_23	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_23	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-23-july-2020	
 admin_1	au	au-act	2020_07_23	status_recovered		109	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-23-july-2020	
 admin_1	au	au-act	2020_07_23	status_deaths_new		0	DERIVED	
@@ -2804,7 +2774,7 @@ admin_1	au	au-act	2020_07_26	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_26	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_26	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_26	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_26	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_26	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-26-july-2020	
 admin_1	au	au-act	2020_07_26	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-26-july-2020	
 admin_1	au	au-act	2020_07_26	status_recovered		109	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_26	status_deaths_new		0	DERIVED	
@@ -2858,7 +2828,7 @@ admin_1	au	au-act	2020_07_27	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_27	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_27	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_27	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_27	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-27-july-2020	
+admin_1	au	au-act	2020_07_27	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_27	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-27-july-2020	
 admin_1	au	au-act	2020_07_27	status_recovered		109	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_27	status_deaths_new		0	DERIVED	
@@ -3006,7 +2976,7 @@ admin_1	au	au-act	2020_07_29	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_29	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_29	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_29	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_29	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_29	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-29-july-2020	
 admin_1	au	au-act	2020_07_29	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-29-july-2020	
 admin_1	au	au-act	2020_07_29	status_recovered		109	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_29	status_deaths_new		0	DERIVED	
@@ -3080,7 +3050,7 @@ admin_1	au	au-act	2020_07_30	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_30	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_30	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_30	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_30	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_07_30	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-30-july-2020	
 admin_1	au	au-act	2020_07_30	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-30-july-2020	
 admin_1	au	au-act	2020_07_30	status_recovered		109	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_30	status_deaths_new		0	DERIVED	
@@ -3154,7 +3124,7 @@ admin_1	au	au-act	2020_07_31	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_07_31	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_31	total_male		64	DERIVED	
 admin_1	au	au-act	2020_07_31	total_female		43	DERIVED	
-admin_1	au	au-act	2020_07_31	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-31-july-2020	
+admin_1	au	au-act	2020_07_31	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_31	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-31-july-2020	
 admin_1	au	au-act	2020_07_31	status_recovered		109	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_07_31	status_deaths_new		0	DERIVED	
@@ -3228,7 +3198,7 @@ admin_1	au	au-act	2020_08_01	new		0	https://www.covid19.act.gov.au/news-articles
 admin_1	au	au-act	2020_08_01	total		113	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_08_01	total_male		64	DERIVED	
 admin_1	au	au-act	2020_08_01	total_female		43	DERIVED	
-admin_1	au	au-act	2020_08_01	status_deaths		3	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
+admin_1	au	au-act	2020_08_01	status_deaths		3	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-1-august-2020	
 admin_1	au	au-act	2020_08_01	status_hospitalized		0	https://www.covid19.act.gov.au/news-articles/act-covid-19-update-1-august-2020	
 admin_1	au	au-act	2020_08_01	status_recovered		110	https://app.powerbi.com/view?r=eyJrIjoiZTY4NTI1NzQtYTBhYy00ZTY4LTk3NmQtYjBjNzdiOGMzZjM3IiwidCI6ImI0NmMxOTA4LTAzMzQtNDIzNi1iOTc4LTU4NWVlODhlNDE5OSJ9	
 admin_1	au	au-act	2020_08_01	status_deaths_new		0	DERIVED	

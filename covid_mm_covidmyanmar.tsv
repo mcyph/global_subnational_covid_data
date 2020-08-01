@@ -6,7 +6,7 @@ admin_0		mm	2020_03_26	total	30-39	2	https://data.covidmyanmar.com
 admin_0		mm	2020_03_26	total	60-69	1	https://data.covidmyanmar.com	
 admin_1	mm	mm-04	2020_03_26	total		1	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_03_26	new		1	DERIVED	
-admin_0		mm	2020_03_27	new		3	DERIVED	
+admin_0		mm	2020_03_27	new		-1	DERIVED	
 admin_0		mm	2020_03_27	total	20-29	3	https://data.covidmyanmar.com	
 admin_0		mm	2020_03_27	total	50-59	1	https://data.covidmyanmar.com	
 admin_0		mm	2020_03_27	new	60-69	1	DERIVED	
@@ -16,7 +16,7 @@ admin_0		mm	2020_03_31	total		3	https://data.covidmyanmar.com
 admin_1	mm	mm-06	2020_03_31	total		7	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_01	total	60-69	4	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_04_01	new		1	DERIVED	
-admin_0		mm	2020_04_02	new		3	DERIVED	
+admin_0		mm	2020_04_02	new		-11	DERIVED	
 admin_0		mm	2020_04_02	total	0-9	1	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_02	total	10-19	1	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_02	total	40-49	3	https://data.covidmyanmar.com	
@@ -29,7 +29,7 @@ admin_0		mm	2020_04_11	total	50-59	5	https://data.covidmyanmar.com
 admin_1	mm	mm-02	2020_04_11	total		2	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_04_11	total		3	https://data.covidmyanmar.com	
 admin_1	mm	mm-17	2020_04_11	total		2	https://data.covidmyanmar.com	
-admin_0		mm	2020_04_12	total		10	https://data.covidmyanmar.com	
+admin_0		mm	2020_04_12	total		11	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_12	new	20-29	1	DERIVED	
 admin_0		mm	2020_04_12	new	40-49	1	DERIVED	
 admin_0		mm	2020_04_12	total	40-49	5	https://data.covidmyanmar.com	
@@ -38,7 +38,7 @@ admin_0		mm	2020_04_12	total	80-89	1	https://data.covidmyanmar.com
 admin_1	mm	mm-06	2020_04_12	total		12	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_14	total	20-29	9	https://data.covidmyanmar.com	
 admin_1	mm	mm-03	2020_04_14	total		1	https://data.covidmyanmar.com	
-admin_0		mm	2020_04_15	new		0	DERIVED	
+admin_0		mm	2020_04_15	new		-50	DERIVED	
 admin_0		mm	2020_04_15	new	30-39	1	DERIVED	
 admin_0		mm	2020_04_15	total	30-39	6	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_15	new	50-59	1	DERIVED	
@@ -48,7 +48,7 @@ admin_1	mm	mm-04	2020_04_16	total		2	https://data.covidmyanmar.com
 admin_0		mm	2020_04_17	total	50-59	8	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_17	new	70-79	1	DERIVED	
 admin_0		mm	2020_04_17	total	70-79	4	https://data.covidmyanmar.com	
-admin_0		mm	2020_04_18	total		15	https://data.covidmyanmar.com	
+admin_0		mm	2020_04_18	total		16	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_18	total	0-9	3	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_18	new	40-49	1	DERIVED	
 admin_0		mm	2020_04_18	total	40-49	9	https://data.covidmyanmar.com	
@@ -59,7 +59,7 @@ admin_0		mm	2020_04_19	new	20-29	1	DERIVED
 admin_0		mm	2020_04_19	total	20-29	14	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_19	total	80-89	2	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_04_19	new		1	DERIVED	
-admin_0		mm	2020_04_20	new		1	DERIVED	
+admin_0		mm	2020_04_20	new		0	DERIVED	
 admin_0		mm	2020_04_20	new	30-39	1	DERIVED	
 admin_0		mm	2020_04_20	total	30-39	11	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_20	new	50-59	1	DERIVED	
@@ -69,7 +69,7 @@ admin_1	mm	mm-02	2020_04_20	total		3	https://data.covidmyanmar.com
 admin_1	mm	mm-14	2020_04_20	total		5	https://data.covidmyanmar.com	
 admin_1	mm	mm-17	2020_04_21	new		1	DERIVED	
 admin_0		mm	2020_04_22	total	10-19	3	https://data.covidmyanmar.com	
-admin_0		mm	2020_04_23	total		19	https://data.covidmyanmar.com	
+admin_0		mm	2020_04_23	total		139	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_23	new	40-49	1	DERIVED	
 admin_0		mm	2020_04_23	total	40-49	11	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_23	total	50-59	11	https://data.covidmyanmar.com	
@@ -82,19 +82,19 @@ admin_0		mm	2020_04_24	new	80-89	1	DERIVED
 admin_0		mm	2020_04_24	total	80-89	4	https://data.covidmyanmar.com	
 admin_1	mm	mm-11	2020_04_24	total		1	https://data.covidmyanmar.com	
 admin_1	mm	mm-17	2020_04_24	total		7	https://data.covidmyanmar.com	
-admin_0		mm	2020_04_25	new		126	DERIVED	
+admin_0		mm	2020_04_25	new		124	DERIVED	
 admin_0		mm	2020_04_25	new	30-39	1	DERIVED	
 admin_0		mm	2020_04_25	total	30-39	14	https://data.covidmyanmar.com	
 admin_1	mm	mm-01	2020_04_25	total		4	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_04_25	new		1	DERIVED	
-admin_0		mm	2020_04_28	total		22	https://data.covidmyanmar.com	
+admin_0		mm	2020_04_28	total		150	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_28	total	10-19	4	https://data.covidmyanmar.com	
 admin_0		mm	2020_04_28	total	40-49	13	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_04_28	total		24	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_04_28	total		6	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_03	total	40-49	14	https://data.covidmyanmar.com	
-admin_0		mm	2020_05_04	new		136	DERIVED	
-admin_0		mm	2020_05_04	total		24	https://data.covidmyanmar.com	
+admin_0		mm	2020_05_04	new		-129	DERIVED	
+admin_0		mm	2020_05_04	total		161	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_04	new	20-29	1	DERIVED	
 admin_0		mm	2020_05_04	total	20-29	22	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_04	new	30-39	1	DERIVED	
@@ -119,7 +119,7 @@ admin_1	mm	mm-06	2020_05_13	total		33	https://data.covidmyanmar.com
 admin_1	mm	mm-14	2020_05_15	total		7	https://data.covidmyanmar.com	
 admin_1	mm	mm-05	2020_05_17	total		1	https://data.covidmyanmar.com	
 admin_1	mm	mm-13	2020_05_17	total		1	https://data.covidmyanmar.com	
-admin_0		mm	2020_05_18	total		191	https://data.covidmyanmar.com	
+admin_0		mm	2020_05_18	total		29	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_18	new	20-29	1	DERIVED	
 admin_0		mm	2020_05_18	total	20-29	26	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_18	total	30-39	19	https://data.covidmyanmar.com	
@@ -134,14 +134,14 @@ admin_0		mm	2020_05_20	new	30-39	1	DERIVED
 admin_0		mm	2020_05_20	total	40-49	19	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_05_20	new		1	DERIVED	
 admin_1	mm	mm-06	2020_05_20	total		36	https://data.covidmyanmar.com	
-admin_0		mm	2020_05_22	total		201	https://data.covidmyanmar.com	
+admin_0		mm	2020_05_22	total		31	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_22	total	20-29	28	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_22	total	30-39	22	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_05_22	total		8	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_25	total	40-49	20	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_05_25	total		37	https://data.covidmyanmar.com	
-admin_0		mm	2020_05_26	new		-1	DERIVED	
-admin_0		mm	2020_05_26	total		206	https://data.covidmyanmar.com	
+admin_0		mm	2020_05_26	new		1	DERIVED	
+admin_0		mm	2020_05_26	total		33	https://data.covidmyanmar.com	
 admin_0		mm	2020_05_26	new	30-39	1	DERIVED	
 admin_0		mm	2020_05_26	total	30-39	24	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_05_26	new		1	DERIVED	
@@ -161,8 +161,8 @@ admin_1	mm	mm-06	2020_06_02	total		41	https://data.covidmyanmar.com
 admin_1	mm	mm-14	2020_06_02	total		9	https://data.covidmyanmar.com	
 admin_1	mm	mm-17	2020_06_02	total		8	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_03	total		2	https://data.covidmyanmar.com	
-admin_0		mm	2020_06_04	new		-196	DERIVED	
-admin_0		mm	2020_06_04	total		236	https://data.covidmyanmar.com	
+admin_0		mm	2020_06_04	new		2	DERIVED	
+admin_0		mm	2020_06_04	total		38	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_04	new	30-39	1	DERIVED	
 admin_0		mm	2020_06_04	total	30-39	29	https://data.covidmyanmar.com	
 admin_1	mm	mm-01	2020_06_04	total		5	https://data.covidmyanmar.com	
@@ -175,7 +175,7 @@ admin_1	mm	mm-03	2020_06_07	total		3	https://data.covidmyanmar.com
 admin_1	mm	mm-06	2020_06_07	new		1	DERIVED	
 admin_1	mm	mm-06	2020_06_07	total		43	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_08	new		1	DERIVED	
-admin_0		mm	2020_06_08	total		41	https://data.covidmyanmar.com	
+admin_0		mm	2020_06_08	total		244	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_08	total	20-29	32	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_08	total		3	https://data.covidmyanmar.com	
 admin_1	mm	mm-17	2020_06_09	total		9	https://data.covidmyanmar.com	
@@ -183,8 +183,8 @@ admin_0		mm	2020_06_10	new	30-39	1	DERIVED
 admin_0		mm	2020_06_10	total	30-39	33	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_10	total	40-49	22	https://data.covidmyanmar.com	
 admin_1	mm	mm-11	2020_06_10	total		2	https://data.covidmyanmar.com	
-admin_0		mm	2020_06_11	new		221	DERIVED	
-admin_0		mm	2020_06_11	total		44	https://data.covidmyanmar.com	
+admin_0		mm	2020_06_11	new		1	DERIVED	
+admin_0		mm	2020_06_11	total		261	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_11	total	10-19	8	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_11	new	20-29	1	DERIVED	
 admin_0		mm	2020_06_11	total	20-29	34	https://data.covidmyanmar.com	
@@ -196,9 +196,9 @@ admin_1	mm	mm-16	2020_06_11	total		5	https://data.covidmyanmar.com
 admin_0		mm	2020_06_14	total		262	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_14	total	60-69	21	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_14	total		6	https://data.covidmyanmar.com	
+admin_0		mm	2020_06_17	total		42	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_17	total		7	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_18	new		23	DERIVED	
-admin_0		mm	2020_06_18	total		46	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_18	new	10-19	1	DERIVED	
 admin_0		mm	2020_06_18	total	10-19	10	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_18	total	20-29	35	https://data.covidmyanmar.com	
@@ -211,20 +211,20 @@ admin_0		mm	2020_06_21	total	20-29	36	https://data.covidmyanmar.com
 admin_0		mm	2020_06_21	new	30-39	1	DERIVED	
 admin_0		mm	2020_06_21	total	30-39	36	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_06_21	total		46	https://data.covidmyanmar.com	
-admin_0		mm	2020_06_22	new		-2	DERIVED	
+admin_0		mm	2020_06_22	new		-245	DERIVED	
 admin_0		mm	2020_06_22	total		291	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_22	total		8	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_23	new	30-39	1	DERIVED	
 admin_0		mm	2020_06_23	total	30-39	38	https://data.covidmyanmar.com	
-admin_0		mm	2020_06_24	new		1	DERIVED	
+admin_0		mm	2020_06_24	new		-243	DERIVED	
 admin_0		mm	2020_06_24	total		293	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_24	total	20-29	37	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_06_24	new		1	DERIVED	
 admin_1	mm	mm-16	2020_06_24	total		10	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_27	total	10-19	11	https://data.covidmyanmar.com	
 admin_1	mm	mm-13	2020_06_27	total		3	https://data.covidmyanmar.com	
-admin_0		mm	2020_06_28	new		3	DERIVED	
-admin_0		mm	2020_06_28	total		51	https://data.covidmyanmar.com	
+admin_0		mm	2020_06_28	new		-245	DERIVED	
+admin_0		mm	2020_06_28	total		299	https://data.covidmyanmar.com	
 admin_0		mm	2020_06_28	new	20-29	1	DERIVED	
 admin_0		mm	2020_06_28	total	20-29	39	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_06_28	new		1	DERIVED	
@@ -236,7 +236,7 @@ admin_0		mm	2020_07_01	new		1	DERIVED
 admin_0		mm	2020_07_01	total		53	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_01	total	10-19	12	https://data.covidmyanmar.com	
 admin_1	mm	mm-02	2020_07_01	total		5	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_04	new		-8	DERIVED	
+admin_0		mm	2020_07_04	new		-251	DERIVED	
 admin_0		mm	2020_07_04	total		313	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_04	new	20-29	1	DERIVED	
 admin_0		mm	2020_07_04	total	20-29	42	https://data.covidmyanmar.com	
@@ -245,38 +245,34 @@ admin_0		mm	2020_07_04	total	40-49	24	https://data.covidmyanmar.com
 admin_0		mm	2020_07_04	total	50-59	18	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_04	new		1	DERIVED	
 admin_1	mm	mm-06	2020_07_04	total		51	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_06	total		316	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_06	total		56	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_06	total	20-29	43	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_06	total	30-39	41	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_06	total		52	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_08	total		318	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_08	total	0-9	5	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_08	total	20-29	44	https://data.covidmyanmar.com	
-admin_1	mm	mm-06	2020_07_08	total		53	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_07_08	total		10	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_10	new		268	DERIVED	
-admin_0		mm	2020_07_10	total		59	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_10	new	20-29	1	DERIVED	
-admin_0		mm	2020_07_10	total	20-29	46	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_10	total	30-39	42	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_09	new		3	DERIVED	
+admin_0		mm	2020_07_09	total		58	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_09	new	20-29	1	DERIVED	
+admin_0		mm	2020_07_09	total	20-29	45	https://data.covidmyanmar.com	
+admin_1	mm	mm-06	2020_07_09	new		1	DERIVED	
+admin_1	mm	mm-06	2020_07_09	total		54	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_10	total	50-59	19	https://data.covidmyanmar.com	
-admin_1	mm	mm-06	2020_07_10	new		1	DERIVED	
-admin_1	mm	mm-06	2020_07_10	total		55	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_07_10	total		11	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_11	new		-266	DERIVED	
-admin_0		mm	2020_07_11	total		330	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_11	new		271	DERIVED	
+admin_0		mm	2020_07_11	total		60	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_11	new	20-29	1	DERIVED	
 admin_0		mm	2020_07_11	total	20-29	47	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_11	new	30-39	1	DERIVED	
 admin_0		mm	2020_07_11	total	30-39	43	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_11	new		1	DERIVED	
 admin_1	mm	mm-06	2020_07_11	total		56	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_12	new		271	DERIVED	
-admin_0		mm	2020_07_12	total		61	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_12	new		-269	DERIVED	
+admin_0		mm	2020_07_12	total		331	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_12	total	40-49	25	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_12	new		1	DERIVED	
 admin_1	mm	mm-06	2020_07_12	total		57	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_13	new		-283	DERIVED	
+admin_0		mm	2020_07_13	new		-13	DERIVED	
 admin_0		mm	2020_07_13	total		62	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_13	total	20-29	48	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_13	total	30-39	44	https://data.covidmyanmar.com	
@@ -288,7 +284,7 @@ admin_0		mm	2020_07_14	new	30-39	1	DERIVED
 admin_0		mm	2020_07_14	total	30-39	45	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_14	new		1	DERIVED	
 admin_1	mm	mm-06	2020_07_14	total		59	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_16	total		339	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_16	total		63	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_16	total	20-29	49	https://data.covidmyanmar.com	
 admin_1	mm	mm-04	2020_07_16	total		4	https://data.covidmyanmar.com	
 admin_1	mm	mm-16	2020_07_16	total		12	https://data.covidmyanmar.com	
@@ -297,7 +293,7 @@ admin_0		mm	2020_07_18	total	40-49	26	https://data.covidmyanmar.com
 admin_0		mm	2020_07_18	total	50-59	20	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_18	total		60	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_07_18	total		11	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_22	total		64	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_22	total		343	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_22	total	20-29	50	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_22	total		61	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_24	total		51	https://data.covidmyanmar.com	
@@ -306,7 +302,7 @@ admin_0		mm	2020_07_24	total	20-29	51	https://data.covidmyanmar.com
 admin_0		mm	2020_07_24	total	30-39	46	https://data.covidmyanmar.com	
 admin_1	mm	mm-13	2020_07_24	total		4	https://data.covidmyanmar.com	
 admin_1	mm	mm-14	2020_07_24	total		12	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_25	new		-294	DERIVED	
+admin_0		mm	2020_07_25	new		-13	DERIVED	
 admin_0		mm	2020_07_25	total		66	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_25	new	20-29	1	DERIVED	
 admin_0		mm	2020_07_25	total	20-29	52	https://data.covidmyanmar.com	
@@ -322,11 +318,11 @@ admin_0		mm	2020_07_26	total		350	https://data.covidmyanmar.com
 admin_0		mm	2020_07_26	total	50-59	21	https://data.covidmyanmar.com	
 admin_1	mm	mm-06	2020_07_26	new		1	DERIVED	
 admin_1	mm	mm-06	2020_07_26	total		63	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_28	total		68	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_28	total		351	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_28	total	30-39	48	https://data.covidmyanmar.com	
 admin_1	mm	mm-13	2020_07_28	total		6	https://data.covidmyanmar.com	
-admin_0		mm	2020_07_29	new		2	DERIVED	
-admin_0		mm	2020_07_29	total		69	https://data.covidmyanmar.com	
+admin_0		mm	2020_07_29	new		1	DERIVED	
+admin_0		mm	2020_07_29	total		353	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_29	total	20-29	53	https://data.covidmyanmar.com	
 admin_0		mm	2020_07_29	total	40-49	27	https://data.covidmyanmar.com	
 admin_1	mm	mm-05	2020_07_29	total		2	https://data.covidmyanmar.com	
