@@ -1,22 +1,22 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_1	au	au-tas	2020_03_02	tests_total		49	https://www.dhhs.tas.gov.au/news/2020/coronavirus_case_confirmed_in_tasmania	
-admin_1	au	au-tas	2020_03_09	tests_total		126	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_-_9_march_2020	
+admin_1	au	au-tas	2020_03_02	tests_total		49	https://www.health.tas.gov.au/news/2020/coronavirus_case_confirmed_in_tasmania	
+admin_1	au	au-tas	2020_03_09	tests_total		126	https://www.health.tas.gov.au/news/2020/coronavirus_update_-_9_march_2020	
 admin_1	au	au-tas	2020_03_09	tests_new		12	DERIVED	
 admin_1	au	au-tas	2020_03_20	tests_total		807	https://www.health.tas.gov.au/news/2020/additional_coronavirus_update_20_march_2020	
 admin_1	au	au-tas	2020_03_25	tests_new		133	DERIVED	
 admin_1	au	au-tas	2020_03_26	new		5	https://www.health.tas.gov.au/news/2020/coronavirus_update_-_26_march_2020	
-admin_1	au	au-tas	2020_03_26	total		47	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_-_26_march_2020	
-admin_1	au	au-tas	2020_03_27	tests_total		1779	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_27_march_2020	
+admin_1	au	au-tas	2020_03_26	total		47	https://www.health.tas.gov.au/news/2020/coronavirus_update_-_26_march_2020	
+admin_1	au	au-tas	2020_03_27	tests_total		1779	https://www.health.tas.gov.au/news/2020/coronavirus_update_27_march_2020	
 admin_1	au	au-tas	2020_04_01	new		2	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_1_april_2020	
 admin_1	au	au-tas	2020_04_01	total		71	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_1_april_2020	
 admin_1	au	au-tas	2020_04_07	new		9	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_7_april_2020	
 admin_1	au	au-tas	2020_04_07	total		98	https://www.health.tas.gov.au/news/2020/coronavirus_update_7_april_2020	
 admin_1	au	au-tas	2020_04_13	new		6	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update19	
-admin_1	au	au-tas	2020_04_13	total		150	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_13_april_2020	
+admin_1	au	au-tas	2020_04_13	total		150	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update19	
 admin_1	au	au-tas	2020_04_18	new		4	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update24	
 admin_1	au	au-tas	2020_04_18	total		188	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update24	
 admin_1	au	au-tas	2020_04_23	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_23	total		205	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update29	
+admin_1	au	au-tas	2020_04_23	total		205	https://www.health.tas.gov.au/news/2020/coronavirus_update_23_april_2020	
 admin_1	au	au-tas	2020_04_23	status_deaths		9	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_04_23	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_04_23	status_recovered		106	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -48,7 +48,7 @@ ths	au-tas	south	2020_04_27	status_active		6	Peter Gutweins Facebook Page
 ths	au-tas	south	2020_04_27	status_recovered_new		-1	DERIVED	
 ths	au-tas	south	2020_04_27	status_active_new		0	DERIVED	
 admin_1	au	au-tas	2020_04_28	new		4	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update34	
-admin_1	au	au-tas	2020_04_28	total		218	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update34	
+admin_1	au	au-tas	2020_04_28	total		218	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_04_28	status_deaths		11	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_04_28	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_04_28	status_recovered		137	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -93,26 +93,26 @@ admin_1	au	au-tas	2020_05_05	status_icu_new		0	DERIVED
 admin_1	au	au-tas	2020_05_05	status_recovered_new		3	DERIVED	
 admin_1	au	au-tas	2020_05_05	status_active_new		-1	DERIVED	
 admin_1	au	au-tas	2020_05_05	tests_new		643	DERIVED	
-lga	au-tas	brighton	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	brighton	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	burnie	2020_05_06	total		63	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	central coast	2020_05_06	total		35	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	circular head	2020_05_06	total		7	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	clarence	2020_05_06	total		5	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	clarence	2020_05_06	total		5	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	derwent valley	2020_05_06	total		4	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	devonport	2020_05_06	total		12	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	george town	2020_05_06	total		1	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	glenorchy	2020_05_06	total		3	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	hobart	2020_05_06	total		11	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	hobart	2020_05_06	total		11	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	huon valley	2020_05_06	total		6	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	kentish	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	kentish	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	kingborough	2020_05_06	total		12	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	latrobe	2020_05_06	total		4	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	latrobe	2020_05_06	total		4	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	launceston	2020_05_06	total		20	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	meander valley	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	meander valley	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	northern midlands	2020_05_06	total		3	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	sorell	2020_05_06	total		1	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	waratah-wynyard	2020_05_06	total		23	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	west coast	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	sorell	2020_05_06	total		1	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	waratah-wynyard	2020_05_06	total		23	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	west coast	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	west tamar	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 ths	au-tas	north	2020_05_07	new		0	DERIVED	
 ths	au-tas	north	2020_05_07	total		28	Peter Gutweins Facebook Page	
@@ -164,7 +164,7 @@ ths	au-tas	south	2020_05_11	status_recovered		43	Peter Gutweins Facebook Page
 ths	au-tas	south	2020_05_11	status_active		1	Peter Gutweins Facebook Page	
 ths	au-tas	south	2020_05_11	status_recovered_new		0	DERIVED	
 ths	au-tas	south	2020_05_11	status_active_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_12	new		0	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update49	
+admin_1	au	au-tas	2020_05_12	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_12	total		225	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_12	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_12	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -197,7 +197,7 @@ ths	au-tas	south	2020_05_15	status_active		1	Peter Gutweins Facebook Page
 ths	au-tas	south	2020_05_15	status_recovered_new		0	DERIVED	
 ths	au-tas	south	2020_05_15	status_active_new		0	DERIVED	
 admin_1	au	au-tas	2020_05_16	new		0	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update54	
-admin_1	au	au-tas	2020_05_16	total		226	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update54	
+admin_1	au	au-tas	2020_05_16	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_16	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_16	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_16	status_recovered		195	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -348,8 +348,8 @@ ths	au-tas	south	2020_05_23	status_recovered		44	Peter Gutweins Facebook Page
 ths	au-tas	south	2020_05_23	status_active		0	Peter Gutweins Facebook Page	
 ths	au-tas	south	2020_05_23	status_recovered_new		0	DERIVED	
 ths	au-tas	south	2020_05_23	status_active_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_24	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_24	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_24	new		0	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update62	
+admin_1	au	au-tas	2020_05_24	total		226	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update62	
 admin_1	au	au-tas	2020_05_24	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_24	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_24	status_recovered		203	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -1052,11 +1052,11 @@ admin_1	au	au-tas	2020_07_09	status_recovered		213	https://coronavirus.tas.gov.a
 admin_1	au	au-tas	2020_07_09	status_active		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_09	tests_total		55850	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_20	new		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_07_20	total		227	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_07_20	total		227	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update66	
 admin_1	au	au-tas	2020_07_20	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_20	status_recovered		213	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_20	status_active		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_07_20	tests_total		61680	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_07_20	tests_total		55850	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_27	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_27	total		227	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_27	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
