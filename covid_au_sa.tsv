@@ -25,20 +25,20 @@ admin_1	au	au-sa	2020_03_30	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/
 admin_1	au	au-sa	2020_03_31	tests_total		27000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+31+march+2020	
 admin_1	au	au-sa	2020_04_01	tests_new		2000	DERIVED	
 admin_1	au	au-sa	2020_04_02	new		18	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+april+2020	
-admin_1	au	au-sa	2020_04_02	total		385	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+april+2020	
+admin_1	au	au-sa	2020_04_02	total		385	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_02	status_deaths		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_02	status_recovered		44	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_02	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_02	status_icu_new		-1	DERIVED	
 admin_1	au	au-sa	2020_04_02	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	0-9	0	DERIVED	
-admin_1	au	au-sa	2020_04_02	new	10-19	3	DERIVED	
-admin_1	au	au-sa	2020_04_02	new	20-29	5	DERIVED	
+admin_1	au	au-sa	2020_04_02	new	10-19	0	DERIVED	
+admin_1	au	au-sa	2020_04_02	new	20-29	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	30-39	0	DERIVED	
-admin_1	au	au-sa	2020_04_02	new	40-49	2	DERIVED	
+admin_1	au	au-sa	2020_04_02	new	40-49	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	50-59	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	60-69	0	DERIVED	
-admin_1	au	au-sa	2020_04_02	new	70-79	1	DERIVED	
+admin_1	au	au-sa	2020_04_02	new	70-79	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	80-89	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	90-100	0	DERIVED	
 admin_1	au	au-sa	2020_04_02	new	>100	0	DERIVED	
@@ -307,7 +307,7 @@ admin_1	au	au-sa	2020_04_12	source_overseas		295	https://www.sahealth.sa.gov.au/
 admin_1	au	au-sa	2020_04_12	source_interstate		6	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	source_confirmed		119	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	source_community		5	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_04_12	source_under_investigation		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_12	source_under_investigation		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	tests_total		36000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+12+april+2020+pm	
 admin_1	au	au-sa	2020_04_12	total	0-9	3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	10-19	14	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
@@ -315,7 +315,7 @@ admin_1	au	au-sa	2020_04_12	total	20-29	76	https://www.sahealth.sa.gov.au/wps/wc
 admin_1	au	au-sa	2020_04_12	total	30-39	47	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	40-49	46	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	50-59	89	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_04_12	total	60-69	99	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_12	total	60-69	98	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	70-79	50	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_12	total	90-100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
@@ -323,8 +323,8 @@ admin_1	au	au-sa	2020_04_12	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/
 lga	au-sa	kangaroo island	2020_04_13	status_active		1	https://www.covid-19.sa.gov.au/home/dashboard	
 admin_1	au	au-sa	2020_04_14	new		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+14+2020	
 admin_1	au	au-sa	2020_04_14	total		433	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_04_14	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+14+2020	
-admin_1	au	au-sa	2020_04_14	status_recovered		253	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_14	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_14	status_recovered		253	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+14+2020	
 admin_1	au	au-sa	2020_04_14	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_14	status_recovered_new		13	DERIVED	
 admin_1	au	au-sa	2020_04_14	tests_new		0	DERIVED	
@@ -517,8 +517,8 @@ admin_1	au	au-sa	2020_04_18	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_04_18	total	90-100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_18	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_19	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+april+2020	
-admin_1	au	au-sa	2020_04_19	total		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+april+2020	
-admin_1	au	au-sa	2020_04_19	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+april+2020	
+admin_1	au	au-sa	2020_04_19	total		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_19	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_19	status_recovered		354	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_19	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_19	status_recovered_new		8	DERIVED	
@@ -670,7 +670,7 @@ admin_1	au	au-sa	2020_04_20	new	70-79	0	DERIVED
 admin_1	au	au-sa	2020_04_20	new	80-89	0	DERIVED	
 admin_1	au	au-sa	2020_04_20	new	90-100	0	DERIVED	
 admin_1	au	au-sa	2020_04_20	new	>100	0	DERIVED	
-admin_1	au	au-sa	2020_04_21	status_active		57	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+21+2020	
+admin_1	au	au-sa	2020_04_21	status_active		57	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+april+2020	
 lga	au-sa	adelaide	2020_04_22	new		0	DERIVED	
 lga	au-sa	adelaide hills	2020_04_22	new		0	DERIVED	
 lga	au-sa	alexandrina	2020_04_22	new		0	DERIVED	
@@ -735,9 +735,9 @@ admin_1	au	au-sa	2020_04_23	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_04_23	total	90-100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_23	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_24	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+24+2020	
-admin_1	au	au-sa	2020_04_24	total		438	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_04_24	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+24+2020	
-admin_1	au	au-sa	2020_04_24	status_recovered		401	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_24	total		438	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+24+2020	
+admin_1	au	au-sa	2020_04_24	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_24	status_recovered		401	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+24+2020	
 admin_1	au	au-sa	2020_04_24	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_24	status_recovered_new		7	DERIVED	
 admin_1	au	au-sa	2020_04_24	status_active_new		-7	DERIVED	
@@ -909,9 +909,9 @@ admin_1	au	au-sa	2020_04_28	total	90-100	0	https://www.sahealth.sa.gov.au/wps/wc
 admin_1	au	au-sa	2020_04_28	new	>100	0	DERIVED	
 admin_1	au	au-sa	2020_04_28	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_04_29	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+29+2020	
-admin_1	au	au-sa	2020_04_29	total		438	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_29	total		438	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+29+2020	
 admin_1	au	au-sa	2020_04_29	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_04_29	status_recovered		420	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_04_29	status_recovered		420	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+april+29+2020	
 admin_1	au	au-sa	2020_04_29	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_29	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_04_29	status_active_new		0	DERIVED	
@@ -1129,12 +1129,12 @@ admin_1	au	au-sa	2020_05_03	new	>100	0	DERIVED
 admin_1	au	au-sa	2020_05_03	total	>100	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_05_04	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+5+2020	
 admin_1	au	au-sa	2020_05_04	total		438	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+4+2020	
-admin_1	au	au-sa	2020_05_04	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+5+2020	
-admin_1	au	au-sa	2020_05_04	status_recovered		427	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
+admin_1	au	au-sa	2020_05_04	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+4+2020	
+admin_1	au	au-sa	2020_05_04	status_recovered		429	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+5+2020	
 admin_1	au	au-sa	2020_05_04	status_deaths_new		0	DERIVED	
-admin_1	au	au-sa	2020_05_04	status_recovered_new		2	DERIVED	
+admin_1	au	au-sa	2020_05_04	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_05_04	status_active_new		-2	DERIVED	
-admin_1	au	au-sa	2020_05_04	tests_new		2000	DERIVED	
+admin_1	au	au-sa	2020_05_04	tests_new		1000	DERIVED	
 lga	au-sa	adelaide	2020_05_04	new		0	DERIVED	
 lga	au-sa	adelaide	2020_05_04	total		9	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide	2020_05_04	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
@@ -1324,7 +1324,7 @@ admin_1	au	au-sa	2020_05_08	source_interstate		6	https://www.sahealth.sa.gov.au/
 admin_1	au	au-sa	2020_05_08	source_confirmed		125	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_05_08	source_community		7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_05_08	source_under_investigation		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
-admin_1	au	au-sa	2020_05_08	tests_total		66000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+9+2020	
+admin_1	au	au-sa	2020_05_08	tests_total		66000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+8+2020	
 admin_1	au	au-sa	2020_05_08	new	0-9	0	DERIVED	
 admin_1	au	au-sa	2020_05_08	total	0-9	3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/latest+updates/covid-19+cases+in+south+australia	
 admin_1	au	au-sa	2020_05_08	new	10-19	0	DERIVED	
@@ -1356,8 +1356,8 @@ admin_1	au	au-sa	2020_05_09	status_recovered_new		0	DERIVED
 lga	au-sa	adelaide	2020_05_09	new		1	DERIVED	
 lga	au-sa	adelaide	2020_05_09	total		11	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
-lga	au-sa	adelaide	2020_05_09	status_active_new		-1	DERIVED	
-lga	au-sa	adelaide hills	2020_05_09	new		0	DERIVED	
+lga	au-sa	adelaide	2020_05_09	status_active_new		0	DERIVED	
+lga	au-sa	adelaide hills	2020_05_09	new		4	DERIVED	
 lga	au-sa	adelaide hills	2020_05_09	total		14	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide hills	2020_05_09	status_active		1	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide hills	2020_05_09	status_active_new		0	DERIVED	
@@ -1365,7 +1365,7 @@ lga	au-sa	alexandrina	2020_05_09	new		0	DERIVED
 lga	au-sa	alexandrina	2020_05_09	total		3	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	alexandrina	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	alexandrina	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	barossa	2020_05_09	new		0	DERIVED	
+lga	au-sa	barossa	2020_05_09	new		2	DERIVED	
 lga	au-sa	barossa	2020_05_09	total		12	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	barossa	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	barossa	2020_05_09	status_active_new		0	DERIVED	
@@ -1381,7 +1381,7 @@ lga	au-sa	campbelltown	2020_05_09	new		0	DERIVED
 lga	au-sa	campbelltown	2020_05_09	total		15	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	campbelltown	2020_05_09	status_active		1	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	campbelltown	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	charles sturt	2020_05_09	new		0	DERIVED	
+lga	au-sa	charles sturt	2020_05_09	new		-3	DERIVED	
 lga	au-sa	charles sturt	2020_05_09	total		34	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	charles sturt	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	charles sturt	2020_05_09	status_active_new		0	DERIVED	
@@ -1393,7 +1393,7 @@ lga	au-sa	gawler	2020_05_09	new		0	DERIVED
 lga	au-sa	gawler	2020_05_09	total		7	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	gawler	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	gawler	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	holdfast bay	2020_05_09	new		0	DERIVED	
+lga	au-sa	holdfast bay	2020_05_09	new		2	DERIVED	
 lga	au-sa	holdfast bay	2020_05_09	total		12	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	holdfast bay	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	holdfast bay	2020_05_09	status_active_new		0	DERIVED	
@@ -1405,7 +1405,7 @@ lga	au-sa	kingston	2020_05_09	new		0	DERIVED
 lga	au-sa	kingston	2020_05_09	total		1	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	kingston	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	kingston	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	light	2020_05_09	new		-4	DERIVED	
+lga	au-sa	light	2020_05_09	new		0	DERIVED	
 lga	au-sa	light	2020_05_09	total		3	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	light	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	light	2020_05_09	status_active_new		0	DERIVED	
@@ -1437,7 +1437,7 @@ lga	au-sa	mount gambier	2020_05_09	new		0	DERIVED
 lga	au-sa	mount gambier	2020_05_09	total		3	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mount gambier	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mount gambier	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	murray bridge	2020_05_09	new		-1	DERIVED	
+lga	au-sa	murray bridge	2020_05_09	new		0	DERIVED	
 lga	au-sa	murray bridge	2020_05_09	total		1	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	murray bridge	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	murray bridge	2020_05_09	status_active_new		0	DERIVED	
@@ -1473,7 +1473,7 @@ lga	au-sa	prospect	2020_05_09	new		0	DERIVED
 lga	au-sa	prospect	2020_05_09	total		4	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	prospect	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	prospect	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	pua	2020_05_09	new		0	DERIVED	
+lga	au-sa	pua	2020_05_09	new		-1	DERIVED	
 lga	au-sa	pua	2020_05_09	total		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	pua	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	pua	2020_05_09	status_active_new		0	DERIVED	
@@ -1481,7 +1481,7 @@ lga	au-sa	renmark paringa	2020_05_09	new		1	DERIVED
 lga	au-sa	renmark paringa	2020_05_09	total		4	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	renmark paringa	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	renmark paringa	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	roxby downs	2020_05_09	new		-1	DERIVED	
+lga	au-sa	roxby downs	2020_05_09	new		0	DERIVED	
 lga	au-sa	roxby downs	2020_05_09	total		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	roxby downs	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	roxby downs	2020_05_09	status_active_new		0	DERIVED	
@@ -1489,7 +1489,7 @@ lga	au-sa	salisbury	2020_05_09	new		4	DERIVED
 lga	au-sa	salisbury	2020_05_09	total		29	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	salisbury	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	salisbury	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	streaky bay	2020_05_09	new		0	DERIVED	
+lga	au-sa	streaky bay	2020_05_09	new		-1	DERIVED	
 lga	au-sa	streaky bay	2020_05_09	total		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	streaky bay	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	streaky bay	2020_05_09	status_active_new		0	DERIVED	
@@ -1505,7 +1505,7 @@ lga	au-sa	unley	2020_05_09	new		0	DERIVED
 lga	au-sa	unley	2020_05_09	total		9	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	unley	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	unley	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	victor harbor	2020_05_09	new		2	DERIVED	
+lga	au-sa	victor harbor	2020_05_09	new		0	DERIVED	
 lga	au-sa	victor harbor	2020_05_09	total		9	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	victor harbor	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	victor harbor	2020_05_09	status_active_new		0	DERIVED	
@@ -1513,7 +1513,7 @@ lga	au-sa	wakefield	2020_05_09	new		0	DERIVED
 lga	au-sa	wakefield	2020_05_09	total		1	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	wakefield	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	wakefield	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	walkerville	2020_05_09	new		0	DERIVED	
+lga	au-sa	walkerville	2020_05_09	new		-1	DERIVED	
 lga	au-sa	walkerville	2020_05_09	total		8	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	walkerville	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	walkerville	2020_05_09	status_active_new		0	DERIVED	
@@ -1521,7 +1521,7 @@ lga	au-sa	wattle range	2020_05_09	new		0	DERIVED
 lga	au-sa	wattle range	2020_05_09	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	wattle range	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	wattle range	2020_05_09	status_active_new		0	DERIVED	
-lga	au-sa	west torrens	2020_05_09	new		-2	DERIVED	
+lga	au-sa	west torrens	2020_05_09	new		0	DERIVED	
 lga	au-sa	west torrens	2020_05_09	total		17	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	west torrens	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	west torrens	2020_05_09	status_active_new		0	DERIVED	
@@ -1533,7 +1533,7 @@ lga	au-sa	yorke peninsula	2020_05_09	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_05_09	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_05_09	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_05_09	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_05_10	status_hospitalized		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+11+2020	
+admin_1	au	au-sa	2020_05_10	status_hospitalized		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+10+2020	
 admin_1	au	au-sa	2020_05_10	status_active		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+11+2020	
 admin_1	au	au-sa	2020_05_10	status_hospitalized_new		0	DERIVED	
 admin_1	au	au-sa	2020_05_10	status_active_new		-1	DERIVED	
@@ -1761,7 +1761,7 @@ admin_1	au	au-sa	2020_05_14	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_05_16	tests_total		77000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+16+2020	
 admin_1	au	au-sa	2020_05_16	tests_new		2000	DERIVED	
 admin_1	au	au-sa	2020_05_17	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_05_17	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+17+2020	
+admin_1	au	au-sa	2020_05_17	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_05_17	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_05_17	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_05_17	status_deaths_new		0	DERIVED	
@@ -1978,8 +1978,8 @@ admin_1	au	au-sa	2020_05_18	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_05_20	tests_total		83000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+20+2020	
 admin_1	au	au-sa	2020_05_20	tests_new		2000	DERIVED	
 admin_1	au	au-sa	2020_05_21	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+21+2020	
-admin_1	au	au-sa	2020_05_21	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+21+2020	
-admin_1	au	au-sa	2020_05_21	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_05_21	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_05_21	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+21+2020	
 admin_1	au	au-sa	2020_05_21	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+21+2020	
 admin_1	au	au-sa	2020_05_21	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_05_21	status_recovered_new		0	DERIVED	
@@ -2195,7 +2195,7 @@ admin_1	au	au-sa	2020_05_22	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_05_24	tests_total		89000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+24+2020	
 admin_1	au	au-sa	2020_05_24	tests_new		500	DERIVED	
 admin_1	au	au-sa	2020_05_25	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_05_25	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+25+2020	
+admin_1	au	au-sa	2020_05_25	total		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_05_25	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+25+2020	
 admin_1	au	au-sa	2020_05_25	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+25+2020	
 admin_1	au	au-sa	2020_05_25	status_deaths_new		0	DERIVED	
@@ -2411,10 +2411,10 @@ admin_1	au	au-sa	2020_05_26	new	90-99	0	DERIVED
 admin_1	au	au-sa	2020_05_26	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_05_28	tests_total		95000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+28+2020	
 admin_1	au	au-sa	2020_05_28	tests_new		2000	DERIVED	
-admin_1	au	au-sa	2020_05_29	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+29+2020	
-admin_1	au	au-sa	2020_05_29	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_05_29	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_05_29	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+29+2020	
 admin_1	au	au-sa	2020_05_29	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+29+2020	
-admin_1	au	au-sa	2020_05_29	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_05_29	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+29+2020	
 admin_1	au	au-sa	2020_05_29	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_05_29	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_05_29	source_overseas		301	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -2490,14 +2490,14 @@ lga	au-sa	mid murray	2020_05_29	new		0	DERIVED
 lga	au-sa	mid murray	2020_05_29	total		4	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mid murray	2020_05_29	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mid murray	2020_05_29	status_active_new		0	DERIVED	
-lga	au-sa	migratory	2020_05_29	new		1	DERIVED	
+lga	au-sa	migratory	2020_05_29	new		0	DERIVED	
 lga	au-sa	migratory	2020_05_29	total		23	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	migratory	2020_05_29	status_active		1	https://www.covid-19.sa.gov.au/home/dashboard	
-lga	au-sa	migratory	2020_05_29	status_active_new		0	DERIVED	
-lga	au-sa	mitcham	2020_05_29	new		0	DERIVED	
+lga	au-sa	migratory	2020_05_29	status_active_new		1	DERIVED	
+lga	au-sa	mitcham	2020_05_29	new		-1	DERIVED	
 lga	au-sa	mitcham	2020_05_29	total		38	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mitcham	2020_05_29	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
-lga	au-sa	mitcham	2020_05_29	status_active_new		0	DERIVED	
+lga	au-sa	mitcham	2020_05_29	status_active_new		-1	DERIVED	
 lga	au-sa	mount barker	2020_05_29	new		0	DERIVED	
 lga	au-sa	mount barker	2020_05_29	total		8	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	mount barker	2020_05_29	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
@@ -2629,9 +2629,9 @@ admin_1	au	au-sa	2020_05_30	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_05_31	tests_total		100000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+may+31+2020	
 admin_1	au	au-sa	2020_05_31	tests_new		500	DERIVED	
 admin_1	au	au-sa	2020_06_01	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+june	
-admin_1	au	au-sa	2020_06_01	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_01	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+june	
 admin_1	au	au-sa	2020_06_01	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+june	
-admin_1	au	au-sa	2020_06_01	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+june	
+admin_1	au	au-sa	2020_06_01	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_01	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_01	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_01	source_overseas		301	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -3269,10 +3269,10 @@ admin_1	au	au-sa	2020_06_09	tests_total		114000	https://www.sahealth.sa.gov.au/w
 admin_1	au	au-sa	2020_06_09	tests_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_10	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_10	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+10+june	
-admin_1	au	au-sa	2020_06_10	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_10	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+10+june	
+admin_1	au	au-sa	2020_06_10	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+10+june	
+admin_1	au	au-sa	2020_06_10	status_recovered		435	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_10	status_deaths_new		0	DERIVED	
-admin_1	au	au-sa	2020_06_10	status_recovered_new		0	DERIVED	
+admin_1	au	au-sa	2020_06_10	status_recovered_new		1	DERIVED	
 admin_1	au	au-sa	2020_06_10	source_overseas		301	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_10	source_interstate		6	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_10	source_confirmed		124	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -3675,10 +3675,10 @@ admin_1	au	au-sa	2020_06_14	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_06_14	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_14	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_14	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_16	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+16+june	
-admin_1	au	au-sa	2020_06_16	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_16	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_16	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+16+june	
 admin_1	au	au-sa	2020_06_16	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+16+june	
-admin_1	au	au-sa	2020_06_16	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+16+june	
+admin_1	au	au-sa	2020_06_16	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_16	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_16	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_16	source_overseas		301	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -3881,9 +3881,9 @@ admin_1	au	au-sa	2020_06_17	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm
 admin_1	au	au-sa	2020_06_17	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_17	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_19	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+june	
-admin_1	au	au-sa	2020_06_19	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_19	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+june	
 admin_1	au	au-sa	2020_06_19	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_19	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+june	
+admin_1	au	au-sa	2020_06_19	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_19	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_19	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_19	source_overseas		301	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -4085,9 +4085,9 @@ admin_1	au	au-sa	2020_06_20	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_06_20	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_20	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_20	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_21	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+june	
+admin_1	au	au-sa	2020_06_21	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_21	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+june	
-admin_1	au	au-sa	2020_06_21	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_21	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+june	
 admin_1	au	au-sa	2020_06_21	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_21	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_21	status_recovered_new		0	DERIVED	
@@ -4290,7 +4290,7 @@ admin_1	au	au-sa	2020_06_22	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_06_22	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_22	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_22	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_23	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_23	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+23+june	
 admin_1	au	au-sa	2020_06_23	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_23	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+23+june	
 admin_1	au	au-sa	2020_06_23	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+23+june	
@@ -4495,8 +4495,8 @@ admin_1	au	au-sa	2020_06_24	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_06_24	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_24	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_24	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_25	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_25	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_25	new		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+june+2020	
+admin_1	au	au-sa	2020_06_25	total		433	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+june+2020	
 admin_1	au	au-sa	2020_06_25	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_25	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+june+2020	
 admin_1	au	au-sa	2020_06_25	status_deaths_new		0	DERIVED	
@@ -4700,10 +4700,10 @@ admin_1	au	au-sa	2020_06_26	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_06_26	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_06_26	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_06_26	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_27	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+june	
-admin_1	au	au-sa	2020_06_27	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_06_27	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+june	
-admin_1	au	au-sa	2020_06_27	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_27	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_27	total		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+june	
+admin_1	au	au-sa	2020_06_27	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_06_27	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+june	
 admin_1	au	au-sa	2020_06_27	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_27	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_06_27	tests_total		147000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+june	
@@ -5086,7 +5086,7 @@ admin_1	au	au-sa	2020_07_01	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connec
 admin_1	au	au-sa	2020_07_01	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+july	
 admin_1	au	au-sa	2020_07_01	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_01	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_01	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+july	
+admin_1	au	au-sa	2020_07_01	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_01	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_01	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+july	
 admin_1	au	au-sa	2020_07_01	status_active		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+july	
@@ -5289,11 +5289,11 @@ lga	au-sa	yorke peninsula	2020_07_01	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_01	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_01	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_01	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_03	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+3+july	
+admin_1	au	au-sa	2020_07_03	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_03	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+3+july	
 admin_1	au	au-sa	2020_07_03	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_03	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_03	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_03	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+3+july	
 admin_1	au	au-sa	2020_07_03	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_03	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_03	status_active		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+3+july	
@@ -5496,11 +5496,11 @@ lga	au-sa	yorke peninsula	2020_07_03	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_03	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_03	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_03	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_05	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+5+july	
+admin_1	au	au-sa	2020_07_05	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+5+july	
 admin_1	au	au-sa	2020_07_05	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_05	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+5+july	
+admin_1	au	au-sa	2020_07_05	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	status_active		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+5+july	
@@ -5524,8 +5524,8 @@ admin_1	au	au-sa	2020_07_05	total	60-69	99	https://www.sahealth.sa.gov.au/wps/wc
 admin_1	au	au-sa	2020_07_05	total	70-79	51	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_05	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-lga	au-sa	adelaide	2020_07_05	new		0	DERIVED	
-lga	au-sa	adelaide	2020_07_05	total		11	https://www.covid-19.sa.gov.au/home/dashboard	
+lga	au-sa	adelaide	2020_07_05	new		-2	DERIVED	
+lga	au-sa	adelaide	2020_07_05	total		13	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide	2020_07_05	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide	2020_07_05	status_active_new		0	DERIVED	
 lga	au-sa	adelaide hills	2020_07_05	new		0	DERIVED	
@@ -5693,12 +5693,12 @@ lga	au-sa	yorke peninsula	2020_07_05	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_05	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_05	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_07	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+7+july	
-admin_1	au	au-sa	2020_07_07	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+7+july	
+admin_1	au	au-sa	2020_07_07	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_07	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_07	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_07	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_07	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_07	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+7+july	
+admin_1	au	au-sa	2020_07_07	status_recovered		436	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_07	status_active		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+7+july	
 admin_1	au	au-sa	2020_07_07	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_07	status_icu_new		0	DERIVED	
@@ -5734,7 +5734,7 @@ admin_1	au	au-sa	2020_07_07	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm
 lga	au-sa	adelaide	2020_07_07	new		0	DERIVED	
 lga	au-sa	adelaide	2020_07_07	total		11	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide	2020_07_07	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
-lga	au-sa	adelaide	2020_07_07	status_active_new		0	DERIVED	
+lga	au-sa	adelaide	2020_07_07	status_active_new		-2	DERIVED	
 lga	au-sa	adelaide hills	2020_07_07	new		0	DERIVED	
 lga	au-sa	adelaide hills	2020_07_07	total		14	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	adelaide hills	2020_07_07	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
@@ -5903,9 +5903,9 @@ admin_1	au	au-sa	2020_07_09	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connec
 admin_1	au	au-sa	2020_07_09	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_09	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_09	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_09	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_09	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+july	
 admin_1	au	au-sa	2020_07_09	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_09	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+july	
+admin_1	au	au-sa	2020_07_09	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_09	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+9+july	
 admin_1	au	au-sa	2020_07_09	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_09	status_icu_new		0	DERIVED	
@@ -6313,11 +6313,11 @@ lga	au-sa	yorke peninsula	2020_07_11	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_11	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_11	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_11	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_12	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_12	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+12+july	
 admin_1	au	au-sa	2020_07_12	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+12+july	
 admin_1	au	au-sa	2020_07_12	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_12	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_12	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_12	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+12+july	
 admin_1	au	au-sa	2020_07_12	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_12	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_12	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+12+july	
@@ -6520,13 +6520,13 @@ lga	au-sa	yorke peninsula	2020_07_12	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_12	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_12	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_12	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_13	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_13	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+13+july	
 admin_1	au	au-sa	2020_07_13	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_13	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_13	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_13	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+13+july	
+admin_1	au	au-sa	2020_07_13	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_13	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_13	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+13+july	
+admin_1	au	au-sa	2020_07_13	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_13	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+13+july	
 admin_1	au	au-sa	2020_07_13	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_13	status_icu_new		0	DERIVED	
@@ -6727,8 +6727,8 @@ lga	au-sa	yorke peninsula	2020_07_13	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_13	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_13	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_13	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_14	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_14	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_14	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+14+july	
+admin_1	au	au-sa	2020_07_14	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+14+july	
 admin_1	au	au-sa	2020_07_14	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_14	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_14	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+14+july	
@@ -6935,12 +6935,12 @@ lga	au-sa	yorke peninsula	2020_07_14	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_14	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_14	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_15	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+15+july	
-admin_1	au	au-sa	2020_07_15	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_15	total		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+15+july	
 admin_1	au	au-sa	2020_07_15	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_15	total_female		215	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_15	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+15+july	
 admin_1	au	au-sa	2020_07_15	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_15	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_15	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+15+july	
 admin_1	au	au-sa	2020_07_15	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+15+july	
 admin_1	au	au-sa	2020_07_15	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_15	status_icu_new		0	DERIVED	
@@ -7141,7 +7141,7 @@ lga	au-sa	yorke peninsula	2020_07_15	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_15	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_15	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_15	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_16	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+16+july	
+admin_1	au	au-sa	2020_07_16	new		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_16	total		444	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_16	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_16	total_female		216	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -7348,7 +7348,7 @@ lga	au-sa	yorke peninsula	2020_07_16	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_16	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_16	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_16	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_17	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_17	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+17+july	
 admin_1	au	au-sa	2020_07_17	total		444	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+17+july	
 admin_1	au	au-sa	2020_07_17	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_17	total_female		216	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -7561,11 +7561,11 @@ admin_1	au	au-sa	2020_07_18	total_male		228	https://www.sahealth.sa.gov.au/wps/w
 admin_1	au	au-sa	2020_07_18	total_female		216	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_18	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+18+july	
 admin_1	au	au-sa	2020_07_18	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_18	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+18+july	
+admin_1	au	au-sa	2020_07_18	status_recovered		439	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_18	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+18+july	
 admin_1	au	au-sa	2020_07_18	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_18	status_icu_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_18	status_recovered_new		-1	DERIVED	
+admin_1	au	au-sa	2020_07_18	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_18	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_18	source_overseas		305	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_18	source_interstate		6	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -7768,7 +7768,7 @@ admin_1	au	au-sa	2020_07_19	status_deaths		4	https://www.sahealth.sa.gov.au/wps/
 admin_1	au	au-sa	2020_07_19	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+july	
 admin_1	au	au-sa	2020_07_19	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+july	
 admin_1	au	au-sa	2020_07_19	status_deaths_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_19	status_recovered_new		1	DERIVED	
+admin_1	au	au-sa	2020_07_19	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_19	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_19	tests_total		188000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+19+july	
 admin_1	au	au-sa	2020_07_19	tests_new		1200	DERIVED	
@@ -7944,9 +7944,9 @@ admin_1	au	au-sa	2020_07_20	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connec
 admin_1	au	au-sa	2020_07_20	total		444	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_20	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_20	total_female		216	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_20	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_20	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+20+july	
 admin_1	au	au-sa	2020_07_20	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_20	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_20	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+20+july	
 admin_1	au	au-sa	2020_07_20	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+20+july	
 admin_1	au	au-sa	2020_07_20	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_20	status_recovered_new		0	DERIVED	
@@ -8142,7 +8142,7 @@ admin_1	au	au-sa	2020_07_21	total_male		228	https://www.sahealth.sa.gov.au/wps/w
 admin_1	au	au-sa	2020_07_21	total_female		216	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_21	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_21	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_21	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_21	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+july	
 admin_1	au	au-sa	2020_07_21	status_active		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+21+july	
 admin_1	au	au-sa	2020_07_21	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_21	status_icu_new		0	DERIVED	
@@ -8347,13 +8347,13 @@ admin_1	au	au-sa	2020_07_22	new		2	https://www.sahealth.sa.gov.au/wps/wcm/connec
 admin_1	au	au-sa	2020_07_22	total		446	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+22+july	
 admin_1	au	au-sa	2020_07_22	total_male		228	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_22	total_female		218	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_22	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+22+july	
+admin_1	au	au-sa	2020_07_22	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_22	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_22	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_22	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+22+july	
 admin_1	au	au-sa	2020_07_22	status_active		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+22+july	
 admin_1	au	au-sa	2020_07_22	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_22	status_icu_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_22	status_recovered_new		1	DERIVED	
+admin_1	au	au-sa	2020_07_22	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_22	status_active_new		1	DERIVED	
 admin_1	au	au-sa	2020_07_22	source_overseas		306	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_22	source_interstate		6	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -8551,13 +8551,13 @@ lga	au-sa	yorke peninsula	2020_07_22	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_22	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_22	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_23	new		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_23	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_23	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+23+july	
 admin_1	au	au-sa	2020_07_23	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_23	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_23	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+23+july	
+admin_1	au	au-sa	2020_07_23	status_recovered		440	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_23	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_23	status_icu_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_23	status_recovered_new		-1	DERIVED	
+admin_1	au	au-sa	2020_07_23	status_recovered_new		1	DERIVED	
 admin_1	au	au-sa	2020_07_23	source_overseas		306	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_23	source_interstate		6	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_23	source_confirmed		124	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -8759,7 +8759,7 @@ admin_1	au	au-sa	2020_07_24	status_deaths		4	https://www.sahealth.sa.gov.au/wps/
 admin_1	au	au-sa	2020_07_24	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+24+july	
 admin_1	au	au-sa	2020_07_24	status_active		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+24+july	
 admin_1	au	au-sa	2020_07_24	status_deaths_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_24	status_recovered_new		1	DERIVED	
+admin_1	au	au-sa	2020_07_24	status_recovered_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_24	tests_total		203000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+24+july	
 admin_1	au	au-sa	2020_07_24	tests_new		3500	DERIVED	
 lga	au-sa	adelaide	2020_07_24	new		0	DERIVED	
@@ -8930,13 +8930,13 @@ lga	au-sa	yorke peninsula	2020_07_24	new		0	DERIVED
 lga	au-sa	yorke peninsula	2020_07_24	total		2	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_24	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_24	status_active_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_25	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+july	
+admin_1	au	au-sa	2020_07_25	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_25	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+july	
 admin_1	au	au-sa	2020_07_25	total_male		229	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_25	total_female		218	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_25	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_25	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+july	
 admin_1	au	au-sa	2020_07_25	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_25	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_25	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+july	
 admin_1	au	au-sa	2020_07_25	status_active		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+25+july	
 admin_1	au	au-sa	2020_07_25	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_25	status_recovered_new		0	DERIVED	
@@ -9127,7 +9127,7 @@ lga	au-sa	yorke peninsula	2020_07_25	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_25	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_25	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_26	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+26+july	
-admin_1	au	au-sa	2020_07_26	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_26	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+26+july	
 admin_1	au	au-sa	2020_07_26	total_male		229	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_26	total_female		218	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_26	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+26+july	
@@ -9334,10 +9334,10 @@ lga	au-sa	yorke peninsula	2020_07_26	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_26	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_26	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_27	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_27	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+july	
+admin_1	au	au-sa	2020_07_27	total		447	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_27	total_male		229	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_27	total_female		218	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_27	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_27	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+july	
 admin_1	au	au-sa	2020_07_27	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_27	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+july	
 admin_1	au	au-sa	2020_07_27	status_active		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+27+july	
@@ -9749,7 +9749,7 @@ admin_1	au	au-sa	2020_07_29	new		0	https://www.sahealth.sa.gov.au/wps/wcm/connec
 admin_1	au	au-sa	2020_07_29	total		448	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+29+july	
 admin_1	au	au-sa	2020_07_29	total_male		229	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_29	total_female		219	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_29	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_29	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+29+july	
 admin_1	au	au-sa	2020_07_29	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_29	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+29+july	
 admin_1	au	au-sa	2020_07_29	status_deaths_new		0	DERIVED	
@@ -9956,7 +9956,7 @@ admin_1	au	au-sa	2020_07_30	total_male		230	https://www.sahealth.sa.gov.au/wps/w
 admin_1	au	au-sa	2020_07_30	total_female		219	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_30	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_30	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_30	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_30	status_recovered		441	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+30+july	
 admin_1	au	au-sa	2020_07_30	status_active		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+30+july	
 admin_1	au	au-sa	2020_07_30	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_30	status_icu_new		0	DERIVED	
@@ -10157,16 +10157,16 @@ lga	au-sa	yorke peninsula	2020_07_30	total		2	https://www.covid-19.sa.gov.au/hom
 lga	au-sa	yorke peninsula	2020_07_30	status_active		0	https://www.covid-19.sa.gov.au/home/dashboard	
 lga	au-sa	yorke peninsula	2020_07_30	status_active_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_31	new		1	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_31	total		450	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_31	total		450	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+31+july	
 admin_1	au	au-sa	2020_07_31	total_male		230	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_31	total_female		220	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_31	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_31	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+31+july	
 admin_1	au	au-sa	2020_07_31	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_07_31	status_recovered		442	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_07_31	status_recovered		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+31+july	
 admin_1	au	au-sa	2020_07_31	status_active		3	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+31+july	
 admin_1	au	au-sa	2020_07_31	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_07_31	status_icu_new		0	DERIVED	
-admin_1	au	au-sa	2020_07_31	status_recovered_new		2	DERIVED	
+admin_1	au	au-sa	2020_07_31	status_recovered_new		1	DERIVED	
 admin_1	au	au-sa	2020_07_31	status_active_new		-1	DERIVED	
 admin_1	au	au-sa	2020_07_31	source_overseas		306	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_07_31	source_interstate		9	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -10369,11 +10369,11 @@ admin_1	au	au-sa	2020_08_01	total_male		231	https://www.sahealth.sa.gov.au/wps/w
 admin_1	au	au-sa	2020_08_01	total_female		220	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_08_01	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+august	
 admin_1	au	au-sa	2020_08_01	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
-admin_1	au	au-sa	2020_08_01	status_recovered		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+august	
+admin_1	au	au-sa	2020_08_01	status_recovered		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_08_01	status_active		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+1+august	
 admin_1	au	au-sa	2020_08_01	status_deaths_new		0	DERIVED	
 admin_1	au	au-sa	2020_08_01	status_icu_new		0	DERIVED	
-admin_1	au	au-sa	2020_08_01	status_recovered_new		0	DERIVED	
+admin_1	au	au-sa	2020_08_01	status_recovered_new		1	DERIVED	
 admin_1	au	au-sa	2020_08_01	status_active_new		1	DERIVED	
 admin_1	au	au-sa	2020_08_01	source_overseas		306	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_08_01	source_interstate		10	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
@@ -10402,3 +10402,40 @@ admin_1	au	au-sa	2020_08_01	new	80-89	0	DERIVED
 admin_1	au	au-sa	2020_08_01	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
 admin_1	au	au-sa	2020_08_01	new	90-99	0	DERIVED	
 admin_1	au	au-sa	2020_08_01	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+august	
+admin_1	au	au-sa	2020_08_02	total		453	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+august	
+admin_1	au	au-sa	2020_08_02	total_male		231	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	total_female		222	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	status_deaths		4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	status_icu		0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	status_recovered		443	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+august	
+admin_1	au	au-sa	2020_08_02	status_deaths_new		0	DERIVED	
+admin_1	au	au-sa	2020_08_02	status_icu_new		0	DERIVED	
+admin_1	au	au-sa	2020_08_02	status_recovered_new		0	DERIVED	
+admin_1	au	au-sa	2020_08_02	source_overseas		306	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	source_interstate		11	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	source_confirmed		125	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	source_community		9	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	source_under_investigation		2	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	tests_total		246000	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/news+and+media/all+media+releases/covid-19+update+2+august	
+admin_1	au	au-sa	2020_08_02	tests_new		4000	DERIVED	
+admin_1	au	au-sa	2020_08_02	new	0-9	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	0-9	4	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	10-19	1	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	10-19	15	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	20-29	1	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	20-29	86	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	30-39	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	30-39	49	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	40-49	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	40-49	50	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	50-59	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	50-59	92	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	60-69	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	60-69	99	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	70-79	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	70-79	51	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	80-89	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	80-89	7	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
+admin_1	au	au-sa	2020_08_02	new	90-99	0	DERIVED	
+admin_1	au	au-sa	2020_08_02	total	90-99	0	https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard	
