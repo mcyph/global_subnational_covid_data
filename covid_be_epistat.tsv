@@ -1,546 +1,546 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_1	be	be-bru	2020_03_02	new		4	DERIVED	
-admin_1	be	be-bru	2020_03_02	total		10	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_03_02	new		9	DERIVED	
-admin_1	be	be-vbr	2020_03_02	total		15	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_03_03	total		4	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_03_03	new		7	DERIVED	
+admin_1	be	be-wlg	2020_03_03	total		10	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_04	total	0-9	4	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_04	total	NA	1	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new		110	DERIVED	
-admin_0		be	2020_03_06	total		317	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	total_male		171	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	total_female		146	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_05	new	10-19	5	DERIVED	
+admin_0		be	2020_03_05	total	10-19	31	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_03_05	new		3	DERIVED	
+admin_1	be	be-wbr	2020_03_05	total		9	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_06	new	0-9	2	DERIVED	
-admin_0		be	2020_03_06	new	10-19	11	DERIVED	
-admin_0		be	2020_03_06	total	10-19	42	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	20-29	12	DERIVED	
-admin_0		be	2020_03_06	total	20-29	42	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	30-39	13	DERIVED	
-admin_0		be	2020_03_06	total	30-39	34	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	40-49	33	DERIVED	
-admin_0		be	2020_03_06	total	40-49	83	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	50-59	21	DERIVED	
-admin_0		be	2020_03_06	total	50-59	58	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	60-69	6	DERIVED	
-admin_0		be	2020_03_06	total	60-69	22	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	new	70-79	8	DERIVED	
-admin_0		be	2020_03_06	total	70-79	20	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_06	total	80-89	4	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_03_06	new		11	DERIVED	
-admin_1	be	be-van	2020_03_06	total		35	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_03_06	new		17	DERIVED	
-admin_1	be	be-vli	2020_03_06	total		38	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_03_06	new		16	DERIVED	
-admin_1	be	be-vov	2020_03_06	total		33	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_03_06	new		17	DERIVED	
-admin_1	be	be-vwv	2020_03_06	total		38	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_03_06	new		4	DERIVED	
-admin_1	be	be-wbr	2020_03_06	total		13	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_03_06	new		8	DERIVED	
-admin_1	be	be-wlg	2020_03_06	total		29	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_06	total	90+	2	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_03_06	new		17	DERIVED	
+admin_1	be	be-vbr	2020_03_06	total		66	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_03_06	new		5	DERIVED	
-admin_1	be	be-wna	2020_03_08	total		10	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_09	total	90+	4	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_03_09	new		12	DERIVED	
-admin_1	be	be-bru	2020_03_09	total		51	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_03_09	new		14	DERIVED	
-admin_1	be	be-vbr	2020_03_09	total		86	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_03_09	new		12	DERIVED	
-admin_1	be	be-wht	2020_03_09	total		38	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_03_10	total		4	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_03_06	total		8	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new		27	DERIVED	
+admin_0		be	2020_03_07	total		344	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	total_male		183	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	total_female		161	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	20-29	2	DERIVED	
+admin_0		be	2020_03_07	total	20-29	44	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	30-39	4	DERIVED	
+admin_0		be	2020_03_07	total	30-39	38	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	40-49	7	DERIVED	
+admin_0		be	2020_03_07	total	40-49	90	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	50-59	6	DERIVED	
+admin_0		be	2020_03_07	total	50-59	64	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	60-69	3	DERIVED	
+admin_0		be	2020_03_07	total	60-69	25	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	70-79	2	DERIVED	
+admin_0		be	2020_03_07	total	70-79	22	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_07	new	80-89	1	DERIVED	
+admin_0		be	2020_03_07	total	80-89	5	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_03_07	new		5	DERIVED	
+admin_1	be	be-bru	2020_03_07	total		33	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_03_07	new		8	DERIVED	
+admin_1	be	be-van	2020_03_07	total		43	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_03_07	new		1	DERIVED	
+admin_1	be	be-vov	2020_03_07	total		34	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_03_07	new		4	DERIVED	
+admin_1	be	be-vwv	2020_03_07	total		42	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_03_07	new		1	DERIVED	
+admin_1	be	be-wht	2020_03_07	total		22	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_03_10	new		12	DERIVED	
+admin_1	be	be-vli	2020_03_10	total		67	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_03_10	new		10	DERIVED	
+admin_1	be	be-wlg	2020_03_10	total		76	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_03_10	new		7	DERIVED	
 admin_1	be	unknown	2020_03_10	total		18	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_11	total	0-9	16	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_11	new	90+	11	DERIVED	
-admin_0		be	2020_03_13	new		338	DERIVED	
-admin_0		be	2020_03_13	total		1364	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	total_male		688	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	total_female		672	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	10-19	5	DERIVED	
-admin_0		be	2020_03_13	total	10-19	79	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	20-29	45	DERIVED	
-admin_0		be	2020_03_13	total	20-29	156	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	30-39	62	DERIVED	
-admin_0		be	2020_03_13	total	30-39	198	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	40-49	75	DERIVED	
-admin_0		be	2020_03_13	total	40-49	311	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	50-59	55	DERIVED	
-admin_0		be	2020_03_13	total	50-59	250	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	60-69	32	DERIVED	
-admin_0		be	2020_03_13	total	60-69	129	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	70-79	26	DERIVED	
-admin_0		be	2020_03_13	total	70-79	103	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_13	new	80-89	24	DERIVED	
-admin_0		be	2020_03_13	total	80-89	73	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_03_13	new		47	DERIVED	
-admin_1	be	be-van	2020_03_13	total		175	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_03_13	new		30	DERIVED	
-admin_1	be	be-vli	2020_03_13	total		144	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_03_13	new		29	DERIVED	
-admin_1	be	be-vov	2020_03_13	total		146	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_03_13	new		24	DERIVED	
-admin_1	be	be-vwv	2020_03_13	total		116	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_03_13	new		13	DERIVED	
-admin_1	be	be-wbr	2020_03_13	total		45	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_03_13	new		30	DERIVED	
-admin_1	be	be-wlg	2020_03_13	total		160	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_12	new	10-19	7	DERIVED	
+admin_0		be	2020_03_12	total	10-19	74	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_03_12	new		7	DERIVED	
+admin_1	be	be-wbr	2020_03_12	total		32	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_03_12	total		9	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new		179	DERIVED	
+admin_0		be	2020_03_14	total		1543	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	total_male		791	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	total_female		748	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	20-29	20	DERIVED	
+admin_0		be	2020_03_14	total	20-29	176	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	30-39	17	DERIVED	
+admin_0		be	2020_03_14	total	30-39	215	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	40-49	27	DERIVED	
+admin_0		be	2020_03_14	total	40-49	338	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	50-59	33	DERIVED	
+admin_0		be	2020_03_14	total	50-59	283	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	60-69	19	DERIVED	
+admin_0		be	2020_03_14	total	60-69	148	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	70-79	25	DERIVED	
+admin_0		be	2020_03_14	total	70-79	128	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	new	80-89	25	DERIVED	
+admin_0		be	2020_03_14	total	80-89	98	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_14	total	90+	39	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_14	new	NA	2	DERIVED	
 admin_0		be	2020_03_14	total	NA	10	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_03_15	new		1	DERIVED	
-admin_1	be	be-wna	2020_03_15	total		32	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_16	new	0-9	2	DERIVED	
-admin_0		be	2020_03_16	total	90+	63	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_03_16	new		62	DERIVED	
-admin_1	be	be-bru	2020_03_16	total		278	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_03_16	new		43	DERIVED	
-admin_1	be	be-vbr	2020_03_16	total		275	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_03_16	new		46	DERIVED	
-admin_1	be	be-wht	2020_03_16	total		252	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_03_14	new		30	DERIVED	
+admin_1	be	be-bru	2020_03_14	total		188	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_03_14	new		21	DERIVED	
+admin_1	be	be-van	2020_03_14	total		196	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_03_14	new		12	DERIVED	
+admin_1	be	be-vbr	2020_03_14	total		205	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_03_14	new		13	DERIVED	
+admin_1	be	be-vov	2020_03_14	total		159	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_03_14	new		19	DERIVED	
+admin_1	be	be-vwv	2020_03_14	total		135	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_03_14	new		35	DERIVED	
+admin_1	be	be-wht	2020_03_14	total		176	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_03_14	new		4	DERIVED	
+admin_1	be	be-wna	2020_03_14	total		31	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_15	new	0-9	2	DERIVED	
+admin_1	be	be-vli	2020_03_17	new		66	DERIVED	
+admin_1	be	be-vli	2020_03_17	total		293	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_03_17	new		45	DERIVED	
+admin_1	be	be-wlg	2020_03_17	total		290	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_03_17	new		3	DERIVED	
-admin_1	be	be-wlx	2020_03_17	total		26	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_03_17	new		10	DERIVED	
 admin_1	be	unknown	2020_03_17	total		79	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_18	total	0-9	45	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_18	new	90+	21	DERIVED	
-admin_0		be	2020_03_20	new		663	DERIVED	
-admin_0		be	2020_03_20	total		4476	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	total_male		2209	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	total_female		2254	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	10-19	5	DERIVED	
-admin_0		be	2020_03_20	total	10-19	96	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	20-29	43	DERIVED	
-admin_0		be	2020_03_20	total	20-29	400	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	30-39	72	DERIVED	
-admin_0		be	2020_03_20	total	30-39	570	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	40-49	109	DERIVED	
-admin_0		be	2020_03_20	total	40-49	838	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	50-59	122	DERIVED	
-admin_0		be	2020_03_20	total	50-59	798	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	60-69	105	DERIVED	
-admin_0		be	2020_03_20	total	60-69	564	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	70-79	94	DERIVED	
-admin_0		be	2020_03_20	total	70-79	551	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_20	new	80-89	81	DERIVED	
-admin_0		be	2020_03_20	total	80-89	441	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_03_20	new		67	DERIVED	
-admin_1	be	be-van	2020_03_20	total		524	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_03_20	new		111	DERIVED	
-admin_1	be	be-vli	2020_03_20	total		559	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_03_20	new		74	DERIVED	
-admin_1	be	be-vov	2020_03_20	total		439	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_03_20	new		64	DERIVED	
-admin_1	be	be-vwv	2020_03_20	total		442	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_03_20	new		19	DERIVED	
-admin_1	be	be-wbr	2020_03_20	total		160	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_03_20	new		73	DERIVED	
-admin_1	be	be-wlg	2020_03_20	total		490	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_19	new	10-19	3	DERIVED	
+admin_0		be	2020_03_19	total	10-19	91	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_03_19	new		26	DERIVED	
+admin_1	be	be-wbr	2020_03_19	total		141	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_03_19	total		87	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new		470	DERIVED	
+admin_0		be	2020_03_21	total		4946	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	total_male		2445	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	total_female		2484	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	20-29	31	DERIVED	
+admin_0		be	2020_03_21	total	20-29	431	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	30-39	52	DERIVED	
+admin_0		be	2020_03_21	total	30-39	622	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	40-49	74	DERIVED	
+admin_0		be	2020_03_21	total	40-49	912	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	50-59	88	DERIVED	
+admin_0		be	2020_03_21	total	50-59	886	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	60-69	69	DERIVED	
+admin_0		be	2020_03_21	total	60-69	633	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	70-79	66	DERIVED	
+admin_0		be	2020_03_21	total	70-79	617	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	new	80-89	63	DERIVED	
+admin_0		be	2020_03_21	total	80-89	504	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_21	total	90+	174	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_21	total	NA	13	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_23	new	0-9	12	DERIVED	
-admin_0		be	2020_03_23	total	90+	230	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_03_23	new		116	DERIVED	
-admin_1	be	be-bru	2020_03_23	total		713	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_03_23	new		132	DERIVED	
-admin_1	be	be-vbr	2020_03_23	total		746	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_03_23	new		121	DERIVED	
-admin_1	be	be-wht	2020_03_23	total		775	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_03_23	new		32	DERIVED	
-admin_1	be	be-wna	2020_03_23	total		156	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_03_21	new		44	DERIVED	
+admin_1	be	be-bru	2020_03_21	total		534	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_03_21	new		63	DERIVED	
+admin_1	be	be-van	2020_03_21	total		587	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_03_21	new		47	DERIVED	
+admin_1	be	be-vbr	2020_03_21	total		571	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_03_21	new		39	DERIVED	
+admin_1	be	be-vov	2020_03_21	total		478	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_03_21	new		37	DERIVED	
+admin_1	be	be-vwv	2020_03_21	total		479	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_03_21	new		58	DERIVED	
+admin_1	be	be-wht	2020_03_21	total		590	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_03_21	new		10	DERIVED	
+admin_1	be	be-wna	2020_03_21	total		108	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_22	new	0-9	3	DERIVED	
+admin_1	be	be-vli	2020_03_24	new		135	DERIVED	
+admin_1	be	be-vli	2020_03_24	total		946	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_03_24	new		163	DERIVED	
+admin_1	be	be-wlg	2020_03_24	total		953	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_03_24	new		23	DERIVED	
-admin_1	be	be-wlx	2020_03_24	total		177	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_03_24	new		8	DERIVED	
 admin_1	be	unknown	2020_03_24	total		177	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_25	total	0-9	85	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_25	new	90+	40	DERIVED	
-admin_0		be	2020_03_27	new		1519	DERIVED	
-admin_0		be	2020_03_27	total		12036	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	total_male		5724	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	total_female		6278	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	10-19	5	DERIVED	
-admin_0		be	2020_03_27	total	10-19	137	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	20-29	95	DERIVED	
-admin_0		be	2020_03_27	total	20-29	985	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	30-39	144	DERIVED	
-admin_0		be	2020_03_27	total	30-39	1380	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	40-49	215	DERIVED	
-admin_0		be	2020_03_27	total	40-49	1919	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	50-59	307	DERIVED	
-admin_0		be	2020_03_27	total	50-59	2237	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	60-69	240	DERIVED	
-admin_0		be	2020_03_27	total	60-69	1715	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	70-79	202	DERIVED	
-admin_0		be	2020_03_27	total	70-79	1608	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_03_27	new	80-89	237	DERIVED	
-admin_0		be	2020_03_27	total	80-89	1499	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_03_27	new		190	DERIVED	
-admin_1	be	be-van	2020_03_27	total		1552	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_03_27	new		181	DERIVED	
-admin_1	be	be-vli	2020_03_27	total		1431	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_03_27	new		221	DERIVED	
-admin_1	be	be-vov	2020_03_27	total		1350	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_03_27	new		185	DERIVED	
-admin_1	be	be-vwv	2020_03_27	total		1324	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_03_27	new		43	DERIVED	
-admin_1	be	be-wbr	2020_03_27	total		355	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_03_27	new		97	DERIVED	
-admin_1	be	be-wlg	2020_03_27	total		1345	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_26	new	10-19	13	DERIVED	
+admin_0		be	2020_03_26	total	10-19	132	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_03_26	new		29	DERIVED	
+admin_1	be	be-wbr	2020_03_26	total		312	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_03_26	total		239	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new		844	DERIVED	
+admin_0		be	2020_03_28	total		12880	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	total_male		6143	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	total_female		6702	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	20-29	52	DERIVED	
+admin_0		be	2020_03_28	total	20-29	1037	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	30-39	87	DERIVED	
+admin_0		be	2020_03_28	total	30-39	1467	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	40-49	134	DERIVED	
+admin_0		be	2020_03_28	total	40-49	2053	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	50-59	165	DERIVED	
+admin_0		be	2020_03_28	total	50-59	2402	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	60-69	127	DERIVED	
+admin_0		be	2020_03_28	total	60-69	1842	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	70-79	115	DERIVED	
+admin_0		be	2020_03_28	total	70-79	1723	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	new	80-89	117	DERIVED	
+admin_0		be	2020_03_28	total	80-89	1616	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_03_28	total	90+	462	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_28	new	NA	3	DERIVED	
 admin_0		be	2020_03_28	total	NA	33	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_03_28	new		147	DERIVED	
+admin_1	be	be-bru	2020_03_28	total		1459	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_03_28	new		100	DERIVED	
+admin_1	be	be-van	2020_03_28	total		1652	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_03_28	new		96	DERIVED	
+admin_1	be	be-vbr	2020_03_28	total		1376	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_03_28	new		109	DERIVED	
+admin_1	be	be-vov	2020_03_28	total		1459	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_03_28	new		77	DERIVED	
+admin_1	be	be-vwv	2020_03_28	total		1401	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_03_28	new		104	DERIVED	
+admin_1	be	be-wht	2020_03_28	total		1386	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_03_28	new		31	DERIVED	
+admin_1	be	be-wna	2020_03_28	total		333	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_29	new	0-9	3	DERIVED	
-admin_0		be	2020_03_29	total	90+	494	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_03_29	new		93	DERIVED	
-admin_1	be	be-bru	2020_03_29	total		1552	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_03_29	new		58	DERIVED	
-admin_1	be	be-vbr	2020_03_29	total		1434	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_03_29	new		108	DERIVED	
-admin_1	be	be-wht	2020_03_29	total		1494	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_03_29	new		23	DERIVED	
-admin_1	be	be-wna	2020_03_29	total		356	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_03_30	new		231	DERIVED	
+admin_1	be	be-vli	2020_03_30	total		1830	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_03_30	new		245	DERIVED	
+admin_1	be	be-wlg	2020_03_30	total		1674	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_03_30	new		56	DERIVED	
-admin_1	be	be-wlx	2020_03_30	total		369	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_03_30	new		28	DERIVED	
 admin_1	be	unknown	2020_03_30	total		284	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_31	total	0-9	115	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_03_31	new	90+	175	DERIVED	
-admin_0		be	2020_04_02	new		1460	DERIVED	
-admin_0		be	2020_04_02	total		19945	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	total_male		9013	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	total_female		10877	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	10-19	12	DERIVED	
-admin_0		be	2020_04_02	total	10-19	193	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	20-29	107	DERIVED	
-admin_0		be	2020_04_02	total	20-29	1634	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	30-39	166	DERIVED	
-admin_0		be	2020_04_02	total	30-39	2182	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	40-49	182	DERIVED	
-admin_0		be	2020_04_02	total	40-49	3006	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	50-59	232	DERIVED	
-admin_0		be	2020_04_02	total	50-59	3611	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	60-69	152	DERIVED	
-admin_0		be	2020_04_02	total	60-69	2630	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	70-79	182	DERIVED	
-admin_0		be	2020_04_02	total	70-79	2579	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_02	new	80-89	283	DERIVED	
-admin_0		be	2020_04_02	total	80-89	2891	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_02	new		166	DERIVED	
-admin_1	be	be-van	2020_04_02	total		2504	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_02	new		167	DERIVED	
-admin_1	be	be-vli	2020_04_02	total		2333	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_02	new		153	DERIVED	
-admin_1	be	be-vov	2020_04_02	total		2292	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_02	new		173	DERIVED	
-admin_1	be	be-vwv	2020_04_02	total		2172	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_04_02	new		29	DERIVED	
-admin_1	be	be-wbr	2020_04_02	total		517	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_02	new		194	DERIVED	
-admin_1	be	be-wlg	2020_04_02	total		2250	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_01	new	10-19	11	DERIVED	
+admin_0		be	2020_04_01	total	10-19	181	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_04_01	new		40	DERIVED	
+admin_1	be	be-wbr	2020_04_01	total		488	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_01	total		557	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new		1691	DERIVED	
+admin_0		be	2020_04_03	total		21636	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	total_male		9642	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	total_female		11937	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	20-29	135	DERIVED	
+admin_0		be	2020_04_03	total	20-29	1769	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	30-39	181	DERIVED	
+admin_0		be	2020_04_03	total	30-39	2363	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	40-49	196	DERIVED	
+admin_0		be	2020_04_03	total	40-49	3202	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	50-59	223	DERIVED	
+admin_0		be	2020_04_03	total	50-59	3834	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	60-69	192	DERIVED	
+admin_0		be	2020_04_03	total	60-69	2822	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	70-79	215	DERIVED	
+admin_0		be	2020_04_03	total	70-79	2794	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	new	80-89	340	DERIVED	
+admin_0		be	2020_04_03	total	80-89	3231	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_03	total	90+	1234	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_03	new	NA	3	DERIVED	
 admin_0		be	2020_04_03	total	NA	41	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_03	new		167	DERIVED	
+admin_1	be	be-bru	2020_04_03	total		2336	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_03	new		186	DERIVED	
+admin_1	be	be-van	2020_04_03	total		2690	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_03	new		170	DERIVED	
+admin_1	be	be-vbr	2020_04_03	total		2199	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_03	new		194	DERIVED	
+admin_1	be	be-vov	2020_04_03	total		2486	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_03	new		144	DERIVED	
+admin_1	be	be-vwv	2020_04_03	total		2316	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_03	new		196	DERIVED	
+admin_1	be	be-wht	2020_04_03	total		2316	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_03	new		68	DERIVED	
+admin_1	be	be-wna	2020_04_03	total		653	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_04	new	0-9	3	DERIVED	
-admin_0		be	2020_04_04	total	90+	1337	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_04_04	new		102	DERIVED	
-admin_1	be	be-bru	2020_04_04	total		2438	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_04_04	new		132	DERIVED	
-admin_1	be	be-vbr	2020_04_04	total		2331	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_04_04	new		73	DERIVED	
-admin_1	be	be-wht	2020_04_04	total		2389	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_04_04	new		39	DERIVED	
-admin_1	be	be-wna	2020_04_04	total		692	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_04_05	new		47	DERIVED	
+admin_1	be	be-vli	2020_04_05	total		2723	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_04_05	new		96	DERIVED	
+admin_1	be	be-wlg	2020_04_05	total		2643	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_04_05	new		12	DERIVED	
-admin_1	be	be-wlx	2020_04_05	total		702	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_04_05	new		23	DERIVED	
 admin_1	be	unknown	2020_04_05	total		428	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_06	total	0-9	159	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_06	new	90+	221	DERIVED	
-admin_0		be	2020_04_08	new		1588	DERIVED	
-admin_0		be	2020_04_08	total		28235	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	total_male		12025	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	total_female		16140	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	10-19	7	DERIVED	
-admin_0		be	2020_04_08	total	10-19	240	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	20-29	105	DERIVED	
-admin_0		be	2020_04_08	total	20-29	2280	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	30-39	138	DERIVED	
-admin_0		be	2020_04_08	total	30-39	2976	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	40-49	193	DERIVED	
-admin_0		be	2020_04_08	total	40-49	4011	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	50-59	231	DERIVED	
-admin_0		be	2020_04_08	total	50-59	4827	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	60-69	106	DERIVED	
-admin_0		be	2020_04_08	total	60-69	3377	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	70-79	174	DERIVED	
-admin_0		be	2020_04_08	total	70-79	3551	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_08	new	80-89	390	DERIVED	
-admin_0		be	2020_04_08	total	80-89	4731	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_08	new		216	DERIVED	
-admin_1	be	be-van	2020_04_08	total		3519	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_08	new		214	DERIVED	
-admin_1	be	be-vli	2020_04_08	total		3416	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_08	new		169	DERIVED	
-admin_1	be	be-vov	2020_04_08	total		3255	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_08	new		172	DERIVED	
-admin_1	be	be-vwv	2020_04_08	total		2990	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_04_08	new		40	DERIVED	
-admin_1	be	be-wbr	2020_04_08	total		713	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_08	new		160	DERIVED	
-admin_1	be	be-wlg	2020_04_08	total		3195	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_07	new	10-19	10	DERIVED	
+admin_0		be	2020_04_07	total	10-19	233	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_04_07	new		33	DERIVED	
+admin_1	be	be-wbr	2020_04_07	total		673	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_07	total		801	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new		2228	DERIVED	
+admin_0		be	2020_04_09	total		30463	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	total_male		12645	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	total_female		17745	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	20-29	182	DERIVED	
+admin_0		be	2020_04_09	total	20-29	2462	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	30-39	194	DERIVED	
+admin_0		be	2020_04_09	total	30-39	3170	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	40-49	214	DERIVED	
+admin_0		be	2020_04_09	total	40-49	4225	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	50-59	231	DERIVED	
+admin_0		be	2020_04_09	total	50-59	5058	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	60-69	138	DERIVED	
+admin_0		be	2020_04_09	total	60-69	3515	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	70-79	241	DERIVED	
+admin_0		be	2020_04_09	total	70-79	3792	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	new	80-89	642	DERIVED	
+admin_0		be	2020_04_09	total	80-89	5373	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_09	total	90+	2365	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_09	new		162	DERIVED	
+admin_1	be	be-bru	2020_04_09	total		3164	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_09	new		302	DERIVED	
+admin_1	be	be-van	2020_04_09	total		3821	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_09	new		173	DERIVED	
+admin_1	be	be-vbr	2020_04_09	total		3022	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_09	new		363	DERIVED	
+admin_1	be	be-vov	2020_04_09	total		3618	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_09	new		286	DERIVED	
+admin_1	be	be-vwv	2020_04_09	total		3276	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_09	new		261	DERIVED	
+admin_1	be	be-wht	2020_04_09	total		3243	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_09	new		55	DERIVED	
+admin_1	be	be-wna	2020_04_09	total		998	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_10	new	0-9	3	DERIVED	
-admin_0		be	2020_04_10	total	90+	2710	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_10	total	NA	66	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_04_10	new		141	DERIVED	
-admin_1	be	be-bru	2020_04_10	total		3305	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_04_10	new		227	DERIVED	
-admin_1	be	be-vbr	2020_04_10	total		3249	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_04_10	new		232	DERIVED	
-admin_1	be	be-wht	2020_04_10	total		3475	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_04_10	new		46	DERIVED	
-admin_1	be	be-wna	2020_04_10	total		1044	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_04_11	new		93	DERIVED	
+admin_1	be	be-vli	2020_04_11	total		4088	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_04_11	new		138	DERIVED	
+admin_1	be	be-wlg	2020_04_11	total		3803	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_04_11	new		17	DERIVED	
-admin_1	be	be-wlx	2020_04_11	total		919	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_04_11	new		18	DERIVED	
 admin_1	be	unknown	2020_04_11	total		642	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_12	total	0-9	189	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_12	new	90+	69	DERIVED	
 admin_0		be	2020_04_12	new	NA	2	DERIVED	
-admin_0		be	2020_04_14	new		1564	DERIVED	
-admin_0		be	2020_04_14	total		36419	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	total_male		14417	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	total_female		21914	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	10-19	9	DERIVED	
-admin_0		be	2020_04_14	total	10-19	307	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	20-29	148	DERIVED	
-admin_0		be	2020_04_14	total	20-29	3030	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	30-39	152	DERIVED	
-admin_0		be	2020_04_14	total	30-39	3748	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	40-49	178	DERIVED	
-admin_0		be	2020_04_14	total	40-49	4843	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	50-59	219	DERIVED	
-admin_0		be	2020_04_14	total	50-59	5826	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	60-69	138	DERIVED	
-admin_0		be	2020_04_14	total	60-69	3977	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	70-79	157	DERIVED	
-admin_0		be	2020_04_14	total	70-79	4384	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_14	new	80-89	361	DERIVED	
-admin_0		be	2020_04_14	total	80-89	6823	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_14	new		140	DERIVED	
-admin_1	be	be-van	2020_04_14	total		4469	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_14	new		188	DERIVED	
-admin_1	be	be-vli	2020_04_14	total		4369	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_14	new		139	DERIVED	
-admin_1	be	be-vov	2020_04_14	total		4357	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_14	new		140	DERIVED	
-admin_1	be	be-vwv	2020_04_14	total		4060	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_04_14	new		63	DERIVED	
-admin_1	be	be-wbr	2020_04_14	total		887	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_14	new		212	DERIVED	
-admin_1	be	be-wlg	2020_04_14	total		4154	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_16	total	90+	3814	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_13	new	10-19	3	DERIVED	
+admin_0		be	2020_04_13	total	10-19	298	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_04_13	new		6	DERIVED	
+admin_1	be	be-wbr	2020_04_13	total		824	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_13	total		928	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new		1628	DERIVED	
+admin_0		be	2020_04_15	total		38047	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	total_male		14877	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	total_female		23081	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	20-29	125	DERIVED	
+admin_0		be	2020_04_15	total	20-29	3155	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	30-39	143	DERIVED	
+admin_0		be	2020_04_15	total	30-39	3891	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	40-49	157	DERIVED	
+admin_0		be	2020_04_15	total	40-49	5000	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	50-59	166	DERIVED	
+admin_0		be	2020_04_15	total	50-59	5992	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	60-69	126	DERIVED	
+admin_0		be	2020_04_15	total	60-69	4103	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	70-79	181	DERIVED	
+admin_0		be	2020_04_15	total	70-79	4565	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	new	80-89	434	DERIVED	
+admin_0		be	2020_04_15	total	80-89	7257	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_15	total	90+	3491	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_15	new		138	DERIVED	
+admin_1	be	be-bru	2020_04_15	total		3832	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_15	new		175	DERIVED	
+admin_1	be	be-van	2020_04_15	total		4644	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_15	new		110	DERIVED	
+admin_1	be	be-vbr	2020_04_15	total		3792	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_15	new		157	DERIVED	
+admin_1	be	be-vov	2020_04_15	total		4514	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_15	new		113	DERIVED	
+admin_1	be	be-vwv	2020_04_15	total		4173	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_15	new		143	DERIVED	
+admin_1	be	be-wht	2020_04_15	total		3945	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_15	new		118	DERIVED	
+admin_1	be	be-wna	2020_04_15	total		1305	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_16	total	NA	77	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_04_16	new		192	DERIVED	
-admin_1	be	be-bru	2020_04_16	total		4024	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_04_16	new		128	DERIVED	
-admin_1	be	be-vbr	2020_04_16	total		3920	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_04_16	new		215	DERIVED	
-admin_1	be	be-wht	2020_04_16	total		4160	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_04_16	new		59	DERIVED	
-admin_1	be	be-wna	2020_04_16	total		1364	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_04_17	new		134	DERIVED	
+admin_1	be	be-vli	2020_04_17	total		4725	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_04_17	new		215	DERIVED	
+admin_1	be	be-wlg	2020_04_17	total		4957	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_04_17	new		23	DERIVED	
-admin_1	be	be-wlx	2020_04_17	total		1149	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_04_17	new		31	DERIVED	
 admin_1	be	unknown	2020_04_17	total		888	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_18	new	0-9	5	DERIVED	
 admin_0		be	2020_04_18	total	0-9	210	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_18	new	90+	113	DERIVED	
-admin_0		be	2020_04_19	new		443	DERIVED	
-admin_0		be	2020_04_19	total		42265	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	total_male		16036	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	total_female		26129	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_19	new	10-19	4	DERIVED	
 admin_0		be	2020_04_19	total	10-19	360	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	20-29	18	DERIVED	
-admin_0		be	2020_04_19	total	20-29	3485	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	30-39	45	DERIVED	
-admin_0		be	2020_04_19	total	30-39	4290	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	40-49	37	DERIVED	
-admin_0		be	2020_04_19	total	40-49	5409	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	50-59	35	DERIVED	
-admin_0		be	2020_04_19	total	50-59	6385	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	60-69	25	DERIVED	
-admin_0		be	2020_04_19	total	60-69	4390	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	70-79	57	DERIVED	
-admin_0		be	2020_04_19	total	70-79	5015	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_19	new	80-89	139	DERIVED	
-admin_0		be	2020_04_19	total	80-89	8392	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_19	new		51	DERIVED	
-admin_1	be	be-van	2020_04_19	total		5079	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_19	new		29	DERIVED	
-admin_1	be	be-vli	2020_04_19	total		4803	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_19	new		25	DERIVED	
-admin_1	be	be-vov	2020_04_19	total		4991	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_19	new		33	DERIVED	
-admin_1	be	be-vwv	2020_04_19	total		4596	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_04_19	new		17	DERIVED	
 admin_1	be	be-wbr	2020_04_19	total		1048	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_19	new		93	DERIVED	
-admin_1	be	be-wlg	2020_04_19	total		5195	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_19	total		1163	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new		1272	DERIVED	
+admin_0		be	2020_04_20	total		43537	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	total_male		16391	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	total_female		27043	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	20-29	107	DERIVED	
+admin_0		be	2020_04_20	total	20-29	3592	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	30-39	114	DERIVED	
+admin_0		be	2020_04_20	total	30-39	4404	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	40-49	119	DERIVED	
+admin_0		be	2020_04_20	total	40-49	5528	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	50-59	152	DERIVED	
+admin_0		be	2020_04_20	total	50-59	6537	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	60-69	95	DERIVED	
+admin_0		be	2020_04_20	total	60-69	4485	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	70-79	133	DERIVED	
+admin_0		be	2020_04_20	total	70-79	5148	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	new	80-89	328	DERIVED	
+admin_0		be	2020_04_20	total	80-89	8720	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_20	total	90+	4442	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_20	new	NA	5	DERIVED	
-admin_0		be	2020_04_21	total	90+	4630	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_20	new		151	DERIVED	
+admin_1	be	be-bru	2020_04_20	total		4450	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_20	new		167	DERIVED	
+admin_1	be	be-van	2020_04_20	total		5246	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_20	new		57	DERIVED	
+admin_1	be	be-vbr	2020_04_20	total		4148	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_20	new		117	DERIVED	
+admin_1	be	be-vov	2020_04_20	total		5108	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_20	new		132	DERIVED	
+admin_1	be	be-vwv	2020_04_20	total		4728	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_20	new		166	DERIVED	
+admin_1	be	be-wht	2020_04_20	total		4773	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_20	new		78	DERIVED	
+admin_1	be	be-wna	2020_04_20	total		1566	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_21	total	NA	88	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_04_21	new		115	DERIVED	
-admin_1	be	be-bru	2020_04_21	total		4565	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_04_21	new		105	DERIVED	
-admin_1	be	be-vbr	2020_04_21	total		4253	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_04_21	new		301	DERIVED	
-admin_1	be	be-wht	2020_04_21	total		5074	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_04_21	new		52	DERIVED	
-admin_1	be	be-wna	2020_04_21	total		1618	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_04_22	new		56	DERIVED	
+admin_1	be	be-vli	2020_04_22	total		5065	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_04_22	new		83	DERIVED	
+admin_1	be	be-wlg	2020_04_22	total		5578	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_04_22	new		15	DERIVED	
-admin_1	be	be-wlx	2020_04_22	total		1214	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_04_22	new		13	DERIVED	
 admin_1	be	unknown	2020_04_22	total		978	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_23	new	0-9	5	DERIVED	
 admin_0		be	2020_04_23	total	0-9	237	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_23	new	90+	165	DERIVED	
-admin_0		be	2020_04_24	new		808	DERIVED	
-admin_0		be	2020_04_24	total		47357	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	total_male		17490	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	total_female		29752	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_24	new	10-19	6	DERIVED	
 admin_0		be	2020_04_24	total	10-19	403	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	20-29	75	DERIVED	
-admin_0		be	2020_04_24	total	20-29	3962	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	30-39	73	DERIVED	
-admin_0		be	2020_04_24	total	30-39	4741	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	40-49	102	DERIVED	
-admin_0		be	2020_04_24	total	40-49	5948	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	50-59	100	DERIVED	
-admin_0		be	2020_04_24	total	50-59	6986	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	60-69	52	DERIVED	
-admin_0		be	2020_04_24	total	60-69	4742	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	70-79	73	DERIVED	
-admin_0		be	2020_04_24	total	70-79	5528	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_24	new	80-89	204	DERIVED	
-admin_0		be	2020_04_24	total	80-89	9684	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_24	new		83	DERIVED	
-admin_1	be	be-van	2020_04_24	total		5746	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_24	new		76	DERIVED	
-admin_1	be	be-vli	2020_04_24	total		5205	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_24	new		83	DERIVED	
-admin_1	be	be-vov	2020_04_24	total		5428	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_24	new		55	DERIVED	
-admin_1	be	be-vwv	2020_04_24	total		5113	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_04_24	new		14	DERIVED	
 admin_1	be	be-wbr	2020_04_24	total		1210	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_24	new		73	DERIVED	
-admin_1	be	be-wlg	2020_04_24	total		5865	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_24	total		1237	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new		388	DERIVED	
+admin_0		be	2020_04_25	total		47745	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	total_male		17598	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	total_female		30032	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	20-29	37	DERIVED	
+admin_0		be	2020_04_25	total	20-29	3999	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	30-39	33	DERIVED	
+admin_0		be	2020_04_25	total	30-39	4774	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	40-49	46	DERIVED	
+admin_0		be	2020_04_25	total	40-49	5994	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	50-59	45	DERIVED	
+admin_0		be	2020_04_25	total	50-59	7031	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	60-69	27	DERIVED	
+admin_0		be	2020_04_25	total	60-69	4769	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	70-79	34	DERIVED	
+admin_0		be	2020_04_25	total	70-79	5562	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	new	80-89	97	DERIVED	
+admin_0		be	2020_04_25	total	80-89	9781	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_25	total	90+	5089	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_25	new	NA	2	DERIVED	
-admin_0		be	2020_04_26	total	90+	5112	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_04_26	new		13	DERIVED	
-admin_1	be	be-bru	2020_04_26	total		4929	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_04_26	new		18	DERIVED	
-admin_1	be	be-vbr	2020_04_26	total		4562	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_04_26	new		37	DERIVED	
-admin_1	be	be-wht	2020_04_26	total		5482	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_04_26	new		11	DERIVED	
-admin_1	be	be-wna	2020_04_26	total		1787	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_25	new		32	DERIVED	
+admin_1	be	be-bru	2020_04_25	total		4916	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_25	new		36	DERIVED	
+admin_1	be	be-van	2020_04_25	total		5782	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_25	new		20	DERIVED	
+admin_1	be	be-vbr	2020_04_25	total		4544	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_25	new		40	DERIVED	
+admin_1	be	be-vov	2020_04_25	total		5468	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_25	new		18	DERIVED	
+admin_1	be	be-vwv	2020_04_25	total		5131	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_25	new		43	DERIVED	
+admin_1	be	be-wht	2020_04_25	total		5445	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_25	new		42	DERIVED	
+admin_1	be	be-wna	2020_04_25	total		1776	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_27	total	NA	99	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_04_27	new		59	DERIVED	
+admin_1	be	be-vli	2020_04_27	total		5307	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_04_27	new		46	DERIVED	
+admin_1	be	be-wlg	2020_04_27	total		6022	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_04_27	new		12	DERIVED	
-admin_1	be	be-wlx	2020_04_27	total		1255	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_04_27	new		11	DERIVED	
 admin_1	be	unknown	2020_04_27	total		1031	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_28	new	0-9	4	DERIVED	
 admin_0		be	2020_04_28	total	0-9	256	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_28	new	90+	61	DERIVED	
-admin_0		be	2020_04_29	new		517	DERIVED	
-admin_0		be	2020_04_29	total		49786	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	total_male		18237	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	total_female		31425	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_29	new	10-19	4	DERIVED	
 admin_0		be	2020_04_29	total	10-19	424	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	20-29	61	DERIVED	
-admin_0		be	2020_04_29	total	20-29	4228	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	30-39	65	DERIVED	
-admin_0		be	2020_04_29	total	30-39	5004	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	40-49	62	DERIVED	
-admin_0		be	2020_04_29	total	40-49	6260	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	50-59	77	DERIVED	
-admin_0		be	2020_04_29	total	50-59	7320	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	60-69	39	DERIVED	
-admin_0		be	2020_04_29	total	60-69	4928	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	70-79	69	DERIVED	
-admin_0		be	2020_04_29	total	70-79	5778	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_04_29	new	80-89	87	DERIVED	
-admin_0		be	2020_04_29	total	80-89	10171	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_04_29	new		121	DERIVED	
-admin_1	be	be-van	2020_04_29	total		6218	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_04_29	new		59	DERIVED	
-admin_1	be	be-vli	2020_04_29	total		5410	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_04_29	new		51	DERIVED	
-admin_1	be	be-vov	2020_04_29	total		5712	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_04_29	new		55	DERIVED	
-admin_1	be	be-vwv	2020_04_29	total		5330	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_04_29	new		8	DERIVED	
 admin_1	be	be-wbr	2020_04_29	total		1282	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_04_29	new		43	DERIVED	
-admin_1	be	be-wlg	2020_04_29	total		6123	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_04_29	total		1270	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new		588	DERIVED	
+admin_0		be	2020_04_30	total		50374	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	total_male		18395	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	total_female		31853	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	20-29	53	DERIVED	
+admin_0		be	2020_04_30	total	20-29	4281	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	30-39	59	DERIVED	
+admin_0		be	2020_04_30	total	30-39	5063	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	40-49	77	DERIVED	
+admin_0		be	2020_04_30	total	40-49	6337	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	50-59	78	DERIVED	
+admin_0		be	2020_04_30	total	50-59	7398	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	60-69	47	DERIVED	
+admin_0		be	2020_04_30	total	60-69	4975	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	70-79	55	DERIVED	
+admin_0		be	2020_04_30	total	70-79	5833	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	new	80-89	120	DERIVED	
+admin_0		be	2020_04_30	total	80-89	10291	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_04_30	total	90+	5394	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_04_30	new	NA	2	DERIVED	
-admin_0		be	2020_05_01	total	90+	5426	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_05_01	new		11	DERIVED	
-admin_1	be	be-bru	2020_05_01	total		5198	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_05_01	new		20	DERIVED	
-admin_1	be	be-vbr	2020_05_01	total		4779	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_05_01	new		16	DERIVED	
-admin_1	be	be-wht	2020_05_01	total		5730	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_05_01	new		8	DERIVED	
-admin_1	be	be-wna	2020_05_01	total		1925	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_04_30	new		62	DERIVED	
+admin_1	be	be-bru	2020_04_30	total		5187	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_04_30	new		173	DERIVED	
+admin_1	be	be-van	2020_04_30	total		6391	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_04_30	new		39	DERIVED	
+admin_1	be	be-vbr	2020_04_30	total		4759	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_04_30	new		48	DERIVED	
+admin_1	be	be-vov	2020_04_30	total		5760	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_04_30	new		55	DERIVED	
+admin_1	be	be-vwv	2020_04_30	total		5385	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_04_30	new		68	DERIVED	
+admin_1	be	be-wht	2020_04_30	total		5714	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_04_30	new		21	DERIVED	
+admin_1	be	be-wna	2020_04_30	total		1917	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_02	total	NA	106	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_02	new		27	DERIVED	
+admin_1	be	be-vli	2020_05_02	total		5507	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_02	new		19	DERIVED	
+admin_1	be	be-wlg	2020_05_02	total		6215	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_05_02	new		4	DERIVED	
-admin_1	be	be-wlx	2020_05_02	total		1285	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_02	new		5	DERIVED	
 admin_1	be	unknown	2020_05_02	total		1087	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_03	new	0-9	1	DERIVED	
 admin_0		be	2020_05_03	total	0-9	268	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_03	new	90+	15	DERIVED	
-admin_0		be	2020_05_04	new		670	DERIVED	
-admin_0		be	2020_05_04	total		51706	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	total_male		18861	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	total_female		32715	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_04	new	10-19	5	DERIVED	
 admin_0		be	2020_05_04	total	10-19	451	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	20-29	76	DERIVED	
-admin_0		be	2020_05_04	total	20-29	4434	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	30-39	91	DERIVED	
-admin_0		be	2020_05_04	total	30-39	5232	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	40-49	101	DERIVED	
-admin_0		be	2020_05_04	total	40-49	6512	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	50-59	114	DERIVED	
-admin_0		be	2020_05_04	total	50-59	7592	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	60-69	57	DERIVED	
-admin_0		be	2020_05_04	total	60-69	5082	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	70-79	48	DERIVED	
-admin_0		be	2020_05_04	total	70-79	5936	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_04	new	80-89	118	DERIVED	
-admin_0		be	2020_05_04	total	80-89	10548	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_04	new		168	DERIVED	
-admin_1	be	be-van	2020_05_04	total		6722	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_04	new		43	DERIVED	
-admin_1	be	be-vli	2020_05_04	total		5557	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_04	new		60	DERIVED	
-admin_1	be	be-vov	2020_05_04	total		5874	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_04	new		134	DERIVED	
-admin_1	be	be-vwv	2020_05_04	total		5590	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_04	new		8	DERIVED	
 admin_1	be	be-wbr	2020_05_04	total		1309	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_04	new		50	DERIVED	
-admin_1	be	be-wlg	2020_05_04	total		6275	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_06	total	90+	5640	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_05_06	new		48	DERIVED	
-admin_1	be	be-bru	2020_05_06	total		5402	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_05_06	new		43	DERIVED	
-admin_1	be	be-vbr	2020_05_06	total		4956	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_05_06	new		65	DERIVED	
-admin_1	be	be-wht	2020_05_06	total		5937	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wna	2020_05_06	new		21	DERIVED	
-admin_1	be	be-wna	2020_05_06	total		2044	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_04	total		1293	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new		542	DERIVED	
+admin_0		be	2020_05_05	total		52248	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	total_male		19057	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	total_female		33061	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	20-29	61	DERIVED	
+admin_0		be	2020_05_05	total	20-29	4495	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	30-39	62	DERIVED	
+admin_0		be	2020_05_05	total	30-39	5294	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	40-49	69	DERIVED	
+admin_0		be	2020_05_05	total	40-49	6581	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	50-59	83	DERIVED	
+admin_0		be	2020_05_05	total	50-59	7675	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	60-69	58	DERIVED	
+admin_0		be	2020_05_05	total	60-69	5140	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	70-79	39	DERIVED	
+admin_0		be	2020_05_05	total	70-79	5975	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	new	80-89	95	DERIVED	
+admin_0		be	2020_05_05	total	80-89	10643	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_05	total	90+	5582	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_05_05	new		62	DERIVED	
+admin_1	be	be-bru	2020_05_05	total		5354	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_05	new		139	DERIVED	
+admin_1	be	be-van	2020_05_05	total		6861	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_05_05	new		37	DERIVED	
+admin_1	be	be-vbr	2020_05_05	total		4913	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_05	new		61	DERIVED	
+admin_1	be	be-vov	2020_05_05	total		5935	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_05	new		71	DERIVED	
+admin_1	be	be-vwv	2020_05_05	total		5661	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_05_05	new		45	DERIVED	
+admin_1	be	be-wht	2020_05_05	total		5872	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_05_05	new		35	DERIVED	
+admin_1	be	be-wna	2020_05_05	total		2023	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_07	total	NA	117	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_07	new		39	DERIVED	
+admin_1	be	be-vli	2020_05_07	total		5675	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_07	new		50	DERIVED	
+admin_1	be	be-wlg	2020_05_07	total		6395	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_07	new		9	DERIVED	
 admin_1	be	unknown	2020_05_07	total		1136	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_08	new	0-9	5	DERIVED	
@@ -548,336 +548,331 @@ admin_0		be	2020_05_08	total	0-9	304	https://epistat.wiv-isp.be/covid/
 admin_0		be	2020_05_08	new	90+	41	DERIVED	
 admin_0		be	2020_05_08	new	NA	2	DERIVED	
 admin_1	be	be-wlx	2020_05_08	new		13	DERIVED	
-admin_1	be	be-wlx	2020_05_08	total		1327	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new		240	DERIVED	
-admin_0		be	2020_05_09	total		53968	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	total_male		19708	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	total_female		34127	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_09	new	10-19	11	DERIVED	
 admin_0		be	2020_05_09	total	10-19	540	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	20-29	35	DERIVED	
-admin_0		be	2020_05_09	total	20-29	4728	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	30-39	30	DERIVED	
-admin_0		be	2020_05_09	total	30-39	5505	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	40-49	32	DERIVED	
-admin_0		be	2020_05_09	total	40-49	6796	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	50-59	38	DERIVED	
-admin_0		be	2020_05_09	total	50-59	7943	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	60-69	14	DERIVED	
-admin_0		be	2020_05_09	total	60-69	5277	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	70-79	22	DERIVED	
-admin_0		be	2020_05_09	total	70-79	6132	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_09	new	80-89	38	DERIVED	
-admin_0		be	2020_05_09	total	80-89	10874	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_09	new		41	DERIVED	
-admin_1	be	be-van	2020_05_09	total		7209	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_09	new		15	DERIVED	
-admin_1	be	be-vli	2020_05_09	total		5740	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_09	new		22	DERIVED	
-admin_1	be	be-vov	2020_05_09	total		6094	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_09	new		27	DERIVED	
-admin_1	be	be-vwv	2020_05_09	total		5869	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_09	new		7	DERIVED	
 admin_1	be	be-wbr	2020_05_09	total		1362	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_09	new		41	DERIVED	
-admin_1	be	be-wlg	2020_05_09	total		6473	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_09	total		1331	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new		118	DERIVED	
+admin_0		be	2020_05_10	total		54086	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	total_male		19753	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	total_female		34200	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	20-29	11	DERIVED	
+admin_0		be	2020_05_10	total	20-29	4739	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	30-39	13	DERIVED	
+admin_0		be	2020_05_10	total	30-39	5518	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	40-49	15	DERIVED	
+admin_0		be	2020_05_10	total	40-49	6811	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	50-59	13	DERIVED	
+admin_0		be	2020_05_10	total	50-59	7956	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	60-69	14	DERIVED	
+admin_0		be	2020_05_10	total	60-69	5291	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	70-79	13	DERIVED	
+admin_0		be	2020_05_10	total	70-79	6145	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_10	new	80-89	23	DERIVED	
+admin_0		be	2020_05_10	total	80-89	10897	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_10	total	90+	5754	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_05_10	new		12	DERIVED	
 admin_1	be	be-bru	2020_05_10	total		5518	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_10	new		28	DERIVED	
+admin_1	be	be-van	2020_05_10	total		7237	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_10	new		7	DERIVED	
 admin_1	be	be-vbr	2020_05_10	total		5023	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_10	new		3	DERIVED	
+admin_1	be	be-vov	2020_05_10	total		6097	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_10	new		10	DERIVED	
+admin_1	be	be-vwv	2020_05_10	total		5879	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_10	new		10	DERIVED	
 admin_1	be	be-wht	2020_05_10	total		6075	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_10	new		3	DERIVED	
 admin_1	be	be-wna	2020_05_10	total		2123	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_11	total	NA	120	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_11	new		54	DERIVED	
+admin_1	be	be-vli	2020_05_11	total		5803	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_11	new		23	DERIVED	
+admin_1	be	be-wlg	2020_05_11	total		6521	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_11	new		17	DERIVED	
 admin_1	be	unknown	2020_05_11	total		1205	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_12	new	0-9	7	DERIVED	
 admin_0		be	2020_05_12	total	0-9	324	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_12	new	90+	30	DERIVED	
 admin_1	be	be-wlx	2020_05_12	new		6	DERIVED	
-admin_1	be	be-wlx	2020_05_12	total		1344	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new		318	DERIVED	
-admin_0		be	2020_05_13	total		55273	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	total_male		20216	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	total_female		34921	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_13	new	10-19	8	DERIVED	
 admin_0		be	2020_05_13	total	10-19	594	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	20-29	40	DERIVED	
-admin_0		be	2020_05_13	total	20-29	4891	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	30-39	47	DERIVED	
-admin_0		be	2020_05_13	total	30-39	5658	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	40-49	28	DERIVED	
-admin_0		be	2020_05_13	total	40-49	6964	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	50-59	53	DERIVED	
-admin_0		be	2020_05_13	total	50-59	8152	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	60-69	38	DERIVED	
-admin_0		be	2020_05_13	total	60-69	5412	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	70-79	24	DERIVED	
-admin_0		be	2020_05_13	total	70-79	6226	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_13	new	80-89	44	DERIVED	
-admin_0		be	2020_05_13	total	80-89	11075	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_13	new		56	DERIVED	
-admin_1	be	be-van	2020_05_13	total		7466	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_13	new		31	DERIVED	
-admin_1	be	be-vli	2020_05_13	total		5863	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_13	new		19	DERIVED	
-admin_1	be	be-vov	2020_05_13	total		6206	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_13	new		56	DERIVED	
-admin_1	be	be-vwv	2020_05_13	total		6098	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_13	new		8	DERIVED	
 admin_1	be	be-wbr	2020_05_13	total		1387	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_13	new		22	DERIVED	
-admin_1	be	be-wlg	2020_05_13	total		6575	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new		304	DERIVED	
+admin_0		be	2020_05_14	total		55577	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	total_male		20341	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	total_female		35099	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	20-29	49	DERIVED	
+admin_0		be	2020_05_14	total	20-29	4940	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	30-39	57	DERIVED	
+admin_0		be	2020_05_14	total	30-39	5715	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	40-49	35	DERIVED	
+admin_0		be	2020_05_14	total	40-49	6999	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	50-59	31	DERIVED	
+admin_0		be	2020_05_14	total	50-59	8183	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	60-69	21	DERIVED	
+admin_0		be	2020_05_14	total	60-69	5433	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	70-79	23	DERIVED	
+admin_0		be	2020_05_14	total	70-79	6249	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_14	new	80-89	34	DERIVED	
+admin_0		be	2020_05_14	total	80-89	11109	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_14	total	90+	5872	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_14	new	NA	3	DERIVED	
 admin_1	be	be-bru	2020_05_14	new		41	DERIVED	
 admin_1	be	be-bru	2020_05_14	total		5654	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_14	new		48	DERIVED	
+admin_1	be	be-van	2020_05_14	total		7514	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_14	new		16	DERIVED	
 admin_1	be	be-vbr	2020_05_14	total		5125	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_14	new		28	DERIVED	
+admin_1	be	be-vov	2020_05_14	total		6234	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_14	new		53	DERIVED	
+admin_1	be	be-vwv	2020_05_14	total		6151	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_14	new		33	DERIVED	
 admin_1	be	be-wht	2020_05_14	total		6229	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_14	total		1353	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_14	new		11	DERIVED	
 admin_1	be	be-wna	2020_05_14	total		2199	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_15	total	NA	131	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_15	new		33	DERIVED	
+admin_1	be	be-vli	2020_05_15	total		5921	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_15	new		29	DERIVED	
+admin_1	be	be-wlg	2020_05_15	total		6631	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_15	new		19	DERIVED	
 admin_1	be	unknown	2020_05_15	total		1251	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_16	new	0-9	5	DERIVED	
 admin_0		be	2020_05_16	total	0-9	352	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_16	new	90+	5	DERIVED	
 admin_1	be	be-wlx	2020_05_16	new		2	DERIVED	
-admin_1	be	be-wlx	2020_05_16	total		1358	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new		81	DERIVED	
-admin_0		be	2020_05_17	total		56149	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	total_male		20582	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	total_female		35427	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_17	new	10-19	1	DERIVED	
 admin_0		be	2020_05_17	total	10-19	634	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	20-29	11	DERIVED	
-admin_0		be	2020_05_17	total	20-29	5014	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	30-39	12	DERIVED	
-admin_0		be	2020_05_17	total	30-39	5795	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	40-49	17	DERIVED	
-admin_0		be	2020_05_17	total	40-49	7078	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	50-59	12	DERIVED	
-admin_0		be	2020_05_17	total	50-59	8271	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	60-69	8	DERIVED	
-admin_0		be	2020_05_17	total	60-69	5490	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	70-79	10	DERIVED	
-admin_0		be	2020_05_17	total	70-79	6298	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_17	new	80-89	8	DERIVED	
-admin_0		be	2020_05_17	total	80-89	11179	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_17	new		17	DERIVED	
-admin_1	be	be-van	2020_05_17	total		7621	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_17	new		9	DERIVED	
-admin_1	be	be-vli	2020_05_17	total		5940	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_17	new		6	DERIVED	
-admin_1	be	be-vov	2020_05_17	total		6293	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_17	new		18	DERIVED	
-admin_1	be	be-vwv	2020_05_17	total		6262	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_17	new		3	DERIVED	
 admin_1	be	be-wbr	2020_05_17	total		1408	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_17	new		7	DERIVED	
-admin_1	be	be-wlg	2020_05_17	total		6651	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new		315	DERIVED	
+admin_0		be	2020_05_18	total		56464	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	total_male		20706	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	total_female		35618	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	20-29	56	DERIVED	
+admin_0		be	2020_05_18	total	20-29	5070	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	30-39	40	DERIVED	
+admin_0		be	2020_05_18	total	30-39	5835	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	40-49	46	DERIVED	
+admin_0		be	2020_05_18	total	40-49	7124	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	50-59	40	DERIVED	
+admin_0		be	2020_05_18	total	50-59	8311	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	60-69	22	DERIVED	
+admin_0		be	2020_05_18	total	60-69	5512	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	70-79	25	DERIVED	
+admin_0		be	2020_05_18	total	70-79	6323	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_18	new	80-89	43	DERIVED	
+admin_0		be	2020_05_18	total	80-89	11222	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_18	total	90+	5922	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_18	new	NA	2	DERIVED	
 admin_1	be	be-bru	2020_05_18	new		32	DERIVED	
 admin_1	be	be-bru	2020_05_18	total		5737	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_18	new		72	DERIVED	
+admin_1	be	be-van	2020_05_18	total		7693	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_18	new		20	DERIVED	
 admin_1	be	be-vbr	2020_05_18	total		5175	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_18	new		41	DERIVED	
+admin_1	be	be-vov	2020_05_18	total		6334	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_18	new		32	DERIVED	
+admin_1	be	be-vwv	2020_05_18	total		6294	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_18	new		28	DERIVED	
 admin_1	be	be-wht	2020_05_18	total		6318	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_18	total		1361	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_18	new		10	DERIVED	
 admin_1	be	be-wna	2020_05_18	total		2225	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_19	new		45	DERIVED	
+admin_1	be	be-vli	2020_05_19	total		6035	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_19	new		25	DERIVED	
+admin_1	be	be-wlg	2020_05_19	total		6686	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_20	new	0-9	9	DERIVED	
 admin_0		be	2020_05_20	total	0-9	384	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_20	total	NA	138	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_05_20	new		6	DERIVED	
-admin_1	be	be-wlx	2020_05_20	total		1373	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new		71	DERIVED	
-admin_0		be	2020_05_21	total		57213	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	total_male		20984	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	total_female		36089	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_21	new	10-19	6	DERIVED	
 admin_0		be	2020_05_21	total	10-19	676	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	20-29	10	DERIVED	
-admin_0		be	2020_05_21	total	20-29	5183	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	30-39	7	DERIVED	
-admin_0		be	2020_05_21	total	30-39	5929	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	40-49	8	DERIVED	
-admin_0		be	2020_05_21	total	40-49	7234	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	50-59	13	DERIVED	
-admin_0		be	2020_05_21	total	50-59	8419	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	60-69	4	DERIVED	
-admin_0		be	2020_05_21	total	60-69	5561	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	70-79	1	DERIVED	
-admin_0		be	2020_05_21	total	70-79	6382	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_21	new	80-89	16	DERIVED	
-admin_0		be	2020_05_21	total	80-89	11328	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_21	new		9	DERIVED	
-admin_1	be	be-van	2020_05_21	total		7825	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_21	new		8	DERIVED	
-admin_1	be	be-vli	2020_05_21	total		6077	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_21	new		7	DERIVED	
-admin_1	be	be-vov	2020_05_21	total		6422	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_21	new		13	DERIVED	
-admin_1	be	be-vwv	2020_05_21	total		6394	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_21	new		2	DERIVED	
 admin_1	be	be-wbr	2020_05_21	total		1434	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_21	new		4	DERIVED	
-admin_1	be	be-wlg	2020_05_21	total		6720	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_21	total		1292	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new		248	DERIVED	
+admin_0		be	2020_05_22	total		57461	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	total_male		21082	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	total_female		36234	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	20-29	30	DERIVED	
+admin_0		be	2020_05_22	total	20-29	5213	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	30-39	39	DERIVED	
+admin_0		be	2020_05_22	total	30-39	5968	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	40-49	25	DERIVED	
+admin_0		be	2020_05_22	total	40-49	7259	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	50-59	42	DERIVED	
+admin_0		be	2020_05_22	total	50-59	8461	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	60-69	24	DERIVED	
+admin_0		be	2020_05_22	total	60-69	5585	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	70-79	22	DERIVED	
+admin_0		be	2020_05_22	total	70-79	6404	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_22	new	80-89	27	DERIVED	
+admin_0		be	2020_05_22	total	80-89	11355	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_22	new	90+	17	DERIVED	
 admin_0		be	2020_05_22	total	90+	5994	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_22	new	NA	1	DERIVED	
 admin_1	be	be-bru	2020_05_22	new		27	DERIVED	
 admin_1	be	be-bru	2020_05_22	total		5842	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_22	new		49	DERIVED	
+admin_1	be	be-van	2020_05_22	total		7874	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_22	new		17	DERIVED	
 admin_1	be	be-vbr	2020_05_22	total		5228	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_22	new		32	DERIVED	
+admin_1	be	be-vov	2020_05_22	total		6454	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_22	new		44	DERIVED	
+admin_1	be	be-vwv	2020_05_22	total		6438	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_22	new		20	DERIVED	
 admin_1	be	be-wht	2020_05_22	total		6420	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_22	total		1374	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_22	new		5	DERIVED	
 admin_1	be	be-wna	2020_05_22	total		2255	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_22	new		8	DERIVED	
+admin_1	be	be-vli	2020_05_23	new		11	DERIVED	
+admin_1	be	be-vli	2020_05_23	total		6112	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_23	new		15	DERIVED	
+admin_1	be	be-wlg	2020_05_23	total		6752	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_24	total	NA	142	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_05_24	total		1375	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new		312	DERIVED	
-admin_0		be	2020_05_25	total		57970	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	total_male		21285	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	total_female		36539	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_25	new	0-9	4	DERIVED	
 admin_0		be	2020_05_25	total	0-9	404	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_25	new	10-19	16	DERIVED	
 admin_0		be	2020_05_25	total	10-19	713	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	20-29	30	DERIVED	
-admin_0		be	2020_05_25	total	20-29	5269	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	30-39	39	DERIVED	
-admin_0		be	2020_05_25	total	30-39	6028	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	40-49	46	DERIVED	
-admin_0		be	2020_05_25	total	40-49	7332	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	50-59	51	DERIVED	
-admin_0		be	2020_05_25	total	50-59	8532	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	60-69	30	DERIVED	
-admin_0		be	2020_05_25	total	60-69	5637	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	70-79	42	DERIVED	
-admin_0		be	2020_05_25	total	70-79	6458	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_25	new	80-89	37	DERIVED	
-admin_0		be	2020_05_25	total	80-89	11435	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_25	new		50	DERIVED	
-admin_1	be	be-van	2020_05_25	total		7958	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_25	new		29	DERIVED	
-admin_1	be	be-vli	2020_05_25	total		6155	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_25	new		55	DERIVED	
-admin_1	be	be-vov	2020_05_25	total		6543	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_25	new		36	DERIVED	
-admin_1	be	be-vwv	2020_05_25	total		6494	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_25	new		5	DERIVED	
 admin_1	be	be-wbr	2020_05_25	total		1452	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_25	new		9	DERIVED	
-admin_1	be	be-wlg	2020_05_25	total		6768	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_25	total		1309	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new		202	DERIVED	
+admin_0		be	2020_05_26	total		58172	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	total_male		21378	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	total_female		36648	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	20-29	41	DERIVED	
+admin_0		be	2020_05_26	total	20-29	5310	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	30-39	24	DERIVED	
+admin_0		be	2020_05_26	total	30-39	6052	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	40-49	16	DERIVED	
+admin_0		be	2020_05_26	total	40-49	7348	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	50-59	40	DERIVED	
+admin_0		be	2020_05_26	total	50-59	8572	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	60-69	19	DERIVED	
+admin_0		be	2020_05_26	total	60-69	5656	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	70-79	16	DERIVED	
+admin_0		be	2020_05_26	total	70-79	6474	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_26	new	80-89	26	DERIVED	
+admin_0		be	2020_05_26	total	80-89	11461	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_26	new	90+	4	DERIVED	
 admin_0		be	2020_05_26	total	90+	6024	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_05_26	new		18	DERIVED	
 admin_1	be	be-bru	2020_05_26	total		5909	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_26	new		34	DERIVED	
+admin_1	be	be-van	2020_05_26	total		7992	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_26	new		15	DERIVED	
 admin_1	be	be-vbr	2020_05_26	total		5266	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_26	new		32	DERIVED	
+admin_1	be	be-vov	2020_05_26	total		6575	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_26	new		29	DERIVED	
+admin_1	be	be-vwv	2020_05_26	total		6523	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_26	new		16	DERIVED	
 admin_1	be	be-wht	2020_05_26	total		6519	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_26	new		2	DERIVED	
 admin_1	be	be-wna	2020_05_26	total		2273	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_05_28	new		2	DERIVED	
-admin_1	be	be-wlx	2020_05_28	total		1386	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new		165	DERIVED	
-admin_0		be	2020_05_29	total		58690	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	total_male		21595	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	total_female		36948	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_27	new		24	DERIVED	
+admin_1	be	be-vli	2020_05_27	total		6206	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_27	new		23	DERIVED	
+admin_1	be	be-wlg	2020_05_27	total		6807	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_05_27	new		1	DERIVED	
+admin_1	be	be-wlx	2020_05_27	total		1384	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_29	new	0-9	6	DERIVED	
 admin_0		be	2020_05_29	total	0-9	428	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_29	new	10-19	10	DERIVED	
 admin_0		be	2020_05_29	total	10-19	749	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	20-29	22	DERIVED	
-admin_0		be	2020_05_29	total	20-29	5377	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	30-39	23	DERIVED	
-admin_0		be	2020_05_29	total	30-39	6118	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	40-49	22	DERIVED	
-admin_0		be	2020_05_29	total	40-49	7423	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	50-59	23	DERIVED	
-admin_0		be	2020_05_29	total	50-59	8644	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	60-69	15	DERIVED	
-admin_0		be	2020_05_29	total	60-69	5704	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	70-79	12	DERIVED	
-admin_0		be	2020_05_29	total	70-79	6521	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_05_29	new	80-89	19	DERIVED	
-admin_0		be	2020_05_29	total	80-89	11524	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_05_29	new		29	DERIVED	
-admin_1	be	be-van	2020_05_29	total		8084	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_05_29	new		15	DERIVED	
-admin_1	be	be-vli	2020_05_29	total		6239	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_05_29	new		8	DERIVED	
-admin_1	be	be-vov	2020_05_29	total		6618	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_05_29	new		25	DERIVED	
-admin_1	be	be-vwv	2020_05_29	total		6595	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_05_29	new		5	DERIVED	
 admin_1	be	be-wbr	2020_05_29	total		1465	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_05_29	new		8	DERIVED	
-admin_1	be	be-wlg	2020_05_29	total		6820	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_05_29	new		8	DERIVED	
 admin_1	be	unknown	2020_05_29	total		1340	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new		61	DERIVED	
+admin_0		be	2020_05_30	total		58751	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	total_male		21611	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	total_female		36993	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	20-29	12	DERIVED	
+admin_0		be	2020_05_30	total	20-29	5389	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	30-39	7	DERIVED	
+admin_0		be	2020_05_30	total	30-39	6125	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	40-49	5	DERIVED	
+admin_0		be	2020_05_30	total	40-49	7428	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	50-59	10	DERIVED	
+admin_0		be	2020_05_30	total	50-59	8654	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	60-69	4	DERIVED	
+admin_0		be	2020_05_30	total	60-69	5708	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	70-79	6	DERIVED	
+admin_0		be	2020_05_30	total	70-79	6527	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_05_30	new	80-89	10	DERIVED	
+admin_0		be	2020_05_30	total	80-89	11534	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_30	new	90+	6	DERIVED	
 admin_0		be	2020_05_30	total	90+	6065	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_05_30	new		7	DERIVED	
 admin_1	be	be-bru	2020_05_30	total		5979	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_05_30	new		8	DERIVED	
+admin_1	be	be-van	2020_05_30	total		8092	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_05_30	new		7	DERIVED	
 admin_1	be	be-vbr	2020_05_30	total		5305	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_05_30	new		10	DERIVED	
+admin_1	be	be-vov	2020_05_30	total		6628	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_05_30	new		2	DERIVED	
+admin_1	be	be-vwv	2020_05_30	total		6597	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_05_30	new		3	DERIVED	
 admin_1	be	be-wht	2020_05_30	total		6577	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_05_30	new		2	DERIVED	
 admin_1	be	be-wna	2020_05_30	total		2294	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_05_31	total	NA	144	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_05_31	new		7	DERIVED	
+admin_1	be	be-vli	2020_05_31	total		6258	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_05_31	new		7	DERIVED	
+admin_1	be	be-wlg	2020_05_31	total		6833	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_05_31	new		3	DERIVED	
 admin_1	be	be-wlx	2020_05_31	total		1397	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new		59	DERIVED	
-admin_0		be	2020_06_01	total		58859	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	total_male		21658	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	total_female		37053	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_01	new	0-9	3	DERIVED	
 admin_0		be	2020_06_01	total	0-9	432	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_01	new	10-19	1	DERIVED	
 admin_0		be	2020_06_01	total	10-19	752	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	20-29	6	DERIVED	
-admin_0		be	2020_06_01	total	20-29	5406	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	30-39	8	DERIVED	
-admin_0		be	2020_06_01	total	30-39	6138	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	40-49	7	DERIVED	
-admin_0		be	2020_06_01	total	40-49	7442	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	50-59	5	DERIVED	
-admin_0		be	2020_06_01	total	50-59	8665	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	60-69	12	DERIVED	
-admin_0		be	2020_06_01	total	60-69	5723	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	70-79	7	DERIVED	
-admin_0		be	2020_06_01	total	70-79	6540	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_01	new	80-89	7	DERIVED	
-admin_0		be	2020_06_01	total	80-89	11549	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_01	new		9	DERIVED	
-admin_1	be	be-van	2020_06_01	total		8108	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_01	new		8	DERIVED	
-admin_1	be	be-vli	2020_06_01	total		6266	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_01	new		12	DERIVED	
-admin_1	be	be-vov	2020_06_01	total		6643	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_01	new		5	DERIVED	
-admin_1	be	be-vwv	2020_06_01	total		6606	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_01	new		2	DERIVED	
 admin_1	be	be-wbr	2020_06_01	total		1472	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_01	new		5	DERIVED	
-admin_1	be	be-wlg	2020_06_01	total		6838	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new		178	DERIVED	
+admin_0		be	2020_06_02	total		59037	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	total_male		21731	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	total_female		37157	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	20-29	22	DERIVED	
+admin_0		be	2020_06_02	total	20-29	5428	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	30-39	24	DERIVED	
+admin_0		be	2020_06_02	total	30-39	6162	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	40-49	26	DERIVED	
+admin_0		be	2020_06_02	total	40-49	7468	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	50-59	27	DERIVED	
+admin_0		be	2020_06_02	total	50-59	8692	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	60-69	18	DERIVED	
+admin_0		be	2020_06_02	total	60-69	5741	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	70-79	14	DERIVED	
+admin_0		be	2020_06_02	total	70-79	6554	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_02	new	80-89	19	DERIVED	
+admin_0		be	2020_06_02	total	80-89	11568	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_02	new	90+	6	DERIVED	
 admin_0		be	2020_06_02	total	90+	6074	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_02	new		23	DERIVED	
 admin_1	be	be-bru	2020_06_02	total		6014	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_02	new		25	DERIVED	
+admin_1	be	be-van	2020_06_02	total		8133	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_02	new		12	DERIVED	
 admin_1	be	be-vbr	2020_06_02	total		5322	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_02	new		21	DERIVED	
+admin_1	be	be-vov	2020_06_02	total		6664	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_02	new		14	DERIVED	
+admin_1	be	be-vwv	2020_06_02	total		6620	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_02	new		18	DERIVED	
 admin_1	be	be-wht	2020_06_02	total		6605	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_02	new		6	DERIVED	
@@ -885,48 +880,48 @@ admin_1	be	be-wna	2020_06_02	total		2305	https://epistat.wiv-isp.be/covid/
 admin_1	be	unknown	2020_06_02	total		1360	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_03	new	NA	2	DERIVED	
 admin_0		be	2020_06_03	total	NA	149	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_03	new		21	DERIVED	
+admin_1	be	be-vli	2020_06_03	total		6310	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_03	new		7	DERIVED	
+admin_1	be	be-wlg	2020_06_03	total		6856	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_03	new		1	DERIVED	
 admin_1	be	be-wlx	2020_06_03	total		1404	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new		168	DERIVED	
-admin_0		be	2020_06_04	total		59364	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	total_male		21865	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	total_female		37346	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_04	new	0-9	6	DERIVED	
 admin_0		be	2020_06_04	total	0-9	453	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_04	new	10-19	9	DERIVED	
 admin_0		be	2020_06_04	total	10-19	782	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	20-29	19	DERIVED	
-admin_0		be	2020_06_04	total	20-29	5477	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	30-39	21	DERIVED	
-admin_0		be	2020_06_04	total	30-39	6208	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	40-49	28	DERIVED	
-admin_0		be	2020_06_04	total	40-49	7519	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	50-59	17	DERIVED	
-admin_0		be	2020_06_04	total	50-59	8727	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	60-69	16	DERIVED	
-admin_0		be	2020_06_04	total	60-69	5771	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	70-79	13	DERIVED	
-admin_0		be	2020_06_04	total	70-79	6583	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_04	new	80-89	28	DERIVED	
-admin_0		be	2020_06_04	total	80-89	11607	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_04	new		29	DERIVED	
-admin_1	be	be-van	2020_06_04	total		8192	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_04	new		21	DERIVED	
-admin_1	be	be-vli	2020_06_04	total		6331	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_04	new		18	DERIVED	
-admin_1	be	be-vov	2020_06_04	total		6695	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_04	new		24	DERIVED	
-admin_1	be	be-vwv	2020_06_04	total		6660	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_04	new		7	DERIVED	
 admin_1	be	be-wbr	2020_06_04	total		1487	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_04	new		7	DERIVED	
-admin_1	be	be-wlg	2020_06_04	total		6863	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new		155	DERIVED	
+admin_0		be	2020_06_05	total		59519	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	total_male		21938	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	total_female		37428	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	20-29	30	DERIVED	
+admin_0		be	2020_06_05	total	20-29	5507	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	30-39	25	DERIVED	
+admin_0		be	2020_06_05	total	30-39	6233	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	40-49	23	DERIVED	
+admin_0		be	2020_06_05	total	40-49	7542	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	50-59	21	DERIVED	
+admin_0		be	2020_06_05	total	50-59	8748	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	60-69	13	DERIVED	
+admin_0		be	2020_06_05	total	60-69	5784	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	70-79	14	DERIVED	
+admin_0		be	2020_06_05	total	70-79	6597	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_05	new	80-89	13	DERIVED	
+admin_0		be	2020_06_05	total	80-89	11620	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_05	new	90+	5	DERIVED	
 admin_0		be	2020_06_05	total	90+	6093	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_05	new		24	DERIVED	
 admin_1	be	be-bru	2020_06_05	total		6084	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_05	new		21	DERIVED	
+admin_1	be	be-van	2020_06_05	total		8213	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_05	new		14	DERIVED	
 admin_1	be	be-vbr	2020_06_05	total		5365	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_05	new		12	DERIVED	
+admin_1	be	be-vov	2020_06_05	total		6707	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_05	new		8	DERIVED	
+admin_1	be	be-vwv	2020_06_05	total		6668	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_05	new		20	DERIVED	
 admin_1	be	be-wht	2020_06_05	total		6647	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_05	new		6	DERIVED	
@@ -934,242 +929,241 @@ admin_1	be	be-wna	2020_06_05	total		2320	https://epistat.wiv-isp.be/covid/
 admin_1	be	unknown	2020_06_05	new		4	DERIVED	
 admin_1	be	unknown	2020_06_05	total		1383	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_06	total	NA	150	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_06	new		18	DERIVED	
+admin_1	be	be-vli	2020_06_06	total		6372	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_06	new		8	DERIVED	
+admin_1	be	be-wlg	2020_06_06	total		6889	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_06	new		1	DERIVED	
 admin_1	be	be-wlx	2020_06_06	total		1408	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new		53	DERIVED	
-admin_0		be	2020_06_07	total		59641	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	total_male		21990	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	total_female		37498	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_07	new	0-9	3	DERIVED	
 admin_0		be	2020_06_07	total	0-9	461	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_07	new	10-19	3	DERIVED	
 admin_0		be	2020_06_07	total	10-19	798	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	20-29	5	DERIVED	
-admin_0		be	2020_06_07	total	20-29	5521	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	30-39	10	DERIVED	
-admin_0		be	2020_06_07	total	30-39	6256	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	40-49	5	DERIVED	
-admin_0		be	2020_06_07	total	40-49	7556	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	50-59	7	DERIVED	
-admin_0		be	2020_06_07	total	50-59	8763	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	60-69	9	DERIVED	
-admin_0		be	2020_06_07	total	60-69	5800	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	70-79	3	DERIVED	
-admin_0		be	2020_06_07	total	70-79	6604	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_07	new	80-89	4	DERIVED	
-admin_0		be	2020_06_07	total	80-89	11632	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_07	new		5	DERIVED	
-admin_1	be	be-van	2020_06_07	total		8228	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_07	new		15	DERIVED	
-admin_1	be	be-vli	2020_06_07	total		6387	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_07	new		6	DERIVED	
-admin_1	be	be-vov	2020_06_07	total		6720	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_07	new		2	DERIVED	
-admin_1	be	be-vwv	2020_06_07	total		6676	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_07	new		1	DERIVED	
 admin_1	be	be-wbr	2020_06_07	total		1495	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_07	new		8	DERIVED	
-admin_1	be	be-wlg	2020_06_07	total		6897	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new		152	DERIVED	
+admin_0		be	2020_06_08	total		59793	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	total_male		22056	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	total_female		37582	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	20-29	20	DERIVED	
+admin_0		be	2020_06_08	total	20-29	5541	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	30-39	24	DERIVED	
+admin_0		be	2020_06_08	total	30-39	6280	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	40-49	24	DERIVED	
+admin_0		be	2020_06_08	total	40-49	7580	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	50-59	18	DERIVED	
+admin_0		be	2020_06_08	total	50-59	8781	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	60-69	15	DERIVED	
+admin_0		be	2020_06_08	total	60-69	5815	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	70-79	15	DERIVED	
+admin_0		be	2020_06_08	total	70-79	6619	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_08	new	80-89	14	DERIVED	
+admin_0		be	2020_06_08	total	80-89	11646	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_08	new	90+	6	DERIVED	
 admin_0		be	2020_06_08	total	90+	6105	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_08	new		22	DERIVED	
 admin_1	be	be-bru	2020_06_08	total		6115	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_08	new		22	DERIVED	
+admin_1	be	be-van	2020_06_08	total		8250	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_08	new		20	DERIVED	
 admin_1	be	be-vbr	2020_06_08	total		5394	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_08	new		12	DERIVED	
+admin_1	be	be-vov	2020_06_08	total		6732	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_08	new		17	DERIVED	
+admin_1	be	be-vwv	2020_06_08	total		6693	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_08	new		13	DERIVED	
 admin_1	be	be-wht	2020_06_08	total		6672	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_08	new		6	DERIVED	
 admin_1	be	unknown	2020_06_08	total		1390	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_09	new	NA	3	DERIVED	
 admin_0		be	2020_06_09	total	NA	156	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new		116	DERIVED	
-admin_0		be	2020_06_10	total		60054	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	total_male		22173	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	total_female		37726	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_09	new		16	DERIVED	
+admin_1	be	be-vli	2020_06_09	total		6420	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_09	new		6	DERIVED	
+admin_1	be	be-wlg	2020_06_09	total		6919	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_06_09	total		1419	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_10	new	0-9	10	DERIVED	
 admin_0		be	2020_06_10	total	0-9	485	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_10	new	10-19	5	DERIVED	
 admin_0		be	2020_06_10	total	10-19	820	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	20-29	20	DERIVED	
-admin_0		be	2020_06_10	total	20-29	5583	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	30-39	14	DERIVED	
-admin_0		be	2020_06_10	total	30-39	6317	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	40-49	17	DERIVED	
-admin_0		be	2020_06_10	total	40-49	7611	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	50-59	16	DERIVED	
-admin_0		be	2020_06_10	total	50-59	8817	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	60-69	6	DERIVED	
-admin_0		be	2020_06_10	total	60-69	5840	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	70-79	10	DERIVED	
-admin_0		be	2020_06_10	total	70-79	6642	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_10	new	80-89	14	DERIVED	
-admin_0		be	2020_06_10	total	80-89	11668	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_10	new		14	DERIVED	
-admin_1	be	be-van	2020_06_10	total		8284	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_10	new		12	DERIVED	
-admin_1	be	be-vli	2020_06_10	total		6432	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_10	new		9	DERIVED	
-admin_1	be	be-vov	2020_06_10	total		6753	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_10	new		8	DERIVED	
-admin_1	be	be-vwv	2020_06_10	total		6717	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_10	new		4	DERIVED	
 admin_1	be	be-wbr	2020_06_10	total		1503	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_10	new		4	DERIVED	
-admin_1	be	be-wlg	2020_06_10	total		6923	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_10	new		1	DERIVED	
-admin_1	be	be-wlx	2020_06_10	total		1420	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_10	new		3	DERIVED	
 admin_1	be	be-wna	2020_06_10	total		2331	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new		95	DERIVED	
+admin_0		be	2020_06_11	total		60149	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	total_male		22204	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	total_female		37790	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	20-29	17	DERIVED	
+admin_0		be	2020_06_11	total	20-29	5600	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	30-39	10	DERIVED	
+admin_0		be	2020_06_11	total	30-39	6327	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	40-49	13	DERIVED	
+admin_0		be	2020_06_11	total	40-49	7624	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	50-59	15	DERIVED	
+admin_0		be	2020_06_11	total	50-59	8832	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	60-69	9	DERIVED	
+admin_0		be	2020_06_11	total	60-69	5849	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	70-79	4	DERIVED	
+admin_0		be	2020_06_11	total	70-79	6646	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_11	new	80-89	12	DERIVED	
+admin_0		be	2020_06_11	total	80-89	11680	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_11	new	90+	3	DERIVED	
 admin_0		be	2020_06_11	total	90+	6118	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_11	new		15	DERIVED	
 admin_1	be	be-bru	2020_06_11	total		6175	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_11	new		12	DERIVED	
+admin_1	be	be-van	2020_06_11	total		8296	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_11	new		6	DERIVED	
 admin_1	be	be-vbr	2020_06_11	total		5426	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_11	new		11	DERIVED	
+admin_1	be	be-vov	2020_06_11	total		6764	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_11	new		8	DERIVED	
+admin_1	be	be-vwv	2020_06_11	total		6725	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_11	new		18	DERIVED	
 admin_1	be	be-wht	2020_06_11	total		6726	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_11	new		1	DERIVED	
 admin_1	be	unknown	2020_06_11	total		1404	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_12	total	NA	157	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new		49	DERIVED	
-admin_0		be	2020_06_13	total		60287	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	total_male		22276	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	total_female		37856	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_12	new		7	DERIVED	
+admin_1	be	be-vli	2020_06_12	total		6453	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_12	new		10	DERIVED	
+admin_1	be	be-wlg	2020_06_12	total		6937	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_06_12	total		1422	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_13	new	0-9	1	DERIVED	
 admin_0		be	2020_06_13	total	0-9	497	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_13	new	10-19	4	DERIVED	
 admin_0		be	2020_06_13	total	10-19	836	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	20-29	7	DERIVED	
-admin_0		be	2020_06_13	total	20-29	5624	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	30-39	8	DERIVED	
-admin_0		be	2020_06_13	total	30-39	6351	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	40-49	3	DERIVED	
-admin_0		be	2020_06_13	total	40-49	7637	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	50-59	9	DERIVED	
-admin_0		be	2020_06_13	total	50-59	8853	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	60-69	5	DERIVED	
-admin_0		be	2020_06_13	total	60-69	5858	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	70-79	3	DERIVED	
-admin_0		be	2020_06_13	total	70-79	6655	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_13	new	80-89	7	DERIVED	
-admin_0		be	2020_06_13	total	80-89	11699	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_13	new		6	DERIVED	
-admin_1	be	be-van	2020_06_13	total		8317	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_13	new		5	DERIVED	
-admin_1	be	be-vli	2020_06_13	total		6458	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_13	new		3	DERIVED	
-admin_1	be	be-vov	2020_06_13	total		6773	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_13	new		5	DERIVED	
-admin_1	be	be-vwv	2020_06_13	total		6735	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_13	new		5	DERIVED	
 admin_1	be	be-wbr	2020_06_13	total		1514	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_13	new		6	DERIVED	
-admin_1	be	be-wlg	2020_06_13	total		6943	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_13	new		2	DERIVED	
-admin_1	be	be-wlx	2020_06_13	total		1424	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_13	new		2	DERIVED	
 admin_1	be	be-wna	2020_06_13	total		2335	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new		22	DERIVED	
+admin_0		be	2020_06_14	total		60309	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	total_male		22285	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	total_female		37869	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	20-29	5	DERIVED	
+admin_0		be	2020_06_14	total	20-29	5629	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	30-39	2	DERIVED	
+admin_0		be	2020_06_14	total	30-39	6353	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	40-49	1	DERIVED	
+admin_0		be	2020_06_14	total	40-49	7638	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	50-59	5	DERIVED	
+admin_0		be	2020_06_14	total	50-59	8858	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	60-69	2	DERIVED	
+admin_0		be	2020_06_14	total	60-69	5860	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	70-79	2	DERIVED	
+admin_0		be	2020_06_14	total	70-79	6657	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_14	new	80-89	4	DERIVED	
+admin_0		be	2020_06_14	total	80-89	11703	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_14	new	90+	1	DERIVED	
 admin_0		be	2020_06_14	total	90+	6121	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_14	new		2	DERIVED	
 admin_1	be	be-bru	2020_06_14	total		6202	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_14	new		7	DERIVED	
+admin_1	be	be-van	2020_06_14	total		8324	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_14	new		2	DERIVED	
 admin_1	be	be-vbr	2020_06_14	total		5438	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_14	new		1	DERIVED	
+admin_1	be	be-vov	2020_06_14	total		6774	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_14	new		4	DERIVED	
+admin_1	be	be-vwv	2020_06_14	total		6739	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_14	new		1	DERIVED	
 admin_1	be	be-wht	2020_06_14	total		6742	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_14	new		1	DERIVED	
 admin_1	be	unknown	2020_06_14	total		1412	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_15	total	NA	158	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new		98	DERIVED	
-admin_0		be	2020_06_16	total		60554	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	total_male		22382	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	total_female		38017	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	0-9	3	DERIVED	
-admin_0		be	2020_06_16	total	0-9	509	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	20-29	15	DERIVED	
-admin_0		be	2020_06_16	total	20-29	5663	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	30-39	21	DERIVED	
-admin_0		be	2020_06_16	total	30-39	6394	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	40-49	12	DERIVED	
-admin_0		be	2020_06_16	total	40-49	7663	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	50-59	11	DERIVED	
-admin_0		be	2020_06_16	total	50-59	8898	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	60-69	14	DERIVED	
-admin_0		be	2020_06_16	total	60-69	5880	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	70-79	10	DERIVED	
-admin_0		be	2020_06_16	total	70-79	6679	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_16	new	80-89	2	DERIVED	
-admin_0		be	2020_06_16	total	80-89	11729	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_16	new		16	DERIVED	
-admin_1	be	be-van	2020_06_16	total		8371	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_16	new		15	DERIVED	
-admin_1	be	be-vli	2020_06_16	total		6495	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_16	new		6	DERIVED	
-admin_1	be	be-vov	2020_06_16	total		6792	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_16	new		18	DERIVED	
-admin_1	be	be-vwv	2020_06_16	total		6780	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_15	new		20	DERIVED	
+admin_1	be	be-vli	2020_06_15	total		6480	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_15	new		5	DERIVED	
+admin_1	be	be-wlg	2020_06_15	total		6950	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_06_15	total		1426	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_16	new		2	DERIVED	
 admin_1	be	be-wbr	2020_06_16	total		1519	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_16	new		9	DERIVED	
-admin_1	be	be-wlg	2020_06_16	total		6959	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_16	new		2	DERIVED	
-admin_1	be	be-wlx	2020_06_16	total		1428	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new		123	DERIVED	
+admin_0		be	2020_06_17	total		60677	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	total_male		22443	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	total_female		38079	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	0-9	8	DERIVED	
+admin_0		be	2020_06_17	total	0-9	517	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_17	new	10-19	8	DERIVED	
 admin_0		be	2020_06_17	total	10-19	860	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	20-29	19	DERIVED	
+admin_0		be	2020_06_17	total	20-29	5682	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	30-39	26	DERIVED	
+admin_0		be	2020_06_17	total	30-39	6420	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	40-49	7	DERIVED	
+admin_0		be	2020_06_17	total	40-49	7670	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	50-59	18	DERIVED	
+admin_0		be	2020_06_17	total	50-59	8916	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	60-69	7	DERIVED	
+admin_0		be	2020_06_17	total	60-69	5887	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	70-79	10	DERIVED	
+admin_0		be	2020_06_17	total	70-79	6689	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_17	new	80-89	11	DERIVED	
+admin_0		be	2020_06_17	total	80-89	11740	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_17	new	90+	7	DERIVED	
 admin_0		be	2020_06_17	total	90+	6136	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_17	new		7	DERIVED	
 admin_1	be	be-bru	2020_06_17	total		6238	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_17	new		33	DERIVED	
+admin_1	be	be-van	2020_06_17	total		8404	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_17	new		10	DERIVED	
 admin_1	be	be-vbr	2020_06_17	total		5465	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_17	new		9	DERIVED	
+admin_1	be	be-vov	2020_06_17	total		6801	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_17	new		29	DERIVED	
+admin_1	be	be-vwv	2020_06_17	total		6809	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_17	new		13	DERIVED	
 admin_1	be	be-wht	2020_06_17	total		6784	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_17	new		2	DERIVED	
 admin_1	be	be-wna	2020_06_17	total		2341	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_17	new		3	DERIVED	
 admin_1	be	unknown	2020_06_17	total		1417	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new		120	DERIVED	
-admin_0		be	2020_06_19	total		60905	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	total_male		22550	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	total_female		38200	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	0-9	14	DERIVED	
-admin_0		be	2020_06_19	total	0-9	538	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	20-29	27	DERIVED	
-admin_0		be	2020_06_19	total	20-29	5730	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	30-39	22	DERIVED	
-admin_0		be	2020_06_19	total	30-39	6464	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	40-49	7	DERIVED	
-admin_0		be	2020_06_19	total	40-49	7688	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	50-59	11	DERIVED	
-admin_0		be	2020_06_19	total	50-59	8940	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	60-69	12	DERIVED	
-admin_0		be	2020_06_19	total	60-69	5906	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	70-79	4	DERIVED	
-admin_0		be	2020_06_19	total	70-79	6697	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_19	new	80-89	6	DERIVED	
-admin_0		be	2020_06_19	total	80-89	11756	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_18	new		5	DERIVED	
+admin_1	be	be-vli	2020_06_18	total		6513	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_06_18	new		16	DERIVED	
+admin_1	be	be-wlg	2020_06_18	total		6979	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_06_18	total		1431	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_19	new	NA	1	DERIVED	
 admin_0		be	2020_06_19	total	NA	162	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_19	new		21	DERIVED	
-admin_1	be	be-van	2020_06_19	total		8438	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_19	new		14	DERIVED	
-admin_1	be	be-vli	2020_06_19	total		6527	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_19	new		11	DERIVED	
-admin_1	be	be-vov	2020_06_19	total		6818	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_19	new		25	DERIVED	
-admin_1	be	be-vwv	2020_06_19	total		6854	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_06_19	new		6	DERIVED	
-admin_1	be	be-wlg	2020_06_19	total		6985	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_06_19	new		5	DERIVED	
-admin_1	be	be-wlx	2020_06_19	total		1436	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new		49	DERIVED	
+admin_0		be	2020_06_20	total		60954	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	total_male		22572	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	total_female		38227	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	0-9	5	DERIVED	
+admin_0		be	2020_06_20	total	0-9	543	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_20	new	10-19	4	DERIVED	
 admin_0		be	2020_06_20	total	10-19	887	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	20-29	9	DERIVED	
+admin_0		be	2020_06_20	total	20-29	5739	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	30-39	9	DERIVED	
+admin_0		be	2020_06_20	total	30-39	6473	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	40-49	2	DERIVED	
+admin_0		be	2020_06_20	total	40-49	7690	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	50-59	3	DERIVED	
+admin_0		be	2020_06_20	total	50-59	8943	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	60-69	4	DERIVED	
+admin_0		be	2020_06_20	total	60-69	5910	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	70-79	6	DERIVED	
+admin_0		be	2020_06_20	total	70-79	6703	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_20	new	80-89	6	DERIVED	
+admin_0		be	2020_06_20	total	80-89	11762	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_20	new	90+	1	DERIVED	
 admin_0		be	2020_06_20	total	90+	6142	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_20	new		3	DERIVED	
 admin_1	be	be-bru	2020_06_20	total		6278	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_20	new		9	DERIVED	
+admin_1	be	be-van	2020_06_20	total		8447	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_20	new		1	DERIVED	
 admin_1	be	be-vbr	2020_06_20	total		5479	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_20	new		2	DERIVED	
+admin_1	be	be-vov	2020_06_20	total		6820	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_20	new		6	DERIVED	
+admin_1	be	be-vwv	2020_06_20	total		6860	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_20	total		1530	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_20	new		8	DERIVED	
 admin_1	be	be-wht	2020_06_20	total		6804	https://epistat.wiv-isp.be/covid/	
@@ -1177,76 +1171,50 @@ admin_1	be	be-wna	2020_06_20	new		2	DERIVED
 admin_1	be	be-wna	2020_06_20	total		2347	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_20	new		1	DERIVED	
 admin_1	be	unknown	2020_06_20	total		1427	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new		19	DERIVED	
-admin_0		be	2020_06_21	total		60973	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	total_male		22579	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	total_female		38238	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	0-9	3	DERIVED	
-admin_0		be	2020_06_21	total	0-9	546	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	20-29	2	DERIVED	
-admin_0		be	2020_06_21	total	20-29	5741	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	30-39	2	DERIVED	
-admin_0		be	2020_06_21	total	30-39	6475	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	40-49	3	DERIVED	
-admin_0		be	2020_06_21	total	40-49	7693	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	50-59	2	DERIVED	
-admin_0		be	2020_06_21	total	50-59	8945	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	60-69	3	DERIVED	
-admin_0		be	2020_06_21	total	60-69	5913	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	70-79	1	DERIVED	
-admin_0		be	2020_06_21	total	70-79	6704	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_21	new	80-89	2	DERIVED	
-admin_0		be	2020_06_21	total	80-89	11764	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_21	new		3	DERIVED	
-admin_1	be	be-van	2020_06_21	total		8450	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vli	2020_06_21	new		4	DERIVED	
 admin_1	be	be-vli	2020_06_21	total		6535	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_21	new		1	DERIVED	
-admin_1	be	be-vov	2020_06_21	total		6821	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_21	new		4	DERIVED	
-admin_1	be	be-vwv	2020_06_21	total		6864	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_06_21	new		3	DERIVED	
 admin_1	be	be-wlg	2020_06_21	total		6995	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_21	new		2	DERIVED	
 admin_1	be	be-wlx	2020_06_21	total		1441	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new		143	DERIVED	
+admin_0		be	2020_06_22	total		61116	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	total_male		22639	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	total_female		38319	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	0-9	16	DERIVED	
+admin_0		be	2020_06_22	total	0-9	562	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_22	total	10-19	888	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	20-29	17	DERIVED	
+admin_0		be	2020_06_22	total	20-29	5758	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	30-39	17	DERIVED	
+admin_0		be	2020_06_22	total	30-39	6492	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	40-49	25	DERIVED	
+admin_0		be	2020_06_22	total	40-49	7718	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	50-59	15	DERIVED	
+admin_0		be	2020_06_22	total	50-59	8960	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	60-69	14	DERIVED	
+admin_0		be	2020_06_22	total	60-69	5927	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	70-79	12	DERIVED	
+admin_0		be	2020_06_22	total	70-79	6716	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_22	new	80-89	11	DERIVED	
+admin_0		be	2020_06_22	total	80-89	11775	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_22	new	90+	13	DERIVED	
 admin_0		be	2020_06_22	total	90+	6156	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_22	total	NA	164	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_22	new		26	DERIVED	
+admin_1	be	be-van	2020_06_22	total		8476	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_22	new		6	DERIVED	
 admin_1	be	be-vbr	2020_06_22	total		5487	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_22	new		5	DERIVED	
+admin_1	be	be-vov	2020_06_22	total		6826	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_22	new		20	DERIVED	
+admin_1	be	be-vwv	2020_06_22	total		6884	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_22	total		6837	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_22	total		2349	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new		109	DERIVED	
-admin_0		be	2020_06_23	total		61225	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	total_male		22681	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	total_female		38386	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	0-9	12	DERIVED	
-admin_0		be	2020_06_23	total	0-9	574	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	20-29	17	DERIVED	
-admin_0		be	2020_06_23	total	20-29	5775	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	30-39	21	DERIVED	
-admin_0		be	2020_06_23	total	30-39	6513	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	40-49	20	DERIVED	
-admin_0		be	2020_06_23	total	40-49	7738	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	50-59	12	DERIVED	
-admin_0		be	2020_06_23	total	50-59	8972	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	60-69	5	DERIVED	
-admin_0		be	2020_06_23	total	60-69	5932	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	70-79	8	DERIVED	
-admin_0		be	2020_06_23	total	70-79	6724	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_23	new	80-89	4	DERIVED	
-admin_0		be	2020_06_23	total	80-89	11779	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_23	new		14	DERIVED	
 admin_1	be	be-bru	2020_06_23	total		6309	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_23	new		14	DERIVED	
-admin_1	be	be-van	2020_06_23	total		8490	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vli	2020_06_23	new		16	DERIVED	
 admin_1	be	be-vli	2020_06_23	total		6559	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_23	new		8	DERIVED	
-admin_1	be	be-vov	2020_06_23	total		6834	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_23	new		16	DERIVED	
-admin_1	be	be-vwv	2020_06_23	total		6900	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_23	new		4	DERIVED	
 admin_1	be	be-wbr	2020_06_23	total		1540	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_06_23	new		8	DERIVED	
@@ -1255,46 +1223,46 @@ admin_1	be	be-wlx	2020_06_23	new		5	DERIVED
 admin_1	be	be-wlx	2020_06_23	total		1452	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_23	new		7	DERIVED	
 admin_1	be	unknown	2020_06_23	total		1438	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new		100	DERIVED	
+admin_0		be	2020_06_24	total		61325	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	total_male		22730	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	total_female		38437	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	0-9	13	DERIVED	
+admin_0		be	2020_06_24	total	0-9	587	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_24	new	10-19	9	DERIVED	
 admin_0		be	2020_06_24	total	10-19	905	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	20-29	23	DERIVED	
+admin_0		be	2020_06_24	total	20-29	5798	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	30-39	18	DERIVED	
+admin_0		be	2020_06_24	total	30-39	6531	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	40-49	11	DERIVED	
+admin_0		be	2020_06_24	total	40-49	7749	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	50-59	8	DERIVED	
+admin_0		be	2020_06_24	total	50-59	8980	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	60-69	7	DERIVED	
+admin_0		be	2020_06_24	total	60-69	5939	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	70-79	4	DERIVED	
+admin_0		be	2020_06_24	total	70-79	6728	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_24	new	80-89	6	DERIVED	
+admin_0		be	2020_06_24	total	80-89	11785	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_24	new	90+	1	DERIVED	
 admin_0		be	2020_06_24	total	90+	6159	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_24	new		20	DERIVED	
+admin_1	be	be-van	2020_06_24	total		8510	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_24	new		5	DERIVED	
 admin_1	be	be-vbr	2020_06_24	total		5496	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_24	new		6	DERIVED	
+admin_1	be	be-vov	2020_06_24	total		6840	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_24	new		17	DERIVED	
+admin_1	be	be-vwv	2020_06_24	total		6917	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_24	new		12	DERIVED	
 admin_1	be	be-wht	2020_06_24	total		6860	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_24	new		2	DERIVED	
 admin_1	be	be-wna	2020_06_24	total		2353	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new		75	DERIVED	
-admin_0		be	2020_06_25	total		61400	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	total_male		22761	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	total_female		38481	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	0-9	4	DERIVED	
-admin_0		be	2020_06_25	total	0-9	591	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	20-29	17	DERIVED	
-admin_0		be	2020_06_25	total	20-29	5815	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	30-39	12	DERIVED	
-admin_0		be	2020_06_25	total	30-39	6543	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	40-49	11	DERIVED	
-admin_0		be	2020_06_25	total	40-49	7760	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	50-59	7	DERIVED	
-admin_0		be	2020_06_25	total	50-59	8987	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	60-69	5	DERIVED	
-admin_0		be	2020_06_25	total	60-69	5944	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	70-79	5	DERIVED	
-admin_0		be	2020_06_25	total	70-79	6733	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_25	new	80-89	5	DERIVED	
-admin_0		be	2020_06_25	total	80-89	11790	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_25	new		9	DERIVED	
 admin_1	be	be-bru	2020_06_25	total		6326	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_25	new		21	DERIVED	
-admin_1	be	be-van	2020_06_25	total		8531	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vli	2020_06_25	new		5	DERIVED	
 admin_1	be	be-vli	2020_06_25	total		6580	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_25	new		8	DERIVED	
-admin_1	be	be-vov	2020_06_25	total		6848	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_25	new		3	DERIVED	
-admin_1	be	be-vwv	2020_06_25	total		6920	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_25	new		3	DERIVED	
 admin_1	be	be-wbr	2020_06_25	total		1544	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_06_25	new		1	DERIVED	
@@ -1303,44 +1271,44 @@ admin_1	be	be-wlx	2020_06_25	new		3	DERIVED
 admin_1	be	be-wlx	2020_06_25	total		1458	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_25	new		1	DERIVED	
 admin_1	be	unknown	2020_06_25	total		1441	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new		112	DERIVED	
+admin_0		be	2020_06_26	total		61512	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	total_male		22803	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	total_female		38551	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	0-9	8	DERIVED	
+admin_0		be	2020_06_26	total	0-9	599	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_26	new	10-19	10	DERIVED	
 admin_0		be	2020_06_26	total	10-19	923	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	20-29	14	DERIVED	
+admin_0		be	2020_06_26	total	20-29	5829	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	30-39	19	DERIVED	
+admin_0		be	2020_06_26	total	30-39	6562	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	40-49	16	DERIVED	
+admin_0		be	2020_06_26	total	40-49	7776	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	50-59	20	DERIVED	
+admin_0		be	2020_06_26	total	50-59	9007	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	60-69	12	DERIVED	
+admin_0		be	2020_06_26	total	60-69	5956	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	70-79	3	DERIVED	
+admin_0		be	2020_06_26	total	70-79	6736	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_26	new	80-89	8	DERIVED	
+admin_0		be	2020_06_26	total	80-89	11798	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_26	new	NA	2	DERIVED	
 admin_0		be	2020_06_26	total	NA	167	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_26	new		16	DERIVED	
+admin_1	be	be-van	2020_06_26	total		8547	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_26	new		5	DERIVED	
 admin_1	be	be-vbr	2020_06_26	total		5510	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_26	new		9	DERIVED	
+admin_1	be	be-vov	2020_06_26	total		6857	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_26	new		19	DERIVED	
+admin_1	be	be-vwv	2020_06_26	total		6939	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_26	new		14	DERIVED	
 admin_1	be	be-wht	2020_06_26	total		6886	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new		40	DERIVED	
-admin_0		be	2020_06_27	total		61552	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	total_male		22822	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	total_female		38572	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	0-9	1	DERIVED	
-admin_0		be	2020_06_27	total	0-9	600	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	20-29	8	DERIVED	
-admin_0		be	2020_06_27	total	20-29	5837	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	30-39	7	DERIVED	
-admin_0		be	2020_06_27	total	30-39	6569	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	40-49	3	DERIVED	
-admin_0		be	2020_06_27	total	40-49	7779	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	50-59	8	DERIVED	
-admin_0		be	2020_06_27	total	50-59	9015	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	60-69	3	DERIVED	
-admin_0		be	2020_06_27	total	60-69	5959	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	70-79	4	DERIVED	
-admin_0		be	2020_06_27	total	70-79	6740	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_27	new	80-89	5	DERIVED	
-admin_0		be	2020_06_27	total	80-89	11803	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_06_27	new		7	DERIVED	
 admin_1	be	be-bru	2020_06_27	total		6356	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_27	new		4	DERIVED	
-admin_1	be	be-van	2020_06_27	total		8551	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vli	2020_06_27	new		1	DERIVED	
 admin_1	be	be-vli	2020_06_27	total		6591	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_27	new		6	DERIVED	
-admin_1	be	be-vov	2020_06_27	total		6863	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_27	new		7	DERIVED	
-admin_1	be	be-vwv	2020_06_27	total		6946	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_27	new		1	DERIVED	
 admin_1	be	be-wbr	2020_06_27	total		1547	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_06_27	new		3	DERIVED	
@@ -1349,329 +1317,320 @@ admin_1	be	be-wna	2020_06_27	new		1	DERIVED
 admin_1	be	be-wna	2020_06_27	total		2355	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_27	new		1	DERIVED	
 admin_1	be	unknown	2020_06_27	total		1449	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new		23	DERIVED	
+admin_0		be	2020_06_28	total		61575	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	total_male		22834	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	total_female		38582	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	0-9	1	DERIVED	
+admin_0		be	2020_06_28	total	0-9	601	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_28	new	10-19	1	DERIVED	
 admin_0		be	2020_06_28	total	10-19	925	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	20-29	4	DERIVED	
+admin_0		be	2020_06_28	total	20-29	5841	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	30-39	2	DERIVED	
+admin_0		be	2020_06_28	total	30-39	6571	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	40-49	4	DERIVED	
+admin_0		be	2020_06_28	total	40-49	7783	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	50-59	2	DERIVED	
+admin_0		be	2020_06_28	total	50-59	9017	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	60-69	2	DERIVED	
+admin_0		be	2020_06_28	total	60-69	5961	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	70-79	4	DERIVED	
+admin_0		be	2020_06_28	total	70-79	6744	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_28	new	80-89	1	DERIVED	
+admin_0		be	2020_06_28	total	80-89	11804	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_28	total	NA	168	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_28	new		8	DERIVED	
+admin_1	be	be-van	2020_06_28	total		8559	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_28	new		1	DERIVED	
 admin_1	be	be-vbr	2020_06_28	total		5514	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_28	new		2	DERIVED	
+admin_1	be	be-vov	2020_06_28	total		6865	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_28	new		6	DERIVED	
+admin_1	be	be-vwv	2020_06_28	total		6952	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_28	new		4	DERIVED	
 admin_1	be	be-wht	2020_06_28	total		6894	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_28	new		1	DERIVED	
 admin_1	be	be-wlx	2020_06_28	total		1461	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new		127	DERIVED	
-admin_0		be	2020_06_29	total		61702	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	total_male		22879	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	total_female		38663	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	0-9	14	DERIVED	
-admin_0		be	2020_06_29	total	0-9	615	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	20-29	17	DERIVED	
-admin_0		be	2020_06_29	total	20-29	5858	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	30-39	22	DERIVED	
-admin_0		be	2020_06_29	total	30-39	6593	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	40-49	25	DERIVED	
-admin_0		be	2020_06_29	total	40-49	7808	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	50-59	13	DERIVED	
-admin_0		be	2020_06_29	total	50-59	9030	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	60-69	14	DERIVED	
-admin_0		be	2020_06_29	total	60-69	5975	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	70-79	3	DERIVED	
-admin_0		be	2020_06_29	total	70-79	6747	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_06_29	new	80-89	5	DERIVED	
-admin_0		be	2020_06_29	total	80-89	11809	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_29	new	90+	4	DERIVED	
 admin_0		be	2020_06_29	total	90+	6164	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_06_29	total		6385	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_06_29	new		31	DERIVED	
-admin_1	be	be-van	2020_06_29	total		8590	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_06_29	total		6600	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_06_29	new		6	DERIVED	
-admin_1	be	be-vov	2020_06_29	total		6871	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_06_29	new		23	DERIVED	
-admin_1	be	be-vwv	2020_06_29	total		6975	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_06_29	total		1550	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_06_29	total		7036	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_06_29	new		2	DERIVED	
 admin_1	be	unknown	2020_06_29	total		1452	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new		100	DERIVED	
+admin_0		be	2020_06_30	total		61802	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	total_male		22922	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	total_female		38719	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	0-9	7	DERIVED	
+admin_0		be	2020_06_30	total	0-9	622	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_30	new	10-19	11	DERIVED	
 admin_0		be	2020_06_30	total	10-19	944	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	20-29	24	DERIVED	
+admin_0		be	2020_06_30	total	20-29	5882	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	30-39	15	DERIVED	
+admin_0		be	2020_06_30	total	30-39	6608	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	40-49	13	DERIVED	
+admin_0		be	2020_06_30	total	40-49	7821	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	50-59	12	DERIVED	
+admin_0		be	2020_06_30	total	50-59	9042	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	60-69	6	DERIVED	
+admin_0		be	2020_06_30	total	60-69	5981	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	70-79	6	DERIVED	
+admin_0		be	2020_06_30	total	70-79	6753	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_06_30	new	80-89	4	DERIVED	
+admin_0		be	2020_06_30	total	80-89	11813	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_06_30	new	NA	1	DERIVED	
 admin_0		be	2020_06_30	total	NA	171	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_06_30	new		23	DERIVED	
+admin_1	be	be-bru	2020_06_30	total		6408	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_06_30	new		14	DERIVED	
+admin_1	be	be-van	2020_06_30	total		8604	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_06_30	new		5	DERIVED	
 admin_1	be	be-vbr	2020_06_30	total		5527	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_06_30	new		6	DERIVED	
+admin_1	be	be-vli	2020_06_30	total		6606	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_06_30	new		9	DERIVED	
+admin_1	be	be-vov	2020_06_30	total		6880	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_06_30	new		12	DERIVED	
+admin_1	be	be-vwv	2020_06_30	total		6987	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_06_30	new		13	DERIVED	
 admin_1	be	be-wht	2020_06_30	total		6912	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_06_30	new		2	DERIVED	
 admin_1	be	be-wlx	2020_06_30	total		1466	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_06_30	new		4	DERIVED	
 admin_1	be	be-wna	2020_06_30	total		2362	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new		132	DERIVED	
-admin_0		be	2020_07_01	total		61934	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	total_male		22992	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	total_female		38781	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	0-9	10	DERIVED	
-admin_0		be	2020_07_01	total	0-9	632	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	20-29	27	DERIVED	
-admin_0		be	2020_07_01	total	20-29	5909	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	30-39	24	DERIVED	
-admin_0		be	2020_07_01	total	30-39	6632	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	40-49	17	DERIVED	
-admin_0		be	2020_07_01	total	40-49	7838	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	50-59	17	DERIVED	
-admin_0		be	2020_07_01	total	50-59	9059	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	60-69	5	DERIVED	
-admin_0		be	2020_07_01	total	60-69	5986	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	70-79	6	DERIVED	
-admin_0		be	2020_07_01	total	70-79	6759	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_01	new	80-89	7	DERIVED	
-admin_0		be	2020_07_01	total	80-89	11820	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_01	new	90+	1	DERIVED	
 admin_0		be	2020_07_01	total	90+	6166	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_01	new		22	DERIVED	
-admin_1	be	be-bru	2020_07_01	total		6430	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_01	new		37	DERIVED	
-admin_1	be	be-van	2020_07_01	total		8641	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_01	new		9	DERIVED	
-admin_1	be	be-vli	2020_07_01	total		6615	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_01	new		11	DERIVED	
-admin_1	be	be-vov	2020_07_01	total		6891	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_01	new		20	DERIVED	
-admin_1	be	be-vwv	2020_07_01	total		7007	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_01	new		1	DERIVED	
 admin_1	be	be-wbr	2020_07_01	total		1552	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_07_01	new		1	DERIVED	
 admin_1	be	be-wlg	2020_07_01	total		7044	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_01	new		9	DERIVED	
 admin_1	be	unknown	2020_07_01	total		1465	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new		92	DERIVED	
+admin_0		be	2020_07_02	total		62026	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	total_male		23036	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	total_female		38829	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	0-9	7	DERIVED	
+admin_0		be	2020_07_02	total	0-9	639	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_02	new	10-19	7	DERIVED	
 admin_0		be	2020_07_02	total	10-19	967	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	20-29	18	DERIVED	
+admin_0		be	2020_07_02	total	20-29	5927	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	30-39	12	DERIVED	
+admin_0		be	2020_07_02	total	30-39	6644	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	40-49	12	DERIVED	
+admin_0		be	2020_07_02	total	40-49	7850	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	50-59	11	DERIVED	
+admin_0		be	2020_07_02	total	50-59	9070	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	60-69	8	DERIVED	
+admin_0		be	2020_07_02	total	60-69	5994	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	70-79	7	DERIVED	
+admin_0		be	2020_07_02	total	70-79	6766	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_02	new	80-89	8	DERIVED	
+admin_0		be	2020_07_02	total	80-89	11828	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_02	new	NA	2	DERIVED	
 admin_0		be	2020_07_02	total	NA	175	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_02	new		22	DERIVED	
+admin_1	be	be-bru	2020_07_02	total		6452	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_02	new		21	DERIVED	
+admin_1	be	be-van	2020_07_02	total		8662	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_07_02	new		13	DERIVED	
 admin_1	be	be-vbr	2020_07_02	total		5547	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_02	new		6	DERIVED	
+admin_1	be	be-vli	2020_07_02	total		6621	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_02	new		7	DERIVED	
+admin_1	be	be-vov	2020_07_02	total		6898	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_02	new		9	DERIVED	
+admin_1	be	be-vwv	2020_07_02	total		7016	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_07_02	new		10	DERIVED	
 admin_1	be	be-wht	2020_07_02	total		6936	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_07_02	new		2	DERIVED	
 admin_1	be	be-wlx	2020_07_02	total		1469	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_02	total		2363	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new		92	DERIVED	
-admin_0		be	2020_07_03	total		62118	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	total_male		23089	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	total_female		38868	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	0-9	5	DERIVED	
-admin_0		be	2020_07_03	total	0-9	644	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	20-29	12	DERIVED	
-admin_0		be	2020_07_03	total	20-29	5939	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	30-39	18	DERIVED	
-admin_0		be	2020_07_03	total	30-39	6662	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	40-49	9	DERIVED	
-admin_0		be	2020_07_03	total	40-49	7859	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	50-59	14	DERIVED	
-admin_0		be	2020_07_03	total	50-59	9084	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	60-69	13	DERIVED	
-admin_0		be	2020_07_03	total	60-69	6007	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	70-79	4	DERIVED	
-admin_0		be	2020_07_03	total	70-79	6770	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_03	new	80-89	9	DERIVED	
-admin_0		be	2020_07_03	total	80-89	11837	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_03	new		10	DERIVED	
-admin_1	be	be-bru	2020_07_03	total		6462	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_03	new		27	DERIVED	
-admin_1	be	be-van	2020_07_03	total		8689	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_03	new		4	DERIVED	
-admin_1	be	be-vli	2020_07_03	total		6625	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_03	new		12	DERIVED	
-admin_1	be	be-vov	2020_07_03	total		6910	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_03	new		14	DERIVED	
-admin_1	be	be-vwv	2020_07_03	total		7030	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_03	new		3	DERIVED	
 admin_1	be	be-wbr	2020_07_03	total		1556	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_03	total		1468	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new		62	DERIVED	
+admin_0		be	2020_07_04	total		62180	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	total_male		23125	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	total_female		38893	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	0-9	5	DERIVED	
+admin_0		be	2020_07_04	total	0-9	649	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_04	new	10-19	7	DERIVED	
 admin_0		be	2020_07_04	total	10-19	981	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	20-29	12	DERIVED	
+admin_0		be	2020_07_04	total	20-29	5951	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	30-39	5	DERIVED	
+admin_0		be	2020_07_04	total	30-39	6667	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	40-49	10	DERIVED	
+admin_0		be	2020_07_04	total	40-49	7869	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	50-59	11	DERIVED	
+admin_0		be	2020_07_04	total	50-59	9095	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	60-69	5	DERIVED	
+admin_0		be	2020_07_04	total	60-69	6012	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	70-79	2	DERIVED	
+admin_0		be	2020_07_04	total	70-79	6772	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_04	new	80-89	3	DERIVED	
+admin_0		be	2020_07_04	total	80-89	11840	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_04	new	90+	2	DERIVED	
 admin_0		be	2020_07_04	total	90+	6169	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_04	new		3	DERIVED	
+admin_1	be	be-bru	2020_07_04	total		6465	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_04	new		12	DERIVED	
+admin_1	be	be-van	2020_07_04	total		8701	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vbr	2020_07_04	new		3	DERIVED	
 admin_1	be	be-vbr	2020_07_04	total		5552	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_04	new		7	DERIVED	
+admin_1	be	be-vli	2020_07_04	total		6632	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_04	new		3	DERIVED	
+admin_1	be	be-vov	2020_07_04	total		6913	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_04	new		6	DERIVED	
+admin_1	be	be-vwv	2020_07_04	total		7036	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wht	2020_07_04	new		10	DERIVED	
 admin_1	be	be-wht	2020_07_04	total		6957	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_07_04	new		5	DERIVED	
 admin_1	be	be-wlg	2020_07_04	total		7053	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_04	total		1472	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_04	new		1	DERIVED	
 admin_1	be	be-wna	2020_07_04	total		2366	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new		24	DERIVED	
-admin_0		be	2020_07_05	total		62204	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	total_male		23133	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	total_female		38909	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	0-9	2	DERIVED	
-admin_0		be	2020_07_05	total	0-9	651	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	20-29	3	DERIVED	
-admin_0		be	2020_07_05	total	20-29	5954	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	30-39	1	DERIVED	
-admin_0		be	2020_07_05	total	30-39	6668	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	40-49	5	DERIVED	
-admin_0		be	2020_07_05	total	40-49	7874	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	50-59	4	DERIVED	
-admin_0		be	2020_07_05	total	50-59	9099	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	60-69	3	DERIVED	
-admin_0		be	2020_07_05	total	60-69	6015	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	70-79	1	DERIVED	
-admin_0		be	2020_07_05	total	70-79	6773	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_05	new	80-89	5	DERIVED	
-admin_0		be	2020_07_05	total	80-89	11845	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_05	new		1	DERIVED	
-admin_1	be	be-bru	2020_07_05	total		6466	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_05	new		4	DERIVED	
-admin_1	be	be-van	2020_07_05	total		8705	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_05	new		1	DERIVED	
-admin_1	be	be-vli	2020_07_05	total		6633	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_05	new		2	DERIVED	
-admin_1	be	be-vov	2020_07_05	total		6915	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_05	new		13	DERIVED	
-admin_1	be	be-vwv	2020_07_05	total		7049	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_05	new		1	DERIVED	
 admin_1	be	be-wbr	2020_07_05	total		1558	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_07_05	new		1	DERIVED	
-admin_1	be	be-wlx	2020_07_05	total		1473	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_05	new		1	DERIVED	
 admin_1	be	unknown	2020_07_05	total		1477	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new		99	DERIVED	
-admin_0		be	2020_07_07	total		62416	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	total_male		23235	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	total_female		39019	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	0-9	6	DERIVED	
-admin_0		be	2020_07_07	total	0-9	661	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	10-19	4	DERIVED	
-admin_0		be	2020_07_07	total	10-19	996	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	20-29	17	DERIVED	
-admin_0		be	2020_07_07	total	20-29	5986	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	30-39	22	DERIVED	
-admin_0		be	2020_07_07	total	30-39	6713	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	40-49	14	DERIVED	
-admin_0		be	2020_07_07	total	40-49	7907	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	50-59	21	DERIVED	
-admin_0		be	2020_07_07	total	50-59	9135	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	60-69	6	DERIVED	
-admin_0		be	2020_07_07	total	60-69	6029	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	70-79	4	DERIVED	
-admin_0		be	2020_07_07	total	70-79	6784	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	80-89	4	DERIVED	
-admin_0		be	2020_07_07	total	80-89	11854	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_07	new	90+	1	DERIVED	
-admin_0		be	2020_07_07	total	90+	6176	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_07	new		8	DERIVED	
-admin_1	be	be-bru	2020_07_07	total		6498	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_07	new		23	DERIVED	
-admin_1	be	be-van	2020_07_07	total		8761	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_07	new		8	DERIVED	
-admin_1	be	be-vbr	2020_07_07	total		5569	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_07	new		7	DERIVED	
-admin_1	be	be-vli	2020_07_07	total		6647	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_07	new		11	DERIVED	
-admin_1	be	be-vov	2020_07_07	total		6932	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_07	new		12	DERIVED	
-admin_1	be	be-vwv	2020_07_07	total		7074	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new		113	DERIVED	
+admin_0		be	2020_07_06	total		62317	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	total_male		23180	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	total_female		38975	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	0-9	4	DERIVED	
+admin_0		be	2020_07_06	total	0-9	655	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	total	10-19	992	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	20-29	15	DERIVED	
+admin_0		be	2020_07_06	total	20-29	5969	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	30-39	23	DERIVED	
+admin_0		be	2020_07_06	total	30-39	6691	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	40-49	19	DERIVED	
+admin_0		be	2020_07_06	total	40-49	7893	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	50-59	15	DERIVED	
+admin_0		be	2020_07_06	total	50-59	9114	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	60-69	8	DERIVED	
+admin_0		be	2020_07_06	total	60-69	6023	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	70-79	7	DERIVED	
+admin_0		be	2020_07_06	total	70-79	6780	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	new	80-89	5	DERIVED	
+admin_0		be	2020_07_06	total	80-89	11850	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_06	total	90+	6175	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_06	new		24	DERIVED	
+admin_1	be	be-bru	2020_07_06	total		6490	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_06	new		33	DERIVED	
+admin_1	be	be-van	2020_07_06	total		8738	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_06	total		5561	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_06	new		7	DERIVED	
+admin_1	be	be-vli	2020_07_06	total		6640	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_06	new		6	DERIVED	
+admin_1	be	be-vov	2020_07_06	total		6921	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_06	new		13	DERIVED	
+admin_1	be	be-vwv	2020_07_06	total		7062	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_06	total		6963	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_06	total		7058	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_06	new		3	DERIVED	
+admin_1	be	be-wlx	2020_07_06	total		1476	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_07	new		2	DERIVED	
 admin_1	be	be-wbr	2020_07_07	total		1564	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_07	new		4	DERIVED	
-admin_1	be	be-wht	2020_07_07	total		6967	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_07_07	new		15	DERIVED	
-admin_1	be	be-wlg	2020_07_07	total		7073	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_07_07	new		6	DERIVED	
-admin_1	be	be-wlx	2020_07_07	total		1482	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_07	new		2	DERIVED	
 admin_1	be	be-wna	2020_07_07	total		2369	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_07	new		1	DERIVED	
 admin_1	be	unknown	2020_07_07	total		1480	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new		137	DERIVED	
+admin_0		be	2020_07_08	total		62553	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	total_male		23305	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	total_female		39086	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	0-9	7	DERIVED	
+admin_0		be	2020_07_08	total	0-9	668	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	10-19	12	DERIVED	
+admin_0		be	2020_07_08	total	10-19	1008	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	20-29	35	DERIVED	
+admin_0		be	2020_07_08	total	20-29	6021	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	30-39	20	DERIVED	
+admin_0		be	2020_07_08	total	30-39	6733	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	40-49	22	DERIVED	
+admin_0		be	2020_07_08	total	40-49	7929	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	50-59	16	DERIVED	
+admin_0		be	2020_07_08	total	50-59	9151	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	60-69	11	DERIVED	
+admin_0		be	2020_07_08	total	60-69	6040	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	70-79	7	DERIVED	
+admin_0		be	2020_07_08	total	70-79	6791	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	80-89	5	DERIVED	
+admin_0		be	2020_07_08	total	80-89	11859	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_08	new	90+	1	DERIVED	
+admin_0		be	2020_07_08	total	90+	6177	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_08	total	NA	176	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new		123	DERIVED	
-admin_0		be	2020_07_09	total		62676	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	total_male		23359	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	total_female		39154	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	0-9	6	DERIVED	
-admin_0		be	2020_07_09	total	0-9	674	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	10-19	9	DERIVED	
-admin_0		be	2020_07_09	total	10-19	1017	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	20-29	23	DERIVED	
-admin_0		be	2020_07_09	total	20-29	6044	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	30-39	20	DERIVED	
-admin_0		be	2020_07_09	total	30-39	6753	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	40-49	26	DERIVED	
-admin_0		be	2020_07_09	total	40-49	7955	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	50-59	22	DERIVED	
-admin_0		be	2020_07_09	total	50-59	9173	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	60-69	5	DERIVED	
-admin_0		be	2020_07_09	total	60-69	6045	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	70-79	4	DERIVED	
-admin_0		be	2020_07_09	total	70-79	6795	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	80-89	4	DERIVED	
-admin_0		be	2020_07_09	total	80-89	11863	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_09	new	90+	4	DERIVED	
-admin_0		be	2020_07_09	total	90+	6181	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_09	new		28	DERIVED	
-admin_1	be	be-bru	2020_07_09	total		6539	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_09	new		20	DERIVED	
-admin_1	be	be-van	2020_07_09	total		8822	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_09	new		7	DERIVED	
-admin_1	be	be-vbr	2020_07_09	total		5585	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_09	new		14	DERIVED	
-admin_1	be	be-vli	2020_07_09	total		6683	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_09	new		10	DERIVED	
-admin_1	be	be-vov	2020_07_09	total		6952	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_09	new		20	DERIVED	
-admin_1	be	be-vwv	2020_07_09	total		7119	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_08	new		13	DERIVED	
+admin_1	be	be-bru	2020_07_08	total		6511	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_08	new		41	DERIVED	
+admin_1	be	be-van	2020_07_08	total		8802	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_08	new		9	DERIVED	
+admin_1	be	be-vbr	2020_07_08	total		5578	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_08	new		22	DERIVED	
+admin_1	be	be-vli	2020_07_08	total		6669	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_08	new		10	DERIVED	
+admin_1	be	be-vov	2020_07_08	total		6942	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_08	new		25	DERIVED	
+admin_1	be	be-vwv	2020_07_08	total		7099	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_08	new		7	DERIVED	
+admin_1	be	be-wht	2020_07_08	total		6974	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_08	new		1	DERIVED	
+admin_1	be	be-wlg	2020_07_08	total		7074	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_08	new		3	DERIVED	
+admin_1	be	be-wlx	2020_07_08	total		1485	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_09	new		5	DERIVED	
 admin_1	be	be-wbr	2020_07_09	total		1574	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_09	new		7	DERIVED	
-admin_1	be	be-wht	2020_07_09	total		6981	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_07_09	new		7	DERIVED	
-admin_1	be	be-wlg	2020_07_09	total		7081	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_07_09	new		3	DERIVED	
-admin_1	be	be-wlx	2020_07_09	total		1488	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_09	new		2	DERIVED	
 admin_1	be	unknown	2020_07_09	total		1483	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new		62	DERIVED	
-admin_0		be	2020_07_11	total		62864	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	total_male		23452	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	total_female		39248	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	0-9	2	DERIVED	
-admin_0		be	2020_07_11	total	0-9	681	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	10-19	7	DERIVED	
-admin_0		be	2020_07_11	total	10-19	1039	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	20-29	15	DERIVED	
-admin_0		be	2020_07_11	total	20-29	6087	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	30-39	6	DERIVED	
-admin_0		be	2020_07_11	total	30-39	6781	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	40-49	8	DERIVED	
-admin_0		be	2020_07_11	total	40-49	7985	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	50-59	6	DERIVED	
-admin_0		be	2020_07_11	total	50-59	9194	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	60-69	7	DERIVED	
-admin_0		be	2020_07_11	total	60-69	6063	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	70-79	4	DERIVED	
-admin_0		be	2020_07_11	total	70-79	6802	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	80-89	4	DERIVED	
-admin_0		be	2020_07_11	total	80-89	11871	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_11	new	90+	3	DERIVED	
-admin_0		be	2020_07_11	total	90+	6185	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_11	new		2	DERIVED	
-admin_1	be	be-bru	2020_07_11	total		6560	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_11	new		9	DERIVED	
-admin_1	be	be-van	2020_07_11	total		8869	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_11	new		5	DERIVED	
-admin_1	be	be-vbr	2020_07_11	total		5600	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_11	new		10	DERIVED	
-admin_1	be	be-vli	2020_07_11	total		6703	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_11	new		2	DERIVED	
-admin_1	be	be-vov	2020_07_11	total		6961	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_11	new		11	DERIVED	
-admin_1	be	be-vwv	2020_07_11	total		7143	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_07_11	total		1575	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_11	new		6	DERIVED	
-admin_1	be	be-wht	2020_07_11	total		6996	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_07_11	new		10	DERIVED	
-admin_1	be	be-wlg	2020_07_11	total		7101	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlx	2020_07_11	new		1	DERIVED	
-admin_1	be	be-wlx	2020_07_11	total		1495	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new		126	DERIVED	
+admin_0		be	2020_07_10	total		62802	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	total_male		23424	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	total_female		39214	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	0-9	5	DERIVED	
+admin_0		be	2020_07_10	total	0-9	679	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	10-19	15	DERIVED	
+admin_0		be	2020_07_10	total	10-19	1032	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	20-29	28	DERIVED	
+admin_0		be	2020_07_10	total	20-29	6072	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	30-39	22	DERIVED	
+admin_0		be	2020_07_10	total	30-39	6775	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	40-49	22	DERIVED	
+admin_0		be	2020_07_10	total	40-49	7977	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	50-59	15	DERIVED	
+admin_0		be	2020_07_10	total	50-59	9188	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	60-69	11	DERIVED	
+admin_0		be	2020_07_10	total	60-69	6056	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	70-79	3	DERIVED	
+admin_0		be	2020_07_10	total	70-79	6798	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	80-89	4	DERIVED	
+admin_0		be	2020_07_10	total	80-89	11867	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_10	new	90+	1	DERIVED	
+admin_0		be	2020_07_10	total	90+	6182	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_10	new		19	DERIVED	
+admin_1	be	be-bru	2020_07_10	total		6558	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_10	new		38	DERIVED	
+admin_1	be	be-van	2020_07_10	total		8860	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_10	new		10	DERIVED	
+admin_1	be	be-vbr	2020_07_10	total		5595	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_10	new		10	DERIVED	
+admin_1	be	be-vli	2020_07_10	total		6693	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_10	new		7	DERIVED	
+admin_1	be	be-vov	2020_07_10	total		6959	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_10	new		13	DERIVED	
+admin_1	be	be-vwv	2020_07_10	total		7132	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_10	new		9	DERIVED	
+admin_1	be	be-wht	2020_07_10	total		6990	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_10	new		10	DERIVED	
+admin_1	be	be-wlg	2020_07_10	total		7091	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_10	new		6	DERIVED	
+admin_1	be	be-wlx	2020_07_10	total		1494	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_11	total		2373	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_11	new		1	DERIVED	
 admin_1	be	unknown	2020_07_11	total		1488	https://epistat.wiv-isp.be/covid/	
@@ -2385,14 +2344,14 @@ admin_1	be	be-wna	2020_07_26	new		9	DERIVED
 admin_1	be	be-wna	2020_07_26	total		2443	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_26	new		3	DERIVED	
 admin_1	be	unknown	2020_07_26	total		1554	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_27	new		590	DERIVED	
-admin_0		be	2020_07_27	total		67352	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_27	new		592	DERIVED	
+admin_0		be	2020_07_27	total		67354	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_27	total_male		25711	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_27	total_female		41451	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_27	total_female		41452	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_27	new	0-9	40	DERIVED	
 admin_0		be	2020_07_27	total	0-9	929	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_27	new	10-19	84	DERIVED	
-admin_0		be	2020_07_27	total	10-19	1608	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_27	new	10-19	85	DERIVED	
+admin_0		be	2020_07_27	total	10-19	1609	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_27	new	20-29	96	DERIVED	
 admin_0		be	2020_07_27	total	20-29	7045	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_27	new	30-39	113	DERIVED	
@@ -2409,13 +2368,13 @@ admin_0		be	2020_07_27	new	80-89	18	DERIVED
 admin_0		be	2020_07_27	total	80-89	12005	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_27	new	90+	9	DERIVED	
 admin_0		be	2020_07_27	total	90+	6237	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_27	total	NA	194	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_27	total	NA	195	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-bru	2020_07_27	new		48	DERIVED	
 admin_1	be	be-bru	2020_07_27	total		6915	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-van	2020_07_27	new		306	DERIVED	
 admin_1	be	be-van	2020_07_27	total		10856	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_27	new		23	DERIVED	
-admin_1	be	be-vbr	2020_07_27	total		5801	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_27	new		24	DERIVED	
+admin_1	be	be-vbr	2020_07_27	total		5802	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vli	2020_07_27	new		38	DERIVED	
 admin_1	be	be-vli	2020_07_27	total		7016	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vov	2020_07_27	new		46	DERIVED	
@@ -2432,24 +2391,24 @@ admin_1	be	be-wlx	2020_07_27	new		2	DERIVED
 admin_1	be	be-wlx	2020_07_27	total		1584	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_27	new		11	DERIVED	
 admin_1	be	be-wna	2020_07_27	total		2454	https://epistat.wiv-isp.be/covid/	
-admin_1	be	unknown	2020_07_27	new		8	DERIVED	
-admin_1	be	unknown	2020_07_27	total		1562	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	new		659	DERIVED	
-admin_0		be	2020_07_28	total		68011	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	total_male		26047	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	total_female		41772	https://epistat.wiv-isp.be/covid/	
+admin_1	be	unknown	2020_07_27	new		9	DERIVED	
+admin_1	be	unknown	2020_07_27	total		1563	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	new		668	DERIVED	
+admin_0		be	2020_07_28	total		68022	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	total_male		26052	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	total_female		41777	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	0-9	34	DERIVED	
 admin_0		be	2020_07_28	total	0-9	963	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	10-19	76	DERIVED	
-admin_0		be	2020_07_28	total	10-19	1684	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	total	10-19	1685	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	20-29	141	DERIVED	
 admin_0		be	2020_07_28	total	20-29	7186	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	new	30-39	148	DERIVED	
-admin_0		be	2020_07_28	total	30-39	7760	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	new	40-49	111	DERIVED	
-admin_0		be	2020_07_28	total	40-49	8776	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_28	new	50-59	78	DERIVED	
-admin_0		be	2020_07_28	total	50-59	9816	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	new	30-39	152	DERIVED	
+admin_0		be	2020_07_28	total	30-39	7764	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	new	40-49	115	DERIVED	
+admin_0		be	2020_07_28	total	40-49	8780	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	new	50-59	79	DERIVED	
+admin_0		be	2020_07_28	total	50-59	9817	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	60-69	28	DERIVED	
 admin_0		be	2020_07_28	total	60-69	6366	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	70-79	20	DERIVED	
@@ -2459,23 +2418,23 @@ admin_0		be	2020_07_28	total	80-89	12017	https://epistat.wiv-isp.be/covid/
 admin_0		be	2020_07_28	new	90+	8	DERIVED	
 admin_0		be	2020_07_28	total	90+	6245	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_28	new	NA	3	DERIVED	
-admin_0		be	2020_07_28	total	NA	197	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_28	new		76	DERIVED	
-admin_1	be	be-bru	2020_07_28	total		6991	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_28	new		234	DERIVED	
-admin_1	be	be-van	2020_07_28	total		11090	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_28	new		29	DERIVED	
-admin_1	be	be-vbr	2020_07_28	total		5830	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_28	new		27	DERIVED	
-admin_1	be	be-vli	2020_07_28	total		7043	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_28	total	NA	198	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_28	new		77	DERIVED	
+admin_1	be	be-bru	2020_07_28	total		6992	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_28	new		235	DERIVED	
+admin_1	be	be-van	2020_07_28	total		11091	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_28	new		31	DERIVED	
+admin_1	be	be-vbr	2020_07_28	total		5833	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_28	new		31	DERIVED	
+admin_1	be	be-vli	2020_07_28	total		7047	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vov	2020_07_28	new		55	DERIVED	
 admin_1	be	be-vov	2020_07_28	total		7340	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-vwv	2020_07_28	new		19	DERIVED	
 admin_1	be	be-vwv	2020_07_28	total		7570	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wbr	2020_07_28	new		15	DERIVED	
 admin_1	be	be-wbr	2020_07_28	total		1645	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_28	new		36	DERIVED	
-admin_1	be	be-wht	2020_07_28	total		7311	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_28	new		37	DERIVED	
+admin_1	be	be-wht	2020_07_28	total		7312	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlg	2020_07_28	new		72	DERIVED	
 admin_1	be	be-wlg	2020_07_28	total		7495	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_07_28	new		14	DERIVED	
@@ -2483,96 +2442,150 @@ admin_1	be	be-wlx	2020_07_28	total		1598	https://epistat.wiv-isp.be/covid/
 admin_1	be	be-wna	2020_07_28	new		22	DERIVED	
 admin_1	be	be-wna	2020_07_28	total		2476	https://epistat.wiv-isp.be/covid/	
 admin_1	be	unknown	2020_07_28	new		60	DERIVED	
-admin_1	be	unknown	2020_07_28	total		1622	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new		539	DERIVED	
-admin_0		be	2020_07_29	total		68550	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	total_male		26295	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	total_female		42062	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	0-9	22	DERIVED	
-admin_0		be	2020_07_29	total	0-9	985	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	10-19	62	DERIVED	
-admin_0		be	2020_07_29	total	10-19	1746	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	20-29	119	DERIVED	
-admin_0		be	2020_07_29	total	20-29	7305	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	30-39	104	DERIVED	
-admin_0		be	2020_07_29	total	30-39	7864	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	40-49	77	DERIVED	
-admin_0		be	2020_07_29	total	40-49	8853	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	50-59	75	DERIVED	
-admin_0		be	2020_07_29	total	50-59	9891	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	60-69	34	DERIVED	
-admin_0		be	2020_07_29	total	60-69	6400	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	70-79	24	DERIVED	
-admin_0		be	2020_07_29	total	70-79	7025	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	80-89	16	DERIVED	
-admin_0		be	2020_07_29	total	80-89	12033	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_29	new	90+	3	DERIVED	
-admin_0		be	2020_07_29	total	90+	6248	https://epistat.wiv-isp.be/covid/	
+admin_1	be	unknown	2020_07_28	total		1623	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new		662	DERIVED	
+admin_0		be	2020_07_29	total		68684	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	total_male		26362	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	total_female		42128	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	0-9	24	DERIVED	
+admin_0		be	2020_07_29	total	0-9	987	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	10-19	79	DERIVED	
+admin_0		be	2020_07_29	total	10-19	1764	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	20-29	138	DERIVED	
+admin_0		be	2020_07_29	total	20-29	7324	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	30-39	130	DERIVED	
+admin_0		be	2020_07_29	total	30-39	7894	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	40-49	106	DERIVED	
+admin_0		be	2020_07_29	total	40-49	8886	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	50-59	93	DERIVED	
+admin_0		be	2020_07_29	total	50-59	9910	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	60-69	40	DERIVED	
+admin_0		be	2020_07_29	total	60-69	6406	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	70-79	27	DERIVED	
+admin_0		be	2020_07_29	total	70-79	7028	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	80-89	18	DERIVED	
+admin_0		be	2020_07_29	total	80-89	12035	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	new	90+	4	DERIVED	
+admin_0		be	2020_07_29	total	90+	6249	https://epistat.wiv-isp.be/covid/	
 admin_0		be	2020_07_29	new	NA	3	DERIVED	
-admin_0		be	2020_07_29	total	NA	200	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_29	new		81	DERIVED	
-admin_1	be	be-bru	2020_07_29	total		7072	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_29	new		176	DERIVED	
-admin_1	be	be-van	2020_07_29	total		11266	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_29	new		24	DERIVED	
-admin_1	be	be-vbr	2020_07_29	total		5854	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_29	new		22	DERIVED	
-admin_1	be	be-vli	2020_07_29	total		7065	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_29	new		34	DERIVED	
-admin_1	be	be-vov	2020_07_29	total		7374	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_29	new		21	DERIVED	
-admin_1	be	be-vwv	2020_07_29	total		7591	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_07_29	new		8	DERIVED	
-admin_1	be	be-wbr	2020_07_29	total		1653	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_29	new		55	DERIVED	
-admin_1	be	be-wht	2020_07_29	total		7366	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_07_29	new		29	DERIVED	
-admin_1	be	be-wlg	2020_07_29	total		7524	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_29	total	NA	201	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_29	new		91	DERIVED	
+admin_1	be	be-bru	2020_07_29	total		7083	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_29	new		230	DERIVED	
+admin_1	be	be-van	2020_07_29	total		11321	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_29	new		34	DERIVED	
+admin_1	be	be-vbr	2020_07_29	total		5867	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_29	new		35	DERIVED	
+admin_1	be	be-vli	2020_07_29	total		7082	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_29	new		54	DERIVED	
+admin_1	be	be-vov	2020_07_29	total		7394	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_29	new		24	DERIVED	
+admin_1	be	be-vwv	2020_07_29	total		7594	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_07_29	new		10	DERIVED	
+admin_1	be	be-wbr	2020_07_29	total		1655	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_29	new		56	DERIVED	
+admin_1	be	be-wht	2020_07_29	total		7368	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_29	new		36	DERIVED	
+admin_1	be	be-wlg	2020_07_29	total		7531	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wlx	2020_07_29	new		9	DERIVED	
 admin_1	be	be-wlx	2020_07_29	total		1607	https://epistat.wiv-isp.be/covid/	
 admin_1	be	be-wna	2020_07_29	new		22	DERIVED	
 admin_1	be	be-wna	2020_07_29	total		2498	https://epistat.wiv-isp.be/covid/	
-admin_1	be	unknown	2020_07_29	new		58	DERIVED	
-admin_1	be	unknown	2020_07_29	total		1680	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new		108	DERIVED	
-admin_0		be	2020_07_30	total		68658	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	total_male		26340	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	total_female		42125	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	0-9	3	DERIVED	
-admin_0		be	2020_07_30	total	0-9	988	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	10-19	16	DERIVED	
-admin_0		be	2020_07_30	total	10-19	1762	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	20-29	25	DERIVED	
-admin_0		be	2020_07_30	total	20-29	7330	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	30-39	19	DERIVED	
-admin_0		be	2020_07_30	total	30-39	7883	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	40-49	13	DERIVED	
-admin_0		be	2020_07_30	total	40-49	8866	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	50-59	10	DERIVED	
-admin_0		be	2020_07_30	total	50-59	9901	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	60-69	11	DERIVED	
-admin_0		be	2020_07_30	total	60-69	6411	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	70-79	8	DERIVED	
-admin_0		be	2020_07_30	total	70-79	7033	https://epistat.wiv-isp.be/covid/	
-admin_0		be	2020_07_30	new	80-89	3	DERIVED	
-admin_0		be	2020_07_30	total	80-89	12036	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-bru	2020_07_30	new		20	DERIVED	
-admin_1	be	be-bru	2020_07_30	total		7092	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-van	2020_07_30	new		14	DERIVED	
-admin_1	be	be-van	2020_07_30	total		11280	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vbr	2020_07_30	new		10	DERIVED	
-admin_1	be	be-vbr	2020_07_30	total		5864	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vli	2020_07_30	new		4	DERIVED	
-admin_1	be	be-vli	2020_07_30	total		7069	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vov	2020_07_30	new		9	DERIVED	
-admin_1	be	be-vov	2020_07_30	total		7383	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-vwv	2020_07_30	new		9	DERIVED	
-admin_1	be	be-vwv	2020_07_30	total		7600	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wbr	2020_07_30	new		3	DERIVED	
-admin_1	be	be-wbr	2020_07_30	total		1656	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wht	2020_07_30	new		7	DERIVED	
-admin_1	be	be-wht	2020_07_30	total		7373	https://epistat.wiv-isp.be/covid/	
-admin_1	be	be-wlg	2020_07_30	new		31	DERIVED	
-admin_1	be	be-wlg	2020_07_30	total		7555	https://epistat.wiv-isp.be/covid/	
-admin_1	be	unknown	2020_07_30	new		1	DERIVED	
-admin_1	be	unknown	2020_07_30	total		1681	https://epistat.wiv-isp.be/covid/	
+admin_1	be	unknown	2020_07_29	new		61	DERIVED	
+admin_1	be	unknown	2020_07_29	total		1684	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new		496	DERIVED	
+admin_0		be	2020_07_30	total		69180	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	total_male		26605	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	total_female		42380	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	0-9	23	DERIVED	
+admin_0		be	2020_07_30	total	0-9	1010	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	10-19	71	DERIVED	
+admin_0		be	2020_07_30	total	10-19	1835	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	20-29	104	DERIVED	
+admin_0		be	2020_07_30	total	20-29	7428	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	30-39	87	DERIVED	
+admin_0		be	2020_07_30	total	30-39	7981	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	40-49	79	DERIVED	
+admin_0		be	2020_07_30	total	40-49	8965	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	50-59	58	DERIVED	
+admin_0		be	2020_07_30	total	50-59	9968	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	60-69	44	DERIVED	
+admin_0		be	2020_07_30	total	60-69	6450	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	70-79	19	DERIVED	
+admin_0		be	2020_07_30	total	70-79	7047	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	80-89	7	DERIVED	
+admin_0		be	2020_07_30	total	80-89	12042	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	90+	3	DERIVED	
+admin_0		be	2020_07_30	total	90+	6252	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_30	new	NA	1	DERIVED	
+admin_0		be	2020_07_30	total	NA	202	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_30	new		69	DERIVED	
+admin_1	be	be-bru	2020_07_30	total		7152	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_30	new		168	DERIVED	
+admin_1	be	be-van	2020_07_30	total		11489	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_30	new		40	DERIVED	
+admin_1	be	be-vbr	2020_07_30	total		5907	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_30	new		22	DERIVED	
+admin_1	be	be-vli	2020_07_30	total		7104	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_30	new		30	DERIVED	
+admin_1	be	be-vov	2020_07_30	total		7424	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_30	new		25	DERIVED	
+admin_1	be	be-vwv	2020_07_30	total		7619	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_07_30	new		7	DERIVED	
+admin_1	be	be-wbr	2020_07_30	total		1662	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_30	new		27	DERIVED	
+admin_1	be	be-wht	2020_07_30	total		7395	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_30	new		85	DERIVED	
+admin_1	be	be-wlg	2020_07_30	total		7616	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_30	new		9	DERIVED	
+admin_1	be	be-wlx	2020_07_30	total		1616	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wna	2020_07_30	new		7	DERIVED	
+admin_1	be	be-wna	2020_07_30	total		2505	https://epistat.wiv-isp.be/covid/	
+admin_1	be	unknown	2020_07_30	new		7	DERIVED	
+admin_1	be	unknown	2020_07_30	total		1691	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new		129	DERIVED	
+admin_0		be	2020_07_31	total		69309	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	total_male		26672	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	total_female		42442	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	0-9	8	DERIVED	
+admin_0		be	2020_07_31	total	0-9	1018	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	10-19	27	DERIVED	
+admin_0		be	2020_07_31	total	10-19	1862	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	20-29	23	DERIVED	
+admin_0		be	2020_07_31	total	20-29	7451	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	30-39	13	DERIVED	
+admin_0		be	2020_07_31	total	30-39	7994	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	40-49	24	DERIVED	
+admin_0		be	2020_07_31	total	40-49	8989	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	50-59	13	DERIVED	
+admin_0		be	2020_07_31	total	50-59	9981	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	60-69	8	DERIVED	
+admin_0		be	2020_07_31	total	60-69	6458	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	70-79	4	DERIVED	
+admin_0		be	2020_07_31	total	70-79	7051	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	80-89	7	DERIVED	
+admin_0		be	2020_07_31	total	80-89	12049	https://epistat.wiv-isp.be/covid/	
+admin_0		be	2020_07_31	new	90+	2	DERIVED	
+admin_0		be	2020_07_31	total	90+	6254	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-bru	2020_07_31	new		11	DERIVED	
+admin_1	be	be-bru	2020_07_31	total		7163	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-van	2020_07_31	new		26	DERIVED	
+admin_1	be	be-van	2020_07_31	total		11515	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vbr	2020_07_31	new		5	DERIVED	
+admin_1	be	be-vbr	2020_07_31	total		5912	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vli	2020_07_31	new		4	DERIVED	
+admin_1	be	be-vli	2020_07_31	total		7108	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vov	2020_07_31	new		10	DERIVED	
+admin_1	be	be-vov	2020_07_31	total		7434	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-vwv	2020_07_31	new		7	DERIVED	
+admin_1	be	be-vwv	2020_07_31	total		7626	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wbr	2020_07_31	new		1	DERIVED	
+admin_1	be	be-wbr	2020_07_31	total		1663	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wht	2020_07_31	new		6	DERIVED	
+admin_1	be	be-wht	2020_07_31	total		7401	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlg	2020_07_31	new		44	DERIVED	
+admin_1	be	be-wlg	2020_07_31	total		7660	https://epistat.wiv-isp.be/covid/	
+admin_1	be	be-wlx	2020_07_31	new		7	DERIVED	
+admin_1	be	be-wlx	2020_07_31	total		1623	https://epistat.wiv-isp.be/covid/	
+admin_1	be	unknown	2020_07_31	new		8	DERIVED	
+admin_1	be	unknown	2020_07_31	total		1699	https://epistat.wiv-isp.be/covid/	
