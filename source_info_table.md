@@ -50,6 +50,7 @@
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
+| np_bipad | https://bipad.gov.np |  |
 | nz_herald | https://github.com/nzherald/nz-covid19-data |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
