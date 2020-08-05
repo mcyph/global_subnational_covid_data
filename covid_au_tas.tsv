@@ -1,162 +1,146 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_1	au	au-tas	2020_03_02	tests_total		49	https://www.dhhs.tas.gov.au/news/2020/coronavirus_case_confirmed_in_tasmania	
-admin_1	au	au-tas	2020_03_09	tests_total		126	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_-_9_march_2020	
+admin_1	au	au-tas	2020_03_02	tests_total		49	https://www.health.tas.gov.au/news/2020/coronavirus_case_confirmed_in_tasmania	
+admin_1	au	au-tas	2020_03_09	tests_total		126	https://www.health.tas.gov.au/news/2020/coronavirus_update_-_9_march_2020	
 admin_1	au	au-tas	2020_03_09	tests_new		12	DERIVED	
-admin_1	au	au-tas	2020_03_20	tests_total		807	https://www.health.tas.gov.au/news/2020/additional_coronavirus_update_20_march_2020	
+admin_1	au	au-tas	2020_03_20	tests_total		807	https://www.dhhs.tas.gov.au/news/2020/additional_coronavirus_update_20_march_2020	
 admin_1	au	au-tas	2020_03_25	tests_new		133	DERIVED	
-admin_1	au	au-tas	2020_03_27	tests_total		1779	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_27_march_2020	
+admin_1	au	au-tas	2020_03_27	tests_total		1779	https://www.health.tas.gov.au/news/2020/coronavirus_update_27_march_2020	
 admin_1	au	au-tas	2020_03_28	new		4	DERIVED	
-admin_1	au	au-tas	2020_03_28	total		62	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_28_march_2020	
-admin_1	au	au-tas	2020_04_05	new		4	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_5_april_2020	
-admin_1	au	au-tas	2020_04_05	total		86	https://www.health.tas.gov.au/news/2020/coronavirus_update_5_april_2020	
-admin_1	au	au-tas	2020_04_11	new		11	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_11_april_2020	
-admin_1	au	au-tas	2020_04_11	total		133	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_11_april_2020	
-admin_1	au	au-tas	2020_04_17	new		4	https://www.health.tas.gov.au/news/2020/coronavirus_update_17_april_2020	
-admin_1	au	au-tas	2020_04_17	total		184	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update23	
-admin_1	au	au-tas	2020_04_22	new		4	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update28	
-admin_1	au	au-tas	2020_04_22	total		205	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_22_april_2020	
-admin_1	au	au-tas	2020_04_24	status_hospitalized		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_24	status_deaths_new		1	DERIVED	
-admin_1	au	au-tas	2020_04_24	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_04_24	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_04_24	status_recovered_new		11	DERIVED	
-admin_1	au	au-tas	2020_04_24	status_active_new		-10	DERIVED	
-admin_1	au	au-tas	2020_04_24	tests_new		370	DERIVED	
-ths	au-tas	north	2020_04_25	new		0	DERIVED	
-ths	au-tas	north	2020_04_25	total		25	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_25	status_recovered		24	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_25	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_25	status_recovered_new		1	DERIVED	
-ths	au-tas	north	2020_04_25	status_active_new		-1	DERIVED	
-ths	au-tas	north-west	2020_04_25	new		1	DERIVED	
-ths	au-tas	north-west	2020_04_25	total		125	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_25	status_recovered		52	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_25	status_active		73	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_25	status_recovered_new		10	DERIVED	
-ths	au-tas	north-west	2020_04_25	status_active_new		-9	DERIVED	
-ths	au-tas	south	2020_04_25	new		0	DERIVED	
-ths	au-tas	south	2020_04_25	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_25	status_recovered		38	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_25	status_active		6	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_25	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_04_25	status_active_new		0	DERIVED	
-admin_1	au	au-tas	2020_04_27	new		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	total		214	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	status_deaths		11	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	status_recovered		135	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	status_active		68	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_27	tests_total		10052	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_29	status_hospitalized		12	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_04_29	status_deaths_new		1	DERIVED	
-admin_1	au	au-tas	2020_04_29	status_hospitalized_new		-1	DERIVED	
-admin_1	au	au-tas	2020_04_29	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_04_29	status_recovered_new		7	DERIVED	
-admin_1	au	au-tas	2020_04_29	status_active_new		-7	DERIVED	
-admin_1	au	au-tas	2020_04_29	tests_new		785	DERIVED	
-ths	au-tas	north	2020_04_30	new		0	DERIVED	
-ths	au-tas	north	2020_04_30	total		26	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_30	status_recovered		24	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_30	status_active		2	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_04_30	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_04_30	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_04_30	new		0	DERIVED	
-ths	au-tas	north-west	2020_04_30	total		135	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_30	status_recovered		78	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_30	status_active		57	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_04_30	status_recovered_new		6	DERIVED	
-ths	au-tas	north-west	2020_04_30	status_active_new		-6	DERIVED	
-ths	au-tas	south	2020_04_30	new		0	DERIVED	
-ths	au-tas	south	2020_04_30	total		43	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_30	status_recovered		39	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_30	status_active		4	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_04_30	status_recovered_new		1	DERIVED	
-ths	au-tas	south	2020_04_30	status_active_new		-1	DERIVED	
-admin_1	au	au-tas	2020_05_02	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	total		221	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	status_recovered		158	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	status_active		50	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_02	tests_total		14491	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_04	status_hospitalized		8	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_04	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_04	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_04	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_04	status_recovered_new		1	DERIVED	
-admin_1	au	au-tas	2020_05_04	status_active_new		-1	DERIVED	
-admin_1	au	au-tas	2020_05_04	tests_new		565	DERIVED	
-ths	au-tas	north	2020_05_05	new		0	DERIVED	
-ths	au-tas	north	2020_05_05	total		27	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_05	status_recovered		25	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_05	status_active		2	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_05	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_05	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_05	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_05	total		135	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_05	status_recovered		98	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_05	status_active		37	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_05	status_recovered_new		1	DERIVED	
-ths	au-tas	north-west	2020_05_05	status_active_new		-1	DERIVED	
-ths	au-tas	south	2020_05_05	new		0	DERIVED	
-ths	au-tas	south	2020_05_05	total		43	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_05	status_recovered		39	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_05	status_active		4	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_05	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_05	status_active_new		0	DERIVED	
-lga	au-tas	brighton	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+admin_1	au	au-tas	2020_03_28	total		62	https://www.health.tas.gov.au/news/2020/coronavirus_update_28_march_2020	
+admin_1	au	au-tas	2020_04_03	new		6	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_3_april_2020	
+admin_1	au	au-tas	2020_04_03	total		80	https://www.health.tas.gov.au/news/2020/coronavirus_update_3_april_2020	
+admin_1	au	au-tas	2020_04_09	new		4	https://www.health.tas.gov.au/news/2020/coronavirus_update_9_april_2020	
+admin_1	au	au-tas	2020_04_09	total		111	https://www.health.tas.gov.au/news/2020/coronavirus_update_9_april_2020	
+admin_1	au	au-tas	2020_04_15	new		4	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update21	
+admin_1	au	au-tas	2020_04_15	total		169	https://www.health.tas.gov.au/news/2020/coronavirus_update_15_april_2020	
+admin_1	au	au-tas	2020_04_21	new		1	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update27	
+admin_1	au	au-tas	2020_04_21	total		201	https://www.dhhs.tas.gov.au/news/2020/coronavirus_update_21_april_2020	
+ths	au-tas	north	2020_04_24	total		25	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_04_24	status_recovered		23	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_04_24	status_active		2	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_24	total		124	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_24	status_recovered		42	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_24	status_active		82	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_24	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_24	status_recovered		38	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_24	status_active		6	Peter Gutweins Facebook Page	
+admin_1	au	au-tas	2020_04_26	new		4	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	total		212	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	status_deaths		11	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	status_recovered		132	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	status_active		69	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_26	tests_total		8839	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+ths	au-tas	north	2020_04_26	new		0	DERIVED	
+ths	au-tas	north	2020_04_26	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_04_26	status_active_new		0	DERIVED	
+ths	au-tas	north-west	2020_04_26	new		1	DERIVED	
+ths	au-tas	north-west	2020_04_26	status_recovered_new		7	DERIVED	
+ths	au-tas	north-west	2020_04_26	status_active_new		-6	DERIVED	
+ths	au-tas	south	2020_04_26	new		-1	DERIVED	
+ths	au-tas	south	2020_04_26	status_recovered_new		-1	DERIVED	
+ths	au-tas	south	2020_04_26	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_04_27	status_hospitalized		12	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_04_27	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_04_27	status_hospitalized_new		-1	DERIVED	
+admin_1	au	au-tas	2020_04_27	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_04_27	status_recovered_new		3	DERIVED	
+admin_1	au	au-tas	2020_04_27	status_active_new		-1	DERIVED	
+admin_1	au	au-tas	2020_04_27	tests_new		1213	DERIVED	
+ths	au-tas	north	2020_04_29	total		26	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_04_29	status_recovered		24	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_04_29	status_active		2	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_29	total		135	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_29	status_recovered		72	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_04_29	status_active		63	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_29	total		43	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_29	status_recovered		38	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_04_29	status_active		5	Peter Gutweins Facebook Page	
+admin_1	au	au-tas	2020_05_01	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_01	total		221	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update37	
+admin_1	au	au-tas	2020_05_01	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_01	status_icu		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_01	status_recovered		157	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_01	status_active		51	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_01	tests_total		13545	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+ths	au-tas	north	2020_05_01	new		1	DERIVED	
+ths	au-tas	north	2020_05_01	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_01	status_active_new		1	DERIVED	
+ths	au-tas	north-west	2020_05_01	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_01	status_recovered_new		9	DERIVED	
+ths	au-tas	north-west	2020_05_01	status_active_new		-9	DERIVED	
+ths	au-tas	south	2020_05_01	new		0	DERIVED	
+ths	au-tas	south	2020_05_01	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_01	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_02	status_hospitalized		8	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_02	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_02	status_hospitalized_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_02	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_02	status_recovered_new		1	DERIVED	
+admin_1	au	au-tas	2020_05_02	status_active_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_02	tests_new		946	DERIVED	
+ths	au-tas	north	2020_05_04	total		27	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_04	status_recovered		25	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_04	status_active		2	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_04	total		135	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_04	status_recovered		97	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_04	status_active		38	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_04	total		43	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_04	status_recovered		39	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_04	status_active		4	Peter Gutweins Facebook Page	
+admin_1	au	au-tas	2020_05_06	new		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	total		224	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	status_recovered		170	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	status_active		41	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_06	tests_total		17045	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+lga	au-tas	brighton	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	burnie	2020_05_06	total		63	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	central coast	2020_05_06	total		35	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	circular head	2020_05_06	total		7	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	clarence	2020_05_06	total		5	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	circular head	2020_05_06	total		7	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	clarence	2020_05_06	total		5	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	derwent valley	2020_05_06	total		4	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	devonport	2020_05_06	total		12	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	george town	2020_05_06	total		1	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	glenorchy	2020_05_06	total		3	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	hobart	2020_05_06	total		11	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	huon valley	2020_05_06	total		6	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	george town	2020_05_06	total		1	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	glenorchy	2020_05_06	total		3	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	hobart	2020_05_06	total		11	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	huon valley	2020_05_06	total		6	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	kentish	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	kingborough	2020_05_06	total		12	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	latrobe	2020_05_06	total		4	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-lga	au-tas	launceston	2020_05_06	total		20	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	latrobe	2020_05_06	total		4	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+lga	au-tas	launceston	2020_05_06	total		20	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	meander valley	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
 lga	au-tas	northern midlands	2020_05_06	total		3	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	sorell	2020_05_06	total		1	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
 lga	au-tas	waratah-wynyard	2020_05_06	total		23	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	west coast	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
-lga	au-tas	west tamar	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
-admin_1	au	au-tas	2020_05_07	new		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	total		225	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	status_recovered		177	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	status_active		35	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_07	tests_total		17582	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_09	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_09	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_09	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_09	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_09	status_recovered_new		6	DERIVED	
-admin_1	au	au-tas	2020_05_09	status_active_new		-6	DERIVED	
-admin_1	au	au-tas	2020_05_09	tests_new		383	DERIVED	
-ths	au-tas	north	2020_05_10	new		0	DERIVED	
-ths	au-tas	north	2020_05_10	total		28	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_10	status_recovered		26	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_10	status_active		2	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_10	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_10	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_10	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_10	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_10	status_recovered		113	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_10	status_active		24	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_10	status_recovered_new		6	DERIVED	
-ths	au-tas	north-west	2020_05_10	status_active_new		-6	DERIVED	
-ths	au-tas	south	2020_05_10	new		0	DERIVED	
-ths	au-tas	south	2020_05_10	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_10	status_recovered		43	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_10	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_10	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_10	status_active_new		0	DERIVED	
+lga	au-tas	west coast	2020_05_06	total		2	https://www.coronavirus.tas.gov.au/media-releases/local-government-area-coronavirus-data	
+lga	au-tas	west tamar	2020_05_06	total		2	https://www.abc.net.au/news/2020-05-06/coronavirus-tasmania-launceston-hospital-worker-positive/12218612	
+ths	au-tas	north	2020_05_06	new		1	DERIVED	
+ths	au-tas	north	2020_05_06	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_06	status_active_new		1	DERIVED	
+ths	au-tas	north-west	2020_05_06	new		1	DERIVED	
+ths	au-tas	north-west	2020_05_06	status_recovered_new		2	DERIVED	
+ths	au-tas	north-west	2020_05_06	status_active_new		-1	DERIVED	
+ths	au-tas	south	2020_05_06	new		0	DERIVED	
+ths	au-tas	south	2020_05_06	status_recovered_new		1	DERIVED	
+ths	au-tas	south	2020_05_06	status_active_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_07	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_07	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_07	status_hospitalized_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_07	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_07	status_recovered_new		7	DERIVED	
+admin_1	au	au-tas	2020_05_07	status_active_new		-6	DERIVED	
+admin_1	au	au-tas	2020_05_07	tests_new		537	DERIVED	
+ths	au-tas	north	2020_05_09	total		28	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_09	status_recovered		26	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_09	status_active		2	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_09	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_09	status_recovered		107	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_09	status_active		30	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_09	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_09	status_recovered		43	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_09	status_active		1	Peter Gutweins Facebook Page	
 admin_1	au	au-tas	2020_05_11	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_11	total		225	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_11	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -164,31 +148,31 @@ admin_1	au	au-tas	2020_05_11	status_icu		0	https://coronavirus.tas.gov.au/facts/
 admin_1	au	au-tas	2020_05_11	status_recovered		185	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_11	status_active		27	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_11	tests_total		19541	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_13	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_13	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_13	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_13	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_13	status_recovered_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_13	status_active_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_13	tests_new		565	DERIVED	
-ths	au-tas	north	2020_05_14	new		0	DERIVED	
-ths	au-tas	north	2020_05_14	total		28	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_14	status_recovered		27	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_14	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_14	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_14	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_14	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_14	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_14	status_recovered		114	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_14	status_active		23	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_14	status_recovered_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_14	status_active_new		0	DERIVED	
-ths	au-tas	south	2020_05_14	new		0	DERIVED	
-ths	au-tas	south	2020_05_14	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_14	status_recovered		43	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_14	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_14	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_14	status_active_new		0	DERIVED	
+ths	au-tas	north	2020_05_11	new		0	DERIVED	
+ths	au-tas	north	2020_05_11	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_11	status_active_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_11	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_11	status_recovered_new		-2	DERIVED	
+ths	au-tas	north-west	2020_05_11	status_active_new		2	DERIVED	
+ths	au-tas	south	2020_05_11	new		0	DERIVED	
+ths	au-tas	south	2020_05_11	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_11	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_12	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_12	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_12	status_hospitalized_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_12	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_12	status_recovered_new		2	DERIVED	
+admin_1	au	au-tas	2020_05_12	status_active_new		-2	DERIVED	
+admin_1	au	au-tas	2020_05_12	tests_new		367	DERIVED	
+ths	au-tas	north	2020_05_13	total		28	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_13	status_recovered		27	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_13	status_active		1	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_13	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_13	status_recovered		114	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_13	status_active		23	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_13	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_13	status_recovered		43	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_13	status_active		1	Peter Gutweins Facebook Page	
 admin_1	au	au-tas	2020_05_15	new		1	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_15	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_15	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -218,54 +202,54 @@ lga	au-tas	tasman	2020_05_15	total		1	https://coronavirus.tas.gov.au/facts/cases
 lga	au-tas	waratah/wynyard	2020_05_15	total		23	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west coast	2020_05_15	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west tamar	2020_05_15	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_17	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_17	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_17	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_17	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_17	status_recovered_new		2	DERIVED	
-admin_1	au	au-tas	2020_05_17	status_active_new		-2	DERIVED	
-admin_1	au	au-tas	2020_05_17	tests_new		340	DERIVED	
-lga	au-tas	brighton	2020_05_17	new		0	DERIVED	
-lga	au-tas	burnie	2020_05_17	new		0	DERIVED	
-lga	au-tas	central coast	2020_05_17	new		0	DERIVED	
-lga	au-tas	circular head	2020_05_17	new		0	DERIVED	
-lga	au-tas	clarence	2020_05_17	new		0	DERIVED	
-lga	au-tas	derwent valley	2020_05_17	new		0	DERIVED	
-lga	au-tas	devonport	2020_05_17	new		0	DERIVED	
-lga	au-tas	george town	2020_05_17	new		0	DERIVED	
-lga	au-tas	glenorchy	2020_05_17	new		0	DERIVED	
-lga	au-tas	hobart	2020_05_17	new		0	DERIVED	
-lga	au-tas	huon valley	2020_05_17	new		0	DERIVED	
-lga	au-tas	kentish	2020_05_17	new		0	DERIVED	
-lga	au-tas	kingborough	2020_05_17	new		0	DERIVED	
-lga	au-tas	latrobe	2020_05_17	new		0	DERIVED	
-lga	au-tas	launceston	2020_05_17	new		0	DERIVED	
-lga	au-tas	meander valley	2020_05_17	new		0	DERIVED	
-lga	au-tas	northern midlands	2020_05_17	new		0	DERIVED	
-lga	au-tas	sorell	2020_05_17	new		0	DERIVED	
-lga	au-tas	tasman	2020_05_17	new		0	DERIVED	
-lga	au-tas	waratah/wynyard	2020_05_17	new		0	DERIVED	
-lga	au-tas	west coast	2020_05_17	new		0	DERIVED	
-lga	au-tas	west tamar	2020_05_17	new		0	DERIVED	
-ths	au-tas	north	2020_05_18	new		0	DERIVED	
-ths	au-tas	north	2020_05_18	total		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_18	status_recovered		28	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_18	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_18	status_recovered_new		1	DERIVED	
-ths	au-tas	north	2020_05_18	status_active_new		-1	DERIVED	
-ths	au-tas	north-west	2020_05_18	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_18	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_18	status_recovered		122	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_18	status_active		15	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_18	status_recovered_new		1	DERIVED	
-ths	au-tas	north-west	2020_05_18	status_active_new		-1	DERIVED	
-ths	au-tas	south	2020_05_18	new		0	DERIVED	
-ths	au-tas	south	2020_05_18	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_18	status_recovered		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_18	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_18	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_18	status_active_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_19	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+ths	au-tas	north	2020_05_15	new		0	DERIVED	
+ths	au-tas	north	2020_05_15	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_15	status_active_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_15	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_15	status_recovered_new		3	DERIVED	
+ths	au-tas	north-west	2020_05_15	status_active_new		-3	DERIVED	
+ths	au-tas	south	2020_05_15	new		0	DERIVED	
+ths	au-tas	south	2020_05_15	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_15	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_16	status_hospitalized		7	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_16	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_16	status_hospitalized_new		1	DERIVED	
+admin_1	au	au-tas	2020_05_16	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_16	status_recovered_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_16	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_16	tests_new		417	DERIVED	
+lga	au-tas	brighton	2020_05_16	new		0	DERIVED	
+lga	au-tas	burnie	2020_05_16	new		0	DERIVED	
+lga	au-tas	central coast	2020_05_16	new		0	DERIVED	
+lga	au-tas	circular head	2020_05_16	new		0	DERIVED	
+lga	au-tas	clarence	2020_05_16	new		0	DERIVED	
+lga	au-tas	derwent valley	2020_05_16	new		0	DERIVED	
+lga	au-tas	devonport	2020_05_16	new		0	DERIVED	
+lga	au-tas	george town	2020_05_16	new		0	DERIVED	
+lga	au-tas	glenorchy	2020_05_16	new		0	DERIVED	
+lga	au-tas	hobart	2020_05_16	new		0	DERIVED	
+lga	au-tas	huon valley	2020_05_16	new		0	DERIVED	
+lga	au-tas	kentish	2020_05_16	new		0	DERIVED	
+lga	au-tas	kingborough	2020_05_16	new		0	DERIVED	
+lga	au-tas	latrobe	2020_05_16	new		0	DERIVED	
+lga	au-tas	launceston	2020_05_16	new		0	DERIVED	
+lga	au-tas	meander valley	2020_05_16	new		0	DERIVED	
+lga	au-tas	northern midlands	2020_05_16	new		0	DERIVED	
+lga	au-tas	sorell	2020_05_16	new		0	DERIVED	
+lga	au-tas	tasman	2020_05_16	new		0	DERIVED	
+lga	au-tas	waratah/wynyard	2020_05_16	new		0	DERIVED	
+lga	au-tas	west coast	2020_05_16	new		0	DERIVED	
+lga	au-tas	west tamar	2020_05_16	new		0	DERIVED	
+ths	au-tas	north	2020_05_17	total		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_17	status_recovered		27	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_17	status_active		2	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_17	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_17	status_recovered		121	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_17	status_active		16	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_17	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_17	status_recovered		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_17	status_active		0	Peter Gutweins Facebook Page	
+admin_1	au	au-tas	2020_05_19	new		0	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update57	
 admin_1	au	au-tas	2020_05_19	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_19	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_19	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -294,53 +278,53 @@ lga	au-tas	tasman	2020_05_19	total		1	https://coronavirus.tas.gov.au/facts/cases
 lga	au-tas	waratah/wynyard	2020_05_19	total		23	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west coast	2020_05_19	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west tamar	2020_05_19	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_21	status_hospitalized		4	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_21	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_21	status_hospitalized_new		1	DERIVED	
-admin_1	au	au-tas	2020_05_21	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_21	status_recovered_new		2	DERIVED	
-admin_1	au	au-tas	2020_05_21	status_active_new		-2	DERIVED	
-admin_1	au	au-tas	2020_05_21	tests_new		283	DERIVED	
-lga	au-tas	brighton	2020_05_21	new		0	DERIVED	
-lga	au-tas	burnie	2020_05_21	new		0	DERIVED	
-lga	au-tas	central coast	2020_05_21	new		0	DERIVED	
-lga	au-tas	circular head	2020_05_21	new		0	DERIVED	
-lga	au-tas	clarence	2020_05_21	new		0	DERIVED	
-lga	au-tas	derwent valley	2020_05_21	new		0	DERIVED	
-lga	au-tas	devonport	2020_05_21	new		0	DERIVED	
-lga	au-tas	george town	2020_05_21	new		0	DERIVED	
-lga	au-tas	glenorchy	2020_05_21	new		0	DERIVED	
-lga	au-tas	hobart	2020_05_21	new		0	DERIVED	
-lga	au-tas	huon valley	2020_05_21	new		0	DERIVED	
-lga	au-tas	kentish	2020_05_21	new		0	DERIVED	
-lga	au-tas	kingborough	2020_05_21	new		0	DERIVED	
-lga	au-tas	latrobe	2020_05_21	new		0	DERIVED	
-lga	au-tas	launceston	2020_05_21	new		0	DERIVED	
-lga	au-tas	meander valley	2020_05_21	new		0	DERIVED	
-lga	au-tas	northern midlands	2020_05_21	new		0	DERIVED	
-lga	au-tas	sorell	2020_05_21	new		0	DERIVED	
-lga	au-tas	tasman	2020_05_21	new		0	DERIVED	
-lga	au-tas	waratah/wynyard	2020_05_21	new		0	DERIVED	
-lga	au-tas	west coast	2020_05_21	new		0	DERIVED	
-lga	au-tas	west tamar	2020_05_21	new		0	DERIVED	
-ths	au-tas	north	2020_05_22	new		0	DERIVED	
-ths	au-tas	north	2020_05_22	total		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_22	status_recovered		28	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_22	status_active		1	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_22	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_22	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_22	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_22	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_22	status_recovered		126	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_22	status_active		11	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_22	status_recovered_new		2	DERIVED	
-ths	au-tas	north-west	2020_05_22	status_active_new		-2	DERIVED	
-ths	au-tas	south	2020_05_22	new		0	DERIVED	
-ths	au-tas	south	2020_05_22	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_22	status_recovered		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_22	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_22	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_22	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_20	status_hospitalized		3	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_20	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_20	status_hospitalized_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_20	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_20	status_recovered_new		1	DERIVED	
+admin_1	au	au-tas	2020_05_20	status_active_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_20	tests_new		481	DERIVED	
+lga	au-tas	brighton	2020_05_20	new		0	DERIVED	
+lga	au-tas	burnie	2020_05_20	new		0	DERIVED	
+lga	au-tas	central coast	2020_05_20	new		0	DERIVED	
+lga	au-tas	circular head	2020_05_20	new		0	DERIVED	
+lga	au-tas	clarence	2020_05_20	new		0	DERIVED	
+lga	au-tas	derwent valley	2020_05_20	new		0	DERIVED	
+lga	au-tas	devonport	2020_05_20	new		0	DERIVED	
+lga	au-tas	george town	2020_05_20	new		0	DERIVED	
+lga	au-tas	glenorchy	2020_05_20	new		0	DERIVED	
+lga	au-tas	hobart	2020_05_20	new		0	DERIVED	
+lga	au-tas	huon valley	2020_05_20	new		0	DERIVED	
+lga	au-tas	kentish	2020_05_20	new		0	DERIVED	
+lga	au-tas	kingborough	2020_05_20	new		0	DERIVED	
+lga	au-tas	latrobe	2020_05_20	new		0	DERIVED	
+lga	au-tas	launceston	2020_05_20	new		0	DERIVED	
+lga	au-tas	meander valley	2020_05_20	new		0	DERIVED	
+lga	au-tas	northern midlands	2020_05_20	new		0	DERIVED	
+lga	au-tas	sorell	2020_05_20	new		0	DERIVED	
+lga	au-tas	tasman	2020_05_20	new		0	DERIVED	
+lga	au-tas	waratah/wynyard	2020_05_20	new		0	DERIVED	
+lga	au-tas	west coast	2020_05_20	new		0	DERIVED	
+lga	au-tas	west tamar	2020_05_20	new		0	DERIVED	
+ths	au-tas	north	2020_05_21	new		0	DERIVED	
+ths	au-tas	north	2020_05_21	total		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_21	status_recovered		28	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_21	status_active		1	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_21	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_21	status_active_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_21	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_21	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_21	status_recovered		124	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_21	status_active		13	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_21	status_recovered_new		1	DERIVED	
+ths	au-tas	north-west	2020_05_21	status_active_new		-1	DERIVED	
+ths	au-tas	south	2020_05_21	new		0	DERIVED	
+ths	au-tas	south	2020_05_21	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_21	status_recovered		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_21	status_active		0	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_21	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_21	status_active_new		0	DERIVED	
 admin_1	au	au-tas	2020_05_23	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_23	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_23	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -370,53 +354,53 @@ lga	au-tas	tasman	2020_05_23	total		1	https://coronavirus.tas.gov.au/facts/cases
 lga	au-tas	waratah/wynyard	2020_05_23	total		23	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west coast	2020_05_23	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west tamar	2020_05_23	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_25	status_hospitalized		4	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_25	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_25	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_25	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_25	status_recovered_new		2	DERIVED	
-admin_1	au	au-tas	2020_05_25	status_active_new		-2	DERIVED	
-admin_1	au	au-tas	2020_05_25	tests_new		283	DERIVED	
-lga	au-tas	brighton	2020_05_25	new		0	DERIVED	
-lga	au-tas	burnie	2020_05_25	new		0	DERIVED	
-lga	au-tas	central coast	2020_05_25	new		0	DERIVED	
-lga	au-tas	circular head	2020_05_25	new		0	DERIVED	
-lga	au-tas	clarence	2020_05_25	new		0	DERIVED	
-lga	au-tas	derwent valley	2020_05_25	new		0	DERIVED	
-lga	au-tas	devonport	2020_05_25	new		0	DERIVED	
-lga	au-tas	george town	2020_05_25	new		0	DERIVED	
-lga	au-tas	glenorchy	2020_05_25	new		0	DERIVED	
-lga	au-tas	hobart	2020_05_25	new		0	DERIVED	
-lga	au-tas	huon valley	2020_05_25	new		0	DERIVED	
-lga	au-tas	kentish	2020_05_25	new		0	DERIVED	
-lga	au-tas	kingborough	2020_05_25	new		0	DERIVED	
-lga	au-tas	latrobe	2020_05_25	new		0	DERIVED	
-lga	au-tas	launceston	2020_05_25	new		1	DERIVED	
-lga	au-tas	meander valley	2020_05_25	new		0	DERIVED	
-lga	au-tas	northern midlands	2020_05_25	new		0	DERIVED	
-lga	au-tas	sorell	2020_05_25	new		0	DERIVED	
-lga	au-tas	tasman	2020_05_25	new		0	DERIVED	
-lga	au-tas	waratah/wynyard	2020_05_25	new		0	DERIVED	
-lga	au-tas	west coast	2020_05_25	new		0	DERIVED	
-lga	au-tas	west tamar	2020_05_25	new		0	DERIVED	
-ths	au-tas	north	2020_05_26	new		0	DERIVED	
-ths	au-tas	north	2020_05_26	total		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_26	status_recovered		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_26	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_26	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_26	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_26	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_26	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_26	status_recovered		129	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_26	status_active		8	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_26	status_recovered_new		2	DERIVED	
-ths	au-tas	north-west	2020_05_26	status_active_new		-2	DERIVED	
-ths	au-tas	south	2020_05_26	new		0	DERIVED	
-ths	au-tas	south	2020_05_26	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_26	status_recovered		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_26	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_26	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_26	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_24	status_hospitalized		4	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_24	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_24	status_hospitalized_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_24	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_24	status_recovered_new		1	DERIVED	
+admin_1	au	au-tas	2020_05_24	status_active_new		-1	DERIVED	
+admin_1	au	au-tas	2020_05_24	tests_new		472	DERIVED	
+lga	au-tas	brighton	2020_05_24	new		0	DERIVED	
+lga	au-tas	burnie	2020_05_24	new		0	DERIVED	
+lga	au-tas	central coast	2020_05_24	new		0	DERIVED	
+lga	au-tas	circular head	2020_05_24	new		0	DERIVED	
+lga	au-tas	clarence	2020_05_24	new		0	DERIVED	
+lga	au-tas	derwent valley	2020_05_24	new		0	DERIVED	
+lga	au-tas	devonport	2020_05_24	new		0	DERIVED	
+lga	au-tas	george town	2020_05_24	new		0	DERIVED	
+lga	au-tas	glenorchy	2020_05_24	new		0	DERIVED	
+lga	au-tas	hobart	2020_05_24	new		0	DERIVED	
+lga	au-tas	huon valley	2020_05_24	new		0	DERIVED	
+lga	au-tas	kentish	2020_05_24	new		0	DERIVED	
+lga	au-tas	kingborough	2020_05_24	new		0	DERIVED	
+lga	au-tas	latrobe	2020_05_24	new		0	DERIVED	
+lga	au-tas	launceston	2020_05_24	new		0	DERIVED	
+lga	au-tas	meander valley	2020_05_24	new		0	DERIVED	
+lga	au-tas	northern midlands	2020_05_24	new		0	DERIVED	
+lga	au-tas	sorell	2020_05_24	new		0	DERIVED	
+lga	au-tas	tasman	2020_05_24	new		0	DERIVED	
+lga	au-tas	waratah/wynyard	2020_05_24	new		0	DERIVED	
+lga	au-tas	west coast	2020_05_24	new		0	DERIVED	
+lga	au-tas	west tamar	2020_05_24	new		0	DERIVED	
+ths	au-tas	north	2020_05_25	new		0	DERIVED	
+ths	au-tas	north	2020_05_25	total		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_25	status_recovered		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_25	status_active		0	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_25	status_recovered_new		1	DERIVED	
+ths	au-tas	north	2020_05_25	status_active_new		-1	DERIVED	
+ths	au-tas	north-west	2020_05_25	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_25	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_25	status_recovered		127	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_25	status_active		10	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_25	status_recovered_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_25	status_active_new		0	DERIVED	
+ths	au-tas	south	2020_05_25	new		0	DERIVED	
+ths	au-tas	south	2020_05_25	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_25	status_recovered		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_25	status_active		0	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_25	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_25	status_active_new		0	DERIVED	
 admin_1	au	au-tas	2020_05_27	new		0	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update65	
 admin_1	au	au-tas	2020_05_27	total		226	https://www.coronavirus.tas.gov.au/media-releases/coronavirus-update65	
 admin_1	au	au-tas	2020_05_27	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -446,53 +430,53 @@ lga	au-tas	tasman	2020_05_27	total		1	https://coronavirus.tas.gov.au/facts/cases
 lga	au-tas	waratah/wynyard	2020_05_27	total		23	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west coast	2020_05_27	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	west tamar	2020_05_27	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_29	status_hospitalized		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_05_29	status_deaths_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_29	status_hospitalized_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_29	status_icu_new		0	DERIVED	
-admin_1	au	au-tas	2020_05_29	status_recovered_new		2	DERIVED	
-admin_1	au	au-tas	2020_05_29	status_active_new		-2	DERIVED	
-admin_1	au	au-tas	2020_05_29	tests_new		3517	DERIVED	
-lga	au-tas	brighton	2020_05_29	new		0	DERIVED	
-lga	au-tas	burnie	2020_05_29	new		0	DERIVED	
-lga	au-tas	central coast	2020_05_29	new		0	DERIVED	
-lga	au-tas	circular head	2020_05_29	new		0	DERIVED	
-lga	au-tas	clarence	2020_05_29	new		0	DERIVED	
-lga	au-tas	derwent valley	2020_05_29	new		0	DERIVED	
-lga	au-tas	devonport	2020_05_29	new		0	DERIVED	
-lga	au-tas	george town	2020_05_29	new		0	DERIVED	
-lga	au-tas	glenorchy	2020_05_29	new		0	DERIVED	
-lga	au-tas	hobart	2020_05_29	new		0	DERIVED	
-lga	au-tas	huon valley	2020_05_29	new		0	DERIVED	
-lga	au-tas	kentish	2020_05_29	new		0	DERIVED	
-lga	au-tas	kingborough	2020_05_29	new		0	DERIVED	
-lga	au-tas	latrobe	2020_05_29	new		0	DERIVED	
-lga	au-tas	launceston	2020_05_29	new		0	DERIVED	
-lga	au-tas	meander valley	2020_05_29	new		0	DERIVED	
-lga	au-tas	northern midlands	2020_05_29	new		0	DERIVED	
-lga	au-tas	sorell	2020_05_29	new		0	DERIVED	
-lga	au-tas	tasman	2020_05_29	new		0	DERIVED	
-lga	au-tas	waratah/wynyard	2020_05_29	new		0	DERIVED	
-lga	au-tas	west coast	2020_05_29	new		0	DERIVED	
-lga	au-tas	west tamar	2020_05_29	new		0	DERIVED	
-ths	au-tas	north	2020_05_30	new		0	DERIVED	
-ths	au-tas	north	2020_05_30	total		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_30	status_recovered		29	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_30	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	north	2020_05_30	status_recovered_new		0	DERIVED	
-ths	au-tas	north	2020_05_30	status_active_new		0	DERIVED	
-ths	au-tas	north-west	2020_05_30	new		0	DERIVED	
-ths	au-tas	north-west	2020_05_30	total		137	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_30	status_recovered		131	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_30	status_active		6	Peter Gutweins Facebook Page	
-ths	au-tas	north-west	2020_05_30	status_recovered_new		2	DERIVED	
-ths	au-tas	north-west	2020_05_30	status_active_new		-2	DERIVED	
-ths	au-tas	south	2020_05_30	new		0	DERIVED	
-ths	au-tas	south	2020_05_30	total		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_30	status_recovered		44	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_30	status_active		0	Peter Gutweins Facebook Page	
-ths	au-tas	south	2020_05_30	status_recovered_new		0	DERIVED	
-ths	au-tas	south	2020_05_30	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	status_hospitalized		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_05_28	status_deaths_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	status_hospitalized_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	status_icu_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	status_recovered_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	status_active_new		0	DERIVED	
+admin_1	au	au-tas	2020_05_28	tests_new		814	DERIVED	
+lga	au-tas	brighton	2020_05_28	new		0	DERIVED	
+lga	au-tas	burnie	2020_05_28	new		0	DERIVED	
+lga	au-tas	central coast	2020_05_28	new		0	DERIVED	
+lga	au-tas	circular head	2020_05_28	new		0	DERIVED	
+lga	au-tas	clarence	2020_05_28	new		0	DERIVED	
+lga	au-tas	derwent valley	2020_05_28	new		0	DERIVED	
+lga	au-tas	devonport	2020_05_28	new		0	DERIVED	
+lga	au-tas	george town	2020_05_28	new		0	DERIVED	
+lga	au-tas	glenorchy	2020_05_28	new		0	DERIVED	
+lga	au-tas	hobart	2020_05_28	new		0	DERIVED	
+lga	au-tas	huon valley	2020_05_28	new		0	DERIVED	
+lga	au-tas	kentish	2020_05_28	new		0	DERIVED	
+lga	au-tas	kingborough	2020_05_28	new		0	DERIVED	
+lga	au-tas	latrobe	2020_05_28	new		0	DERIVED	
+lga	au-tas	launceston	2020_05_28	new		0	DERIVED	
+lga	au-tas	meander valley	2020_05_28	new		0	DERIVED	
+lga	au-tas	northern midlands	2020_05_28	new		0	DERIVED	
+lga	au-tas	sorell	2020_05_28	new		0	DERIVED	
+lga	au-tas	tasman	2020_05_28	new		0	DERIVED	
+lga	au-tas	waratah/wynyard	2020_05_28	new		0	DERIVED	
+lga	au-tas	west coast	2020_05_28	new		0	DERIVED	
+lga	au-tas	west tamar	2020_05_28	new		0	DERIVED	
+ths	au-tas	north	2020_05_29	new		0	DERIVED	
+ths	au-tas	north	2020_05_29	total		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_29	status_recovered		29	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_29	status_active		0	Peter Gutweins Facebook Page	
+ths	au-tas	north	2020_05_29	status_recovered_new		0	DERIVED	
+ths	au-tas	north	2020_05_29	status_active_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_29	new		0	DERIVED	
+ths	au-tas	north-west	2020_05_29	total		137	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_29	status_recovered		129	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_29	status_active		8	Peter Gutweins Facebook Page	
+ths	au-tas	north-west	2020_05_29	status_recovered_new		0	DERIVED	
+ths	au-tas	north-west	2020_05_29	status_active_new		0	DERIVED	
+ths	au-tas	south	2020_05_29	new		0	DERIVED	
+ths	au-tas	south	2020_05_29	total		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_29	status_recovered		44	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_29	status_active		0	Peter Gutweins Facebook Page	
+ths	au-tas	south	2020_05_29	status_recovered_new		0	DERIVED	
+ths	au-tas	south	2020_05_29	status_active_new		0	DERIVED	
 admin_1	au	au-tas	2020_05_31	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_31	total		226	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_05_31	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -803,7 +787,7 @@ admin_1	au	au-tas	2020_06_12	status_deaths		13	https://coronavirus.tas.gov.au/fa
 admin_1	au	au-tas	2020_06_12	status_icu		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_06_12	status_recovered		213	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_06_12	status_active		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
-admin_1	au	au-tas	2020_06_12	tests_total		39981	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_06_12	tests_total		39346	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	brighton	2020_06_12	total		2	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	burnie	2020_06_12	total		64	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 lga	au-tas	central coast	2020_06_12	total		35	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
@@ -1062,3 +1046,9 @@ admin_1	au	au-tas	2020_07_30	status_deaths		13	https://coronavirus.tas.gov.au/fa
 admin_1	au	au-tas	2020_07_30	status_recovered		214	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_30	status_active		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
 admin_1	au	au-tas	2020_07_30	tests_total		68320	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	new		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	total		227	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	status_deaths		13	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	status_recovered		214	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	status_active		0	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	
+admin_1	au	au-tas	2020_08_03	tests_total		70699	https://coronavirus.tas.gov.au/facts/cases-and-testing-updates	

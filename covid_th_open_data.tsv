@@ -1,47 +1,47 @@
 region_schema	region_parent	region_child	date_updated	datatype	agerange	value	source_url	text_match
-admin_0		th	2020_01_04	new		0	DERIVED	
-admin_0		th	2020_01_04	total		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_04	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_04	status_hospitalized		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_04	status_recovered		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_04	status_deaths_new		0	DERIVED	
-admin_0		th	2020_01_04	status_hospitalized_new		0	DERIVED	
-admin_0		th	2020_01_04	status_recovered_new		0	DERIVED	
-admin_0		th	2020_01_11	new		0	DERIVED	
-admin_0		th	2020_01_11	total		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_11	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_11	status_hospitalized		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_11	status_recovered		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_11	status_deaths_new		0	DERIVED	
-admin_0		th	2020_01_11	status_hospitalized_new		0	DERIVED	
-admin_0		th	2020_01_11	status_recovered_new		0	DERIVED	
+admin_0		th	2020_01_06	new		0	DERIVED	
+admin_0		th	2020_01_06	total		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_06	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_06	status_hospitalized		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_06	status_recovered		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_06	status_deaths_new		0	DERIVED	
+admin_0		th	2020_01_06	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_01_06	status_recovered_new		0	DERIVED	
 admin_0		th	2020_01_12	total	60-69	1	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_01_12	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_13	new		0	DERIVED	
+admin_0		th	2020_01_13	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_13	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_13	status_hospitalized		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_13	status_recovered		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_13	status_deaths_new		0	DERIVED	
+admin_0		th	2020_01_13	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_01_13	status_recovered_new		0	DERIVED	
 admin_0		th	2020_01_17	total_female		2	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_01_17	total	70-79	1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_18	new		0	DERIVED	
-admin_0		th	2020_01_18	total		2	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_18	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_18	status_hospitalized		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_18	status_recovered		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_18	status_deaths_new		0	DERIVED	
-admin_0		th	2020_01_18	status_hospitalized_new		-1	DERIVED	
-admin_0		th	2020_01_18	status_recovered_new		1	DERIVED	
+admin_0		th	2020_01_20	new		0	DERIVED	
+admin_0		th	2020_01_20	total		2	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_20	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_20	status_hospitalized		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_20	status_recovered		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_20	status_deaths_new		0	DERIVED	
+admin_0		th	2020_01_20	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_01_20	status_recovered_new		0	DERIVED	
 admin_0		th	2020_01_22	total_male		1	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_01_22	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-73	2020_01_22	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_25	new		1	DERIVED	
-admin_0		th	2020_01_25	total		6	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_25	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_25	status_hospitalized		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_25	status_recovered		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_01_25	status_deaths_new		0	DERIVED	
-admin_0		th	2020_01_25	status_hospitalized_new		1	DERIVED	
-admin_0		th	2020_01_25	status_recovered_new		0	DERIVED	
 admin_0		th	2020_01_26	total	70-79	3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_01_26	new		1	DERIVED	
 admin_1	th	th-77	2020_01_26	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-77	hua hin	2020_01_26	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_27	new		0	DERIVED	
+admin_0		th	2020_01_27	total		8	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_27	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_27	status_hospitalized		2	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_27	status_recovered		6	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_01_27	status_deaths_new		0	DERIVED	
+admin_0		th	2020_01_27	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_01_27	status_recovered_new		0	DERIVED	
 admin_0		th	2020_01_28	total_female		9	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_01_28	total	0-9	1	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_01_28	total	60-69	5	https://covid19.th-stat.com/th/api	
@@ -54,30 +54,22 @@ admin_0		th	2020_01_31	total	50-59	3	https://covid19.th-stat.com/th/api
 admin_1	th	th-10	2020_01_31	total		13	https://covid19.th-stat.com/th/api	
 admin_1	th	th-50	2020_01_31	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-50	hang dong	2020_01_31	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_01	new		0	DERIVED	
-admin_0		th	2020_02_01	total		19	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_01	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_01	status_hospitalized		11	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_01	status_recovered		8	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_01	status_deaths_new		0	DERIVED	
-admin_0		th	2020_02_01	status_hospitalized_new		0	DERIVED	
-admin_0		th	2020_02_01	status_recovered_new		0	DERIVED	
+admin_0		th	2020_02_03	new		0	DERIVED	
+admin_0		th	2020_02_03	total		19	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_03	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_03	status_hospitalized		10	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_03	status_recovered		9	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_03	status_deaths_new		0	DERIVED	
+admin_0		th	2020_02_03	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_02_03	status_recovered_new		0	DERIVED	
 admin_0		th	2020_02_04	total	40-49	3	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_04	total	70-79	4	https://covid19.th-stat.com/th/api	
 admin_1	th	th-77	2020_02_04	total		2	https://covid19.th-stat.com/th/api	
 admin_1	th	th-81	2020_02_04	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-77	hua hin	2020_02_04	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-81	ko lanta	2020_02_04	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_08	new		7	DERIVED	
-admin_0		th	2020_02_08	total		32	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_08	total_male		18	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_08	total_female		14	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_08	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_08	status_hospitalized		22	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_08	status_recovered		10	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_08	status_deaths_new		0	DERIVED	
-admin_0		th	2020_02_08	status_hospitalized_new		7	DERIVED	
-admin_0		th	2020_02_08	status_recovered_new		0	DERIVED	
 admin_0		th	2020_02_08	total	0-9	2	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_08	total	20-29	3	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_08	total	30-39	10	https://covid19.th-stat.com/th/api	
@@ -87,28 +79,36 @@ admin_1	th	th-11	2020_02_08	total		3	https://covid19.th-stat.com/th/api
 admin_1	th	th-20	2020_02_08	total		1	https://covid19.th-stat.com/th/api	
 admin_1	th	th-83	2020_02_08	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-83	kathu	2020_02_08	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_10	new		0	DERIVED	
+admin_0		th	2020_02_10	total		32	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_10	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_10	status_hospitalized		21	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_10	status_recovered		11	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_10	status_deaths_new		0	DERIVED	
+admin_0		th	2020_02_10	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_02_10	status_recovered_new		0	DERIVED	
 admin_0		th	2020_02_11	total	50-59	5	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_15	new		1	DERIVED	
-admin_0		th	2020_02_15	total		34	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_15	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_15	status_hospitalized		21	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_15	status_recovered		13	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_15	status_deaths_new		0	DERIVED	
-admin_0		th	2020_02_15	status_hospitalized_new		-1	DERIVED	
-admin_0		th	2020_02_15	status_recovered_new		2	DERIVED	
 admin_0		th	2020_02_15	total	30-39	11	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_02_15	total		4	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_17	new		1	DERIVED	
+admin_0		th	2020_02_17	total		35	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_17	total_female		17	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_17	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_17	status_hospitalized		20	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_17	status_recovered		15	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_17	status_deaths_new		0	DERIVED	
+admin_0		th	2020_02_17	status_hospitalized_new		1	DERIVED	
+admin_0		th	2020_02_17	status_recovered_new		0	DERIVED	
 admin_0		th	2020_02_17	total	60-69	7	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_02_17	total		21	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_22	new		0	DERIVED	
-admin_0		th	2020_02_22	total		35	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_22	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_22	status_hospitalized		15	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_22	status_recovered		20	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_22	status_deaths_new		0	DERIVED	
-admin_0		th	2020_02_22	status_hospitalized_new		-1	DERIVED	
-admin_0		th	2020_02_22	status_recovered_new		1	DERIVED	
+admin_0		th	2020_02_24	new		0	DERIVED	
+admin_0		th	2020_02_24	total		35	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_24	status_deaths		0	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_24	status_hospitalized		14	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_24	status_recovered		21	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_02_24	status_deaths_new		0	DERIVED	
+admin_0		th	2020_02_24	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_02_24	status_recovered_new		0	DERIVED	
 admin_0		th	2020_02_25	total	20-29	4	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_25	total	30-39	12	https://covid19.th-stat.com/th/api	
 th_district	th-10	lat phrao	2020_02_25	total		1	https://covid19.th-stat.com/th/api	
@@ -117,19 +117,19 @@ admin_0		th	2020_02_26	total	0-9	3	https://covid19.th-stat.com/th/api
 admin_0		th	2020_02_26	total	60-69	9	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_02_26	new		3	DERIVED	
 th_district	th-10	don mueang	2020_02_26	total		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	new		1	DERIVED	
-admin_0		th	2020_02_29	total		42	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	total_male		23	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	status_deaths		0	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	status_hospitalized		14	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	status_recovered		28	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_02_29	status_deaths_new		0	DERIVED	
-admin_0		th	2020_02_29	status_hospitalized_new		1	DERIVED	
-admin_0		th	2020_02_29	status_recovered_new		0	DERIVED	
+admin_0		th	2020_02_28	total_male		22	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_02_29	new	20-29	1	DERIVED	
+admin_1	th	th-10	2020_02_29	total		27	https://covid19.th-stat.com/th/api	
 th_district	th-10	wang thonglang	2020_02_29	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_02	new		1	DERIVED	
+admin_0		th	2020_03_02	total		43	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_02	total_female		20	https://covid19.th-stat.com/th/api	
-admin_1	th	th-10	2020_03_02	total		28	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_02	status_deaths		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_02	status_hospitalized		11	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_02	status_recovered		31	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_02	status_deaths_new		0	DERIVED	
+admin_0		th	2020_03_02	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_03_02	status_recovered_new		1	DERIVED	
 th_district	th-10	sathon	2020_03_02	total		1	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_05	total	20-29	10	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_03_05	total		4	https://covid19.th-stat.com/th/api	
@@ -137,65 +137,63 @@ admin_1	th	th-20	2020_03_05	total		3	https://covid19.th-stat.com/th/api
 admin_1	th	th-80	2020_03_05	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-20	si racha	2020_03_05	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-80	tha sala	2020_03_05	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_07	new		2	DERIVED	
-admin_0		th	2020_03_07	total		50	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_07	status_deaths		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_07	status_hospitalized		18	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_07	status_recovered		31	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_07	status_deaths_new		0	DERIVED	
-admin_0		th	2020_03_07	status_hospitalized_new		2	DERIVED	
-admin_0		th	2020_03_07	status_recovered_new		0	DERIVED	
-admin_0		th	2020_03_07	new	40-49	1	DERIVED	
+admin_0		th	2020_03_06	total_male		28	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_07	total	30-39	13	https://covid19.th-stat.com/th/api	
+admin_1	th	th-10	2020_03_07	new		2	DERIVED	
+admin_1	th	th-10	2020_03_07	total		31	https://covid19.th-stat.com/th/api	
 th_district	th-10	pathum wan	2020_03_07	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_10	total_male		31	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_10	total_female		22	https://covid19.th-stat.com/th/api	
-admin_1	th	th-10	2020_03_10	total		33	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_09	new		0	DERIVED	
+admin_0		th	2020_03_09	total		50	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_09	status_deaths		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_09	status_hospitalized		16	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_09	status_recovered		33	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_09	status_deaths_new		0	DERIVED	
+admin_0		th	2020_03_09	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_03_09	status_recovered_new		0	DERIVED	
 admin_1	th	th-72	2020_03_10	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	nakhon chai si	2020_03_10	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-72	u thong	2020_03_10	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_11	total	30-39	14	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_11	new	40-49	2	DERIVED	
 admin_0		th	2020_03_11	total	40-49	11	https://covid19.th-stat.com/th/api	
-admin_1	th	th-10	2020_03_11	new		6	DERIVED	
 admin_0		th	2020_03_12	new	20-29	3	DERIVED	
 admin_1	th	th-12	2020_03_12	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang phlat	2020_03_12	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	phasi charoen	2020_03_12	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	sai mai	2020_03_12	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-12	bang kapi	2020_03_12	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_13	total_male		42	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_13	total	10-19	1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_14	new		7	DERIVED	
-admin_0		th	2020_03_14	total		82	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_14	status_deaths		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_14	status_hospitalized		46	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_14	status_recovered		35	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_14	status_deaths_new		0	DERIVED	
-admin_0		th	2020_03_14	status_hospitalized_new		7	DERIVED	
-admin_0		th	2020_03_14	status_recovered_new		0	DERIVED	
+admin_0		th	2020_03_14	total_female		38	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_14	total	20-29	18	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_14	new	30-39	2	DERIVED	
+admin_0		th	2020_03_14	total	60-69	10	https://covid19.th-stat.com/th/api	
 admin_1	th	th-13	2020_03_14	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	lat phrao	2020_03_14	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-13	khlong luang	2020_03_14	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_15	total	20-29	24	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_15	new	30-39	13	DERIVED	
-admin_0		th	2020_03_15	new	40-49	7	DERIVED	
-admin_0		th	2020_03_15	total	60-69	12	https://covid19.th-stat.com/th/api	
 th_district	th-10	prawet	2020_03_15	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	sathon	2020_03_15	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-50	mae rim	2020_03_15	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	new		33	DERIVED	
+admin_0		th	2020_03_16	total		147	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	status_deaths		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	status_hospitalized		108	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	status_recovered		38	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	status_deaths_new		0	DERIVED	
+admin_0		th	2020_03_16	status_hospitalized_new		32	DERIVED	
+admin_0		th	2020_03_16	status_recovered_new		1	DERIVED	
 admin_0		th	2020_03_16	total	0-9	5	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	new	50-59	6	DERIVED	
+admin_0		th	2020_03_16	total	50-59	15	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_16	new	60-69	3	DERIVED	
+admin_1	th	th-10	2020_03_16	total		115	https://covid19.th-stat.com/th/api	
 th_district	th-83	kathu	2020_03_16	total		4	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_17	total_male		115	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_17	total_female		62	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_17	new	50-59	3	DERIVED	
-admin_0		th	2020_03_17	total	50-59	18	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_17	new	60-69	1	DERIVED	
-admin_1	th	th-10	2020_03_17	total		137	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_17	total	30-39	58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_17	new	70-79	2	DERIVED	
+admin_1	th	th-10	2020_03_17	new		22	DERIVED	
 admin_1	th	th-96	2020_03_17	new		1	DERIVED	
 th_district	th-11	bang phli	2020_03_17	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-96	sukhirin	2020_03_17	new		1	DERIVED	
 th_district	th-96	sukhirin	2020_03_17	total		2	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_18	total	30-39	72	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_18	new	70-79	1	DERIVED	
-admin_1	th	th-10	2020_03_18	new		25	DERIVED	
 admin_1	th	th-45	2020_03_18	total		1	https://covid19.th-stat.com/th/api	
 admin_1	th	th-46	2020_03_18	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	bueng kum	2020_03_18	total		1	https://covid19.th-stat.com/th/api	
@@ -215,6 +213,7 @@ th_district	th-20	phan thong	2020_03_19	total		1	https://covid19.th-stat.com/th/
 th_district	th-84	ko pha-ngan	2020_03_19	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-93	pa bon	2020_03_19	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_03_19	total		3	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_20	total_male		212	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_03_20	new		3	DERIVED	
 admin_1	th	th-11	2020_03_20	total		21	https://covid19.th-stat.com/th/api	
 admin_1	th	th-26	2020_03_20	total		1	https://covid19.th-stat.com/th/api	
@@ -222,22 +221,24 @@ admin_1	th	th-50	2020_03_20	total		7	https://covid19.th-stat.com/th/api
 admin_1	th	th-90	2020_03_20	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang bua thong	2020_03_20	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang rak	2020_03_20	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_21	new		89	DERIVED	
-admin_0		th	2020_03_21	total		411	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_21	status_deaths		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_21	status_hospitalized		366	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_21	status_recovered		44	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_21	status_deaths_new		0	DERIVED	
-admin_0		th	2020_03_21	status_hospitalized_new		88	DERIVED	
-admin_0		th	2020_03_21	status_recovered_new		1	DERIVED	
+th_district	th-10	sai mai	2020_03_20	total		2	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_21	total_female		135	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_21	total	10-19	4	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_21	total	20-29	93	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_21	new	30-39	20	DERIVED	
+admin_0		th	2020_03_21	new	40-49	27	DERIVED	
+admin_0		th	2020_03_21	total	60-69	37	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_21	total	70-79	16	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_03_21	total		17	https://covid19.th-stat.com/th/api	
 admin_1	th	th-13	2020_03_21	new		1	DERIVED	
 admin_1	th	th-13	2020_03_21	total		5	https://covid19.th-stat.com/th/api	
+admin_1	th	th-30	2020_03_21	new		1	DERIVED	
 admin_1	th	th-31	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
+admin_1	th	th-32	2020_03_21	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-74	2020_03_21	total		2	https://covid19.th-stat.com/th/api	
 admin_1	th	th-77	2020_03_21	total		5	https://covid19.th-stat.com/th/api	
+admin_1	th	th-83	2020_03_21	total		13	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_03_21	total		6	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_03_21	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang na	2020_03_21	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-12	chiang yuen	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
@@ -246,15 +247,12 @@ th_district	th-30	mueang nakhon ratchasima	2020_03_21	new		1	DERIVED
 th_district	th-31	ban kruat	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-34	phibun mangsahan	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-71	tha maka	2020_03_21	total		2	https://covid19.th-stat.com/th/api	
+th_district	th-74	krathum baen	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-77	hua hin	2020_03_21	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-84	tha chana	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-94	nong chik	2020_03_21	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-95	raman	2020_03_21	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-96	waeng	2020_03_21	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_22	total	20-29	130	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_22	new	30-39	41	DERIVED	
-admin_0		th	2020_03_22	new	40-49	30	DERIVED	
-admin_0		th	2020_03_22	total	60-69	57	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_03_22	new		27	DERIVED	
 admin_1	th	th-25	2020_03_22	new		1	DERIVED	
 admin_1	th	th-39	2020_03_22	total		1	https://covid19.th-stat.com/th/api	
@@ -263,9 +261,6 @@ admin_1	th	th-54	2020_03_22	total		1	https://covid19.th-stat.com/th/api
 admin_1	th	th-64	2020_03_22	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-67	2020_03_22	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-81	2020_03_22	new		1	DERIVED	
-admin_1	th	th-83	2020_03_22	total		14	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_03_22	new		3	DERIVED	
-admin_1	th	th-95	2020_03_22	total		9	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang sue	2020_03_22	new		1	DERIVED	
 th_district	th-10	chatuchak	2020_03_22	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-10	dusit	2020_03_22	total		1	https://covid19.th-stat.com/th/api	
@@ -281,11 +276,30 @@ th_district	th-90	cha-uat	2020_03_22	total		1	https://covid19.th-stat.com/th/api
 th_district	th-90	waeng	2020_03_22	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-93	khuan khanun	2020_03_22	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-94	mai kaen	2020_03_22	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	new		122	DERIVED	
+admin_0		th	2020_03_23	total		721	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	status_deaths		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	status_hospitalized		668	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	status_recovered		52	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	status_deaths_new		0	DERIVED	
+admin_0		th	2020_03_23	status_hospitalized_new		115	DERIVED	
+admin_0		th	2020_03_23	status_recovered_new		7	DERIVED	
+admin_0		th	2020_03_23	new	0-9	1	DERIVED	
+admin_0		th	2020_03_23	total	0-9	14	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	new	50-59	20	DERIVED	
+admin_0		th	2020_03_23	total	50-59	109	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_23	new	60-69	8	DERIVED	
+admin_0		th	2020_03_23	total	80-89	1	https://covid19.th-stat.com/th/api	
+admin_1	th	th-10	2020_03_23	total		414	https://covid19.th-stat.com/th/api	
 admin_1	th	th-16	2020_03_23	total		2	https://covid19.th-stat.com/th/api	
 admin_1	th	th-21	2020_03_23	new		1	DERIVED	
+admin_1	th	th-30	2020_03_23	total		7	https://covid19.th-stat.com/th/api	
 admin_1	th	th-35	2020_03_23	total		1	https://covid19.th-stat.com/th/api	
+admin_1	th	th-50	2020_03_23	new		1	DERIVED	
 admin_1	th	th-80	2020_03_23	new		2	DERIVED	
+admin_1	th	th-83	2020_03_23	new		5	DERIVED	
 th_district	th-10	bang bon	2020_03_23	total		1	https://covid19.th-stat.com/th/api	
+th_district	th-10	huai khwang	2020_03_23	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-10	phasi charoen	2020_03_23	new		1	DERIVED	
 th_district	th-10	pom prap sattru phai	2020_03_23	new		2	DERIVED	
 th_district	th-10	pom prap sattru phai	2020_03_23	total		3	https://covid19.th-stat.com/th/api	
@@ -307,40 +321,27 @@ th_district	th-90	hat yai	2020_03_23	total		5	https://covid19.th-stat.com/th/api
 th_district	th-94	sai buri	2020_03_23	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-95	than to	2020_03_23	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-96	rueso	2020_03_23	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_24	total_male		513	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_24	total_female		314	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_24	new	0-9	2	DERIVED	
-admin_0		th	2020_03_24	total	0-9	16	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_24	new	50-59	11	DERIVED	
-admin_0		th	2020_03_24	total	50-59	120	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_24	new	60-69	9	DERIVED	
-admin_1	th	th-10	2020_03_24	total		467	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_24	new	10-19	1	DERIVED	
+admin_0		th	2020_03_24	total	30-39	220	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_24	new	70-79	1	DERIVED	
+admin_1	th	th-10	2020_03_24	new		53	DERIVED	
 admin_1	th	th-19	2020_03_24	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-22	2020_03_24	new		1	DERIVED	
 admin_1	th	th-27	2020_03_24	total		6	https://covid19.th-stat.com/th/api	
-admin_1	th	th-30	2020_03_24	new		1	DERIVED	
-admin_1	th	th-30	2020_03_24	total		8	https://covid19.th-stat.com/th/api	
-admin_1	th	th-32	2020_03_24	total		4	https://covid19.th-stat.com/th/api	
 admin_1	th	th-34	2020_03_24	new		3	DERIVED	
 admin_1	th	th-34	2020_03_24	total		9	https://covid19.th-stat.com/th/api	
 admin_1	th	th-44	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
-admin_1	th	th-50	2020_03_24	new		1	DERIVED	
 admin_1	th	th-73	2020_03_24	new		4	DERIVED	
 admin_1	th	th-77	2020_03_24	new		1	DERIVED	
-admin_1	th	th-83	2020_03_24	new		7	DERIVED	
 th_district	th-10	bang khae	2020_03_24	new		1	DERIVED	
 th_district	th-10	bang khae	2020_03_24	total		3	https://covid19.th-stat.com/th/api	
-th_district	th-10	huai khwang	2020_03_24	new		2	DERIVED	
-th_district	th-10	huai khwang	2020_03_24	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-10	khlong sam wa	2020_03_24	new		1	DERIVED	
 th_district	th-10	krathum baen	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
-th_district	th-10	sai mai	2020_03_24	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-10	wang thonglang	2020_03_24	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-12	bang bua thong	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_03_24	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-24	phanom sarakham	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-27	wang nam yen	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
-th_district	th-30	chok chai	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-31	khaen dong	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-31	phutthaisong	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-31	satuek	2020_03_24	total		1	https://covid19.th-stat.com/th/api	
@@ -354,11 +355,6 @@ th_district	th-73	kamphaeng saen	2020_03_24	total		1	https://covid19.th-stat.com
 th_district	th-73	sam phran	2020_03_24	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-77	hua hin	2020_03_24	new		1	DERIVED	
 th_district	th-95	bannang sata	2020_03_24	new		1	DERIVED	
-admin_0		th	2020_03_25	new	10-19	3	DERIVED	
-admin_0		th	2020_03_25	total	30-39	246	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_25	new	70-79	5	DERIVED	
-admin_0		th	2020_03_25	total	80-89	2	https://covid19.th-stat.com/th/api	
-admin_1	th	th-10	2020_03_25	new		62	DERIVED	
 admin_1	th	th-25	2020_03_25	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-33	2020_03_25	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-46	2020_03_25	total		2	https://covid19.th-stat.com/th/api	
@@ -373,7 +369,6 @@ th_district	th-10	chom thong	2020_03_25	new		1	DERIVED
 th_district	th-10	chom thong	2020_03_25	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-10	khlong toei	2020_03_25	new		2	DERIVED	
 th_district	th-10	taling chan	2020_03_25	total		2	https://covid19.th-stat.com/th/api	
-th_district	th-10	thawi watthana	2020_03_25	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-12	don mueang	2020_03_25	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-33	wang hin	2020_03_25	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-41	na wang	2020_03_25	total		1	https://covid19.th-stat.com/th/api	
@@ -381,7 +376,6 @@ th_district	th-46	na mon	2020_03_25	total		1	https://covid19.th-stat.com/th/api
 th_district	th-61	thap than	2020_03_25	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-70	ban pong	2020_03_25	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-71	huai krachao	2020_03_25	total		2	https://covid19.th-stat.com/th/api	
-th_district	th-74	krathum baen	2020_03_25	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-76	cha-am	2020_03_25	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-80	cha-uat	2020_03_25	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-90	chana	2020_03_25	total		6	https://covid19.th-stat.com/th/api	
@@ -398,6 +392,7 @@ admin_1	th	th-71	2020_03_26	total		8	https://covid19.th-stat.com/th/api
 admin_1	th	th-81	2020_03_26	total		7	https://covid19.th-stat.com/th/api	
 admin_1	th	th-90	2020_03_26	new		1	DERIVED	
 admin_1	th	th-93	2020_03_26	total		6	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_03_26	new		4	DERIVED	
 th_district	th-10	bang khen	2020_03_26	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang khun thian	2020_03_26	new		1	DERIVED	
 th_district	th-10	bang khun thian	2020_03_26	total		3	https://covid19.th-stat.com/th/api	
@@ -424,6 +419,7 @@ th_district	th-93	pa bon	2020_03_26	total		2	https://covid19.th-stat.com/th/api
 th_district	th-93	pak phayun	2020_03_26	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_03_26	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-96	thung yang daeng	2020_03_26	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_27	total_male		693	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_03_27	new		4	DERIVED	
 admin_1	th	th-11	2020_03_27	total		43	https://covid19.th-stat.com/th/api	
 admin_1	th	th-21	2020_03_27	total		5	https://covid19.th-stat.com/th/api	
@@ -467,15 +463,12 @@ th_district	th-84	kanchanadit	2020_03_27	total		3	https://covid19.th-stat.com/th
 th_district	th-84	ko samui	2020_03_27	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_03_27	new		2	DERIVED	
 th_district	th-94	yarang	2020_03_27	total		22	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_28	new		109	DERIVED	
-admin_0		th	2020_03_28	total		1244	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_28	status_deaths		6	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_28	status_hospitalized		1139	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_28	status_recovered		100	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_28	status_deaths_new		1	DERIVED	
-admin_0		th	2020_03_28	status_hospitalized_new		105	DERIVED	
-admin_0		th	2020_03_28	status_recovered_new		3	DERIVED	
+admin_0		th	2020_03_28	total_female		492	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_28	total	10-19	30	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_28	total	20-29	320	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_28	new	30-39	32	DERIVED	
+admin_0		th	2020_03_28	new	40-49	17	DERIVED	
+admin_0		th	2020_03_28	total	60-69	100	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_28	total	70-79	42	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_03_28	total		92	https://covid19.th-stat.com/th/api	
 admin_1	th	th-13	2020_03_28	new		3	DERIVED	
@@ -492,8 +485,9 @@ admin_1	th	th-70	2020_03_28	new		1	DERIVED
 admin_1	th	th-70	2020_03_28	total		7	https://covid19.th-stat.com/th/api	
 admin_1	th	th-74	2020_03_28	total		6	https://covid19.th-stat.com/th/api	
 admin_1	th	th-77	2020_03_28	total		10	https://covid19.th-stat.com/th/api	
+admin_1	th	th-83	2020_03_28	total		49	https://covid19.th-stat.com/th/api	
 admin_1	th	th-90	2020_03_28	total		22	https://covid19.th-stat.com/th/api	
-admin_1	th	th-96	2020_03_28	total		8	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_03_28	total		28	https://covid19.th-stat.com/th/api	
 th_district	th-10	bangkok yai	2020_03_28	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-10	phasi charoen	2020_03_28	total		10	https://covid19.th-stat.com/th/api	
 th_district	th-10	prawet	2020_03_28	total		4	https://covid19.th-stat.com/th/api	
@@ -510,18 +504,12 @@ th_district	th-77	hua hin	2020_03_28	total		10	https://covid19.th-stat.com/th/ap
 th_district	th-90	khlong hoi khong	2020_03_28	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-95	bang khan	2020_03_28	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-96	cho-airong	2020_03_28	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_29	total	20-29	366	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_29	new	30-39	32	DERIVED	
-admin_0		th	2020_03_29	new	40-49	26	DERIVED	
-admin_0		th	2020_03_29	total	60-69	111	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_03_29	new		3	DERIVED	
 admin_1	th	th-56	2020_03_29	new		1	DERIVED	
 admin_1	th	th-56	2020_03_29	total		2	https://covid19.th-stat.com/th/api	
-admin_1	th	th-83	2020_03_29	total		51	https://covid19.th-stat.com/th/api	
 admin_1	th	th-92	2020_03_29	total		5	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_03_29	new		2	DERIVED	
-admin_1	th	th-95	2020_03_29	total		30	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_03_29	new		1	DERIVED	
+admin_1	th	th-96	2020_03_29	total		9	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kho laem	2020_03_29	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kruai	2020_03_29	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang rak	2020_03_29	new		1	DERIVED	
@@ -537,8 +525,14 @@ th_district	th-19	sao hai	2020_03_29	total		1	https://covid19.th-stat.com/th/api
 th_district	th-50	mae rim	2020_03_29	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-56	chiang kham	2020_03_29	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-96	chanae	2020_03_29	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_30	total_male		897	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_03_30	total_female		626	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_30	new		135	DERIVED	
+admin_0		th	2020_03_30	total		1524	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_30	status_deaths		9	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_30	status_hospitalized		1388	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_30	status_recovered		127	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_03_30	status_deaths_new		2	DERIVED	
+admin_0		th	2020_03_30	status_hospitalized_new		118	DERIVED	
+admin_0		th	2020_03_30	status_recovered_new		16	DERIVED	
 admin_0		th	2020_03_30	new	0-9	2	DERIVED	
 admin_0		th	2020_03_30	total	0-9	28	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_03_30	new	50-59	16	DERIVED	
@@ -647,6 +641,7 @@ th_district	th-90	hat yai	2020_04_01	new		1	DERIVED
 th_district	th-90	hat yai	2020_04_01	total		10	https://covid19.th-stat.com/th/api	
 th_district	th-94	sai buri	2020_04_01	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-94	yaring	2020_04_01	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_02	total_male		1068	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_04_02	total		78	https://covid19.th-stat.com/th/api	
 admin_1	th	th-26	2020_04_02	total		2	https://covid19.th-stat.com/th/api	
 admin_1	th	th-37	2020_04_02	total		2	https://covid19.th-stat.com/th/api	
@@ -692,18 +687,16 @@ th_district	th-94	nong chik	2020_04_02	new		1	DERIVED
 th_district	th-94	nong chik	2020_04_02	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_04_02	new		3	DERIVED	
 th_district	th-94	yarang	2020_04_02	total		31	https://covid19.th-stat.com/th/api	
+th_district	th-95	bannang sata	2020_04_02	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-95	yaha	2020_04_02	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-96	bacho	2020_04_02	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-96	rueso	2020_04_02	total		2	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_03	new		103	DERIVED	
-admin_0		th	2020_04_03	total		1978	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_03	status_deaths		19	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_03	status_hospitalized		1378	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_03	status_recovered		581	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_03	status_deaths_new		4	DERIVED	
-admin_0		th	2020_04_03	status_hospitalized_new		23	DERIVED	
-admin_0		th	2020_04_03	status_recovered_new		76	DERIVED	
+admin_0		th	2020_04_03	total_female		858	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_03	total	10-19	48	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_03	total	20-29	532	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_03	new	30-39	17	DERIVED	
+admin_0		th	2020_04_03	new	40-49	25	DERIVED	
+admin_0		th	2020_04_03	total	60-69	152	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_03	total	70-79	57	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_04_03	total		115	https://covid19.th-stat.com/th/api	
 admin_1	th	th-13	2020_04_03	new		1	DERIVED	
@@ -713,7 +706,9 @@ admin_1	th	th-40	2020_04_03	total		4	https://covid19.th-stat.com/th/api
 admin_1	th	th-43	2020_04_03	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-46	2020_04_03	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-65	2020_04_03	total		4	https://covid19.th-stat.com/th/api	
-admin_1	th	th-96	2020_04_03	total		15	https://covid19.th-stat.com/th/api	
+admin_1	th	th-83	2020_04_03	total		99	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_04_03	new		5	DERIVED	
+admin_1	th	th-95	2020_04_03	total		49	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kapi	2020_04_03	total		8	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang sue	2020_04_03	new		1	DERIVED	
 th_district	th-10	bang sue	2020_04_03	total		9	https://covid19.th-stat.com/th/api	
@@ -736,12 +731,7 @@ th_district	th-46	khong chai	2020_04_03	total		1	https://covid19.th-stat.com/th/
 th_district	th-81	plai phraya	2020_04_03	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-83	san pa tong	2020_04_03	total		9	https://covid19.th-stat.com/th/api	
 th_district	th-90	pak phayun	2020_04_03	total		1	https://covid19.th-stat.com/th/api	
-th_district	th-95	bannang sata	2020_04_03	total		10	https://covid19.th-stat.com/th/api	
 th_district	th-96	ra-ngae	2020_04_03	new		1	DERIVED	
-admin_0		th	2020_04_04	total	20-29	548	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_04	new	30-39	24	DERIVED	
-admin_0		th	2020_04_04	new	40-49	17	DERIVED	
-admin_0		th	2020_04_04	total	60-69	156	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_04_04	new		5	DERIVED	
 admin_1	th	th-12	2020_04_04	new		13	DERIVED	
 admin_1	th	th-13	2020_04_04	total		28	https://covid19.th-stat.com/th/api	
@@ -749,12 +739,9 @@ admin_1	th	th-21	2020_04_04	total		6	https://covid19.th-stat.com/th/api
 admin_1	th	th-41	2020_04_04	total		10	https://covid19.th-stat.com/th/api	
 admin_1	th	th-63	2020_04_04	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-74	2020_04_04	total		12	https://covid19.th-stat.com/th/api	
-admin_1	th	th-83	2020_04_04	total		108	https://covid19.th-stat.com/th/api	
 admin_1	th	th-84	2020_04_04	total		15	https://covid19.th-stat.com/th/api	
 admin_1	th	th-90	2020_04_04	new		3	DERIVED	
 admin_1	th	th-90	2020_04_04	total		37	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_04_04	new		2	DERIVED	
-admin_1	th	th-95	2020_04_04	total		51	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_04_04	new		4	DERIVED	
 th_district	th-10	bang pakong	2020_04_04	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang phlat	2020_04_04	total		6	https://covid19.th-stat.com/th/api	
@@ -786,8 +773,14 @@ th_district	th-90	singhanakhon	2020_04_04	total		6	https://covid19.th-stat.com/t
 th_district	th-95	bannang sata	2020_04_04	new		4	DERIVED	
 th_district	th-96	cho-airong	2020_04_04	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-96	waeng	2020_04_04	total		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_05	total_male		1213	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_05	total_female		957	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_05	new		103	DERIVED	
+admin_0		th	2020_04_05	total		2169	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_05	status_deaths		23	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_05	status_hospitalized		1472	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_05	status_recovered		674	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_05	status_deaths_new		3	DERIVED	
+admin_0		th	2020_04_05	status_hospitalized_new		37	DERIVED	
+admin_0		th	2020_04_05	status_recovered_new		62	DERIVED	
 admin_0		th	2020_04_05	new	0-9	4	DERIVED	
 admin_0		th	2020_04_05	total	0-9	45	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_05	new	50-59	8	DERIVED	
@@ -846,6 +839,7 @@ admin_1	th	th-10	2020_04_06	new		27	DERIVED
 admin_1	th	th-27	2020_04_06	new		1	DERIVED	
 admin_1	th	th-27	2020_04_06	total		10	https://covid19.th-stat.com/th/api	
 admin_1	th	th-34	2020_04_06	total		15	https://covid19.th-stat.com/th/api	
+admin_1	th	th-96	2020_04_06	total		22	https://covid19.th-stat.com/th/api	
 th_district	th-10	chatuchak	2020_04_06	total		12	https://covid19.th-stat.com/th/api	
 th_district	th-10	don mueang	2020_04_06	new		1	DERIVED	
 th_district	th-10	saphan sung	2020_04_06	total		4	https://covid19.th-stat.com/th/api	
@@ -881,6 +875,7 @@ th_district	th-10	phaya thai	2020_04_07	total		17	https://covid19.th-stat.com/th
 th_district	th-10	vadhana	2020_04_07	total		30	https://covid19.th-stat.com/th/api	
 th_district	th-10	yan nawa	2020_04_07	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_04_07	new		1	DERIVED	
+admin_0		th	2020_04_08	total_male		1323	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_04_08	total		102	https://covid19.th-stat.com/th/api	
 admin_1	th	th-30	2020_04_08	new		1	DERIVED	
 admin_1	th	th-30	2020_04_08	total		18	https://covid19.th-stat.com/th/api	
@@ -909,18 +904,16 @@ th_district	th-91	mueang satun	2020_04_08	total		4	https://covid19.th-stat.com/t
 th_district	th-91	thung wa	2020_04_08	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-93	khuan khanun	2020_04_08	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-94	mueang pattani	2020_04_08	total		1	https://covid19.th-stat.com/th/api	
+th_district	th-95	bannang sata	2020_04_08	total		23	https://covid19.th-stat.com/th/api	
 th_district	th-95	mueang yala	2020_04_08	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-95	raman	2020_04_08	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-95	yaha	2020_04_08	total		5	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_09	new		54	DERIVED	
-admin_0		th	2020_04_09	total		2424	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_09	status_deaths		32	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_09	status_hospitalized		1451	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_09	status_recovered		940	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_09	status_deaths_new		2	DERIVED	
-admin_0		th	2020_04_09	status_hospitalized_new		0	DERIVED	
-admin_0		th	2020_04_09	status_recovered_new		52	DERIVED	
+admin_0		th	2020_04_09	total_female		1070	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_09	total	10-19	65	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_09	total	20-29	629	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_09	new	30-39	18	DERIVED	
+admin_0		th	2020_04_09	new	40-49	15	DERIVED	
+admin_0		th	2020_04_09	total	60-69	179	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_09	total	70-79	69	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_04_09	total		148	https://covid19.th-stat.com/th/api	
 admin_1	th	th-13	2020_04_09	new		3	DERIVED	
@@ -928,17 +921,18 @@ admin_1	th	th-36	2020_04_09	total		3	https://covid19.th-stat.com/th/api
 admin_1	th	th-50	2020_04_09	total		40	https://covid19.th-stat.com/th/api	
 admin_1	th	th-52	2020_04_09	total		4	https://covid19.th-stat.com/th/api	
 admin_1	th	th-65	2020_04_09	total		6	https://covid19.th-stat.com/th/api	
+admin_1	th	th-83	2020_04_09	total		161	https://covid19.th-stat.com/th/api	
 admin_1	th	th-92	2020_04_09	total		7	https://covid19.th-stat.com/th/api	
 admin_1	th	th-93	2020_04_09	new		1	DERIVED	
 admin_1	th	th-94	2020_04_09	new		11	DERIVED	
 admin_1	th	th-94	2020_04_09	total		67	https://covid19.th-stat.com/th/api	
-admin_1	th	th-96	2020_04_09	total		25	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_04_09	new		2	DERIVED	
+admin_1	th	th-95	2020_04_09	total		70	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kapi	2020_04_09	new		2	DERIVED	
 th_district	th-10	bang kapi	2020_04_09	total		25	https://covid19.th-stat.com/th/api	
 th_district	th-10	nong khaem	2020_04_09	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-10	pom prap sattru phai	2020_04_09	new		1	DERIVED	
 th_district	th-10	pom prap sattru phai	2020_04_09	total		8	https://covid19.th-stat.com/th/api	
-th_district	th-10	ratchathewi	2020_04_09	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-10	sai mai	2020_04_09	total		6	https://covid19.th-stat.com/th/api	
 th_district	th-10	suan luang	2020_04_09	total		10	https://covid19.th-stat.com/th/api	
 th_district	th-10	thawi watthana	2020_04_09	total		4	https://covid19.th-stat.com/th/api	
@@ -961,22 +955,14 @@ th_district	th-94	thung yang daeng	2020_04_09	new		5	DERIVED
 th_district	th-94	thung yang daeng	2020_04_09	total		7	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_04_09	new		1	DERIVED	
 th_district	th-94	yaring	2020_04_09	total		2	https://covid19.th-stat.com/th/api	
-th_district	th-95	bannang sata	2020_04_09	total		12	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_10	total	20-29	640	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_10	new	30-39	11	DERIVED	
-admin_0		th	2020_04_10	new	40-49	10	DERIVED	
-admin_0		th	2020_04_10	total	60-69	184	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_04_10	new		4	DERIVED	
 admin_1	th	th-12	2020_04_10	new		4	DERIVED	
 admin_1	th	th-24	2020_04_10	total		17	https://covid19.th-stat.com/th/api	
 admin_1	th	th-56	2020_04_10	total		3	https://covid19.th-stat.com/th/api	
 admin_1	th	th-60	2020_04_10	new		2	DERIVED	
 admin_1	th	th-60	2020_04_10	total		9	https://covid19.th-stat.com/th/api	
-admin_1	th	th-83	2020_04_10	total		166	https://covid19.th-stat.com/th/api	
 admin_1	th	th-84	2020_04_10	total		18	https://covid19.th-stat.com/th/api	
 admin_1	th	th-86	2020_04_10	total		3	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_04_10	new		7	DERIVED	
-admin_1	th	th-95	2020_04_10	total		77	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_04_10	new		1	DERIVED	
 th_district	th-10	bang bua thong	2020_04_10	total		6	https://covid19.th-stat.com/th/api	
 th_district	th-10	bueng kum	2020_04_10	new		1	DERIVED	
@@ -998,8 +984,14 @@ th_district	th-83	san pa tong	2020_04_10	total		18	https://covid19.th-stat.com/t
 th_district	th-84	ko samui	2020_04_10	total		7	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_04_10	new		15	DERIVED	
 th_district	th-96	su-ngai kolok	2020_04_10	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_11	total_male		1406	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_11	total_female		1113	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_11	new		46	DERIVED	
+admin_0		th	2020_04_11	total		2518	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_11	status_deaths		35	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_11	status_hospitalized		1348	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_11	status_recovered		1135	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_11	status_deaths_new		2	DERIVED	
+admin_0		th	2020_04_11	status_hospitalized_new		-79	DERIVED	
+admin_0		th	2020_04_11	status_recovered_new		122	DERIVED	
 admin_0		th	2020_04_11	new	0-9	2	DERIVED	
 admin_0		th	2020_04_11	total	0-9	58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_11	new	50-59	3	DERIVED	
@@ -1021,6 +1013,7 @@ th_district	th-10	pak kret	2020_04_11	total		4	https://covid19.th-stat.com/th/ap
 th_district	th-10	pathum wan	2020_04_11	total		8	https://covid19.th-stat.com/th/api	
 th_district	th-10	phra khanong	2020_04_11	new		1	DERIVED	
 th_district	th-10	phra khanong	2020_04_11	total		9	https://covid19.th-stat.com/th/api	
+th_district	th-10	ratchathewi	2020_04_11	total		9	https://covid19.th-stat.com/th/api	
 th_district	th-10	sathon	2020_04_11	new		2	DERIVED	
 th_district	th-10	sathon	2020_04_11	total		12	https://covid19.th-stat.com/th/api	
 th_district	th-13	bangkok noi	2020_04_11	total		1	https://covid19.th-stat.com/th/api	
@@ -1039,6 +1032,7 @@ admin_0		th	2020_04_12	new	10-19	1	DERIVED
 admin_0		th	2020_04_12	total	30-39	651	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_04_12	new		14	DERIVED	
 admin_1	th	th-74	2020_04_12	total		14	https://covid19.th-stat.com/th/api	
+admin_1	th	th-96	2020_04_12	total		28	https://covid19.th-stat.com/th/api	
 th_district	th-10	chatuchak	2020_04_12	total		14	https://covid19.th-stat.com/th/api	
 th_district	th-10	khlong sam wa	2020_04_12	total		7	https://covid19.th-stat.com/th/api	
 th_district	th-10	lak si	2020_04_12	total		9	https://covid19.th-stat.com/th/api	
@@ -1064,6 +1058,7 @@ th_district	th-10	vadhana	2020_04_13	total		34	https://covid19.th-stat.com/th/ap
 th_district	th-10	yan nawa	2020_04_13	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-48	si songkhram	2020_04_13	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-95	than to	2020_04_13	total		6	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_14	total_male		1449	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_14	total	90-99	2	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_04_14	total		109	https://covid19.th-stat.com/th/api	
 admin_1	th	th-42	2020_04_14	new		1	DERIVED	
@@ -1078,44 +1073,40 @@ th_district	th-10	saphan sung	2020_04_14	total		5	https://covid19.th-stat.com/th
 th_district	th-80	bang khan	2020_04_14	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-91	khuan don	2020_04_14	new		1	DERIVED	
 th_district	th-91	khuan don	2020_04_14	total		8	https://covid19.th-stat.com/th/api	
+th_district	th-95	bannang sata	2020_04_14	total		33	https://covid19.th-stat.com/th/api	
 th_district	th-95	kabang	2020_04_14	total		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_15	new		29	DERIVED	
-admin_0		th	2020_04_15	total		2644	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_15	status_deaths		43	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_15	status_hospitalized		1103	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_15	status_recovered		1497	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_15	status_deaths_new		2	DERIVED	
-admin_0		th	2020_04_15	status_hospitalized_new		-64	DERIVED	
-admin_0		th	2020_04_15	status_recovered_new		92	DERIVED	
+admin_0		th	2020_04_15	total_female		1180	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_15	total	10-19	78	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_15	total	20-29	669	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_15	new	30-39	4	DERIVED	
+admin_0		th	2020_04_15	new	40-49	7	DERIVED	
+admin_0		th	2020_04_15	total	60-69	199	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_15	total	70-79	81	https://covid19.th-stat.com/th/api	
 admin_1	th	th-12	2020_04_15	total		154	https://covid19.th-stat.com/th/api	
-admin_1	th	th-96	2020_04_15	total		29	https://covid19.th-stat.com/th/api	
+admin_1	th	th-83	2020_04_15	total		190	https://covid19.th-stat.com/th/api	
+admin_1	th	th-94	2020_04_15	total		85	https://covid19.th-stat.com/th/api	
+admin_1	th	th-95	2020_04_15	new		3	DERIVED	
+admin_1	th	th-95	2020_04_15	total		93	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kapi	2020_04_15	new		1	DERIVED	
 th_district	th-10	bang kapi	2020_04_15	total		30	https://covid19.th-stat.com/th/api	
+th_district	th-10	khlong san	2020_04_15	new		1	DERIVED	
+th_district	th-10	khlong san	2020_04_15	total		9	https://covid19.th-stat.com/th/api	
 th_district	th-10	lat phrao	2020_04_15	total		23	https://covid19.th-stat.com/th/api	
 th_district	th-10	rat burana	2020_04_15	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	suan luang	2020_04_15	total		13	https://covid19.th-stat.com/th/api	
 th_district	th-10	thon buri	2020_04_15	total		8	https://covid19.th-stat.com/th/api	
 th_district	th-12	bang kruai	2020_04_15	total		4	https://covid19.th-stat.com/th/api	
-th_district	th-95	bannang sata	2020_04_15	total		36	https://covid19.th-stat.com/th/api	
-th_district	th-96	rueso	2020_04_15	total		3	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_16	total	20-29	679	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_16	new	30-39	5	DERIVED	
-admin_0		th	2020_04_16	new	40-49	6	DERIVED	
-admin_0		th	2020_04_16	total	60-69	201	https://covid19.th-stat.com/th/api	
-admin_1	th	th-83	2020_04_16	total		191	https://covid19.th-stat.com/th/api	
-admin_1	th	th-94	2020_04_16	total		86	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_04_16	new		3	DERIVED	
-admin_1	th	th-95	2020_04_16	total		96	https://covid19.th-stat.com/th/api	
-th_district	th-10	khlong san	2020_04_16	new		3	DERIVED	
-th_district	th-10	khlong san	2020_04_16	total		12	https://covid19.th-stat.com/th/api	
+th_district	th-94	thung yang daeng	2020_04_15	total		22	https://covid19.th-stat.com/th/api	
 th_district	th-10	nong chok	2020_04_16	new		1	DERIVED	
 th_district	th-10	nong chok	2020_04_16	total		4	https://covid19.th-stat.com/th/api	
-th_district	th-10	ratchathewi	2020_04_16	total		10	https://covid19.th-stat.com/th/api	
-th_district	th-94	thung yang daeng	2020_04_16	total		23	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_17	total_male		1486	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_17	total_female		1215	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_17	new		28	DERIVED	
+admin_0		th	2020_04_17	total		2701	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_17	status_deaths		47	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_17	status_hospitalized		964	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_17	status_recovered		1689	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_17	status_deaths_new		1	DERIVED	
+admin_0		th	2020_04_17	status_hospitalized_new		-69	DERIVED	
+admin_0		th	2020_04_17	status_recovered_new		96	DERIVED	
 admin_0		th	2020_04_17	new	0-9	1	DERIVED	
 admin_0		th	2020_04_17	total	0-9	68	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_17	new	50-59	2	DERIVED	
@@ -1156,14 +1147,7 @@ th_district	th-10	min buri	2020_04_19	total		6	https://covid19.th-stat.com/th/ap
 th_district	th-10	vadhana	2020_04_19	new		1	DERIVED	
 th_district	th-10	vadhana	2020_04_19	total		39	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_04_19	total		37	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_20	new		26	DERIVED	
-admin_0		th	2020_04_20	total		2793	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_20	status_deaths		47	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_20	status_hospitalized		746	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_20	status_recovered		1999	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_20	status_deaths_new		0	DERIVED	
-admin_0		th	2020_04_20	status_hospitalized_new		-44	DERIVED	
-admin_0		th	2020_04_20	status_recovered_new		71	DERIVED	
+admin_0		th	2020_04_20	total_male		1518	https://covid19.th-stat.com/th/api	
 admin_1	th	th-81	2020_04_20	total		19	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_04_20	new		2	DERIVED	
 admin_1	th	th-96	2020_04_20	total		33	https://covid19.th-stat.com/th/api	
@@ -1185,6 +1169,7 @@ th_district	th-81	ko lanta	2020_04_20	total		9	https://covid19.th-stat.com/th/ap
 th_district	th-95	bannang sata	2020_04_20	total		43	https://covid19.th-stat.com/th/api	
 th_district	th-96	rueso	2020_04_20	new		2	DERIVED	
 th_district	th-96	rueso	2020_04_20	total		6	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_21	total_female		1284	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_21	total	10-19	85	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_21	total	20-29	716	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_21	new	30-39	5	DERIVED	
@@ -1209,8 +1194,14 @@ th_district	th-20	bang lamung	2020_04_21	total		12	https://covid19.th-stat.com/t
 th_district	th-94	thung yang daeng	2020_04_21	total		27	https://covid19.th-stat.com/th/api	
 th_district	th-95	yaha	2020_04_21	new		2	DERIVED	
 th_district	th-95	yaha	2020_04_21	total		8	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_22	total_male		1534	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_22	total_female		1293	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_22	new		15	DERIVED	
+admin_0		th	2020_04_22	total		2827	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_22	status_deaths		49	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_22	status_hospitalized		425	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_22	status_recovered		2352	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_22	status_deaths_new		1	DERIVED	
+admin_0		th	2020_04_22	status_hospitalized_new		-230	DERIVED	
+admin_0		th	2020_04_22	status_recovered_new		244	DERIVED	
 admin_0		th	2020_04_22	new	50-59	1	DERIVED	
 admin_0		th	2020_04_22	total	50-59	398	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_22	new	60-69	1	DERIVED	
@@ -1246,14 +1237,7 @@ th_district	th-10	chom thong	2020_04_24	total		17	https://covid19.th-stat.com/th
 th_district	th-11	lam luk ka	2020_04_24	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-13	khlong luang	2020_04_24	total		5	https://covid19.th-stat.com/th/api	
 th_district	th-83	thalang	2020_04_24	new		3	DERIVED	
-admin_0		th	2020_04_25	new		52	DERIVED	
-admin_0		th	2020_04_25	total		2908	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_25	status_deaths		51	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_25	status_hospitalized		309	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_25	status_recovered		2547	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_25	status_deaths_new		1	DERIVED	
-admin_0		th	2020_04_25	status_hospitalized_new		-5	DERIVED	
-admin_0		th	2020_04_25	status_recovered_new		57	DERIVED	
+admin_0		th	2020_04_25	total_male		1592	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_25	new	0-9	1	DERIVED	
 admin_0		th	2020_04_25	new	10-19	6	DERIVED	
 admin_0		th	2020_04_25	total	80-89	21	https://covid19.th-stat.com/th/api	
@@ -1264,6 +1248,7 @@ th_district	th-10	bang khae	2020_04_25	total		14	https://covid19.th-stat.com/th/
 th_district	th-20	phan thong	2020_04_25	total		4	https://covid19.th-stat.com/th/api	
 th_district	th-90	sadao	2020_04_25	new		42	DERIVED	
 th_district	th-90	sadao	2020_04_25	total		54	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_26	total_female		1321	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_26	total	20-29	745	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_26	new	30-39	4	DERIVED	
 admin_0		th	2020_04_26	new	40-49	5	DERIVED	
@@ -1279,9 +1264,16 @@ th_district	th-10	vadhana	2020_04_26	total		46	https://covid19.th-stat.com/th/ap
 th_district	th-20	sattahip	2020_04_26	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-73	bang len	2020_04_26	total		3	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_04_26	total		53	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_27	total_male		1609	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_27	total_female		1323	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	new		9	DERIVED	
+admin_0		th	2020_04_27	total		2932	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	status_deaths		52	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	status_hospitalized		270	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	status_recovered		2609	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	status_deaths_new		1	DERIVED	
+admin_0		th	2020_04_27	status_hospitalized_new		-7	DERIVED	
+admin_0		th	2020_04_27	status_recovered_new		15	DERIVED	
 admin_0		th	2020_04_27	total	10-19	97	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_04_27	total	50-59	406	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_27	new	60-69	2	DERIVED	
 admin_1	th	th-10	2020_04_27	total		1529	https://covid19.th-stat.com/th/api	
 admin_1	th	th-72	2020_04_27	total		6	https://covid19.th-stat.com/th/api	
@@ -1295,7 +1287,6 @@ th_district	th-95	bannang sata	2020_04_27	new		4	DERIVED
 th_district	th-95	yaha	2020_04_27	total		9	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_28	total	30-39	732	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_04_28	new	50-59	1	DERIVED	
-admin_0		th	2020_04_28	total	50-59	407	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_04_28	new		3	DERIVED	
 admin_1	th	th-30	2020_04_28	total		19	https://covid19.th-stat.com/th/api	
 th_district	th-10	mueang samut prakan	2020_04_28	total		3	https://covid19.th-stat.com/th/api	
@@ -1307,25 +1298,26 @@ admin_1	th	th-11	2020_04_29	total		112	https://covid19.th-stat.com/th/api
 th_district	th-10	bang kapi	2020_04_29	total		35	https://covid19.th-stat.com/th/api	
 th_district	th-10	khlong san	2020_04_29	total		19	https://covid19.th-stat.com/th/api	
 th_district	th-11	bang phli	2020_04_29	total		8	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_30	new		6	DERIVED	
-admin_0		th	2020_04_30	total		2955	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_30	status_deaths		54	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_30	status_hospitalized		213	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_30	status_recovered		2687	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_04_30	status_deaths_new		0	DERIVED	
-admin_0		th	2020_04_30	status_hospitalized_new		-15	DERIVED	
-admin_0		th	2020_04_30	status_recovered_new		22	DERIVED	
+admin_0		th	2020_04_30	total_male		1618	https://covid19.th-stat.com/th/api	
 admin_1	th	th-81	2020_04_30	total		20	https://covid19.th-stat.com/th/api	
 admin_1	th	th-83	2020_04_30	new		3	DERIVED	
 th_district	th-83	thalang	2020_04_30	new		3	DERIVED	
+admin_0		th	2020_05_01	total_female		1342	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_01	total	20-29	755	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_01	new	30-39	1	DERIVED	
 admin_0		th	2020_05_01	total	60-69	223	https://covid19.th-stat.com/th/api	
 admin_1	th	th-95	2020_05_01	total		126	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_05_01	total		20	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_02	total_male		1621	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_02	total_female		1346	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_02	new		6	DERIVED	
+admin_0		th	2020_05_02	total		2966	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_02	status_deaths		54	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_02	status_hospitalized		180	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_02	status_recovered		2732	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_02	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_02	status_hospitalized_new		-7	DERIVED	
+admin_0		th	2020_05_02	status_recovered_new		13	DERIVED	
 admin_0		th	2020_05_02	new	40-49	1	DERIVED	
+admin_0		th	2020_05_02	total	50-59	413	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_02	total		1542	https://covid19.th-stat.com/th/api	
 admin_1	th	th-83	2020_05_02	total		220	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang sue	2020_05_02	total		10	https://covid19.th-stat.com/th/api	
@@ -1334,34 +1326,31 @@ th_district	th-10	phra nakhon	2020_05_02	total		11	https://covid19.th-stat.com/t
 th_district	th-83	thalang	2020_05_02	total		67	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_03	total	30-39	737	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_03	new	50-59	1	DERIVED	
-admin_0		th	2020_05_03	total	50-59	414	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_03	new		2	DERIVED	
 th_district	th-10	bueng kum	2020_05_03	total		17	https://covid19.th-stat.com/th/api	
 th_district	th-96	chanae	2020_05_03	total		4	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_04	total	10-19	111	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_04	new	20-29	6	DERIVED	
-admin_0		th	2020_05_05	new		1	DERIVED	
-admin_0		th	2020_05_05	total		2989	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_05	status_deaths		54	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_05	status_hospitalized		187	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_05	status_recovered		2747	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_05	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_05	status_hospitalized_new		-6	DERIVED	
-admin_0		th	2020_05_05	status_recovered_new		7	DERIVED	
+admin_0		th	2020_05_05	total_male		1625	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_05	total	40-49	555	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_05_05	total		35	https://covid19.th-stat.com/th/api	
 th_district	th-96	waeng	2020_05_05	total		4	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_06	total_female		1365	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_06	total	20-29	765	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_05_06	total		113	https://covid19.th-stat.com/th/api	
 th_district	th-11	mueang samut prakan	2020_05_06	total		2	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_07	total_male		1627	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_07	total_female		1366	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_07	new		3	DERIVED	
+admin_0		th	2020_05_07	total		2992	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_07	status_deaths		55	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_07	status_hospitalized		165	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_07	status_recovered		2772	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_07	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_07	status_hospitalized_new		-8	DERIVED	
+admin_0		th	2020_05_07	status_recovered_new		11	DERIVED	
+admin_0		th	2020_05_07	total	50-59	416	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_07	total		1546	https://covid19.th-stat.com/th/api	
-admin_1	th	th-95	2020_05_07	total		127	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_05_07	total		14	https://covid19.th-stat.com/th/api	
-th_district	th-95	bannang sata	2020_05_07	total		59	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_08	new	50-59	2	DERIVED	
-admin_0		th	2020_05_08	total	50-59	418	https://covid19.th-stat.com/th/api	
 admin_1	th	th-90	2020_05_08	total		128	https://covid19.th-stat.com/th/api	
 th_district	th-90	sadao	2020_05_08	total		77	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_09	new	30-39	1	DERIVED	
@@ -1371,14 +1360,6 @@ admin_1	th	th-95	2020_05_09	new		2	DERIVED
 th_district	th-10	taling chan	2020_05_09	total		8	https://covid19.th-stat.com/th/api	
 th_district	th-25	si maha phot	2020_05_09	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_05_09	new		2	DERIVED	
-admin_0		th	2020_05_10	new		5	DERIVED	
-admin_0		th	2020_05_10	total		3009	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_10	status_deaths		56	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_10	status_hospitalized		159	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_10	status_recovered		2794	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_10	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_10	status_hospitalized_new		-2	DERIVED	
-admin_0		th	2020_05_10	status_recovered_new		7	DERIVED	
 admin_0		th	2020_05_10	new	40-49	2	DERIVED	
 admin_0		th	2020_05_10	total	40-49	561	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_10	total	80-89	22	https://covid19.th-stat.com/th/api	
@@ -1397,6 +1378,14 @@ admin_1	th	th-95	2020_05_11	total		133	https://covid19.th-stat.com/th/api
 th_district	th-83	kathu	2020_05_11	total		78	https://covid19.th-stat.com/th/api	
 th_district	th-83	thalang	2020_05_11	total		68	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_05_11	total		65	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_12	new		1	DERIVED	
+admin_0		th	2020_05_12	total		3018	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_12	status_deaths		56	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_12	status_hospitalized		163	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_12	status_recovered		2798	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_12	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_12	status_hospitalized_new		0	DERIVED	
+admin_0		th	2020_05_12	status_recovered_new		2	DERIVED	
 admin_0		th	2020_05_12	new	10-19	1	DERIVED	
 admin_0		th	2020_05_12	total	50-59	419	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_12	total		1550	https://covid19.th-stat.com/th/api	
@@ -1405,14 +1394,6 @@ admin_1	th	th-96	2020_05_12	total		38	https://covid19.th-stat.com/th/api
 th_district	th-10	mueang nonthaburi	2020_05_12	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-96	waeng	2020_05_12	new		1	DERIVED	
 th_district	th-96	waeng	2020_05_12	total		7	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_14	new		1	DERIVED	
-admin_0		th	2020_05_14	total		3019	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_14	status_deaths		56	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_14	status_hospitalized		112	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_14	status_recovered		2850	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_14	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_14	status_hospitalized_new		-5	DERIVED	
-admin_0		th	2020_05_14	status_recovered_new		6	DERIVED	
 admin_1	th	th-50	2020_05_14	total		41	https://covid19.th-stat.com/th/api	
 th_district	th-50	san kamphaeng	2020_05_14	total		3	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_15	total_male		1645	https://covid19.th-stat.com/th/api	
@@ -1420,16 +1401,16 @@ admin_0		th	2020_05_15	total_female		1381	https://covid19.th-stat.com/th/api
 admin_0		th	2020_05_15	total	10-19	116	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_15	new	30-39	1	DERIVED	
 admin_0		th	2020_05_15	total	30-39	741	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_16	new		-1	DERIVED	
+admin_0		th	2020_05_16	total		3025	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_16	status_deaths		56	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_16	status_hospitalized		114	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_16	status_recovered		2855	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_16	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_16	status_hospitalized_new		-1	DERIVED	
+admin_0		th	2020_05_16	status_recovered_new		1	DERIVED	
 admin_1	th	th-20	2020_05_17	total		103	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_05_17	total		24	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_18	new		2	DERIVED	
-admin_0		th	2020_05_18	total		3032	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_18	status_deaths		56	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_18	status_hospitalized		118	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_18	status_recovered		2857	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_18	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_18	status_hospitalized_new		2	DERIVED	
-admin_0		th	2020_05_18	status_recovered_new		1	DERIVED	
 admin_0		th	2020_05_18	new	20-29	2	DERIVED	
 admin_0		th	2020_05_18	total	20-29	783	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_18	total	50-59	420	https://covid19.th-stat.com/th/api	
@@ -1438,43 +1419,43 @@ admin_1	th	th-83	2020_05_18	total		225	https://covid19.th-stat.com/th/api
 th_district	th-12	bangkok noi	2020_05_18	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-12	prawet	2020_05_18	total		3	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_19	total_male		1650	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_19	total_female		1384	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_19	total	30-39	742	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_19	total	40-49	562	https://covid19.th-stat.com/th/api	
 admin_1	th	th-96	2020_05_19	total		40	https://covid19.th-stat.com/th/api	
 th_district	th-96	waeng	2020_05_19	total		9	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_20	new		1	DERIVED	
+admin_0		th	2020_05_20	total		3035	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_20	status_deaths		56	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_20	status_hospitalized		90	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_20	status_recovered		2888	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_20	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_20	status_hospitalized_new		-30	DERIVED	
+admin_0		th	2020_05_20	status_recovered_new		31	DERIVED	
 th_district	th-10	ratchathewi	2020_05_20	total		15	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_21	total_female		1385	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_21	new	40-49	1	DERIVED	
-admin_0		th	2020_05_21	total	40-49	564	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_21	total	70-79	86	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_21	new		2	DERIVED	
 admin_1	th	th-10	2020_05_21	total		1553	https://covid19.th-stat.com/th/api	
 th_district	th-10	huai khwang	2020_05_21	total		26	https://covid19.th-stat.com/th/api	
 th_district	th-10	phra khanong	2020_05_21	total		14	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_05_21	total		25	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_22	new		-1	DERIVED	
-admin_0		th	2020_05_22	total		3037	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_22	status_deaths		56	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_22	status_hospitalized		71	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_22	status_recovered		2910	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_22	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_22	status_hospitalized_new		-13	DERIVED	
-admin_0		th	2020_05_22	status_recovered_new		13	DERIVED	
 admin_0		th	2020_05_23	total_male		1655	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_23	total_female		1386	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_23	total	20-29	785	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_23	total	40-49	566	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_05_23	total		106	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_25	total_female		1388	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_25	total	40-49	567	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_24	new		-1	DERIVED	
+admin_0		th	2020_05_24	total		3040	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_24	status_deaths		56	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_24	status_hospitalized		63	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_24	status_recovered		2921	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_24	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_24	status_hospitalized_new		-5	DERIVED	
+admin_0		th	2020_05_24	status_recovered_new		5	DERIVED	
 admin_0		th	2020_05_25	total	50-59	421	https://covid19.th-stat.com/th/api	
 admin_1	th	th-83	2020_05_25	total		227	https://covid19.th-stat.com/th/api	
 th_district	th-83	thalang	2020_05_25	total		70	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_26	new		4	DERIVED	
-admin_0		th	2020_05_26	total		3045	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_26	status_deaths		57	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_26	status_hospitalized		59	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_26	status_recovered		2929	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_26	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_26	status_hospitalized_new		2	DERIVED	
-admin_0		th	2020_05_26	status_recovered_new		1	DERIVED	
 th_district	th-20	bang lamung	2020_05_26	new		1	DERIVED	
 th_district	th-20	bang lamung	2020_05_26	total		2	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_27	total_male		1666	https://covid19.th-stat.com/th/api	
@@ -1493,12 +1474,20 @@ th_district	th-90	thepha	2020_05_27	total		5	https://covid19.th-stat.com/th/api
 th_district	th-94	mueang pattani	2020_05_27	total		2	https://covid19.th-stat.com/th/api	
 th_district	th-95	bannang sata	2020_05_27	total		66	https://covid19.th-stat.com/th/api	
 th_district	th-96	rueso	2020_05_27	total		7	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	new		11	DERIVED	
+admin_0		th	2020_05_28	total		3066	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	total_female		1391	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	status_deaths		57	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	status_hospitalized		63	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	status_recovered		2945	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	status_deaths_new		0	DERIVED	
+admin_0		th	2020_05_28	status_hospitalized_new		-3	DERIVED	
+admin_0		th	2020_05_28	status_recovered_new		14	DERIVED	
 admin_0		th	2020_05_28	new	30-39	5	DERIVED	
 admin_0		th	2020_05_28	total	30-39	750	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_05_28	total	40-49	571	https://covid19.th-stat.com/th/api	
 th_district	th-11	bang bo	2020_05_28	total		1	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_29	total_female		1392	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_29	new	40-49	6	DERIVED	
-admin_0		th	2020_05_29	total	40-49	577	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_29	new	50-59	4	DERIVED	
 admin_0		th	2020_05_29	total	50-59	428	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_05_29	new		2	DERIVED	
@@ -1506,14 +1495,6 @@ admin_1	th	th-11	2020_05_29	new		9	DERIVED
 admin_1	th	th-11	2020_05_29	total		126	https://covid19.th-stat.com/th/api	
 th_district	th-10	din daeng	2020_05_29	total		14	https://covid19.th-stat.com/th/api	
 th_district	th-11	bang sao thong	2020_05_29	total		12	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_30	new		1	DERIVED	
-admin_0		th	2020_05_30	total		3077	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_30	status_deaths		57	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_30	status_hospitalized		59	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_30	status_recovered		2961	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_05_30	status_deaths_new		0	DERIVED	
-admin_0		th	2020_05_30	status_hospitalized_new		-15	DERIVED	
-admin_0		th	2020_05_30	status_recovered_new		16	DERIVED	
 admin_0		th	2020_05_31	total_male		1689	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_31	total	10-19	119	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_05_31	new	20-29	1	DERIVED	
@@ -1524,25 +1505,33 @@ admin_1	th	th-96	2020_05_31	total		43	https://covid19.th-stat.com/th/api
 th_district	th-10	vadhana	2020_05_31	total		48	https://covid19.th-stat.com/th/api	
 th_district	th-96	yi-ngo	2020_05_31	new		-1	DERIVED	
 th_district	th-96	yi-ngo	2020_05_31	total		1	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_01	new		2	DERIVED	
+admin_0		th	2020_06_01	total		3082	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_01	total_female		1394	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_01	status_deaths		57	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_01	status_hospitalized		60	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_01	status_recovered		2965	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_01	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_01	status_hospitalized_new		-1	DERIVED	
+admin_0		th	2020_06_01	status_recovered_new		2	DERIVED	
 admin_0		th	2020_06_01	total	40-49	578	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_06_01	new		1	DERIVED	
 admin_1	th	th-20	2020_06_01	total		113	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_06_01	new		1	DERIVED	
 th_district	th-20	bang lamung	2020_06_01	total		30	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_02	new		1	DERIVED	
-admin_0		th	2020_06_02	total		3084	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_02	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_02	status_hospitalized		59	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_02	status_recovered		2966	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_02	status_deaths_new		1	DERIVED	
-admin_0		th	2020_06_02	status_hospitalized_new		-1	DERIVED	
-admin_0		th	2020_06_02	status_recovered_new		1	DERIVED	
 admin_0		th	2020_06_02	total	30-39	752	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_03	total	20-29	796	https://covid19.th-stat.com/th/api	
 admin_1	th	th-94	2020_06_03	total		93	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_04	new		16	DERIVED	
+admin_0		th	2020_06_04	total		3102	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_04	total_male		1706	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_04	total_female		1396	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_04	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_04	status_hospitalized		75	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_04	status_recovered		2968	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_04	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_04	status_hospitalized_new		17	DERIVED	
+admin_0		th	2020_06_04	status_recovered_new		0	DERIVED	
 admin_0		th	2020_06_04	new	20-29	4	DERIVED	
 admin_0		th	2020_06_04	total	50-59	431	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_06_04	total		1572	https://covid19.th-stat.com/th/api	
@@ -1551,14 +1540,6 @@ admin_1	th	th-90	2020_06_04	total		134	https://covid19.th-stat.com/th/api
 th_district	th-10	bang na	2020_06_04	total		11	https://covid19.th-stat.com/th/api	
 th_district	th-11	bang sao thong	2020_06_04	total		21	https://covid19.th-stat.com/th/api	
 th_district	th-90	sadao	2020_06_04	total		81	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_05	new		0	DERIVED	
-admin_0		th	2020_06_05	total		3103	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_05	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_05	status_hospitalized		73	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_05	status_recovered		2971	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_05	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_05	status_hospitalized_new		-2	DERIVED	
-admin_0		th	2020_06_05	status_recovered_new		3	DERIVED	
 admin_0		th	2020_06_05	new	40-49	1	DERIVED	
 admin_0		th	2020_06_05	total	40-49	586	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_06	total	20-29	801	https://covid19.th-stat.com/th/api	
@@ -1566,21 +1547,21 @@ admin_0		th	2020_06_06	total	30-39	756	https://covid19.th-stat.com/th/api
 admin_1	th	th-20	2020_06_06	total		114	https://covid19.th-stat.com/th/api	
 th_district	th-10	huai khwang	2020_06_06	total		32	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_06_06	total		31	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_07	new		9	DERIVED	
+admin_0		th	2020_06_07	total		3112	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_07	total_male		1713	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_07	total_female		1400	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_07	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_07	status_hospitalized		82	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_07	status_recovered		2972	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_07	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_07	status_hospitalized_new		7	DERIVED	
+admin_0		th	2020_06_07	status_recovered_new		1	DERIVED	
 admin_0		th	2020_06_07	new	30-39	4	DERIVED	
 admin_0		th	2020_06_07	total	50-59	432	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_06_07	new		5	DERIVED	
 admin_1	th	th-10	2020_06_07	total		1579	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_06_07	total		138	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_08	new		6	DERIVED	
-admin_0		th	2020_06_08	total		3120	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_08	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_08	status_hospitalized		88	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_08	status_recovered		2973	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_08	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_08	status_hospitalized_new		6	DERIVED	
-admin_0		th	2020_06_08	status_recovered_new		1	DERIVED	
 admin_0		th	2020_06_08	total	10-19	120	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_08	new	40-49	2	DERIVED	
 admin_0		th	2020_06_08	total	40-49	589	https://covid19.th-stat.com/th/api	
@@ -1593,72 +1574,69 @@ admin_0		th	2020_06_09	total	30-39	763	https://covid19.th-stat.com/th/api
 admin_1	th	th-94	2020_06_09	total		94	https://covid19.th-stat.com/th/api	
 th_district	th-10	huai khwang	2020_06_09	total		33	https://covid19.th-stat.com/th/api	
 th_district	th-94	yarang	2020_06_09	total		38	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_10	new		4	DERIVED	
+admin_0		th	2020_06_10	total		3125	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_10	total_male		1718	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_10	total_female		1408	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_10	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_10	status_hospitalized		86	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_10	status_recovered		2981	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_10	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_10	status_hospitalized_new		-4	DERIVED	
+admin_0		th	2020_06_10	status_recovered_new		8	DERIVED	
 admin_0		th	2020_06_10	new	30-39	2	DERIVED	
 admin_1	th	th-10	2020_06_10	new		2	DERIVED	
 admin_1	th	th-10	2020_06_10	total		1589	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kapi	2020_06_10	total		38	https://covid19.th-stat.com/th/api	
 th_district	th-10	chatuchak	2020_06_10	total		20	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_11	new		-1	DERIVED	
-admin_0		th	2020_06_11	total		3125	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_11	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_11	status_hospitalized		80	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_11	status_recovered		2987	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_11	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_11	status_hospitalized_new		-6	DERIVED	
-admin_0		th	2020_06_11	status_recovered_new		6	DERIVED	
 admin_0		th	2020_06_12	total	30-39	767	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_12	total	40-49	592	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_12	total	50-59	433	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_06_12	total		120	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_06_12	total		37	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_13	new		4	DERIVED	
+admin_0		th	2020_06_13	total		3135	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_13	total_male		1725	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_13	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_13	status_hospitalized		89	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_13	status_recovered		2987	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_13	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_13	status_hospitalized_new		5	DERIVED	
+admin_0		th	2020_06_13	status_recovered_new		0	DERIVED	
 admin_1	th	th-11	2020_06_13	total		140	https://covid19.th-stat.com/th/api	
 admin_1	th	th-24	2020_06_13	total		20	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_14	new		2	DERIVED	
-admin_0		th	2020_06_14	total		3135	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_14	total_female		1411	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_14	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_14	status_hospitalized		90	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_14	status_recovered		2987	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_14	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_14	status_hospitalized_new		1	DERIVED	
-admin_0		th	2020_06_14	status_recovered_new		0	DERIVED	
 admin_0		th	2020_06_14	new	20-29	1	DERIVED	
 admin_0		th	2020_06_14	total	20-29	812	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_06_14	total		1590	https://covid19.th-stat.com/th/api	
 th_district	th-10	phra nakhon	2020_06_14	total		12	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_17	new		0	DERIVED	
-admin_0		th	2020_06_17	total		3135	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_17	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_17	status_hospitalized		81	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_17	status_recovered		2996	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_17	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_17	status_hospitalized_new		-3	DERIVED	
-admin_0		th	2020_06_17	status_recovered_new		3	DERIVED	
-admin_0		th	2020_06_18	total_male		1730	https://covid19.th-stat.com/th/api	
-admin_1	th	th-20	2020_06_18	total		121	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_16	new		0	DERIVED	
+admin_0		th	2020_06_16	total		3135	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_16	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_16	status_hospitalized		84	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_16	status_recovered		2993	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_16	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_16	status_hospitalized_new		-6	DERIVED	
+admin_0		th	2020_06_16	status_recovered_new		6	DERIVED	
+th_district	th-20	bang lamung	2020_06_18	total		38	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	new		5	DERIVED	
+admin_0		th	2020_06_19	total		3147	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	total_male		1735	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	status_hospitalized		80	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	status_recovered		3008	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_19	status_deaths_new		0	DERIVED	
+admin_0		th	2020_06_19	status_hospitalized_new		-6	DERIVED	
+admin_0		th	2020_06_19	status_recovered_new		11	DERIVED	
 admin_1	th	th-10	2020_06_19	new		5	DERIVED	
 admin_1	th	th-10	2020_06_19	total		1600	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_06_19	new		5	DERIVED	
 th_district	th-10	ratchathewi	2020_06_19	total		34	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_20	new		1	DERIVED	
-admin_0		th	2020_06_20	total		3147	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_20	total_female		1413	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_20	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_20	status_hospitalized		71	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_20	status_recovered		3018	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_20	status_deaths_new		0	DERIVED	
-admin_0		th	2020_06_20	status_hospitalized_new		-9	DERIVED	
-admin_0		th	2020_06_20	status_recovered_new		10	DERIVED	
 admin_0		th	2020_06_20	new	20-29	1	DERIVED	
 admin_0		th	2020_06_20	total	20-29	824	https://covid19.th-stat.com/th/api	
-th_district	th-20	bang lamung	2020_06_20	total		39	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_21	total_male		1736	https://covid19.th-stat.com/th/api	
+admin_1	th	th-20	2020_06_20	total		122	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_21	total	0-9	80	https://covid19.th-stat.com/th/api	
-admin_1	th	th-20	2020_06_21	new		1	DERIVED	
-admin_1	th	th-20	2020_06_21	total		123	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_22	new		4	DERIVED	
 admin_0		th	2020_06_22	total		3151	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_22	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1678,8 +1656,8 @@ admin_0		th	2020_06_23	total	20-29	827	https://covid19.th-stat.com/th/api
 admin_0		th	2020_06_23	total	50-59	434	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_06_23	new		5	DERIVED	
 admin_1	th	th-20	2020_06_23	total		131	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_24	new		0	DERIVED	
-admin_0		th	2020_06_24	total		3158	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_06_24	new		2	DERIVED	
+admin_0		th	2020_06_24	total		3157	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_24	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_24	status_hospitalized		73	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_24	status_recovered		3026	https://covid19.th-stat.com/th/api	
@@ -1725,7 +1703,7 @@ admin_1	th	th-10	2020_06_29	total		1609	https://covid19.th-stat.com/th/api
 admin_1	th	th-11	2020_06_29	total		143	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang kapi	2020_06_29	total		39	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_06_29	total		39	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_06_30	new		2	DERIVED	
+admin_0		th	2020_06_30	new		3	DERIVED	
 admin_0		th	2020_06_30	total		3171	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_30	total_male		1746	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_06_30	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1738,8 +1716,8 @@ admin_0		th	2020_06_30	new	20-29	2	DERIVED
 admin_0		th	2020_06_30	total	20-29	834	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_06_30	total		134	https://covid19.th-stat.com/th/api	
 admin_1	th	th-11	2020_07_01	total		145	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_02	new		6	DERIVED	
-admin_0		th	2020_07_02	total		3180	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_02	new		7	DERIVED	
+admin_0		th	2020_07_02	total		3179	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_02	total_male		1754	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_02	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_02	status_hospitalized		62	https://covid19.th-stat.com/th/api	
@@ -1777,7 +1755,7 @@ th_district	th-20	bang lamung	2020_07_04	total		46	https://covid19.th-stat.com/t
 admin_0		th	2020_07_05	total	10-19	122	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang rak	2020_07_05	total		13	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_07_05	total		40	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_06	new		4	DERIVED	
+admin_0		th	2020_07_06	new		5	DERIVED	
 admin_0		th	2020_07_06	total		3196	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_06	total_male		1765	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_06	total_female		1431	https://covid19.th-stat.com/th/api	
@@ -1837,8 +1815,8 @@ admin_1	th	th-11	2020_07_11	total		154	https://covid19.th-stat.com/th/api
 admin_1	th	th-20	2020_07_11	total		149	https://covid19.th-stat.com/th/api	
 admin_1	th	th-24	2020_07_11	total		23	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_07_11	total		42	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_12	new		0	DERIVED	
-admin_0		th	2020_07_12	total		3218	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_12	new		2	DERIVED	
+admin_0		th	2020_07_12	total		3217	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_12	total_male		1777	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_12	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_12	status_hospitalized		71	https://covid19.th-stat.com/th/api	
@@ -1851,25 +1829,12 @@ admin_0		th	2020_07_12	total	30-39	785	https://covid19.th-stat.com/th/api
 admin_1	th	th-10	2020_07_12	new		1	DERIVED	
 admin_1	th	th-10	2020_07_12	total		1626	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang rak	2020_07_12	total		14	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	new		4	DERIVED	
-admin_0		th	2020_07_13	total		3220	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	total_male		1779	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	total_female		1442	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	status_deaths		58	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	status_hospitalized		72	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	status_recovered		3090	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_13	status_deaths_new		0	DERIVED	
-admin_0		th	2020_07_13	status_hospitalized_new		1	DERIVED	
-admin_0		th	2020_07_13	status_recovered_new		2	DERIVED	
-admin_0		th	2020_07_13	total	20-29	851	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_13	total	40-49	606	https://covid19.th-stat.com/th/api	
-admin_1	th	th-10	2020_07_13	new		1	DERIVED	
-admin_1	th	th-10	2020_07_13	total		1627	https://covid19.th-stat.com/th/api	
 admin_1	th	th-24	2020_07_13	total		24	https://covid19.th-stat.com/th/api	
 admin_1	th	unknown	2020_07_13	total		1	https://covid19.th-stat.com/th/api	
 th_district	th-10	bang na	2020_07_13	total		21	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_14	new		7	DERIVED	
-admin_0		th	2020_07_14	total		3227	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_14	new		6	DERIVED	
+admin_0		th	2020_07_14	total		3228	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_14	total_male		1785	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_14	total_female		1443	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_14	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1886,8 +1851,8 @@ admin_1	th	th-10	2020_07_14	new		1	DERIVED
 admin_1	th	th-10	2020_07_14	total		1628	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_07_14	total		155	https://covid19.th-stat.com/th/api	
 th_district	th-10	chatuchak	2020_07_14	total		21	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_15	new		4	DERIVED	
-admin_0		th	2020_07_15	total		3233	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_15	new		6	DERIVED	
+admin_0		th	2020_07_15	total		3232	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_15	total_male		1788	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_15	total_female		1445	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_15	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1908,8 +1873,8 @@ admin_1	th	th-20	2020_07_15	new		2	DERIVED
 admin_1	th	th-20	2020_07_15	total		157	https://covid19.th-stat.com/th/api	
 th_district	th-10	pathum wan	2020_07_15	total		10	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_07_15	total		51	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_16	new		5	DERIVED	
-admin_0		th	2020_07_16	total		3236	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_16	new		3	DERIVED	
+admin_0		th	2020_07_16	total		3237	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_16	total_male		1790	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_16	total_female		1447	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_16	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1931,7 +1896,7 @@ th_district	th-10	pathum wan	2020_07_16	new		1	DERIVED
 th_district	th-10	pathum wan	2020_07_16	total		11	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_07_16	new		3	DERIVED	
 th_district	th-20	bang lamung	2020_07_16	total		54	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_17	new		2	DERIVED	
+admin_0		th	2020_07_17	new		3	DERIVED	
 admin_0		th	2020_07_17	total		3240	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_17	total_female		1450	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_17	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -1967,8 +1932,8 @@ admin_1	th	th-20	2020_07_18	new		1	DERIVED
 admin_1	th	th-20	2020_07_18	total		164	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_07_18	new		1	DERIVED	
 th_district	th-20	bang lamung	2020_07_18	total		56	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_19	new		2	DERIVED	
-admin_0		th	2020_07_19	total		3250	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_19	new		3	DERIVED	
+admin_0		th	2020_07_19	total		3249	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_19	total_male		1798	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_19	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_19	status_hospitalized		95	https://covid19.th-stat.com/th/api	
@@ -1986,8 +1951,8 @@ admin_1	th	th-10	2020_07_19	total		1633	https://covid19.th-stat.com/th/api
 admin_1	th	th-11	2020_07_19	new		2	DERIVED	
 admin_1	th	th-11	2020_07_19	total		162	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_07_19	total		43	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_20	new		2	DERIVED	
-admin_0		th	2020_07_20	total		3250	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_20	new		0	DERIVED	
+admin_0		th	2020_07_20	total		3251	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_20	total_male		1799	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_20	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_20	status_hospitalized		96	https://covid19.th-stat.com/th/api	
@@ -2000,7 +1965,7 @@ admin_1	th	th-10	2020_07_20	new		1	DERIVED
 admin_1	th	th-10	2020_07_20	total		1634	https://covid19.th-stat.com/th/api	
 th_district	th-10	ratchathewi	2020_07_20	new		1	DERIVED	
 th_district	th-10	ratchathewi	2020_07_20	total		44	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_21	new		4	DERIVED	
+admin_0		th	2020_07_21	new		5	DERIVED	
 admin_0		th	2020_07_21	total		3256	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_21	total_male		1804	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_21	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2016,8 +1981,8 @@ admin_1	th	th-10	2020_07_21	total		1635	https://covid19.th-stat.com/th/api
 admin_1	th	th-11	2020_07_21	total		163	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_07_21	total		167	https://covid19.th-stat.com/th/api	
 th_district	th-10	din daeng	2020_07_21	total		15	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_22	new		7	DERIVED	
-admin_0		th	2020_07_22	total		3261	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_22	new		6	DERIVED	
+admin_0		th	2020_07_22	total		3262	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_22	total_male		1807	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_22	total_female		1455	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_22	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2039,7 +2004,7 @@ th_district	th-10	chatuchak	2020_07_22	total		22	https://covid19.th-stat.com/th/
 th_district	th-10	din daeng	2020_07_22	new		1	DERIVED	
 th_district	th-10	din daeng	2020_07_22	total		16	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_23	new		8	DERIVED	
-admin_0		th	2020_07_23	total		3269	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_23	total		3270	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_23	total_male		1812	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_23	total_female		1458	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_23	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2057,7 +2022,7 @@ admin_1	th	th-20	2020_07_23	total		177	https://covid19.th-stat.com/th/api
 th_district	th-10	chatuchak	2020_07_23	new		1	DERIVED	
 th_district	th-10	chatuchak	2020_07_23	total		23	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_24	new		10	DERIVED	
-admin_0		th	2020_07_24	total		3279	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_24	total		3280	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_24	total_male		1819	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_24	total_female		1461	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_24	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2076,7 +2041,7 @@ admin_1	th	th-20	2020_07_24	new		3	DERIVED
 admin_1	th	th-20	2020_07_24	total		180	https://covid19.th-stat.com/th/api	
 th_district	th-10	chatuchak	2020_07_24	new		7	DERIVED	
 th_district	th-10	chatuchak	2020_07_24	total		30	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_25	new		2	DERIVED	
+admin_0		th	2020_07_25	new		3	DERIVED	
 admin_0		th	2020_07_25	total		3283	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_25	total_male		1820	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_25	total_female		1463	https://covid19.th-stat.com/th/api	
@@ -2095,8 +2060,8 @@ admin_1	th	th-10	2020_07_25	total		1648	https://covid19.th-stat.com/th/api
 admin_1	th	th-20	2020_07_25	new		1	DERIVED	
 admin_1	th	th-20	2020_07_25	total		181	https://covid19.th-stat.com/th/api	
 th_district	th-10	pathum wan	2020_07_25	total		13	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_26	new		9	DERIVED	
-admin_0		th	2020_07_26	total		3292	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_26	new		10	DERIVED	
+admin_0		th	2020_07_26	total		3291	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_26	total_male		1826	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_26	total_female		1466	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_26	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2118,7 +2083,7 @@ admin_1	th	th-20	2020_07_26	new		4	DERIVED
 admin_1	th	th-20	2020_07_26	total		185	https://covid19.th-stat.com/th/api	
 th_district	th-10	vadhana	2020_07_26	total		49	https://covid19.th-stat.com/th/api	
 th_district	th-20	bang lamung	2020_07_26	total		57	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_27	new		5	DERIVED	
+admin_0		th	2020_07_27	new		4	DERIVED	
 admin_0		th	2020_07_27	total		3295	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_27	total_male		1828	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_27	total_female		1468	https://covid19.th-stat.com/th/api	
@@ -2155,8 +2120,8 @@ admin_0		th	2020_07_28	total	20-29	895	https://covid19.th-stat.com/th/api
 admin_1	th	th-10	2020_07_28	new		2	DERIVED	
 admin_1	th	th-10	2020_07_28	total		1652	https://covid19.th-stat.com/th/api	
 th_district	th-10	sattahip	2020_07_28	total		2	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_29	new		1	DERIVED	
-admin_0		th	2020_07_29	total		3298	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_29	new		0	DERIVED	
+admin_0		th	2020_07_29	total		3299	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_29	total_male		1831	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_29	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_29	status_hospitalized		129	https://covid19.th-stat.com/th/api	
@@ -2171,7 +2136,7 @@ admin_1	th	th-10	2020_07_29	total		1653	https://covid19.th-stat.com/th/api
 th_district	th-10	sattahip	2020_07_29	new		1	DERIVED	
 th_district	th-10	sattahip	2020_07_29	total		3	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_30	new		6	DERIVED	
-admin_0		th	2020_07_30	total		3304	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_07_30	total		3305	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_30	total_male		1836	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_30	total_female		1469	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_30	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2184,7 +2149,7 @@ admin_0		th	2020_07_30	new	20-29	5	DERIVED
 admin_0		th	2020_07_30	total	20-29	901	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_30	total	50-59	443	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_07_30	total		192	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_07_31	new		5	DERIVED	
+admin_0		th	2020_07_31	new		6	DERIVED	
 admin_0		th	2020_07_31	total		3311	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_31	total_male		1842	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_07_31	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2201,8 +2166,8 @@ admin_1	th	th-11	2020_07_31	total		170	https://covid19.th-stat.com/th/api
 admin_1	th	th-20	2020_07_31	new		4	DERIVED	
 admin_1	th	th-20	2020_07_31	total		196	https://covid19.th-stat.com/th/api	
 admin_1	th	th-24	2020_07_31	total		25	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_08_01	new		3	DERIVED	
-admin_0		th	2020_08_01	total		3312	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_01	new		2	DERIVED	
+admin_0		th	2020_08_01	total		3313	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_01	total_male		1844	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_01	status_deaths		58	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_01	status_hospitalized		119	https://covid19.th-stat.com/th/api	
@@ -2215,8 +2180,8 @@ admin_0		th	2020_08_01	total	20-29	907	https://covid19.th-stat.com/th/api
 admin_0		th	2020_08_01	total	40-49	616	https://covid19.th-stat.com/th/api	
 admin_1	th	th-10	2020_08_01	total		1654	https://covid19.th-stat.com/th/api	
 admin_1	th	th-31	2020_08_01	total		14	https://covid19.th-stat.com/th/api	
-admin_0		th	2020_08_02	new		4	DERIVED	
-admin_0		th	2020_08_02	total		3318	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_02	new		6	DERIVED	
+admin_0		th	2020_08_02	total		3317	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_02	total_male		1847	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_02	total_female		1471	https://covid19.th-stat.com/th/api	
 admin_0		th	2020_08_02	status_deaths		58	https://covid19.th-stat.com/th/api	
@@ -2234,3 +2199,31 @@ admin_1	th	th-10	2020_08_02	new		1	DERIVED
 admin_1	th	th-10	2020_08_02	total		1655	https://covid19.th-stat.com/th/api	
 admin_1	th	th-20	2020_08_02	total		200	https://covid19.th-stat.com/th/api	
 th_district	th-10	prawet	2020_08_02	total		16	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	new		3	DERIVED	
+admin_0		th	2020_08_03	total		3320	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	total_male		1849	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	total_female		1472	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	status_hospitalized		120	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	status_recovered		3142	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	status_deaths_new		0	DERIVED	
+admin_0		th	2020_08_03	status_hospitalized_new		3	DERIVED	
+admin_0		th	2020_08_03	status_recovered_new		0	DERIVED	
+admin_0		th	2020_08_03	total	10-19	129	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	new	20-29	1	DERIVED	
+admin_0		th	2020_08_03	total	20-29	910	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_03	new	40-49	1	DERIVED	
+admin_0		th	2020_08_03	total	40-49	618	https://covid19.th-stat.com/th/api	
+admin_1	th	th-10	2020_08_03	new		1	DERIVED	
+admin_1	th	th-10	2020_08_03	total		1656	https://covid19.th-stat.com/th/api	
+admin_1	th	th-20	2020_08_03	new		2	DERIVED	
+admin_1	th	th-20	2020_08_03	total		202	https://covid19.th-stat.com/th/api	
+th_district	th-10	chatuchak	2020_08_03	total		31	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_04	new		0	DERIVED	
+admin_0		th	2020_08_04	total		3321	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_04	status_deaths		58	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_04	status_hospitalized		121	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_04	status_recovered		3142	https://covid19.th-stat.com/th/api	
+admin_0		th	2020_08_04	status_deaths_new		0	DERIVED	
+admin_0		th	2020_08_04	status_hospitalized_new		1	DERIVED	
+admin_0		th	2020_08_04	status_recovered_new		0	DERIVED	
