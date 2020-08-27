@@ -1,20 +1,21 @@
-region_schema,region_parent,region_child,agerange,2020-05-12,2020-05-13
-admin_1,iq,anbar,,0,0
-admin_1,iq,babylon,,0,0
-admin_1,iq,baghdad-karkh,,1,1
-admin_1,iq,baghdad-resafa and midical city,,1,2
-admin_1,iq,basrah,,0,0
-admin_1,iq,diwaniya,,0,0
-admin_1,iq,iq-ar,,0,0
-admin_1,iq,iq-da,,0,0
-admin_1,iq,iq-di,,0,0
-admin_1,iq,iq-ki,,0,0
-admin_1,iq,iq-na,,-6,6
-admin_1,iq,iq-su,,0,0
-admin_1,iq,kerbala,,0,0
-admin_1,iq,missan,,0,0
-admin_1,iq,muthanna,,0,0
-admin_1,iq,ninewa,,0,0
-admin_1,iq,salah al-din,,0,0
-admin_1,iq,thi-qar,,0,0
-admin_1,iq,wassit,,0,0
+region_schema,region_parent,region_child,agerange,2020-05-12,2020-05-13,2020-08-26
+admin_1,iq,anbar,,0,0,1
+admin_1,iq,babylon,,0,0,4
+admin_1,iq,baghdad-karkh,,1,1,4
+admin_1,iq,baghdad-resafa and midical city,,1,2,
+admin_1,iq,baghdad-rusafa and medical city,,,,7
+admin_1,iq,basrah,,0,0,8
+admin_1,iq,diwaniya,,0,0,5
+admin_1,iq,iq-ar,,0,0,8
+admin_1,iq,iq-da,,0,0,0
+admin_1,iq,iq-di,,0,0,2
+admin_1,iq,iq-ki,,0,0,3
+admin_1,iq,iq-na,,-6,6,0
+admin_1,iq,iq-su,,0,0,6
+admin_1,iq,kerbala,,0,0,9
+admin_1,iq,missan,,0,0,0
+admin_1,iq,muthanna,,0,0,4
+admin_1,iq,ninewa,,0,0,6
+admin_1,iq,salah al-din,,0,0,2
+admin_1,iq,thi-qar,,0,0,1
+admin_1,iq,wassit,,0,0,2
