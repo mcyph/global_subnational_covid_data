@@ -7,7 +7,9 @@ world. As far as I know, it is the largest continually
 updated data source of its kind. The goal is to be able 
 to convert this data into a common universal format, 
 so as to be able to use it for comparative analysis and 
-similar purposes. Wherever possible, the data has been 
+similar purposes. 
+
+Wherever possible, the data has been 
 normalized to 
 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)
 with the "admin_1" schema, or 
@@ -15,6 +17,7 @@ with the "admin_1" schema, or
 with the "admin_0" schema (mostly countries) to allow 
 use with other datasets such as 
 [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
+I am not making a statement as to the 
 
 This data is currently used for covid-19-au, a project 
 started by Dr. Chunyang Chen and a group of volunteer students 
@@ -35,7 +38,9 @@ I have started to validate sources against place names in the
 GeoJSON files, but it's a manual process which is very 
 time-consuming. 
 Should not be used for anything important, and is strictly 
-for non-commercial or research purposes only.
+for non-commercial or research purposes only. The boundaries and names 
+are aligned to other datasets/standards such as ISO 3166 mainly for 
+consistency and do not imply I endorse or accept them.
 
 If you use this data, please acknowledge the sources below, 
 and cite that it was automatically aggregated using the 
