@@ -39,7 +39,7 @@ time-consuming.
 Should not be used for anything important, and is strictly 
 for non-commercial or research purposes only. The boundaries and names 
 are aligned to other datasets/standards such as ISO 3166 mainly for 
-consistency and do not imply I endorse or accept them.
+consistency and the mappings do not imply I endorse or accept them.
 
 If you use this data, please acknowledge the sources below, 
 and cite that it was automatically aggregated using the 
