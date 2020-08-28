@@ -28,6 +28,10 @@ Some of the data also comes from aggregated sources like
 [John Hopkins University](https://github.com/CSSEGISandData/COVID-19), 
 [Microsoft Bing](https://github.com/microsoft/Bing-COVID-19-Data) or the
 [European Commission Joint Research Centre](https://data.humdata.org/dataset/europe-covid-19-subnational-cases).
+The largest data sources are mainly aggregated and are in the 
+[world](https://github.com/mcyph/global_subnational_covid_data/tree/master/casedata/world) 
+and [eu](https://github.com/mcyph/global_subnational_covid_data/tree/master/casedata/eu)
+case data directories. 
 
 GeoJSON data is also provided to allow for displaying this data.
 For information on the licensing of each GeoJSON file, see also 
