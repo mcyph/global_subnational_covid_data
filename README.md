@@ -3,7 +3,7 @@
 Auto-generated subnational COVID-19 data from many sources 
 using the covid_19_grab_au project, which is no longer only 
 getting Australian data but from many countries around the 
-World. The goal is to be able to convert this data into a 
+world. The goal is to be able to convert this data into a 
 common universal format, so as to be able to use it for 
 comparative analysis and similar purposes.
 
@@ -18,6 +18,10 @@ For information on the licensing of each file, see also
 https://github.com/mcyph/covid_19_au_grab/tree/master/geojson_data/data
 
 Preliminary and has not been checked so will contain errors! 
+I have started to validate sources against place names in the 
+GeoJSON files, but it's a manual process which is very 
+time-consuming. 
+
 Should not be used for anything important, and is strictly 
 for non-commercial or research purposes only.
 
