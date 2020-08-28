@@ -61,7 +61,7 @@ by Dave Morrissey.
 | status_unknown | The total number of people who have contracted COVID-19 that are of unknown status. They may have recovered, still have the virus, or have passed away due to it. |
 | status_deaths_new | The new number of people who have passed away for the day. |
 | status_hospitalized_new | The new number people people who are currently hospitalized with COVID-19. |
-| status_hospitalized_runningtotal_new | |
+| status_hospitalized_runningtotal_new | The new number people people who have ever been hospitalized with COVID-19. |
 | status_icu_new | The number of people who are currently in ICU relative to the previous day. |
 | status_icu_ventilators_new | The number of people who are currently in ICU with mechanical ventilators relative to the previous day. |
 | status_icu_runningtotal_new | The number of people who have ever been in ICU relative to the previous day. |
@@ -70,11 +70,11 @@ by Dave Morrissey.
 | status_active_new | The current number of people who are considered to still have COVID-19 relative to the previous day. |
 | status_unknown_new | The total number of people who have contracted COVID-19 that are of unknown status relative to the previous day. |
 | source_overseas | Overseas, counted separately |
-| source_cruise_ship | Overseas, included in SOURCE_OVERSEAS |
+| source_cruise_ship | Transmission from cruise ships. Included in "source_overseas". |
 | source_interstate | Local-transmission from interstate, counted separately |
 | source_confirmed | Local-transmission from confirmed cases, counted separately |
 | source_community | Local-unknown community transmission, counted separately |
-| source_under_investigation | "other" |
+| source_under_investigation | COVID-19 cases which are currently being contact-traced. |
 | source_domestic | For in-country which may or may not be community transmission (New Zealand data) |
 | tests_total | The total number of tests to date. |
 | tests_negative | The total number of tests to date which have returned negative results. |
@@ -83,17 +83,14 @@ by Dave Morrissey.
 | age_care_total | The total number of people who are in aged care who currently have contracted COVID-19 |
 | age_care_male | The total number of males who are in aged care who currently have contracted COVID-19 |
 | age_care_female | The total number of females who are in aged care who currently have contracted COVID-19 |
-| age_care_new | |
-| age_care_male_new | |
-| age_care_female_new | |
-| facebook_covid_symptoms | |
-| facebook_flu_symptoms | |
-| google_mobility_retail_recreation | |
-| google_mobility_supermarket_pharmacy | |
-| google_mobility_parks | |
-| google_mobility_public_transport | |
-| google_mobility_workplaces | |
-| google_mobility_residential | |
+| facebook_covid_symptoms | The percentile value from baseline of people who have show COVID-19 symptoms in Facebook posts. |
+| facebook_flu_symptoms | The percentile value from baseline of people who have show influenza symptoms in Facebook posts. |
+| google_mobility_retail_recreation | The percentile value from baseline of people visiting retail (such as shopping centers) and recreation (such as libraries).  |
+| google_mobility_supermarket_pharmacy | The percentile value from baseline of people visiting grocery stores and pharmacies. |
+| google_mobility_parks | The percentile value from baseline of people visiting parks, beaches, national parks etc. |
+| google_mobility_public_transport | The percentile value from baseline of people using public transport hubs like train, bus or tram. |
+| google_mobility_workplaces | The percentile value from baseline of people visiting places of work. |
+| google_mobility_residential | The percentile value from baseline of people visiting places of residence. |
 
 ## Schemas
 
