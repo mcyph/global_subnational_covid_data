@@ -9,6 +9,11 @@ to convert this data into a common universal format,
 so as to be able to use it for comparative analysis and 
 similar purposes.
 
+This data is currently used for the covid-19-au, a project 
+started by Dr. Chunyang Chen and a group of volunteer students 
+from Monash and other universities. The data can be viewed live 
+at https://covid-19-au.com/world.
+
 The data is obtained from original sources where possible. 
 Some of the data also comes from aggregated sources like 
 [John Hopkins University](https://github.com/CSSEGISandData/COVID-19), 
@@ -44,34 +49,34 @@ Kinds of geographic schemas (mapping to the GeoJSON files):
 | lhd | NSW, Australia Local Health Districts |
 | ths | Tasmania, Australia Health Services |
 | sa3 | SA3 for ACT, Australia |
-| bd_district | |
-| br_city | |
-| co_municipality | |
-| de_ags | |
-| fr_overseas_collectivity | |
-| in_district | |
-| it_province | |
-| jp_city | |
-| my_district | |
+| bd_district | Bangladesh districts |
+| br_city | Brazilian Cities |
+| co_municipality | Colombian Municipalities |
+| de_ags | German AGS |
+| fr_overseas_collectivity | French Overseas Collectivities |
+| in_district | Indian Districts |
+| it_province | Italian Provinces |
+| jp_city | Japanese Cities |
+| my_district | Malaysian Districts |
 | nz_dhb | New Zealand District Health Board |
-| th_district | |
-| uk_area | |
-| us_county | |
-| ps_province | |
-| cr_canton | |
-| cu_municipality | |
-| ca_health_region | |
-| lk_district | |
-| np_district | |
-| pt_municipality | |
-| cz_okres | |
-| fi_health_district | |
-| tr_nuts1 | |
-| de_kreis | |
-| lt_municipality | |
-| il_municipality | |
-| hk_district | |
-| es_province | |
+| th_district | Thailand Districts |
+| uk_area | United Kingdom Area (a custom level above admin_1 for Northern Ireland, Wales, Scotland and Britain) |
+| us_county | United States Counties |
+| ps_province | Palestinian Provinces |
+| cr_canton | Costa Rican Cantons |
+| cu_municipality | Cuban Municipalities |
+| ca_health_region | Canadian Health Regions |
+| lk_district | Sri Lankan Districts |
+| np_district | Nepal Districts |
+| pt_municipality | Portuguese Municipalities |
+| cz_okres | Czech Republic Okres |
+| fi_health_district | Finnish Health Districts |
+| tr_nuts1 | Turkey on NUTS 1 statistics level |
+| de_kreis | Germany Kreis |
+| lt_municipality | Lithuanian Municipalities |
+| il_municipality | Israel Municipalities |
+| hk_district | Hong Kong Districts |
+| es_province | Spain Provinces |
 
 ## Datatypes
 
