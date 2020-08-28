@@ -17,7 +17,6 @@ with the "admin_1" schema, or
 with the "admin_0" schema (mostly countries) to allow 
 use with other datasets such as 
 [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
-I am not making a statement as to the 
 
 This data is currently used for covid-19-au, a project 
 started by Dr. Chunyang Chen and a group of volunteer students 
