@@ -3,9 +3,11 @@
 Auto-generated subnational COVID-19 data from many sources 
 using the covid_19_grab_au project, which is no longer only 
 getting Australian data but from many countries around the 
-world. The goal is to be able to convert this data into a 
-common universal format, so as to be able to use it for 
-comparative analysis and similar purposes.
+world. As far as I know, it is the largest continually 
+updated data source of its kind. The goal is to be able 
+to convert this data into a common universal format, 
+so as to be able to use it for comparative analysis and 
+similar purposes.
 
 The data is obtained from original sources where possible. 
 Some of the data also comes from aggregated sources like 
@@ -15,20 +17,19 @@ Some of the data also comes from aggregated sources like
 
 GeoJSON data is also provided to allow for displaying this data.
 For information on the licensing of each file, see also 
-https://github.com/mcyph/covid_19_au_grab/tree/master/geojson_data/data
-
+https://github.com/mcyph/covid_19_au_grab/tree/master/geojson_data/data.
 Preliminary and has not been checked so will contain errors! 
 I have started to validate sources against place names in the 
 GeoJSON files, but it's a manual process which is very 
 time-consuming. 
 
-Should not be used for anything important, and is strictly 
-for non-commercial or research purposes only.
-
 If you use this data, please acknowledge the sources below, 
 and cite that it was automatically aggregated using the 
 [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) 
-by David Morrissey.
+by Dave Morrissey.
+
+Should not be used for anything important, and is strictly 
+for non-commercial or research purposes only.
 
 Data from the following URLs:
 
