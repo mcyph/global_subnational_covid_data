@@ -30,7 +30,111 @@ and cite that it was automatically aggregated using the
 [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) 
 by Dave Morrissey.
 
-Data from the following URLs:
+## Schemas
+
+Kinds of geographic schemas (mapping to the GeoJSON files):
+
+| Schema ID | Description |
+| --- | --- |
+| admin_0 | Values for a country (equivalent to lowercased ISO 3166-1 alpha-2 codes) |
+| admin_1 | Values for the whole state/territory/province (equivalent to lowercased ISO-3166-2 codes) |
+| postcode | Australian Postcodes (NSW and Victoria) |
+| lga | Local Government Area (Australia-wide) |
+| hhs | Queensland, Australia |
+| lhd | NSW, Australia Local Health Districts |
+| ths | Tasmania, Australia Health Services |
+| sa3 | SA3 for ACT, Australia |
+| bd_district | |
+| br_city | |
+| co_municipality | |
+| de_ags | |
+| fr_overseas_collectivity | |
+| in_district | |
+| it_province | |
+| jp_city | |
+| my_district | |
+| nz_dhb | New Zealand District Health Board |
+| th_district | |
+| uk_area | |
+| us_county | |
+| ps_province | |
+| cr_canton | |
+| cu_municipality | |
+| ca_health_region | |
+| lk_district | |
+| np_district | |
+| pt_municipality | |
+| cz_okres | |
+| fi_health_district | |
+| tr_nuts1 | |
+| de_kreis | |
+| lt_municipality | |
+| il_municipality | |
+| hk_district | |
+| es_province | |
+
+## Datatypes
+
+| Datatype ID | Description |
+| --- | --- |
+| new | Number of new cases for the day. Negative numbers may indicate figures have been revised downwards. |
+| new_male | |
+| new_female | |
+| total | Total (cumulative) number of cases to this date, whether probable or confirmed |
+| total_male | |
+| total_female | |
+| confirmed | Confirmed cases by PCR test |
+| probable | Cases considered likely to be COVID-19 |
+| confirmed_new | |
+| probable_new | |
+| status_deaths | |
+| status_hospitalized | Number of people currently in hospital with COVID-19 |
+| status_hospitalized_runningtotal | Number of people that have been in hospital with COVID-19 since the start of reporting |
+| status_icu | Number of people currently in intensive care |
+| status_icu_ventilators | Number of people currently in intensive care with mechanical ventilators |
+| status_icu_runningtotal | |
+| status_icu_ventilators_runningtotal | |
+| status_recovered | |
+| status_active | |
+| status_unknown | |
+| status_deaths_new | |
+| status_hospitalized_new | |
+| status_hospitalized_runningtotal_new | |
+| status_icu_new | |
+| status_icu_ventilators_new | |
+| status_icu_runningtotal_new | |
+| status_icu_ventilators_runningtotal_new | |
+| status_recovered_new | |
+| status_active_new | |
+| status_unknown_new | |
+| source_overseas | Overseas, counted separately |
+| source_cruise_ship | Overseas, included in SOURCE_OVERSEAS |
+| source_interstate | Local-transmission from interstate, counted separately |
+| source_confirmed | Local-transmission from confirmed cases, counted separately |
+| source_community | Local-unknown community transmission, counted separately |
+| source_under_investigation | "other" |
+| source_domestic | For in-country which may or may not be community transmission (New Zealand data) |
+| tests_total | |
+| tests_negative | |
+| tests_positive | |
+| tests_new | |
+| age_care_total | |
+| age_care_male | |
+| age_care_female | |
+| age_care_new | |
+| age_care_male_new | |
+| age_care_female_new | |
+| facebook_covid_symptoms | |
+| facebook_flu_symptoms | |
+| google_mobility_retail_recreation | |
+| google_mobility_supermarket_pharmacy | |
+| google_mobility_parks | |
+| google_mobility_public_transport | |
+| google_mobility_workplaces | |
+| google_mobility_residential | |
+
+
+Data sources come from the following URLs:
 
 | source_id | source_url | source_desc |
 | --- | --- | --- |
