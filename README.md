@@ -9,7 +9,7 @@ to convert this data into a common universal format,
 so as to be able to use it for comparative analysis and 
 similar purposes.
 
-This data is currently used for the covid-19-au, a project 
+This data is currently used for covid-19-au, a project 
 started by Dr. Chunyang Chen and a group of volunteer students 
 from Monash and other universities. The data can be viewed live 
 at https://covid-19-au.com/world.
@@ -83,27 +83,27 @@ Kinds of geographic schemas (mapping to the GeoJSON files):
 | Datatype ID | Description |
 | --- | --- |
 | new | Number of new cases for the day. Negative numbers may indicate figures have been revised downwards. |
-| new_male | |
-| new_female | |
-| total | Total (cumulative) number of cases to this date, whether probable or confirmed |
-| total_male | |
-| total_female | |
-| confirmed | Confirmed cases by PCR test |
-| probable | Cases considered likely to be COVID-19 |
-| confirmed_new | |
-| probable_new | |
-| status_deaths | |
-| status_hospitalized | Number of people currently in hospital with COVID-19 |
-| status_hospitalized_runningtotal | Number of people that have been in hospital with COVID-19 since the start of reporting |
-| status_icu | Number of people currently in intensive care |
-| status_icu_ventilators | Number of people currently in intensive care with mechanical ventilators |
-| status_icu_runningtotal | |
-| status_icu_ventilators_runningtotal | |
-| status_recovered | |
-| status_active | |
-| status_unknown | |
-| status_deaths_new | |
-| status_hospitalized_new | |
+| new_male | New male cases for the day. |
+| new_female | New female cases for the day. |
+| total | Total (cumulative) number of cases to this date, whether probable or confirmed. |
+| total_male | Total (cumulative) male cases. |
+| total_female | Total (cumulative) female cases. |
+| confirmed | Confirmed cases by test. |
+| probable | Cases considered likely to be COVID-19. |
+| confirmed_new | New cases confirmed by tests for the day. |
+| probable_new | New cases considered likely to be COVID-19 for the day. |
+| status_deaths | Number of people who have passed away to date. |
+| status_hospitalized | Number of people currently in hospital with COVID-19. |
+| status_hospitalized_runningtotal | Number of people that have been in hospital with COVID-19 since the start of reporting. |
+| status_icu | Number of people currently in intensive care. |
+| status_icu_ventilators | Number of people currently in intensive care with mechanical ventilators. |
+| status_icu_runningtotal | The total number of people who have ever been in ICU. |
+| status_icu_ventilators_runningtotal | The total number of people who have ever been in ICU with mechanical ventilators.  |
+| status_recovered | The total number of people who have recovered from COVID-19. |
+| status_active | The current number of people who are considered to still have COVID-19. Definitions for this can vary widely around the world. |
+| status_unknown | The total number of people who have contracted COVID-19 that are of unknown status. They may have recovered, still have the virus, or have passed away due to it. |
+| status_deaths_new | The new number of people who have passed away for the day. |
+| status_hospitalized_new | The new number people people who are currently hospitalized with COVID-19. |
 | status_hospitalized_runningtotal_new | |
 | status_icu_new | |
 | status_icu_ventilators_new | |
@@ -119,13 +119,13 @@ Kinds of geographic schemas (mapping to the GeoJSON files):
 | source_community | Local-unknown community transmission, counted separately |
 | source_under_investigation | "other" |
 | source_domestic | For in-country which may or may not be community transmission (New Zealand data) |
-| tests_total | |
-| tests_negative | |
-| tests_positive | |
-| tests_new | |
-| age_care_total | |
-| age_care_male | |
-| age_care_female | |
+| tests_total | The total number of tests to date. |
+| tests_negative | The total number of tests to date which have returned negative results. |
+| tests_positive | The total number of tests to date which have returned positive results. |
+| tests_new | The total number of new tests in the last day. |
+| age_care_total | The total number of people who are in aged care who currently have contracted COVID-19 |
+| age_care_male | The total number of males who are in aged care who currently have contracted COVID-19 |
+| age_care_female | The total number of females who are in aged care who currently have contracted COVID-19 |
 | age_care_new | |
 | age_care_male_new | |
 | age_care_female_new | |
