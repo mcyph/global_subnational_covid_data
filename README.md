@@ -7,7 +7,14 @@ world. As far as I know, it is the largest continually
 updated data source of its kind. The goal is to be able 
 to convert this data into a common universal format, 
 so as to be able to use it for comparative analysis and 
-similar purposes.
+similar purposes. Wherever possible, the data has been 
+normalized to 
+[ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)
+with the "admin_1" schema, or 
+[ISO 3166-1 alpha-2](hthttps://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+with the "admin_0" schema (mostly countries) to allow 
+use with other datasets such as 
+[Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
 
 This data is currently used for covid-19-au, a project 
 started by Dr. Chunyang Chen and a group of volunteer students 
