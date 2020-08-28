@@ -37,6 +37,7 @@
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
+| kg_gov | https://covid.kg/ |  |
 | kh_gov | https://covid19-map.cdcmoh.gov.kh/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
