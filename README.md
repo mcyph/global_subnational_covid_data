@@ -35,6 +35,66 @@ and cite that it was automatically aggregated using the
 [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) 
 by Dave Morrissey.
 
+## Datatypes
+
+| Datatype ID | Description |
+| --- | --- |
+| new | Number of new cases for the day. Negative numbers may indicate figures have been revised downwards. |
+| new_male | New male cases for the day. |
+| new_female | New female cases for the day. |
+| total | Total (cumulative) number of cases to this date, whether probable or confirmed. |
+| total_male | Total (cumulative) male cases. |
+| total_female | Total (cumulative) female cases. |
+| confirmed | Confirmed cases by test. |
+| probable | Cases considered likely to be COVID-19. |
+| confirmed_new | New cases confirmed by tests for the day. |
+| probable_new | New cases considered likely to be COVID-19 for the day. |
+| status_deaths | Number of people who have passed away to date. |
+| status_hospitalized | Number of people currently in hospital with COVID-19. |
+| status_hospitalized_runningtotal | Number of people that have been in hospital with COVID-19 since the start of reporting. |
+| status_icu | Number of people currently in intensive care. |
+| status_icu_ventilators | Number of people currently in intensive care with mechanical ventilators. |
+| status_icu_runningtotal | The total number of people who have ever been in ICU. |
+| status_icu_ventilators_runningtotal | The total number of people who have ever been in ICU with mechanical ventilators.  |
+| status_recovered | The total number of people who have recovered from COVID-19. |
+| status_active | The current number of people who are considered to still have COVID-19. Definitions for this can vary widely around the world. |
+| status_unknown | The total number of people who have contracted COVID-19 that are of unknown status. They may have recovered, still have the virus, or have passed away due to it. |
+| status_deaths_new | The new number of people who have passed away for the day. |
+| status_hospitalized_new | The new number people people who are currently hospitalized with COVID-19. |
+| status_hospitalized_runningtotal_new | |
+| status_icu_new | The number of people who are currently in ICU relative to the previous day. |
+| status_icu_ventilators_new | The number of people who are currently in ICU with mechanical ventilators relative to the previous day. |
+| status_icu_runningtotal_new | The number of people who have ever been in ICU relative to the previous day. |
+| status_icu_ventilators_runningtotal_new | The number of people who have ever been in ICU with mechanical ventilators relative to the previous day. |
+| status_recovered_new | The total number of people who have recovered from COVID-19 in the previous day. |
+| status_active_new | The current number of people who are considered to still have COVID-19 relative to the previous day. |
+| status_unknown_new | The total number of people who have contracted COVID-19 that are of unknown status relative to the previous day. |
+| source_overseas | Overseas, counted separately |
+| source_cruise_ship | Overseas, included in SOURCE_OVERSEAS |
+| source_interstate | Local-transmission from interstate, counted separately |
+| source_confirmed | Local-transmission from confirmed cases, counted separately |
+| source_community | Local-unknown community transmission, counted separately |
+| source_under_investigation | "other" |
+| source_domestic | For in-country which may or may not be community transmission (New Zealand data) |
+| tests_total | The total number of tests to date. |
+| tests_negative | The total number of tests to date which have returned negative results. |
+| tests_positive | The total number of tests to date which have returned positive results. |
+| tests_new | The total number of new tests in the last day. |
+| age_care_total | The total number of people who are in aged care who currently have contracted COVID-19 |
+| age_care_male | The total number of males who are in aged care who currently have contracted COVID-19 |
+| age_care_female | The total number of females who are in aged care who currently have contracted COVID-19 |
+| age_care_new | |
+| age_care_male_new | |
+| age_care_female_new | |
+| facebook_covid_symptoms | |
+| facebook_flu_symptoms | |
+| google_mobility_retail_recreation | |
+| google_mobility_supermarket_pharmacy | |
+| google_mobility_parks | |
+| google_mobility_public_transport | |
+| google_mobility_workplaces | |
+| google_mobility_residential | |
+
 ## Schemas
 
 Kinds of geographic schemas (mapping to the GeoJSON files):
@@ -77,66 +137,6 @@ Kinds of geographic schemas (mapping to the GeoJSON files):
 | il_municipality | Israel Municipalities |
 | hk_district | Hong Kong Districts |
 | es_province | Spain Provinces |
-
-## Datatypes
-
-| Datatype ID | Description |
-| --- | --- |
-| new | Number of new cases for the day. Negative numbers may indicate figures have been revised downwards. |
-| new_male | New male cases for the day. |
-| new_female | New female cases for the day. |
-| total | Total (cumulative) number of cases to this date, whether probable or confirmed. |
-| total_male | Total (cumulative) male cases. |
-| total_female | Total (cumulative) female cases. |
-| confirmed | Confirmed cases by test. |
-| probable | Cases considered likely to be COVID-19. |
-| confirmed_new | New cases confirmed by tests for the day. |
-| probable_new | New cases considered likely to be COVID-19 for the day. |
-| status_deaths | Number of people who have passed away to date. |
-| status_hospitalized | Number of people currently in hospital with COVID-19. |
-| status_hospitalized_runningtotal | Number of people that have been in hospital with COVID-19 since the start of reporting. |
-| status_icu | Number of people currently in intensive care. |
-| status_icu_ventilators | Number of people currently in intensive care with mechanical ventilators. |
-| status_icu_runningtotal | The total number of people who have ever been in ICU. |
-| status_icu_ventilators_runningtotal | The total number of people who have ever been in ICU with mechanical ventilators.  |
-| status_recovered | The total number of people who have recovered from COVID-19. |
-| status_active | The current number of people who are considered to still have COVID-19. Definitions for this can vary widely around the world. |
-| status_unknown | The total number of people who have contracted COVID-19 that are of unknown status. They may have recovered, still have the virus, or have passed away due to it. |
-| status_deaths_new | The new number of people who have passed away for the day. |
-| status_hospitalized_new | The new number people people who are currently hospitalized with COVID-19. |
-| status_hospitalized_runningtotal_new | |
-| status_icu_new | |
-| status_icu_ventilators_new | |
-| status_icu_runningtotal_new | |
-| status_icu_ventilators_runningtotal_new | |
-| status_recovered_new | |
-| status_active_new | |
-| status_unknown_new | |
-| source_overseas | Overseas, counted separately |
-| source_cruise_ship | Overseas, included in SOURCE_OVERSEAS |
-| source_interstate | Local-transmission from interstate, counted separately |
-| source_confirmed | Local-transmission from confirmed cases, counted separately |
-| source_community | Local-unknown community transmission, counted separately |
-| source_under_investigation | "other" |
-| source_domestic | For in-country which may or may not be community transmission (New Zealand data) |
-| tests_total | The total number of tests to date. |
-| tests_negative | The total number of tests to date which have returned negative results. |
-| tests_positive | The total number of tests to date which have returned positive results. |
-| tests_new | The total number of new tests in the last day. |
-| age_care_total | The total number of people who are in aged care who currently have contracted COVID-19 |
-| age_care_male | The total number of males who are in aged care who currently have contracted COVID-19 |
-| age_care_female | The total number of females who are in aged care who currently have contracted COVID-19 |
-| age_care_new | |
-| age_care_male_new | |
-| age_care_female_new | |
-| facebook_covid_symptoms | |
-| facebook_flu_symptoms | |
-| google_mobility_retail_recreation | |
-| google_mobility_supermarket_pharmacy | |
-| google_mobility_parks | |
-| google_mobility_public_transport | |
-| google_mobility_workplaces | |
-| google_mobility_residential | |
 
 
 Data sources come from the following URLs:
