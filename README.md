@@ -30,9 +30,10 @@ Some of the data also comes from aggregated sources like
 [European Commission Joint Research Centre](https://data.humdata.org/dataset/europe-covid-19-subnational-cases).
 
 GeoJSON data is also provided to allow for displaying this data.
-For information on the licensing of each file, see also 
+For information on the licensing of each GeoJSON file, see also 
 https://github.com/mcyph/covid_19_au_grab/tree/master/geojson_data/data.
-Preliminary and has not been checked so will contain errors! 
+
+Data is preliminary and has not been checked so will contain errors! 
 I have started to validate sources against place names in the 
 GeoJSON files, but it's a manual process which is very 
 time-consuming. 
