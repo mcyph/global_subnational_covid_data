@@ -22,14 +22,13 @@ Preliminary and has not been checked so will contain errors!
 I have started to validate sources against place names in the 
 GeoJSON files, but it's a manual process which is very 
 time-consuming. 
+Should not be used for anything important, and is strictly 
+for non-commercial or research purposes only.
 
 If you use this data, please acknowledge the sources below, 
 and cite that it was automatically aggregated using the 
 [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) 
 by Dave Morrissey.
-
-Should not be used for anything important, and is strictly 
-for non-commercial or research purposes only.
 
 Data from the following URLs:
 
