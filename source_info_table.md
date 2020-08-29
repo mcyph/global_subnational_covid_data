@@ -24,6 +24,7 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
+| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gb_uk_unofficial | https://github.com/tomwhite/covid-19-uk-data |  |
 | gh_ghs | https://www.ghanahealthservice.org/covid19/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
@@ -37,7 +38,6 @@
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
-| kg_gov | https://covid.kg/ |  |
 | kh_gov | https://covid19-map.cdcmoh.gov.kh/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
@@ -47,11 +47,9 @@
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | ma_hespress | https://covid.hespress.com/ |  |
 | mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
-| mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
-| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
@@ -60,12 +58,12 @@
 | si_sledilnik | https://covid-19.sledilnik.org/sl/stats |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
+| th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi |  |
 | tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
-| vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
