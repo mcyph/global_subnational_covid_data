@@ -7,7 +7,6 @@
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa | https://www.covid-19.sa.gov.au |  |
 | au_vic | https://www.dhhs.vic.gov.au/coronavirus |  |
-| au_wa | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
@@ -25,11 +24,9 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
-| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gb_uk_unofficial | https://github.com/tomwhite/covid-19-uk-data |  |
 | gh_ghs | https://www.ghanahealthservice.org/covid19/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
-| hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
@@ -53,7 +50,6 @@
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
-| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
@@ -65,10 +61,8 @@
 | th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi |  |
-| tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
-| vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
