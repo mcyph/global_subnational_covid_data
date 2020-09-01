@@ -24,6 +24,7 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
+| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gb_uk_unofficial | https://github.com/tomwhite/covid-19-uk-data |  |
 | gh_ghs | https://www.ghanahealthservice.org/covid19/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
@@ -50,13 +51,13 @@
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
+| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
 | si_sledilnik | https://covid-19.sledilnik.org/sl/stats |  |
-| sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
