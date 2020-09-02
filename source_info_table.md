@@ -6,7 +6,6 @@
 | au_nt | https://coronavirus.nt.gov.au |  |
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa | https://www.covid-19.sa.gov.au |  |
-| au_vic | https://www.dhhs.vic.gov.au/coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
@@ -49,13 +48,11 @@
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
-| ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
-| sd_gov | https://covid19.sd/ |  |
 | si_sledilnik | https://covid-19.sledilnik.org/sl/stats |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | th_open_data | https://covid19.th-stat.com/th/api |  |
