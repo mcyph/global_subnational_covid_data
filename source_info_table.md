@@ -26,7 +26,6 @@
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
 | gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gb_uk_unofficial | https://github.com/tomwhite/covid-19-uk-data |  |
-| gh_ghs | https://www.ghanahealthservice.org/covid19/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
