@@ -12,6 +12,7 @@
 | bw_gov | https://covid19portal.gov.bw/ |  |
 | ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
+| cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
@@ -33,7 +34,6 @@
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
-| kg_gov | https://covid.kg/ |  |
 | kh_gov | https://covid19-map.cdcmoh.gov.kh/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
@@ -43,10 +43,8 @@
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | ma_hespress | https://covid.hespress.com/ |  |
 | mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
-| mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
-| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
