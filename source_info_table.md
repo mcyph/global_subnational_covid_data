@@ -2,6 +2,7 @@
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_act | https://www.covid19.act.gov.au |  |
+| au_nsw | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt | https://coronavirus.nt.gov.au |  |
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa | https://www.covid-19.sa.gov.au |  |
@@ -17,6 +18,7 @@
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
 | es_datadista | https://github.com/datadista/datasets/ |  |
+| es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
