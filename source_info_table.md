@@ -24,7 +24,6 @@
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
 | gb_gov_api | https://coronavirus.data.gov.uk/ |  |
-| gb_uk_unofficial | https://github.com/tomwhite/covid-19-uk-data |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
@@ -49,6 +48,7 @@
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
+| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
