@@ -10,6 +10,7 @@
 | au_wa | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
+| ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
@@ -23,7 +24,6 @@
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
-| ie_open_data | https://data.gov.ie/dataset?q=covid&sort=score+desc%2C+metadata_created+desc |  |
 | iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
@@ -43,6 +43,7 @@
 | mw_moh | https://covid19.health.gov.mw/ |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
+| rs_gov | https://covid19.data.gov.rs |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi |  |
