@@ -2,7 +2,6 @@
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_act | https://www.covid19.act.gov.au |  |
-| au_nsw | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt | https://coronavirus.nt.gov.au |  |
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa | https://www.covid-19.sa.gov.au |  |
@@ -20,7 +19,6 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
-| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
@@ -56,6 +54,5 @@
 | world_jhu_admin0 | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_jhu_admin1 | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_jhu_admin2 | https://github.com/CSSEGISandData/COVID-19 |  |
-| world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
 | ye_yemen_corona | http://yemen-corona.com/ |  |
