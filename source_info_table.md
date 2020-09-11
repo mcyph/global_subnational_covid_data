@@ -5,7 +5,6 @@
 | au_nsw | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt | https://coronavirus.nt.gov.au |  |
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
-| au_sa | https://www.covid-19.sa.gov.au |  |
 | au_vic | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_wa | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
@@ -44,7 +43,6 @@
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
-| sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
