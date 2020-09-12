@@ -20,6 +20,7 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
+| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
