@@ -39,6 +39,7 @@
 | lv_infogram | https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija |  |
 | ma_hespress | https://covid.hespress.com/ |  |
 | mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
+| mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | mw_moh | https://covid19.health.gov.mw/ |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
