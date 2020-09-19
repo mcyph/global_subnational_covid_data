@@ -5,6 +5,7 @@
 | au_nsw | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt | https://coronavirus.nt.gov.au |  |
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
+| au_sa | https://www.covid-19.sa.gov.au |  |
 | au_wa | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
