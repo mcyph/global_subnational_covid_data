@@ -32,6 +32,7 @@
 | iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
+| it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_ministry_unofficial |  |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
@@ -61,7 +62,9 @@
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
+| world_jhu_admin0 | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_jhu_admin1 | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_jhu_admin2 | https://github.com/CSSEGISandData/COVID-19 |  |
+| world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
 | ye_yemen_corona | http://yemen-corona.com/ |  |
