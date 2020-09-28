@@ -54,6 +54,7 @@
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
+| sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_COVID-19_pandemisi |  |
 | tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
