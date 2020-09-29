@@ -7,7 +7,6 @@
 | au_qld | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa | https://www.covid-19.sa.gov.au |  |
 | au_vic | https://www.dhhs.vic.gov.au/coronavirus |  |
-| au_wa | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
 | bw_gov | https://covid19portal.gov.bw/ |  |
@@ -24,6 +23,7 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
+| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
