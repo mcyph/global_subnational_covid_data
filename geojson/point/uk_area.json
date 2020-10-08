@@ -13572,6 +13572,354 @@
           "en": "Merthyr Tydfil"
         }
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.182,
+          54.69
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-ann",
+        "area": 0.1532319999999999,
+        "bounding_box": [
+          -6.496,
+          54.568,
+          -5.868,
+          54.812
+        ],
+        "point": [
+          -6.182,
+          54.69
+        ],
+        "labels": {
+          "en": "Antrim and Newtownabbey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.4485,
+          54.3855
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-abc",
+        "area": 0.35304900000000117,
+        "bounding_box": [
+          -6.878,
+          54.18,
+          -6.019,
+          54.591
+        ],
+        "point": [
+          -6.4485,
+          54.3855
+        ],
+        "labels": {
+          "en": "Armagh City, Banbridge and Craigavon"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9335,
+          54.598
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-bfs",
+        "area": 0.03390199999999998,
+        "bounding_box": [
+          -6.06,
+          54.531,
+          -5.807,
+          54.665
+        ],
+        "point": [
+          -5.9335,
+          54.598
+        ],
+        "labels": {
+          "en": "Belfast"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5715,
+          55.036
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-ccg",
+        "area": 0.5136480000000025,
+        "bounding_box": [
+          -7.166,
+          54.82,
+          -5.977,
+          55.252
+        ],
+        "point": [
+          -6.5715,
+          55.036
+        ],
+        "labels": {
+          "en": "Causeway Coast and Glens"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.227,
+          55.287000000000006
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-ccg",
+        "area": 0.006135999999999924,
+        "bounding_box": [
+          -6.286,
+          55.261,
+          -6.168,
+          55.313
+        ],
+        "point": [
+          -6.227,
+          55.287000000000006
+        ],
+        "labels": {
+          "en": "Causeway Coast and Glens"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4115,
+          54.8375
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-drs",
+        "area": 0.46772100000000333,
+        "bounding_box": [
+          -7.921,
+          54.608,
+          -6.902,
+          55.067
+        ],
+        "point": [
+          -7.4115,
+          54.8375
+        ],
+        "labels": {
+          "en": "Derry City and Strabane"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.557,
+          54.447
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-fmo",
+        "area": 0.8271720000000055,
+        "bounding_box": [
+          -8.178,
+          54.114,
+          -6.936,
+          54.78
+        ],
+        "point": [
+          -7.557,
+          54.447
+        ],
+        "labels": {
+          "en": "Fermanagh and Omagh"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.031,
+          54.497
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-lbc",
+        "area": 0.1391920000000027,
+        "bounding_box": [
+          -6.305,
+          54.37,
+          -5.757,
+          54.624
+        ],
+        "point": [
+          -6.031,
+          54.497
+        ],
+        "labels": {
+          "en": "Lisburn and Castlereagh"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0975,
+          54.8725
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-mea",
+        "area": 0.29983899999999786,
+        "bounding_box": [
+          -6.506,
+          54.689,
+          -5.689,
+          55.056
+        ],
+        "point": [
+          -6.0975,
+          54.8725
+        ],
+        "labels": {
+          "en": "Mid and East Antrim"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8870000000000005,
+          54.6385
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-mul",
+        "area": 0.6019199999999955,
+        "bounding_box": [
+          -7.367,
+          54.325,
+          -6.407,
+          54.952
+        ],
+        "point": [
+          -6.8870000000000005,
+          54.6385
+        ],
+        "labels": {
+          "en": "Mid Ulster"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.092499999999999,
+          54.259
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-nmd",
+        "area": 0.5442159999999931,
+        "bounding_box": [
+          -6.669,
+          54.023,
+          -5.516,
+          54.495
+        ],
+        "point": [
+          -6.092499999999999,
+          54.259
+        ],
+        "labels": {
+          "en": "Newry, Mourne and Down"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.646,
+          54.501999999999995
+        ]
+      },
+      "properties": {
+        "region_schema": "uk_area",
+        "region_parent": "gb",
+        "region_child": "gb-and",
+        "area": 0.15165600000000076,
+        "bounding_box": [
+          -5.859,
+          54.324,
+          -5.433,
+          54.68
+        ],
+        "point": [
+          -5.646,
+          54.501999999999995
+        ],
+        "labels": {
+          "en": "Ards and North Down"
+        }
+      }
     }
   ]
 }
