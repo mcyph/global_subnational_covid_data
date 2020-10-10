@@ -5,6 +5,7 @@
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt_press_releases | https://coronavirus.nt.gov.au |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
+| au_sa_press_releases | https://www.covid-19.sa.gov.au |  |
 | au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
