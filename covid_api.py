@@ -74,8 +74,12 @@ class POLY_GEOJSON:
 
 
 @get('/geojson_point_data')
-def geojson_point_data(schema, region_parent=None, region_child=None):
+def geojson_point_data():
     """Get GeoJSON"""
+    schema = request.query.schema
+    region_child = request.query.get('region_child')
+    region_parent = request.query.get('region_parent')
+
     if region_child is not None:
         # Get just for a single region child
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
@@ -91,12 +95,16 @@ def geojson_point_data(schema, region_parent=None, region_child=None):
             for region_child in POINT_GEOJSON.DATA[schema][region_parent]:
                 geojson_out['features'].extend(POINT_GEOJSON.DATA[schema][region_parent][region_child])
 
-    return dumps(geojson_out)
+    return dumps(geojson_out, ensure_ascii=False)
 
 
 @get('/geojson_poly_data')
-def geojson_poly_data(schema, region_parent=None, region_child=None):
+def geojson_poly_data():
     """Get GeoJSON"""
+    schema = request.query.schema
+    region_child = request.query.get('region_child')
+    region_parent = request.query.get('region_parent')
+
     if region_child is not None:
         # Get just for a single region child
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
@@ -112,7 +120,7 @@ def geojson_poly_data(schema, region_parent=None, region_child=None):
             for region_child in POLY_GEOJSON.DATA[schema][region_parent]:
                 geojson_out['features'].extend(POLY_GEOJSON.DATA[schema][region_parent][region_child])
 
-    return dumps(geojson_out)
+    return dumps(geojson_out, ensure_ascii=False)
 
 
 #======================================================================#
@@ -122,9 +130,14 @@ def geojson_poly_data(schema, region_parent=None, region_child=None):
 
 class CASE_DATA:
     PATH = Path('casedata')
+    # schema -> region_parent -> region_child -> (datatype, age_range)
+    DATA = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+
+    sources_by_schema = {}
 
 
-def case_data_sources():
+@get('/case_data_sources')
+def case_data_sources(schema):
     pass
 
 
@@ -134,15 +147,33 @@ def case_datatypes(schema):
     pass
 
 
-@get('/case_data')
-def case_data(schema, region_parent=None, region_child=None):
-    """Get case data"""
+@get('/case_data_time_series')
+def case_data_time_series():
+    """Get case data time series"""
+    schema = request.query.schema
+    region_child = request.query.get('region_child')
+    region_parent = request.query.get('region_parent')
+    source_id = request.query.get('source_id')
+    datatype = request.query.get('datatype', 'total')
+    age_breakdowns = request.query.get('age_breakdowns', False)
+
     if region_child is not None:
         pass
     elif region_parent is not None:
         pass
     else:
         pass
+
+
+@get('/case_data_latest_data')
+def case_data_latest_data():
+    """Get the latest case data only"""
+    schema = request.query.schema
+    region_child = request.query.get('region_child')
+    region_parent = request.query.get('region_parent')
+    source_id = request.query.get('source_id')
+    datatype = request.query.get('datatype', 'total')
+    age_breakdowns = request.query.get('age_breakdowns', False)
 
 
 if __name__ == '__main__':
