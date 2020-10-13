@@ -51,6 +51,110 @@ and cite that it was automatically aggregated using the
 [covid_19_au_grab project](https://github.com/mcyph/covid_19_au_grab) 
 by Dave Morrissey.
 
+## API
+
+A basic API server which uses Bottle is also provided. It serves on 
+port 8000 and has the following methods:
+
+* `/schemas`
+
+    * Description: 
+    
+    * Parameters: (no additional parameters)
+    
+    * Examples: 
+    
+        * Request: `/schemas`
+        * Response: 
+        
+            > [{"source_id": "af_humdata", 
+              "source_url": "https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit", 
+            "source_desc": ""}, ...]
+
+* `/datatypes`
+
+    * Description: Get all possible datatypes (the same as the table in this `README.md` document below)
+    
+    * Parameters: (no additional parameters)
+    
+    * Examples:
+    
+        * Request: `/datatypes`
+        * Response: 
+        
+            > [{"datatype_id": "new", "desc": "Number of new cases for the day. Negative numbers may indicate figures have been revised downwards."}, ...]
+
+* `/geojson_point_data`
+
+    * Description:
+    
+    * Parameters: 
+    
+    * Examples:
+    
+        * Request: `/`
+        * Response: 
+        
+            > 
+
+* `/geojson_poly_data`
+
+    Description: The same parameters as `/geojson_point_data`, but will output the 
+    borders of each administrative area rather than just the central points in them.
+
+* `/case_data_sources`
+
+    * Description:
+    
+    * Parameters: 
+    
+    * Examples:
+    
+        * Request: `/`
+        * Response: 
+        
+            > 
+
+* `/case_datatypes`
+
+    * Description:
+    
+    * Parameters: 
+    
+    * Examples:
+    
+        * Request: `/`
+        * Response: 
+        
+            > 
+
+* `/case_data_time_series`
+
+    * Description:
+    
+    * Parameters: 
+    
+    * Examples:
+    
+        * Request: `/`
+        * Response: 
+        
+            > 
+
+* `/latest_case_data`
+
+    * Description:
+    
+    * Parameters: 
+    
+    * Examples:
+    
+        * Request: `/`
+        * Response: 
+        
+            > 
+
+
 ## Datatypes
 
 | Datatype ID | Description |
