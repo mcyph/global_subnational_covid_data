@@ -153,22 +153,42 @@ class CASE_DATA:
                                           datatype=None,
                                           source_id=None,
                                           region_parent=None,
-                                          region_child=None,
-                                          age_breakdowns=False):
+                                          region_child=None):
 
         out = {}
-        data = CASE_DATA.get_latest_case_data(schema, datatype, source_id, region_parent, region_child, age_breakdowns)
+        data = CASE_DATA.get_latest_case_data(schema, datatype, source_id, region_parent, region_child,
+                                              age_breakdowns=False)
 
-        for source_id, datatype_dict in data.items():
-            for datatype, region_parent_dict in datatype_dict.items():
-                for region_parent, region_child_dict in region_parent_dict.items():
-                    for region_child, value_dict in region_child_dict.items():
+        if region_child is not None:
+            for source_id, datatype_dict in data.items():
+                for datatype, value_dict in datatype_dict.items():
+                    value_dict['date'] = _reverse_date(value_dict['date'])
+                    value_dict['source_id'] = source_id
+                    out.setdefault((datatype, region_parent, region_child), value_dict)
+
+                    if value_dict['date'] > out[datatype, region_parent, region_child]['date']:
+                        out[datatype, region_parent, region_child] = value_dict
+        elif region_parent is not None:
+            for source_id, datatype_dict in data.items():
+                for datatype, region_parent_dict in datatype_dict.items():
+                    for region_parent, value_dict in region_parent_dict.items():
                         value_dict['date'] = _reverse_date(value_dict['date'])
                         value_dict['source_id'] = source_id
                         out.setdefault((datatype, region_parent, region_child), value_dict)
 
                         if value_dict['date'] > out[datatype, region_parent, region_child]['date']:
                             out[datatype, region_parent, region_child] = value_dict
+        else:
+            for source_id, datatype_dict in data.items():
+                for datatype, region_parent_dict in datatype_dict.items():
+                    for region_parent, region_child_dict in region_parent_dict.items():
+                        for region_child, value_dict in region_child_dict.items():
+                            value_dict['date'] = _reverse_date(value_dict['date'])
+                            value_dict['source_id'] = source_id
+                            out.setdefault((datatype, region_parent, region_child), value_dict)
+
+                            if value_dict['date'] > out[datatype, region_parent, region_child]['date']:
+                                out[datatype, region_parent, region_child] = value_dict
 
         r = {}
         for (datatype, region_parent, region_child), value_dict in out.items():

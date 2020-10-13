@@ -5,8 +5,8 @@ from json import dumps as _dumps
 from bottle import request, response, get
 
 from covid_api.CaseData import CASE_DATA
-from covid_api.PointGeoJSON import POINT_GEOJSON
 from covid_api.PolyGeoJSON import POLY_GEOJSON
+from covid_api.PointGeoJSON import POINT_GEOJSON
 
 
 app = application = bottle.default_app()
@@ -22,8 +22,8 @@ def dumps(obj):
 #======================================================================#
 
 
-@get('/schemas')
-def schemas():
+@get('/source_ids')
+def source_ids():
     """Get schemas"""
     out = []
     with open('source_info_table.tsv', 'r', encoding='utf-8') as f:
@@ -40,6 +40,16 @@ def datatypes():
         for item in csv.DictReader(f, delimiter='\t'):
             out.append(item)
     return dumps(out)
+
+
+#@get('/schemas')
+#def schemas():
+#    """Get datatypes"""
+#    out = []
+#    with open('schemas.tsv', 'r', encoding='utf-8') as f:
+#        for item in csv.DictReader(f, delimiter='\t'):
+#            out.append(item)
+#    return dumps(out)
 
 
 #======================================================================#
@@ -64,7 +74,7 @@ def geojson_point_data():
     # Get most recent figures, choosing the most recently
     # updated if source_id isn't explicitly specified
     case_data = CASE_DATA.get_latest_case_data_singlesource(schema, None, source_id,
-                                                            region_parent, region_child, age_breakdowns=False)
+                                                            region_parent, region_child)
 
     if region_child is not None:
         # Get just for a single region child
@@ -73,7 +83,7 @@ def geojson_point_data():
     elif region_parent is not None:
         # Get all region children for a given region parent
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
-        [geojson_out['features'].extend(i) for i in POINT_GEOJSON.DATA[schema][region_parent]]
+        [geojson_out['features'].extend(POINT_GEOJSON.DATA[schema][region_parent][i]) for i in POINT_GEOJSON.DATA[schema][region_parent]]
     else:
         # Get all region parents/children for a given schema
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
@@ -82,6 +92,7 @@ def geojson_point_data():
                 geojson_out['features'].extend(POINT_GEOJSON.DATA[schema][region_parent][region_child])
 
     for feature in geojson_out['features']:
+        print(feature)
         properties = feature['properties']
         key = properties['region_parent'], properties['region_child']  # FIXME!
         if key in case_data:
@@ -102,7 +113,7 @@ def geojson_poly_data():
     # Get most recent figures, choosing the most recently
     # updated if source_id isn't explicitly specified
     case_data = CASE_DATA.get_latest_case_data_singlesource(schema, None, source_id,
-                                                            region_parent, region_child, age_breakdowns=False)
+                                                            region_parent, region_child)
 
     if region_child is not None:
         # Get just for a single region child
@@ -111,7 +122,7 @@ def geojson_poly_data():
     elif region_parent is not None:
         # Get all region children for a given region parent
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
-        [geojson_out['features'].extend(i) for i in POLY_GEOJSON.DATA[schema][region_parent]]
+        [geojson_out['features'].extend(POLY_GEOJSON.DATA[schema][region_parent][i]) for i in POINT_GEOJSON.DATA[schema][region_parent]]
     else:
         # Get all region parents/children for a given schema
         geojson_out = deepcopy(GEOJSON_TEMPLATE)
@@ -138,14 +149,14 @@ def geojson_poly_data():
 def case_data_sources():
     """Get possible case data sources by schema"""
     schema = request.query.schema
-    return dumps(CASE_DATA.SOURCES_BY_SCHEMA[schema])
+    return dumps(list(CASE_DATA.SOURCES_BY_SCHEMA[schema]))
 
 
 @get('/case_datatypes')
 def case_datatypes():
     """Get possible case datatypes by schema"""
     schema = request.query.schema
-    return dumps(CASE_DATA.DATATYPES_BY_SCHEMA[schema])
+    return dumps(list(CASE_DATA.DATATYPES_BY_SCHEMA[schema]))
 
 
 @get('/case_data_time_series')
@@ -179,4 +190,4 @@ def latest_case_data():
 
 
 if __name__ == '__main__':
-    bottle.run(host='127.0.0.1', port=8000)
+    bottle.run(host='0.0.0.0', port=8000)
