@@ -25,31 +25,27 @@ def dumps(obj):
 @get('/source_ids')
 def source_ids():
     """Get schemas"""
-    out = []
+    out = {}
     with open('source_info_table.tsv', 'r', encoding='utf-8') as f:
         for item in csv.DictReader(f, delimiter='\t'):
-            out.append(item)
+            out[item.pop('source_id')] = item
     return dumps(out)
 
 
 @get('/datatypes')
 def datatypes():
     """Get datatypes"""
-    out = []
+    out = {}
     with open('datatypes_table.tsv', 'r', encoding='utf-8') as f:
         for item in csv.DictReader(f, delimiter='\t'):
-            out.append(item)
+            out[item.pop('datatype_id')] = item
     return dumps(out)
 
 
-#@get('/schemas')
-#def schemas():
-#    """Get datatypes"""
-#    out = []
-#    with open('schemas.tsv', 'r', encoding='utf-8') as f:
-#        for item in csv.DictReader(f, delimiter='\t'):
-#            out.append(item)
-#    return dumps(out)
+@get('/schemas')
+def schemas():
+    """Get datatypes"""
+    return dumps(sorted(CASE_DATA.SOURCES_BY_SCHEMA))
 
 
 #======================================================================#

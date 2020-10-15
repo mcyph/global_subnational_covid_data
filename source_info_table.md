@@ -21,7 +21,6 @@
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
 | es_datadista | https://github.com/datadista/datasets/ |  |
 | es_iscii | https://cnecovid.isciii.es/covid19/ |  |
-| et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_esri_france | https://www.arcgis.com/apps/opsdashboard/index.html#/80d409fa3b6e4c52b095cb8f56074c41 |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
@@ -62,6 +61,7 @@
 | si_sledilnik | https://covid-19.sledilnik.org/sl/stats |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
+| th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
 | tr_wikipedia | https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_b%C3%B6lgelere_g%C3%B6re_COVID-19_pandemisi |  |
 | us_nytimes | https://github.com/nytimes/covid-19-data |  |
