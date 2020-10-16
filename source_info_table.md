@@ -37,6 +37,7 @@
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
 | jp_ministry_unofficial |  |  |
+| jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
 | kh_gov | https://covid19-map.cdcmoh.gov.kh/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
