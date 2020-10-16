@@ -35,7 +35,6 @@
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
-| jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
 | jp_ministry_unofficial |  |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
@@ -50,7 +49,6 @@
 | mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | mw_moh | https://covid19.health.gov.mw/ |  |
-| my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
