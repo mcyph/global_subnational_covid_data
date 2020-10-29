@@ -13,7 +13,6 @@
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
 | cn_qq | https://news.qq.com/zt2020/page/feiyan.htm |  |
-| cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
@@ -41,7 +40,6 @@
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
 | lk_arimacdev | https://github.com/arimacdev/covid19-srilankan-data |  |
 | lt_dash | https://registrucentras.maps.arcgis.com/apps/opsdashboard/index.html#/becd01f2fade4149ba7a9e5baaddcd8d |  |
-| lv_infogram | https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija |  |
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | ma_hespress | https://covid.hespress.com/ |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
