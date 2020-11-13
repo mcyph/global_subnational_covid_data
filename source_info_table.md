@@ -4,6 +4,7 @@
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nt_press_releases | https://coronavirus.nt.gov.au |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
+| au_sa_press_releases | https://www.covid-19.sa.gov.au |  |
 | au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_wa_press_releases | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
@@ -43,11 +44,14 @@
 | lt_dash | https://registrucentras.maps.arcgis.com/apps/opsdashboard/index.html#/becd01f2fade4149ba7a9e5baaddcd8d |  |
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | ma_hespress | https://covid.hespress.com/ |  |
+| mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | mw_moh | https://covid19.health.gov.mw/ |  |
+| my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
+| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
@@ -56,12 +60,16 @@
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
+| us_nytimes | https://github.com/nytimes/covid-19-data |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
+| world_jhu_admin0 | https://github.com/CSSEGISandData/COVID-19 |  |
+| world_jhu_admin1 | https://github.com/CSSEGISandData/COVID-19 |  |
+| world_jhu_admin2 | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
