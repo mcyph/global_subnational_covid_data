@@ -2,9 +2,7 @@
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
-| au_nt_press_releases | https://coronavirus.nt.gov.au |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
-| au_sa_press_releases | https://www.covid-19.sa.gov.au |  |
 | au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
@@ -52,6 +50,7 @@
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
+| sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | th_open_data | https://covid19.th-stat.com/th/api |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
