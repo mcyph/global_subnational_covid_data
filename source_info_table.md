@@ -33,7 +33,6 @@
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
 | jp_ministry_unofficial |  |  |
-| jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
