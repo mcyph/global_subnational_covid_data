@@ -2,7 +2,6 @@
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_act_press_releases | https://www.covid19.act.gov.au |  |
-| au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nt_press_releases | https://coronavirus.nt.gov.au |  |
@@ -12,6 +11,7 @@
 | au_sa_press_releases | https://www.covid-19.sa.gov.au |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
 | au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
+| au_wa_press_releases | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
