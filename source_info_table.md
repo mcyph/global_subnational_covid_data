@@ -42,7 +42,6 @@
 | jp_ministry_unofficial |  |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
-| kh_gov | https://covid19-map.cdcmoh.gov.kh/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | kz_gov | https://www.coronavirus2020.kz/kz |  |
 | lk_arimacdev | https://github.com/arimacdev/covid19-srilankan-data |  |
