@@ -26,7 +26,6 @@
 | es_datadista | https://github.com/datadista/datasets/ |  |
 | es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
-| eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_esri_france | https://www.arcgis.com/apps/opsdashboard/index.html#/80d409fa3b6e4c52b095cb8f56074c41 |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
 | gb_gov_api | https://coronavirus.data.gov.uk/ |  |
@@ -56,7 +55,6 @@
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
-| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
