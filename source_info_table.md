@@ -35,7 +35,6 @@
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
-| ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
 | ie_open_data | https://data.gov.ie/dataset?q=covid&sort=score+desc%2C+metadata_created+desc |  |
 | iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
