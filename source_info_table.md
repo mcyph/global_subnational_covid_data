@@ -32,6 +32,7 @@
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
+| ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
 | ie_open_data | https://data.gov.ie/dataset?q=covid&sort=score+desc%2C+metadata_created+desc |  |
 | iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
@@ -48,7 +49,6 @@
 | lv_infogram | https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija |  |
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | ma_hespress | https://covid.hespress.com/ |  |
-| mk_gov | https://koronavirus.gov.mk/vesti/218055 |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | mw_moh | https://covid19.health.gov.mw/ |  |
 | my_esri_dash | https://www.arcgis.com/apps/opsdashboard/index.html#/6520fd7121374686aa35578ffe2d2cb7 |  |
@@ -76,5 +76,4 @@
 | world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
-| world_who |  |  |
 | ye_yemen_corona | http://yemen-corona.com/ |  |
