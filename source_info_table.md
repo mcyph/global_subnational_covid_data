@@ -75,6 +75,7 @@
 | vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
+| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
