@@ -31,13 +31,13 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_esri_france | https://www.arcgis.com/apps/opsdashboard/index.html#/80d409fa3b6e4c52b095cb8f56074c41 |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
-| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
 | id_kawalcovid19 | https://kawalcovid19.id/ |  |
 | ie_open_data | https://data.gov.ie/dataset?q=covid&sort=score+desc%2C+metadata_created+desc |  |
+| iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
@@ -61,7 +61,6 @@
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
-| pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
