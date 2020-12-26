@@ -21,7 +21,6 @@
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
 | cn_qq | https://news.qq.com/zt2020/page/feiyan.htm |  |
-| cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
@@ -42,7 +41,6 @@
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
-| jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
 | jp_ministry_unofficial |  |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
@@ -60,7 +58,6 @@
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
-| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
