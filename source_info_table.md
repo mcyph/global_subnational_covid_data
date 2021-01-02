@@ -5,13 +5,15 @@
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
-| au_nt_press_releases | https://coronavirus.nt.gov.au |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_sa_press_releases | https://www.covid-19.sa.gov.au |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
-| au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
+| au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
+| au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
+| au_vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
+| au_wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
 | au_wa_press_releases | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
@@ -59,6 +61,7 @@
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
+| pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
@@ -69,9 +72,6 @@
 | us_nytimes | https://github.com/nytimes/covid-19-data |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
-| vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
-| vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
-| vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
