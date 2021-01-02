@@ -2,7 +2,10 @@
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_act_press_releases | https://www.covid19.act.gov.au |  |
+| au_covid_19_au | https://covid-19-au.com |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
+| au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
+| au_guardian | https://docs.google.com/spreadsheets/d/1q5gdePANXci8enuiS4oHUJxcxC13d6bjMRSicakychE/edit#gid=0 |  |
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_press_releases | https://www.health.nsw.gov.au/Infectious/covid-19/Pages/default.aspx |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
@@ -25,8 +28,6 @@
 | ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_qq | https://news.qq.com/zt2020/page/feiyan.htm |  |
-| covid_19_au | https://covid-19-au.com |  |
-| covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
@@ -82,6 +83,7 @@
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
+| world_covid19datahub | https://covid19datahub.io/articles/data.html |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
