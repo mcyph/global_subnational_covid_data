@@ -19,7 +19,6 @@
 | au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
 | au_vic_press_releases | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
-| au_wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
 | au_wa_press_releases | https://ww2.health.wa.gov.au/en/Articles/A_E/Coronavirus |  |
 | bd_gov | https://iedcr.gov.bd/ |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
@@ -86,6 +85,7 @@
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_covid19datahub | https://covid19datahub.io/articles/data.html |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
+| world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
