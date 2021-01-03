@@ -13,7 +13,7 @@ Wherever possible, the data has been
 normalized to 
 [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2)
 with the "admin_1" schema, or 
-[ISO 3166-1 alpha-2](hthttps://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+[ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 with the "admin_0" schema (mostly countries) to allow 
 use with other datasets such as 
 [Natural Earth Data](http://www.naturalearthdata.com/downloads/10m-cultural-vectors/).
@@ -156,6 +156,16 @@ Data sources come from the following URLs:
 
 | source_id | source_url | source_desc |
 | --- | --- | --- |
+| world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
+| world_covid19datahub | https://covid19datahub.io/articles/data.html | citation: Guidotti and Ardia (2020) https://joss.theoj.org/papers/10.21105/joss.02376 |
+| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
+| world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
+| world_gender_disaggregated |  |  |
+| world_google_mobility | https://www.google.com/covid19/mobility/ |  |
+| world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
+| world_owid | https://github.com/owid/covid-19-data |  |
+| world_umd_covidmap | https://covidmap.umd.edu |  |
+| world_who |  |  |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_covid_19_au | https://covid-19-au.com |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
@@ -231,14 +241,4 @@ Data sources come from the following URLs:
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
-| world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
-| world_covid19datahub | https://covid19datahub.io/articles/data.html |  |
-| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
-| world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
-| world_gender_disaggregated |  |  |
-| world_google_mobility | https://www.google.com/covid19/mobility/ |  |
-| world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
-| world_owid | https://github.com/owid/covid-19-data |  |
-| world_umd_covidmap | https://covidmap.umd.edu |  |
-| world_who |  |  |
 | ye_yemen_corona | http://yemen-corona.com/ |  |
