@@ -69,6 +69,7 @@
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | om_gov | https://covid19.moh.gov.om/ |  |
+| pl_gov | https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2 |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
