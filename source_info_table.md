@@ -5,7 +5,9 @@
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
 | au_guardian | https://docs.google.com/spreadsheets/d/1q5gdePANXci8enuiS4oHUJxcxC13d6bjMRSicakychE/edit#gid=0 |  |
+| au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
+| au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
