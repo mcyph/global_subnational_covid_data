@@ -85,4 +85,3 @@
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
-| ye_yemen_corona | http://yemen-corona.com/ |  |
