@@ -79,4 +79,5 @@
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
+| world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
