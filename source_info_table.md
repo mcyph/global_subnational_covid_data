@@ -4,7 +4,6 @@
 | au_covid_19_au | https://covid-19-au.com |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
-| au_guardian | https://docs.google.com/spreadsheets/d/1q5gdePANXci8enuiS4oHUJxcxC13d6bjMRSicakychE/edit#gid=0 |  |
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
@@ -77,3 +76,4 @@
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_who |  |  |
+| za_gov | https://sacoronavirus.co.za/ |  |
