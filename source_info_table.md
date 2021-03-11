@@ -73,6 +73,5 @@
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
-| world_owid | https://github.com/owid/covid-19-data |  |
 | world_who |  |  |
 | za_gov | https://sacoronavirus.co.za/ |  |
