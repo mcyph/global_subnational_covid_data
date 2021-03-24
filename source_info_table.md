@@ -57,7 +57,6 @@
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
-| rs_gov | https://covid19.data.gov.rs |  |
 | sa_gov | https://covid19.moh.gov.sa/ |  |
 | sd_gov | https://covid19.sd/ |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
