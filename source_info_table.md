@@ -24,6 +24,7 @@
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
+| es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_esri_france | https://www.arcgis.com/apps/opsdashboard/index.html#/80d409fa3b6e4c52b095cb8f56074c41 |  |
@@ -40,7 +41,6 @@
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
-| jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | lk_arimacdev | https://github.com/arimacdev/covid19-srilankan-data |  |
