@@ -3,14 +3,10 @@
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
-| au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
-| au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
-| au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
-| au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
 | au_vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
@@ -20,7 +16,6 @@
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_qq | https://news.qq.com/zt2020/page/feiyan.htm |  |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
-| cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
 | es_iscii | https://cnecovid.isciii.es/covid19/ |  |
@@ -32,6 +27,7 @@
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
+| id_kawalcovid19 | https://kawalcovid19.id/ |  |
 | ie_open_data | https://data.gov.ie/dataset?q=covid&sort=score+desc%2C+metadata_created+desc |  |
 | iq_hdx_humdata | https://data.humdata.org/dataset/iraq-coronavirus-covid-19-subnational-cases |  |
 | iq_wikipedia | https://ar.wikipedia.org/wiki/%D8%AC%D8%A7%D8%A6%D8%AD%D8%A9_%D9%81%D9%8A%D8%B1%D9%88%D8%B3_%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_%D9%81%D9%8A_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82_2020 |  |
@@ -51,18 +47,17 @@
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
+| rs_gov | https://covid19.data.gov.rs |  |
 | sd_gov | https://covid19.sd/ |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
-| tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
-| world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_who |  |  |
