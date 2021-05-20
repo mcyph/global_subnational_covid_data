@@ -22,7 +22,6 @@
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
-| gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
 | ht_hdx_humdata | https://data.humdata.org/dataset/haiti-covid-19-subnational-cases |  |
@@ -39,7 +38,6 @@
 | lv_arcgis_dash | https://spkc.maps.arcgis.com/apps/opsdashboard/index.html#/4469c1fb01ed43cea6f20743ee7d5939 |  |
 | lv_infogram | https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija |  |
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
-| ma_hespress | https://covid.hespress.com/ |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | na_dash | https://gisserver.nsa.org.na/portal/apps/opsdashboard/index.html#/e8d79f18bd424670b7db99d56866573f |  |
