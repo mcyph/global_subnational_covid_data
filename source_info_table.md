@@ -19,7 +19,6 @@
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
 | es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
-| eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
