@@ -1,7 +1,6 @@
 | source_id | source_url | source_desc |
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
-| au_covid_19_au | https://covid-19-au.com |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
