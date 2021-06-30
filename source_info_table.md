@@ -24,6 +24,7 @@
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
 | fr_sante_publique | https://www.data.gouv.fr/fr/organizations/sante-publique-france/ |  |
+| gb_gov_api | https://coronavirus.data.gov.uk/ |  |
 | gr_covid_19_greece | https://covid-19-greece.herokuapp.com |  |
 | hk_dash | https://chp-dashboard.geodata.gov.hk/covid-19/en.html |  |
 | hr_gov | https://www.koronavirus.hr/ |  |
@@ -37,6 +38,7 @@
 | kg_gov | https://covid.kg/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | lk_arimacdev | https://github.com/arimacdev/covid19-srilankan-data |  |
+| lv_arcgis_dash | https://spkc.maps.arcgis.com/apps/opsdashboard/index.html#/4469c1fb01ed43cea6f20743ee7d5939 |  |
 | lv_infogram | https://covid19.gov.lv/covid-19/covid-19-statistika/covid-19-izplatiba-latvija |  |
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | mm_covidmyanmar | https://data.covidmyanmar.com | Dataset created by Dr.Nyein Chan Ko Ko (covidmyanmar.com) dr.nyeinchankoko@gmail.com |
@@ -53,4 +55,8 @@
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | vn_moh | https://ncov.moh.gov.vn/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
+| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
+| world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
+| world_google_mobility | https://www.google.com/covid19/mobility/ |  |
+| world_who |  |  |
 | za_gov | https://sacoronavirus.co.za/ |  |
