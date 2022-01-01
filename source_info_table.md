@@ -9,6 +9,7 @@
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
+| au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
 | au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
