@@ -13,6 +13,7 @@
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
 | au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
+| au_vic_tableau_native | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
 | au_wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |

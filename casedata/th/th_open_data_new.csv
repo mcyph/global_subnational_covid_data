@@ -1,0 +1,1457 @@
+date,region_schema,region_parent,region_child,agerange,value
+2020-01-02,admin_0,,th,,0
+2020-01-03,admin_0,,th,,0
+2020-01-04,admin_0,,th,,0
+2020-01-05,admin_0,,th,,0
+2020-01-06,admin_0,,th,,0
+2020-01-07,admin_0,,th,,0
+2020-01-08,admin_0,,th,,0
+2020-01-09,admin_0,,th,,0
+2020-01-10,admin_0,,th,,0
+2020-01-11,admin_0,,th,,0
+2020-01-12,admin_0,,th,,1
+2020-01-13,admin_0,,th,,0
+2020-01-14,admin_0,,th,,0
+2020-01-15,admin_0,,th,,0
+2020-01-16,admin_0,,th,,0
+2020-01-17,admin_0,,th,,1
+2020-01-18,admin_0,,th,,0
+2020-01-19,admin_0,,th,,0
+2020-01-20,admin_0,,th,,0
+2020-01-21,admin_0,,th,,0
+2020-01-22,admin_0,,th,,2
+2020-01-23,admin_0,,th,,0
+2020-01-24,admin_0,,th,,1
+2020-01-25,admin_0,,th,,1
+2020-01-26,admin_0,,th,,2
+2020-01-26,admin_1,th,th-10,,1
+2020-01-27,admin_0,,th,,0
+2020-01-28,admin_0,,th,,6
+2020-01-29,admin_0,,th,,0
+2020-01-30,admin_0,,th,,0
+2020-01-31,admin_0,,th,,5
+2020-02-01,admin_0,,th,,0
+2020-02-02,admin_0,,th,,0
+2020-02-03,admin_0,,th,,0
+2020-02-04,admin_0,,th,,6
+2020-02-05,admin_0,,th,,0
+2020-02-06,admin_0,,th,,0
+2020-02-07,admin_0,,th,,0
+2020-02-08,admin_0,,th,,7
+2020-02-09,admin_0,,th,,0
+2020-02-10,admin_0,,th,,0
+2020-02-11,admin_0,,th,,1
+2020-02-12,admin_0,,th,,0
+2020-02-13,admin_0,,th,,0
+2020-02-14,admin_0,,th,,0
+2020-02-15,admin_0,,th,,1
+2020-02-16,admin_0,,th,,0
+2020-02-17,admin_0,,th,,1
+2020-02-18,admin_0,,th,,0
+2020-02-19,admin_0,,th,,0
+2020-02-20,admin_0,,th,,0
+2020-02-21,admin_0,,th,,0
+2020-02-22,admin_0,,th,,0
+2020-02-23,admin_0,,th,,0
+2020-02-24,admin_0,,th,,0
+2020-02-25,admin_0,,th,,2
+2020-02-26,admin_0,,th,,3
+2020-02-26,admin_1,th,th-10,,3
+2020-02-27,admin_0,,th,,0
+2020-02-28,admin_0,,th,,1
+2020-02-29,admin_0,,th,,1
+2020-02-29,admin_0,,th,20-29,1
+2020-03-01,admin_0,,th,,0
+2020-03-02,admin_0,,th,,1
+2020-03-03,admin_0,,th,,0
+2020-03-04,admin_0,,th,,0
+2020-03-05,admin_0,,th,,4
+2020-03-06,admin_0,,th,,1
+2020-03-06,admin_0,,th,40-49,1
+2020-03-07,admin_0,,th,,2
+2020-03-07,admin_0,,th,40-49,1
+2020-03-07,admin_1,th,th-10,,2
+2020-03-08,admin_0,,th,,0
+2020-03-09,admin_0,,th,,0
+2020-03-10,admin_0,,th,,3
+2020-03-11,admin_0,,th,,6
+2020-03-11,admin_0,,th,40-49,2
+2020-03-11,admin_1,th,th-10,,6
+2020-03-12,admin_0,,th,,11
+2020-03-12,admin_0,,th,20-29,3
+2020-03-12,admin_0,,th,30-39,10
+2020-03-12,admin_1,th,th-10,,12
+2020-03-13,admin_0,,th,,5
+2020-03-13,admin_0,,th,20-29,1
+2020-03-13,admin_0,,th,30-39,1
+2020-03-13,admin_1,th,th-10,,3
+2020-03-14,admin_0,,th,,7
+2020-03-14,admin_0,,th,20-29,1
+2020-03-14,admin_0,,th,30-39,2
+2020-03-14,admin_1,th,th-10,,6
+2020-03-15,admin_0,,th,,32
+2020-03-15,admin_0,,th,20-29,6
+2020-03-15,admin_0,,th,30-39,13
+2020-03-15,admin_0,,th,40-49,7
+2020-03-15,admin_0,,th,50-59,3
+2020-03-15,admin_0,,th,60-69,2
+2020-03-15,admin_1,th,th-10,,30
+2020-03-16,admin_0,,th,,33
+2020-03-16,admin_0,,th,20-29,6
+2020-03-16,admin_0,,th,30-39,9
+2020-03-16,admin_0,,th,40-49,7
+2020-03-16,admin_0,,th,50-59,6
+2020-03-16,admin_0,,th,60-69,3
+2020-03-16,admin_0,,th,70-79,1
+2020-03-16,admin_1,th,th-10,,25
+2020-03-17,admin_0,,th,,30
+2020-03-17,admin_0,,th,20-29,7
+2020-03-17,admin_0,,th,30-39,9
+2020-03-17,admin_0,,th,40-49,7
+2020-03-17,admin_0,,th,50-59,3
+2020-03-17,admin_0,,th,60-69,1
+2020-03-17,admin_0,,th,70-79,2
+2020-03-17,admin_1,th,th-10,,22
+2020-03-17,admin_1,th,th-96,,1
+2020-03-17,th_district,th-96,sukhirin,,1
+2020-03-18,admin_0,,th,,35
+2020-03-18,admin_0,,th,20-29,10
+2020-03-18,admin_0,,th,30-39,14
+2020-03-18,admin_0,,th,40-49,5
+2020-03-18,admin_0,,th,50-59,3
+2020-03-18,admin_0,,th,60-69,2
+2020-03-18,admin_0,,th,70-79,1
+2020-03-18,admin_1,th,th-10,,25
+2020-03-18,admin_1,th,th-11,,1
+2020-03-19,admin_0,,th,,60
+2020-03-19,admin_0,,th,20-29,20
+2020-03-19,admin_0,,th,30-39,12
+2020-03-19,admin_0,,th,40-49,11
+2020-03-19,admin_0,,th,50-59,10
+2020-03-19,admin_0,,th,60-69,5
+2020-03-19,admin_0,,th,70-79,1
+2020-03-19,admin_1,th,th-10,,31
+2020-03-19,admin_1,th,th-11,,10
+2020-03-19,admin_1,th,th-50,,2
+2020-03-20,admin_0,,th,,50
+2020-03-20,admin_0,,th,20-29,10
+2020-03-20,admin_0,,th,30-39,17
+2020-03-20,admin_0,,th,40-49,6
+2020-03-20,admin_0,,th,50-59,7
+2020-03-20,admin_0,,th,60-69,5
+2020-03-20,admin_0,,th,70-79,4
+2020-03-20,admin_1,th,th-10,,32
+2020-03-20,admin_1,th,th-11,,3
+2020-03-20,admin_1,th,th-12,,3
+2020-03-20,admin_1,th,th-13,,1
+2020-03-20,admin_1,th,th-50,,1
+2020-03-20,admin_1,th,th-95,,1
+2020-03-21,admin_0,,th,,89
+2020-03-21,admin_0,,th,0-9,1
+2020-03-21,admin_0,,th,20-29,16
+2020-03-21,admin_0,,th,30-39,20
+2020-03-21,admin_0,,th,40-49,27
+2020-03-21,admin_0,,th,50-59,13
+2020-03-21,admin_0,,th,60-69,9
+2020-03-21,admin_0,,th,70-79,2
+2020-03-21,admin_1,th,th-10,,37
+2020-03-21,admin_1,th,th-11,,3
+2020-03-21,admin_1,th,th-12,,6
+2020-03-21,admin_1,th,th-13,,1
+2020-03-21,admin_1,th,th-30,,1
+2020-03-21,admin_1,th,th-83,,6
+2020-03-21,admin_1,th,th-95,,2
+2020-03-21,th_district,th-10,bang sue,,1
+2020-03-21,th_district,th-30,mueang nakhon ratchasima,,1
+2020-03-21,th_district,th-95,bannang sata,,1
+2020-03-22,admin_0,,th,,188
+2020-03-22,admin_0,,th,0-9,6
+2020-03-22,admin_0,,th,10-19,5
+2020-03-22,admin_0,,th,20-29,37
+2020-03-22,admin_0,,th,30-39,41
+2020-03-22,admin_0,,th,40-49,30
+2020-03-22,admin_0,,th,50-59,38
+2020-03-22,admin_0,,th,60-69,20
+2020-03-22,admin_0,,th,70-79,11
+2020-03-22,admin_1,th,th-10,,106
+2020-03-22,admin_1,th,th-11,,3
+2020-03-22,admin_1,th,th-12,,27
+2020-03-22,admin_1,th,th-21,,1
+2020-03-22,admin_1,th,th-24,,1
+2020-03-22,admin_1,th,th-25,,1
+2020-03-22,admin_1,th,th-34,,1
+2020-03-22,admin_1,th,th-81,,1
+2020-03-22,admin_1,th,th-83,,1
+2020-03-22,admin_1,th,th-94,,4
+2020-03-22,admin_1,th,th-95,,3
+2020-03-22,th_district,th-10,bang sue,,1
+2020-03-22,th_district,th-10,khlong toei,,1
+2020-03-22,th_district,th-94,yarang,,3
+2020-03-22,th_district,th-95,bannang sata,,1
+2020-03-23,admin_0,,th,,122
+2020-03-23,admin_0,,th,0-9,1
+2020-03-23,admin_0,,th,10-19,6
+2020-03-23,admin_0,,th,20-29,37
+2020-03-23,admin_0,,th,30-39,27
+2020-03-23,admin_0,,th,40-49,17
+2020-03-23,admin_0,,th,50-59,20
+2020-03-23,admin_0,,th,60-69,8
+2020-03-23,admin_0,,th,70-79,5
+2020-03-23,admin_1,th,th-10,,46
+2020-03-23,admin_1,th,th-11,,4
+2020-03-23,admin_1,th,th-12,,19
+2020-03-23,admin_1,th,th-20,,1
+2020-03-23,admin_1,th,th-21,,1
+2020-03-23,admin_1,th,th-24,,1
+2020-03-23,admin_1,th,th-34,,1
+2020-03-23,admin_1,th,th-50,,1
+2020-03-23,admin_1,th,th-70,,1
+2020-03-23,admin_1,th,th-80,,2
+2020-03-23,admin_1,th,th-83,,5
+2020-03-23,admin_1,th,th-90,,6
+2020-03-23,admin_1,th,th-94,,9
+2020-03-23,admin_1,th,th-95,,7
+2020-03-23,th_district,th-10,bang khae,,1
+2020-03-23,th_district,th-10,bangkok noi,,1
+2020-03-23,th_district,th-10,khlong toei,,2
+2020-03-23,th_district,th-10,phasi charoen,,1
+2020-03-23,th_district,th-10,phra nakhon,,1
+2020-03-23,th_district,th-10,pom prap sattru phai,,2
+2020-03-23,th_district,th-34,det udom,,1
+2020-03-23,th_district,th-70,ban pong,,1
+2020-03-23,th_district,th-90,hat yai,,3
+2020-03-23,th_district,th-94,yarang,,7
+2020-03-23,th_district,th-95,bannang sata,,2
+2020-03-24,admin_0,,th,,106
+2020-03-24,admin_0,,th,0-9,2
+2020-03-24,admin_0,,th,10-19,1
+2020-03-24,admin_0,,th,20-29,40
+2020-03-24,admin_0,,th,30-39,31
+2020-03-24,admin_0,,th,40-49,11
+2020-03-24,admin_0,,th,50-59,11
+2020-03-24,admin_0,,th,60-69,9
+2020-03-24,admin_0,,th,70-79,1
+2020-03-24,admin_1,th,th-10,,53
+2020-03-24,admin_1,th,th-11,,2
+2020-03-24,admin_1,th,th-12,,3
+2020-03-24,admin_1,th,th-20,,8
+2020-03-24,admin_1,th,th-22,,1
+2020-03-24,admin_1,th,th-24,,2
+2020-03-24,admin_1,th,th-30,,1
+2020-03-24,admin_1,th,th-34,,3
+2020-03-24,admin_1,th,th-50,,1
+2020-03-24,admin_1,th,th-70,,1
+2020-03-24,admin_1,th,th-71,,1
+2020-03-24,admin_1,th,th-73,,4
+2020-03-24,admin_1,th,th-77,,1
+2020-03-24,admin_1,th,th-83,,7
+2020-03-24,admin_1,th,th-94,,3
+2020-03-24,admin_1,th,th-95,,1
+2020-03-24,th_district,th-10,bang khae,,1
+2020-03-24,th_district,th-10,huai khwang,,2
+2020-03-24,th_district,th-10,khlong sam wa,,1
+2020-03-24,th_district,th-10,khlong toei,,1
+2020-03-24,th_district,th-77,hua hin,,1
+2020-03-24,th_district,th-94,yarang,,3
+2020-03-24,th_district,th-95,bannang sata,,1
+2020-03-25,admin_0,,th,,107
+2020-03-25,admin_0,,th,0-9,1
+2020-03-25,admin_0,,th,10-19,3
+2020-03-25,admin_0,,th,20-29,27
+2020-03-25,admin_0,,th,30-39,26
+2020-03-25,admin_0,,th,40-49,24
+2020-03-25,admin_0,,th,50-59,12
+2020-03-25,admin_0,,th,60-69,8
+2020-03-25,admin_0,,th,70-79,5
+2020-03-25,admin_1,th,th-10,,62
+2020-03-25,admin_1,th,th-11,,3
+2020-03-25,admin_1,th,th-12,,5
+2020-03-25,admin_1,th,th-20,,5
+2020-03-25,admin_1,th,th-24,,3
+2020-03-25,admin_1,th,th-70,,2
+2020-03-25,admin_1,th,th-71,,1
+2020-03-25,admin_1,th,th-74,,1
+2020-03-25,admin_1,th,th-83,,5
+2020-03-25,admin_1,th,th-95,,5
+2020-03-25,th_district,th-10,bang khun thian,,1
+2020-03-25,th_district,th-10,chom thong,,1
+2020-03-25,th_district,th-10,khlong toei,,2
+2020-03-25,th_district,th-10,phaya thai,,2
+2020-03-25,th_district,th-10,vadhana,,4
+2020-03-26,admin_0,,th,,111
+2020-03-26,admin_0,,th,0-9,3
+2020-03-26,admin_0,,th,10-19,4
+2020-03-26,admin_0,,th,20-29,31
+2020-03-26,admin_0,,th,30-39,29
+2020-03-26,admin_0,,th,40-49,24
+2020-03-26,admin_0,,th,50-59,16
+2020-03-26,admin_0,,th,60-69,3
+2020-03-26,admin_0,,th,70-79,1
+2020-03-26,admin_1,th,th-10,,55
+2020-03-26,admin_1,th,th-11,,3
+2020-03-26,admin_1,th,th-12,,8
+2020-03-26,admin_1,th,th-13,,2
+2020-03-26,admin_1,th,th-20,,1
+2020-03-26,admin_1,th,th-24,,2
+2020-03-26,admin_1,th,th-41,,2
+2020-03-26,admin_1,th,th-71,,1
+2020-03-26,admin_1,th,th-83,,3
+2020-03-26,admin_1,th,th-90,,1
+2020-03-26,admin_1,th,th-92,,2
+2020-03-26,admin_1,th,th-95,,4
+2020-03-26,th_district,th-10,bang khun thian,,1
+2020-03-26,th_district,th-10,bangkok noi,,2
+2020-03-26,th_district,th-10,bueng kum,,1
+2020-03-26,th_district,th-10,phaya thai,,1
+2020-03-26,th_district,th-10,vadhana,,1
+2020-03-27,admin_0,,th,,91
+2020-03-27,admin_0,,th,0-9,1
+2020-03-27,admin_0,,th,10-19,3
+2020-03-27,admin_0,,th,20-29,26
+2020-03-27,admin_0,,th,30-39,31
+2020-03-27,admin_0,,th,40-49,14
+2020-03-27,admin_0,,th,50-59,8
+2020-03-27,admin_0,,th,60-69,7
+2020-03-27,admin_1,th,th-10,,41
+2020-03-27,admin_1,th,th-11,,4
+2020-03-27,admin_1,th,th-12,,6
+2020-03-27,admin_1,th,th-13,,2
+2020-03-27,admin_1,th,th-20,,3
+2020-03-27,admin_1,th,th-24,,1
+2020-03-27,admin_1,th,th-41,,1
+2020-03-27,admin_1,th,th-50,,4
+2020-03-27,admin_1,th,th-60,,1
+2020-03-27,admin_1,th,th-65,,1
+2020-03-27,admin_1,th,th-83,,9
+2020-03-27,admin_1,th,th-92,,1
+2020-03-27,admin_1,th,th-94,,2
+2020-03-27,th_district,th-10,bang khen,,1
+2020-03-27,th_district,th-10,bang khun thian,,1
+2020-03-27,th_district,th-10,bangkok noi,,1
+2020-03-27,th_district,th-10,bueng kum,,1
+2020-03-27,th_district,th-10,phra nakhon,,1
+2020-03-27,th_district,th-10,vadhana,,2
+2020-03-27,th_district,th-10,wang thonglang,,1
+2020-03-27,th_district,th-83,kathu,,3
+2020-03-27,th_district,th-94,yarang,,2
+2020-03-28,admin_0,,th,,109
+2020-03-28,admin_0,,th,0-9,4
+2020-03-28,admin_0,,th,10-19,4
+2020-03-28,admin_0,,th,20-29,29
+2020-03-28,admin_0,,th,30-39,32
+2020-03-28,admin_0,,th,40-49,17
+2020-03-28,admin_0,,th,50-59,10
+2020-03-28,admin_0,,th,60-69,8
+2020-03-28,admin_0,,th,80-89,1
+2020-03-28,admin_1,th,th-10,,57
+2020-03-28,admin_1,th,th-12,,7
+2020-03-28,admin_1,th,th-13,,3
+2020-03-28,admin_1,th,th-20,,1
+2020-03-28,admin_1,th,th-31,,3
+2020-03-28,admin_1,th,th-34,,1
+2020-03-28,admin_1,th,th-36,,1
+2020-03-28,admin_1,th,th-50,,1
+2020-03-28,admin_1,th,th-58,,3
+2020-03-28,admin_1,th,th-60,,1
+2020-03-28,admin_1,th,th-70,,1
+2020-03-28,admin_1,th,th-73,,2
+2020-03-28,admin_1,th,th-74,,1
+2020-03-28,admin_1,th,th-83,,6
+2020-03-28,admin_1,th,th-94,,5
+2020-03-28,th_district,th-10,bang khen,,1
+2020-03-28,th_district,th-10,bang khun thian,,1
+2020-03-28,th_district,th-10,bangkok noi,,2
+2020-03-28,th_district,th-10,chatuchak,,1
+2020-03-28,th_district,th-10,khlong toei,,4
+2020-03-28,th_district,th-10,vadhana,,1
+2020-03-28,th_district,th-83,kathu,,2
+2020-03-28,th_district,th-94,yarang,,4
+2020-03-29,admin_0,,th,,140
+2020-03-29,admin_0,,th,0-9,1
+2020-03-29,admin_0,,th,10-19,3
+2020-03-29,admin_0,,th,20-29,46
+2020-03-29,admin_0,,th,30-39,32
+2020-03-29,admin_0,,th,40-49,26
+2020-03-29,admin_0,,th,50-59,16
+2020-03-29,admin_0,,th,60-69,11
+2020-03-29,admin_0,,th,70-79,6
+2020-03-29,admin_1,th,th-10,,127
+2020-03-29,admin_1,th,th-12,,3
+2020-03-29,admin_1,th,th-50,,1
+2020-03-29,admin_1,th,th-56,,1
+2020-03-29,admin_1,th,th-83,,2
+2020-03-29,admin_1,th,th-95,,2
+2020-03-29,admin_1,th,th-96,,1
+2020-03-29,th_district,th-10,bang khen,,1
+2020-03-29,th_district,th-10,bang rak,,1
+2020-03-29,th_district,th-10,bangkok noi,,1
+2020-03-29,th_district,th-10,bangkok yai,,1
+2020-03-29,th_district,th-10,chatuchak,,1
+2020-03-29,th_district,th-10,chom thong,,1
+2020-03-29,th_district,th-10,huai khwang,,2
+2020-03-29,th_district,th-10,khlong toei,,3
+2020-03-29,th_district,th-10,vadhana,,2
+2020-03-29,th_district,th-83,kathu,,2
+2020-03-30,admin_0,,th,,139
+2020-03-30,admin_0,,th,0-9,2
+2020-03-30,admin_0,,th,10-19,3
+2020-03-30,admin_0,,th,20-29,43
+2020-03-30,admin_0,,th,30-39,36
+2020-03-30,admin_0,,th,40-49,23
+2020-03-30,admin_0,,th,50-59,16
+2020-03-30,admin_0,,th,60-69,11
+2020-03-30,admin_0,,th,70-79,2
+2020-03-30,admin_1,th,th-10,,92
+2020-03-30,admin_1,th,th-11,,7
+2020-03-30,admin_1,th,th-12,,3
+2020-03-30,admin_1,th,th-30,,2
+2020-03-30,admin_1,th,th-50,,9
+2020-03-30,admin_1,th,th-83,,6
+2020-03-30,th_district,th-10,bang kapi,,1
+2020-03-30,th_district,th-10,bang khae,,2
+2020-03-30,th_district,th-10,bang khen,,1
+2020-03-30,th_district,th-10,huai khwang,,1
+2020-03-30,th_district,th-10,khlong toei,,1
+2020-03-30,th_district,th-10,suan luang,,1
+2020-03-30,th_district,th-10,vadhana,,1
+2020-03-30,th_district,th-83,kathu,,2
+2020-03-31,admin_0,,th,,127
+2020-03-31,admin_0,,th,0-9,1
+2020-03-31,admin_0,,th,10-19,4
+2020-03-31,admin_0,,th,20-29,44
+2020-03-31,admin_0,,th,30-39,28
+2020-03-31,admin_0,,th,40-49,24
+2020-03-31,admin_0,,th,50-59,19
+2020-03-31,admin_0,,th,60-69,5
+2020-03-31,admin_0,,th,70-79,1
+2020-03-31,admin_0,,th,80-89,2
+2020-03-31,admin_1,th,th-10,,87
+2020-03-31,admin_1,th,th-11,,1
+2020-03-31,admin_1,th,th-12,,8
+2020-03-31,admin_1,th,th-20,,1
+2020-03-31,admin_1,th,th-32,,1
+2020-03-31,admin_1,th,th-50,,1
+2020-03-31,admin_1,th,th-53,,2
+2020-03-31,admin_1,th,th-73,,3
+2020-03-31,admin_1,th,th-83,,6
+2020-03-31,admin_1,th,th-90,,1
+2020-03-31,th_district,th-10,bang khae,,1
+2020-03-31,th_district,th-10,bang khen,,2
+2020-03-31,th_district,th-10,bang na,,1
+2020-03-31,th_district,th-10,huai khwang,,4
+2020-03-31,th_district,th-10,khlong sam wa,,1
+2020-03-31,th_district,th-10,khlong toei,,1
+2020-03-31,th_district,th-10,prawet,,3
+2020-03-31,th_district,th-10,suan luang,,1
+2020-03-31,th_district,th-10,vadhana,,4
+2020-03-31,th_district,th-53,phichai,,2
+2020-03-31,th_district,th-83,kathu,,1
+2020-03-31,th_district,th-90,hat yai,,1
+2020-04-01,admin_0,,th,,120
+2020-04-01,admin_0,,th,0-9,6
+2020-04-01,admin_0,,th,10-19,2
+2020-04-01,admin_0,,th,20-29,31
+2020-04-01,admin_0,,th,30-39,22
+2020-04-01,admin_0,,th,40-49,30
+2020-04-01,admin_0,,th,50-59,20
+2020-04-01,admin_0,,th,60-69,7
+2020-04-01,admin_0,,th,70-79,2
+2020-04-01,admin_1,th,th-10,,59
+2020-04-01,admin_1,th,th-11,,21
+2020-04-01,admin_1,th,th-12,,3
+2020-04-01,admin_1,th,th-13,,1
+2020-04-01,admin_1,th,th-20,,3
+2020-04-01,admin_1,th,th-33,,1
+2020-04-01,admin_1,th,th-34,,1
+2020-04-01,admin_1,th,th-39,,1
+2020-04-01,admin_1,th,th-50,,1
+2020-04-01,admin_1,th,th-73,,1
+2020-04-01,admin_1,th,th-74,,2
+2020-04-01,admin_1,th,th-83,,11
+2020-04-01,admin_1,th,th-90,,2
+2020-04-01,admin_1,th,th-94,,6
+2020-04-01,th_district,th-10,bang khae,,1
+2020-04-01,th_district,th-10,bang khen,,2
+2020-04-01,th_district,th-10,bang khun thian,,3
+2020-04-01,th_district,th-10,bueng kum,,1
+2020-04-01,th_district,th-10,chatuchak,,2
+2020-04-01,th_district,th-10,chom thong,,1
+2020-04-01,th_district,th-10,huai khwang,,1
+2020-04-01,th_district,th-10,khlong toei,,1
+2020-04-01,th_district,th-10,lat phrao,,2
+2020-04-01,th_district,th-10,prawet,,1
+2020-04-01,th_district,th-10,ratchathewi,,1
+2020-04-01,th_district,th-10,vadhana,,2
+2020-04-01,th_district,th-13,thanyaburi,,1
+2020-04-01,th_district,th-33,phayu,,1
+2020-04-01,th_district,th-34,buntharik,,1
+2020-04-01,th_district,th-83,kathu,,4
+2020-04-01,th_district,th-90,hat yai,,1
+2020-04-01,th_district,th-94,nong chik,,1
+2020-04-02,admin_0,,th,,104
+2020-04-02,admin_0,,th,0-9,2
+2020-04-02,admin_0,,th,10-19,5
+2020-04-02,admin_0,,th,20-29,22
+2020-04-02,admin_0,,th,30-39,22
+2020-04-02,admin_0,,th,40-49,22
+2020-04-02,admin_0,,th,50-59,18
+2020-04-02,admin_0,,th,60-69,8
+2020-04-02,admin_0,,th,70-79,2
+2020-04-02,admin_1,th,th-10,,36
+2020-04-02,admin_1,th,th-11,,5
+2020-04-02,admin_1,th,th-13,,4
+2020-04-02,admin_1,th,th-20,,3
+2020-04-02,admin_1,th,th-50,,4
+2020-04-02,admin_1,th,th-73,,1
+2020-04-02,admin_1,th,th-74,,1
+2020-04-02,admin_1,th,th-81,,1
+2020-04-02,admin_1,th,th-83,,13
+2020-04-02,admin_1,th,th-90,,3
+2020-04-02,admin_1,th,th-94,,4
+2020-04-02,admin_1,th,th-96,,3
+2020-04-02,th_district,th-10,bang phlat,,1
+2020-04-02,th_district,th-10,bangkok noi,,1
+2020-04-02,th_district,th-10,din daeng,,2
+2020-04-02,th_district,th-10,huai khwang,,3
+2020-04-02,th_district,th-10,khlong toei,,3
+2020-04-02,th_district,th-10,prawet,,2
+2020-04-02,th_district,th-10,vadhana,,2
+2020-04-02,th_district,th-11,bang phli,,1
+2020-04-02,th_district,th-83,kathu,,9
+2020-04-02,th_district,th-90,thepha,,2
+2020-04-02,th_district,th-94,nong chik,,1
+2020-04-02,th_district,th-94,yarang,,3
+2020-04-03,admin_0,,th,,103
+2020-04-03,admin_0,,th,0-9,2
+2020-04-03,admin_0,,th,10-19,1
+2020-04-03,admin_0,,th,20-29,26
+2020-04-03,admin_0,,th,30-39,17
+2020-04-03,admin_0,,th,40-49,25
+2020-04-03,admin_0,,th,50-59,20
+2020-04-03,admin_0,,th,60-69,10
+2020-04-03,admin_0,,th,70-79,2
+2020-04-03,admin_1,th,th-10,,52
+2020-04-03,admin_1,th,th-11,,6
+2020-04-03,admin_1,th,th-13,,1
+2020-04-03,admin_1,th,th-20,,4
+2020-04-03,admin_1,th,th-81,,1
+2020-04-03,admin_1,th,th-83,,12
+2020-04-03,admin_1,th,th-90,,5
+2020-04-03,admin_1,th,th-95,,5
+2020-04-03,admin_1,th,th-96,,2
+2020-04-03,th_district,th-10,bang rak,,1
+2020-04-03,th_district,th-10,bang sue,,1
+2020-04-03,th_district,th-10,din daeng,,1
+2020-04-03,th_district,th-10,don mueang,,1
+2020-04-03,th_district,th-10,huai khwang,,1
+2020-04-03,th_district,th-10,prawet,,1
+2020-04-03,th_district,th-10,vadhana,,5
+2020-04-03,th_district,th-11,bang phli,,1
+2020-04-03,th_district,th-83,kathu,,5
+2020-04-03,th_district,th-95,bannang sata,,5
+2020-04-03,th_district,th-96,ra-ngae,,1
+2020-04-04,admin_0,,th,,90
+2020-04-04,admin_0,,th,0-9,2
+2020-04-04,admin_0,,th,10-19,4
+2020-04-04,admin_0,,th,20-29,16
+2020-04-04,admin_0,,th,30-39,24
+2020-04-04,admin_0,,th,40-49,17
+2020-04-04,admin_0,,th,50-59,19
+2020-04-04,admin_0,,th,60-69,4
+2020-04-04,admin_0,,th,70-79,3
+2020-04-04,admin_1,th,th-10,,33
+2020-04-04,admin_1,th,th-11,,5
+2020-04-04,admin_1,th,th-12,,13
+2020-04-04,admin_1,th,th-13,,4
+2020-04-04,admin_1,th,th-20,,5
+2020-04-04,admin_1,th,th-83,,9
+2020-04-04,admin_1,th,th-90,,3
+2020-04-04,admin_1,th,th-95,,2
+2020-04-04,admin_1,th,th-96,,4
+2020-04-04,th_district,th-10,bang kapi,,1
+2020-04-04,th_district,th-10,bang rak,,1
+2020-04-04,th_district,th-10,din daeng,,2
+2020-04-04,th_district,th-10,huai khwang,,1
+2020-04-04,th_district,th-10,lat phrao,,1
+2020-04-04,th_district,th-10,phasi charoen,,1
+2020-04-04,th_district,th-10,phaya thai,,1
+2020-04-04,th_district,th-10,prawet,,1
+2020-04-04,th_district,th-10,suan luang,,1
+2020-04-04,th_district,th-10,vadhana,,1
+2020-04-04,th_district,th-10,wang thonglang,,1
+2020-04-04,th_district,th-20,bang lamung,,1
+2020-04-04,th_district,th-83,kathu,,4
+2020-04-04,th_district,th-90,singhanakhon,,2
+2020-04-04,th_district,th-95,bannang sata,,4
+2020-04-05,admin_0,,th,,101
+2020-04-05,admin_0,,th,0-9,4
+2020-04-05,admin_0,,th,10-19,1
+2020-04-05,admin_0,,th,20-29,26
+2020-04-05,admin_0,,th,30-39,31
+2020-04-05,admin_0,,th,40-49,24
+2020-04-05,admin_0,,th,50-59,8
+2020-04-05,admin_0,,th,60-69,6
+2020-04-05,admin_0,,th,70-79,2
+2020-04-05,admin_1,th,th-10,,34
+2020-04-05,admin_1,th,th-11,,9
+2020-04-05,admin_1,th,th-12,,7
+2020-04-05,admin_1,th,th-14,,1
+2020-04-05,admin_1,th,th-20,,8
+2020-04-05,admin_1,th,th-50,,3
+2020-04-05,admin_1,th,th-52,,2
+2020-04-05,admin_1,th,th-77,,1
+2020-04-05,admin_1,th,th-83,,23
+2020-04-05,admin_1,th,th-95,,1
+2020-04-05,admin_1,th,th-96,,2
+2020-04-05,th_district,th-10,bang kapi,,1
+2020-04-05,th_district,th-10,bang rak,,1
+2020-04-05,th_district,th-10,bueng kum,,1
+2020-04-05,th_district,th-10,din daeng,,1
+2020-04-05,th_district,th-10,huai khwang,,1
+2020-04-05,th_district,th-10,lam luk ka,,1
+2020-04-05,th_district,th-10,lat phrao,,1
+2020-04-05,th_district,th-10,phaya thai,,1
+2020-04-05,th_district,th-10,pom prap sattru phai,,1
+2020-04-05,th_district,th-10,suan luang,,1
+2020-04-05,th_district,th-20,bang lamung,,1
+2020-04-05,th_district,th-52,ngao,,2
+2020-04-05,th_district,th-83,kathu,,16
+2020-04-06,admin_0,,th,,51
+2020-04-06,admin_0,,th,0-9,1
+2020-04-06,admin_0,,th,10-19,3
+2020-04-06,admin_0,,th,20-29,16
+2020-04-06,admin_0,,th,30-39,11
+2020-04-06,admin_0,,th,40-49,6
+2020-04-06,admin_0,,th,50-59,10
+2020-04-06,admin_0,,th,60-69,1
+2020-04-06,admin_0,,th,70-79,2
+2020-04-06,admin_1,th,th-10,,27
+2020-04-06,admin_1,th,th-11,,2
+2020-04-06,admin_1,th,th-12,,4
+2020-04-06,admin_1,th,th-20,,3
+2020-04-06,admin_1,th,th-27,,1
+2020-04-06,admin_1,th,th-83,,4
+2020-04-06,admin_1,th,th-93,,2
+2020-04-06,admin_1,th,th-94,,1
+2020-04-06,admin_1,th,th-95,,2
+2020-04-06,admin_1,th,th-96,,1
+2020-04-06,th_district,th-10,bang kapi,,10
+2020-04-06,th_district,th-10,don mueang,,1
+2020-04-06,th_district,th-10,lat phrao,,1
+2020-04-06,th_district,th-10,thung khru,,1
+2020-04-06,th_district,th-20,bang lamung,,1
+2020-04-06,th_district,th-27,watthana nakhon,,1
+2020-04-06,th_district,th-83,kathu,,2
+2020-04-06,th_district,th-93,kong ra,,2
+2020-04-07,admin_0,,th,,38
+2020-04-07,admin_0,,th,10-19,1
+2020-04-07,admin_0,,th,20-29,13
+2020-04-07,admin_0,,th,30-39,15
+2020-04-07,admin_0,,th,40-49,4
+2020-04-07,admin_0,,th,50-59,3
+2020-04-07,admin_0,,th,60-69,2
+2020-04-07,admin_1,th,th-10,,26
+2020-04-07,admin_1,th,th-20,,4
+2020-04-07,admin_1,th,th-83,,3
+2020-04-07,th_district,th-10,bang kapi,,1
+2020-04-07,th_district,th-10,bang khun thian,,1
+2020-04-07,th_district,th-10,khlong san,,1
+2020-04-07,th_district,th-10,khlong toei,,2
+2020-04-07,th_district,th-10,lat phrao,,1
+2020-04-07,th_district,th-20,bang lamung,,1
+2020-04-08,admin_0,,th,,112
+2020-04-08,admin_0,,th,10-19,6
+2020-04-08,admin_0,,th,20-29,20
+2020-04-08,admin_0,,th,30-39,27
+2020-04-08,admin_0,,th,40-49,14
+2020-04-08,admin_0,,th,50-59,25
+2020-04-08,admin_0,,th,60-69,11
+2020-04-08,admin_1,th,th-10,,23
+2020-04-08,admin_1,th,th-30,,1
+2020-04-08,admin_1,th,th-81,,2
+2020-04-08,admin_1,th,th-83,,20
+2020-04-08,th_district,th-10,bang kapi,,2
+2020-04-08,th_district,th-10,khlong toei,,4
+2020-04-08,th_district,th-10,lak si,,1
+2020-04-08,th_district,th-10,pom prap sattru phai,,1
+2020-04-08,th_district,th-10,rat burana,,1
+2020-04-08,th_district,th-10,sathon,,2
+2020-04-08,th_district,th-10,vadhana,,3
+2020-04-08,th_district,th-30,pak chong,,1
+2020-04-08,th_district,th-81,ko lanta,,2
+2020-04-08,th_district,th-83,san pa tong,,2
+2020-04-09,admin_0,,th,,54
+2020-04-09,admin_0,,th,0-9,1
+2020-04-09,admin_0,,th,10-19,2
+2020-04-09,admin_0,,th,20-29,6
+2020-04-09,admin_0,,th,30-39,18
+2020-04-09,admin_0,,th,40-49,15
+2020-04-09,admin_0,,th,50-59,7
+2020-04-09,admin_0,,th,60-69,3
+2020-04-09,admin_0,,th,70-79,2
+2020-04-09,admin_1,th,th-10,,21
+2020-04-09,admin_1,th,th-11,,1
+2020-04-09,admin_1,th,th-12,,2
+2020-04-09,admin_1,th,th-13,,3
+2020-04-09,admin_1,th,th-83,,3
+2020-04-09,admin_1,th,th-93,,1
+2020-04-09,admin_1,th,th-94,,11
+2020-04-09,admin_1,th,th-95,,2
+2020-04-09,admin_1,th,th-96,,1
+2020-04-09,th_district,th-10,bang kapi,,2
+2020-04-09,th_district,th-10,khlong toei,,1
+2020-04-09,th_district,th-10,pom prap sattru phai,,1
+2020-04-09,th_district,th-83,kathu,,1
+2020-04-09,th_district,th-83,thalang,,2
+2020-04-09,th_district,th-93,kong ra,,1
+2020-04-09,th_district,th-94,kapho,,3
+2020-04-09,th_district,th-94,nong chik,,1
+2020-04-09,th_district,th-94,thung yang daeng,,5
+2020-04-09,th_district,th-94,yarang,,1
+2020-04-09,th_district,th-95,bannang sata,,-11
+2020-04-10,admin_0,,th,,49
+2020-04-10,admin_0,,th,0-9,4
+2020-04-10,admin_0,,th,10-19,2
+2020-04-10,admin_0,,th,20-29,11
+2020-04-10,admin_0,,th,30-39,11
+2020-04-10,admin_0,,th,40-49,10
+2020-04-10,admin_0,,th,50-59,5
+2020-04-10,admin_0,,th,60-69,5
+2020-04-10,admin_0,,th,70-79,2
+2020-04-10,admin_1,th,th-10,,19
+2020-04-10,admin_1,th,th-11,,4
+2020-04-10,admin_1,th,th-12,,4
+2020-04-10,admin_1,th,th-60,,2
+2020-04-10,admin_1,th,th-83,,5
+2020-04-10,admin_1,th,th-95,,7
+2020-04-10,admin_1,th,th-96,,1
+2020-04-10,th_district,th-10,bueng kum,,1
+2020-04-10,th_district,th-10,chom thong,,1
+2020-04-10,th_district,th-10,khlong toei,,1
+2020-04-10,th_district,th-10,phra pradaeng,,2
+2020-04-10,th_district,th-10,suan luang,,2
+2020-04-10,th_district,th-60,chum saeng,,1
+2020-04-10,th_district,th-83,kathu,,1
+2020-04-10,th_district,th-95,bannang sata,,15
+2020-04-11,admin_0,,th,,46
+2020-04-11,admin_0,,th,0-9,2
+2020-04-11,admin_0,,th,10-19,2
+2020-04-11,admin_0,,th,20-29,6
+2020-04-11,admin_0,,th,30-39,14
+2020-04-11,admin_0,,th,40-49,10
+2020-04-11,admin_0,,th,50-59,3
+2020-04-11,admin_0,,th,60-69,4
+2020-04-11,admin_0,,th,70-79,3
+2020-04-11,admin_1,th,th-10,,17
+2020-04-11,admin_1,th,th-25,,1
+2020-04-11,admin_1,th,th-83,,6
+2020-04-11,th_district,th-10,khlong toei,,1
+2020-04-11,th_district,th-10,pak kret,,1
+2020-04-11,th_district,th-10,phra khanong,,1
+2020-04-11,th_district,th-10,rat burana,,1
+2020-04-11,th_district,th-10,sathon,,2
+2020-04-11,th_district,th-83,kathu,,1
+2020-04-12,admin_0,,th,,32
+2020-04-12,admin_0,,th,10-19,1
+2020-04-12,admin_0,,th,20-29,11
+2020-04-12,admin_0,,th,30-39,5
+2020-04-12,admin_0,,th,40-49,5
+2020-04-12,admin_0,,th,50-59,5
+2020-04-12,admin_0,,th,60-69,4
+2020-04-12,admin_0,,th,70-79,2
+2020-04-12,admin_1,th,th-10,,14
+2020-04-12,admin_1,th,th-20,,1
+2020-04-12,admin_1,th,th-83,,4
+2020-04-12,admin_1,th,th-94,,3
+2020-04-12,th_district,th-10,rat burana,,1
+2020-04-12,th_district,th-83,kathu,,1
+2020-04-12,th_district,th-83,thalang,,2
+2020-04-12,th_district,th-94,thung yang daeng,,1
+2020-04-13,admin_0,,th,,29
+2020-04-13,admin_0,,th,20-29,4
+2020-04-13,admin_0,,th,30-39,9
+2020-04-13,admin_0,,th,40-49,3
+2020-04-13,admin_0,,th,50-59,6
+2020-04-13,admin_0,,th,60-69,1
+2020-04-13,admin_0,,th,70-79,1
+2020-04-13,admin_1,th,th-10,,12
+2020-04-13,admin_1,th,th-20,,2
+2020-04-13,admin_1,th,th-42,,1
+2020-04-13,admin_1,th,th-83,,6
+2020-04-13,admin_1,th,th-95,,2
+2020-04-13,th_district,th-10,min buri,,1
+2020-04-13,th_district,th-83,thalang,,6
+2020-04-14,admin_0,,th,,34
+2020-04-14,admin_0,,th,0-9,2
+2020-04-14,admin_0,,th,20-29,2
+2020-04-14,admin_0,,th,30-39,4
+2020-04-14,admin_0,,th,40-49,9
+2020-04-14,admin_0,,th,50-59,6
+2020-04-14,admin_0,,th,60-69,4
+2020-04-14,admin_0,,th,70-79,3
+2020-04-14,admin_1,th,th-10,,9
+2020-04-14,admin_1,th,th-42,,1
+2020-04-14,admin_1,th,th-83,,5
+2020-04-14,admin_1,th,th-91,,1
+2020-04-14,admin_1,th,th-95,,6
+2020-04-14,th_district,th-10,bang kapi,,2
+2020-04-14,th_district,th-83,thalang,,5
+2020-04-14,th_district,th-91,khuan don,,1
+2020-04-15,admin_0,,th,,29
+2020-04-15,admin_0,,th,0-9,1
+2020-04-15,admin_0,,th,10-19,5
+2020-04-15,admin_0,,th,20-29,6
+2020-04-15,admin_0,,th,30-39,4
+2020-04-15,admin_0,,th,40-49,7
+2020-04-15,admin_0,,th,50-59,4
+2020-04-15,admin_0,,th,60-69,2
+2020-04-15,admin_0,,th,70-79,1
+2020-04-15,admin_1,th,th-10,,17
+2020-04-15,admin_1,th,th-83,,3
+2020-04-15,admin_1,th,th-94,,3
+2020-04-15,admin_1,th,th-95,,3
+2020-04-15,th_district,th-10,bang kapi,,1
+2020-04-15,th_district,th-10,khlong san,,1
+2020-04-15,th_district,th-83,thalang,,3
+2020-04-15,th_district,th-94,thung yang daeng,,3
+2020-04-15,th_district,th-95,bannang sata,,3
+2020-04-16,admin_0,,th,,30
+2020-04-16,admin_0,,th,0-9,2
+2020-04-16,admin_0,,th,20-29,10
+2020-04-16,admin_0,,th,30-39,5
+2020-04-16,admin_0,,th,40-49,6
+2020-04-16,admin_0,,th,50-59,3
+2020-04-16,admin_0,,th,60-69,2
+2020-04-16,admin_1,th,th-10,,20
+2020-04-16,admin_1,th,th-83,,1
+2020-04-16,admin_1,th,th-86,,3
+2020-04-16,admin_1,th,th-94,,1
+2020-04-16,admin_1,th,th-95,,3
+2020-04-16,admin_1,th,th-96,,1
+2020-04-16,th_district,th-10,khlong san,,3
+2020-04-16,th_district,th-10,nong chok,,1
+2020-04-16,th_district,th-83,thalang,,1
+2020-04-16,th_district,th-94,thung yang daeng,,1
+2020-04-16,th_district,th-95,bannang sata,,3
+2020-04-17,admin_0,,th,,28
+2020-04-17,admin_0,,th,0-9,1
+2020-04-17,admin_0,,th,20-29,8
+2020-04-17,admin_0,,th,30-39,7
+2020-04-17,admin_0,,th,40-49,3
+2020-04-17,admin_0,,th,50-59,2
+2020-04-17,admin_0,,th,60-69,3
+2020-04-17,admin_0,,th,80-89,2
+2020-04-17,admin_1,th,th-10,,20
+2020-04-17,admin_1,th,th-83,,1
+2020-04-17,admin_1,th,th-86,,2
+2020-04-17,admin_1,th,th-94,,1
+2020-04-17,admin_1,th,th-95,,3
+2020-04-17,th_district,th-10,vadhana,,2
+2020-04-17,th_district,th-10,wang thonglang,,1
+2020-04-17,th_district,th-83,thalang,,1
+2020-04-17,th_district,th-94,thung yang daeng,,1
+2020-04-17,th_district,th-95,bannang sata,,3
+2020-04-18,admin_0,,th,,32
+2020-04-18,admin_0,,th,10-19,2
+2020-04-18,admin_0,,th,20-29,10
+2020-04-18,admin_0,,th,30-39,7
+2020-04-18,admin_0,,th,40-49,7
+2020-04-18,admin_0,,th,50-59,3
+2020-04-18,admin_0,,th,60-69,3
+2020-04-18,admin_0,,th,70-79,1
+2020-04-18,admin_1,th,th-10,,30
+2020-04-18,th_district,th-10,vadhana,,1
+2020-04-18,th_district,th-10,wang thonglang,,2
+2020-04-19,admin_0,,th,,32
+2020-04-19,admin_0,,th,10-19,1
+2020-04-19,admin_0,,th,20-29,8
+2020-04-19,admin_0,,th,30-39,10
+2020-04-19,admin_0,,th,40-49,7
+2020-04-19,admin_0,,th,50-59,4
+2020-04-19,admin_0,,th,60-69,1
+2020-04-19,admin_0,,th,70-79,1
+2020-04-19,admin_1,th,th-10,,24
+2020-04-19,th_district,th-10,bang kapi,,1
+2020-04-19,th_district,th-10,chatuchak,,1
+2020-04-19,th_district,th-10,khlong san,,1
+2020-04-19,th_district,th-10,vadhana,,1
+2020-04-20,admin_0,,th,,28
+2020-04-20,admin_0,,th,20-29,10
+2020-04-20,admin_0,,th,30-39,3
+2020-04-20,admin_0,,th,40-49,4
+2020-04-20,admin_0,,th,50-59,8
+2020-04-20,admin_0,,th,60-69,2
+2020-04-20,admin_1,th,th-10,,16
+2020-04-20,admin_1,th,th-20,,2
+2020-04-20,admin_1,th,th-86,,4
+2020-04-20,admin_1,th,th-96,,2
+2020-04-20,th_district,th-10,chatuchak,,1
+2020-04-20,th_district,th-10,chom thong,,1
+2020-04-20,th_district,th-10,khlong san,,1
+2020-04-20,th_district,th-10,phra khanong,,1
+2020-04-20,th_district,th-10,saphan sung,,5
+2020-04-20,th_district,th-10,sathon,,1
+2020-04-20,th_district,th-96,rueso,,2
+2020-04-21,admin_0,,th,,18
+2020-04-21,admin_0,,th,20-29,1
+2020-04-21,admin_0,,th,30-39,5
+2020-04-21,admin_0,,th,40-49,3
+2020-04-21,admin_0,,th,50-59,1
+2020-04-21,admin_0,,th,60-69,1
+2020-04-21,admin_1,th,th-10,,10
+2020-04-21,admin_1,th,th-20,,2
+2020-04-21,admin_1,th,th-86,,1
+2020-04-21,admin_1,th,th-95,,2
+2020-04-21,th_district,th-10,chom thong,,2
+2020-04-21,th_district,th-10,khlong san,,1
+2020-04-21,th_district,th-10,ratchathewi,,1
+2020-04-21,th_district,th-95,yaha,,2
+2020-04-22,admin_0,,th,,16
+2020-04-22,admin_0,,th,0-9,1
+2020-04-22,admin_0,,th,20-29,5
+2020-04-22,admin_0,,th,30-39,4
+2020-04-22,admin_0,,th,40-49,2
+2020-04-22,admin_0,,th,50-59,1
+2020-04-22,admin_0,,th,60-69,1
+2020-04-22,admin_0,,th,80-89,1
+2020-04-22,admin_1,th,th-10,,3
+2020-04-22,admin_1,th,th-86,,4
+2020-04-22,admin_1,th,th-90,,4
+2020-04-22,th_district,th-10,bang kapi,,1
+2020-04-22,th_district,th-90,sadao,,3
+2020-04-23,admin_0,,th,,13
+2020-04-23,admin_0,,th,20-29,3
+2020-04-23,admin_0,,th,30-39,2
+2020-04-23,admin_0,,th,40-49,4
+2020-04-23,admin_0,,th,80-89,2
+2020-04-23,admin_1,th,th-10,,4
+2020-04-23,admin_1,th,th-13,,1
+2020-04-23,admin_1,th,th-73,,1
+2020-04-23,admin_1,th,th-86,,1
+2020-04-23,admin_1,th,th-90,,1
+2020-04-23,th_district,th-90,sadao,,1
+2020-04-24,admin_0,,th,,14
+2020-04-24,admin_0,,th,10-19,1
+2020-04-24,admin_0,,th,20-29,3
+2020-04-24,admin_0,,th,40-49,6
+2020-04-24,admin_1,th,th-10,,4
+2020-04-24,admin_1,th,th-13,,1
+2020-04-24,admin_1,th,th-83,,4
+2020-04-24,admin_1,th,th-90,,1
+2020-04-24,th_district,th-83,thalang,,3
+2020-04-24,th_district,th-90,sadao,,1
+2020-04-25,admin_0,,th,,53
+2020-04-25,admin_0,,th,0-9,1
+2020-04-25,admin_0,,th,10-19,6
+2020-04-25,admin_0,,th,20-29,16
+2020-04-25,admin_0,,th,40-49,10
+2020-04-25,admin_0,,th,50-59,3
+2020-04-25,admin_1,th,th-10,,2
+2020-04-25,admin_1,th,th-83,,1
+2020-04-25,admin_1,th,th-90,,42
+2020-04-25,admin_1,th,th-95,,7
+2020-04-25,th_district,th-90,sadao,,42
+2020-04-25,th_district,th-95,bannang sata,,7
+2020-04-26,admin_0,,th,,16
+2020-04-26,admin_0,,th,20-29,2
+2020-04-26,admin_0,,th,30-39,4
+2020-04-26,admin_0,,th,40-49,5
+2020-04-26,admin_0,,th,50-59,1
+2020-04-26,admin_0,,th,60-69,3
+2020-04-26,admin_1,th,th-10,,7
+2020-04-26,admin_1,th,th-20,,1
+2020-04-26,admin_1,th,th-83,,4
+2020-04-26,admin_1,th,th-95,,2
+2020-04-26,th_district,th-95,bannang sata,,2
+2020-04-27,admin_0,,th,,8
+2020-04-27,admin_0,,th,20-29,1
+2020-04-27,admin_0,,th,30-39,1
+2020-04-27,admin_0,,th,50-59,2
+2020-04-27,admin_0,,th,60-69,2
+2020-04-27,admin_1,th,th-10,,2
+2020-04-27,admin_1,th,th-83,,1
+2020-04-27,admin_1,th,th-95,,5
+2020-04-27,th_district,th-83,thalang,,1
+2020-04-27,th_district,th-95,bannang sata,,4
+2020-04-28,admin_0,,th,,8
+2020-04-28,admin_0,,th,20-29,3
+2020-04-28,admin_0,,th,30-39,3
+2020-04-28,admin_0,,th,50-59,1
+2020-04-28,admin_1,th,th-10,,3
+2020-04-28,admin_1,th,th-83,,3
+2020-04-28,th_district,th-83,thalang,,3
+2020-04-29,admin_0,,th,,9
+2020-04-29,admin_0,,th,20-29,1
+2020-04-29,admin_0,,th,30-39,2
+2020-04-29,admin_0,,th,50-59,1
+2020-04-29,admin_1,th,th-10,,3
+2020-04-29,admin_1,th,th-83,,4
+2020-04-29,th_district,th-83,thalang,,3
+2020-04-30,admin_0,,th,,6
+2020-04-30,admin_0,,th,20-29,3
+2020-04-30,admin_0,,th,30-39,1
+2020-04-30,admin_0,,th,50-59,1
+2020-04-30,admin_1,th,th-10,,3
+2020-04-30,admin_1,th,th-83,,3
+2020-04-30,th_district,th-83,thalang,,3
+2020-05-01,admin_0,,th,,7
+2020-05-01,admin_0,,th,20-29,2
+2020-05-01,admin_0,,th,30-39,1
+2020-05-01,admin_0,,th,50-59,1
+2020-05-01,admin_1,th,th-10,,1
+2020-05-02,admin_0,,th,,5
+2020-05-02,admin_0,,th,20-29,2
+2020-05-02,admin_0,,th,40-49,1
+2020-05-02,admin_0,,th,50-59,3
+2020-05-02,admin_1,th,th-10,,3
+2020-05-03,admin_0,,th,,3
+2020-05-03,admin_0,,th,20-29,1
+2020-05-03,admin_0,,th,50-59,1
+2020-05-03,admin_1,th,th-10,,2
+2020-05-04,admin_0,,th,,19
+2020-05-04,admin_0,,th,20-29,6
+2020-05-05,admin_0,,th,,0
+2020-05-06,admin_0,,th,,2
+2020-05-07,admin_0,,th,,2
+2020-05-08,admin_0,,th,,8
+2020-05-08,admin_0,,th,40-49,1
+2020-05-08,admin_0,,th,50-59,2
+2020-05-08,admin_1,th,th-95,,3
+2020-05-08,th_district,th-95,bannang sata,,3
+2020-05-09,admin_0,,th,,5
+2020-05-09,admin_0,,th,20-29,1
+2020-05-09,admin_0,,th,30-39,1
+2020-05-09,admin_0,,th,40-49,2
+2020-05-09,admin_1,th,th-95,,2
+2020-05-09,th_district,th-95,bannang sata,,2
+2020-05-10,admin_0,,th,,4
+2020-05-10,admin_0,,th,20-29,2
+2020-05-10,admin_0,,th,40-49,2
+2020-05-10,admin_1,th,th-10,,2
+2020-05-11,admin_0,,th,,6
+2020-05-11,admin_0,,th,20-29,4
+2020-05-11,admin_1,th,th-96,,1
+2020-05-11,th_district,th-96,waeng,,1
+2020-05-12,admin_0,,th,,2
+2020-05-12,admin_0,,th,10-19,1
+2020-05-12,admin_1,th,th-96,,1
+2020-05-12,th_district,th-96,waeng,,1
+2020-05-13,admin_0,,th,,0
+2020-05-14,admin_0,,th,,2
+2020-05-15,admin_0,,th,,7
+2020-05-15,admin_0,,th,30-39,1
+2020-05-16,admin_0,,th,,-1
+2020-05-17,admin_0,,th,,4
+2020-05-18,admin_0,,th,,3
+2020-05-18,admin_0,,th,20-29,2
+2020-05-19,admin_0,,th,,1
+2020-05-20,admin_0,,th,,2
+2020-05-20,admin_0,,th,40-49,1
+2020-05-21,admin_0,,th,,2
+2020-05-21,admin_0,,th,40-49,1
+2020-05-21,admin_1,th,th-10,,2
+2020-05-22,admin_0,,th,,0
+2020-05-23,admin_0,,th,,3
+2020-05-24,admin_0,,th,,0
+2020-05-25,admin_0,,th,,2
+2020-05-26,admin_0,,th,,3
+2020-05-26,admin_0,,th,40-49,2
+2020-05-26,admin_0,,th,50-59,1
+2020-05-26,admin_1,th,th-20,,1
+2020-05-26,th_district,th-20,bang lamung,,1
+2020-05-27,admin_0,,th,,9
+2020-05-27,admin_1,th,th-11,,1
+2020-05-27,admin_1,th,th-20,,2
+2020-05-27,th_district,th-11,bang sao thong,,1
+2020-05-28,admin_0,,th,,11
+2020-05-28,admin_0,,th,20-29,2
+2020-05-28,admin_0,,th,30-39,5
+2020-05-28,admin_1,th,th-11,,1
+2020-05-29,admin_0,,th,,11
+2020-05-29,admin_0,,th,20-29,1
+2020-05-29,admin_0,,th,40-49,6
+2020-05-29,admin_0,,th,50-59,4
+2020-05-29,admin_1,th,th-10,,2
+2020-05-29,admin_1,th,th-11,,9
+2020-05-30,admin_0,,th,,2
+2020-05-30,admin_0,,th,20-29,1
+2020-05-31,admin_0,,th,,4
+2020-05-31,admin_0,,th,20-29,1
+2020-05-31,admin_1,th,th-96,,1
+2020-05-31,th_district,th-96,yi-ngo,,-1
+2020-06-01,admin_0,,th,,1
+2020-06-01,admin_1,th,th-20,,1
+2020-06-01,th_district,th-20,bang lamung,,1
+2020-06-02,admin_0,,th,,1
+2020-06-03,admin_0,,th,,1
+2020-06-04,admin_0,,th,,17
+2020-06-04,admin_0,,th,20-29,4
+2020-06-05,admin_0,,th,,0
+2020-06-05,admin_0,,th,40-49,1
+2020-06-05,admin_1,th,th-10,,1
+2020-06-06,admin_0,,th,,3
+2020-06-06,admin_1,th,th-10,,1
+2020-06-07,admin_0,,th,,8
+2020-06-07,admin_0,,th,20-29,2
+2020-06-07,admin_0,,th,30-39,4
+2020-06-07,admin_1,th,th-10,,5
+2020-06-08,admin_0,,th,,6
+2020-06-08,admin_0,,th,20-29,2
+2020-06-08,admin_0,,th,30-39,2
+2020-06-08,admin_0,,th,40-49,2
+2020-06-08,admin_1,th,th-10,,7
+2020-06-08,th_district,th-10,ratchathewi,,4
+2020-06-09,admin_0,,th,,2
+2020-06-09,admin_0,,th,20-29,1
+2020-06-09,admin_0,,th,30-39,1
+2020-06-09,admin_1,th,th-10,,1
+2020-06-10,admin_0,,th,,4
+2020-06-10,admin_0,,th,30-39,2
+2020-06-10,admin_1,th,th-10,,2
+2020-06-11,admin_0,,th,,0
+2020-06-12,admin_0,,th,,5
+2020-06-13,admin_0,,th,,4
+2020-06-14,admin_0,,th,,1
+2020-06-14,admin_0,,th,20-29,1
+2020-06-15,admin_0,,th,,0
+2020-06-16,admin_0,,th,,0
+2020-06-17,admin_0,,th,,0
+2020-06-18,admin_0,,th,,6
+2020-06-19,admin_0,,th,,5
+2020-06-19,admin_0,,th,20-29,5
+2020-06-19,admin_1,th,th-10,,5
+2020-06-19,th_district,th-10,ratchathewi,,5
+2020-06-20,admin_0,,th,,2
+2020-06-20,admin_0,,th,20-29,1
+2020-06-21,admin_0,,th,,0
+2020-06-21,admin_1,th,th-20,,1
+2020-06-21,th_district,th-20,bang lamung,,1
+2020-06-22,admin_0,,th,,4
+2020-06-22,admin_1,th,th-20,,3
+2020-06-22,th_district,th-20,bang lamung,,3
+2020-06-23,admin_0,,th,,4
+2020-06-23,admin_0,,th,20-29,2
+2020-06-23,admin_0,,th,30-39,2
+2020-06-23,admin_1,th,th-20,,5
+2020-06-24,admin_0,,th,,1
+2020-06-24,admin_0,,th,30-39,1
+2020-06-25,admin_0,,th,,2
+2020-06-26,admin_0,,th,,4
+2020-06-26,admin_0,,th,20-29,2
+2020-06-27,admin_0,,th,,-1
+2020-06-28,admin_0,,th,,0
+2020-06-29,admin_0,,th,,8
+2020-06-30,admin_0,,th,,1
+2020-06-30,admin_0,,th,20-29,2
+2020-07-01,admin_0,,th,,2
+2020-07-02,admin_0,,th,,7
+2020-07-02,admin_0,,th,40-49,1
+2020-07-03,admin_0,,th,,1
+2020-07-03,admin_0,,th,20-29,1
+2020-07-03,admin_1,th,th-20,,1
+2020-07-03,th_district,th-20,sattahip,,1
+2020-07-04,admin_0,,th,,5
+2020-07-04,admin_0,,th,20-29,3
+2020-07-04,admin_1,th,th-20,,4
+2020-07-05,admin_0,,th,,4
+2020-07-05,admin_0,,th,30-39,2
+2020-07-05,admin_0,,th,40-49,1
+2020-07-05,admin_1,th,th-10,,5
+2020-07-05,th_district,th-10,bang na,,3
+2020-07-06,admin_0,,th,,6
+2020-07-06,admin_0,,th,30-39,2
+2020-07-06,admin_0,,th,40-49,2
+2020-07-06,admin_0,,th,50-59,1
+2020-07-06,admin_1,th,th-10,,5
+2020-07-06,th_district,th-10,bang na,,5
+2020-07-07,admin_0,,th,,-1
+2020-07-08,admin_0,,th,,3
+2020-07-09,admin_0,,th,,5
+2020-07-09,admin_0,,th,30-39,1
+2020-07-09,admin_1,th,th-10,,2
+2020-07-09,admin_1,th,th-20,,2
+2020-07-09,th_district,th-20,bang lamung,,2
+2020-07-10,admin_0,,th,,-1
+2020-07-11,admin_0,,th,,14
+2020-07-12,admin_0,,th,,2
+2020-07-12,admin_0,,th,30-39,1
+2020-07-12,admin_1,th,th-10,,1
+2020-07-13,admin_0,,th,,2
+2020-07-13,admin_1,th,th-10,,1
+2020-07-14,admin_0,,th,,7
+2020-07-14,admin_0,,th,20-29,5
+2020-07-14,admin_1,th,th-10,,1
+2020-07-15,admin_0,,th,,6
+2020-07-15,admin_0,,th,20-29,1
+2020-07-15,admin_0,,th,30-39,1
+2020-07-15,admin_1,th,th-10,,1
+2020-07-15,admin_1,th,th-20,,2
+2020-07-16,admin_0,,th,,4
+2020-07-16,admin_0,,th,20-29,2
+2020-07-16,admin_0,,th,30-39,1
+2020-07-16,admin_1,th,th-10,,1
+2020-07-16,admin_1,th,th-20,,3
+2020-07-16,th_district,th-10,pathum wan,,1
+2020-07-16,th_district,th-20,bang lamung,,3
+2020-07-17,admin_0,,th,,3
+2020-07-17,admin_0,,th,20-29,3
+2020-07-17,admin_1,th,th-20,,3
+2020-07-17,th_district,th-20,bang lamung,,1
+2020-07-18,admin_0,,th,,6
+2020-07-18,admin_0,,th,20-29,4
+2020-07-18,admin_1,th,th-20,,1
+2020-07-18,th_district,th-20,bang lamung,,1
+2020-07-19,admin_0,,th,,4
+2020-07-19,admin_0,,th,30-39,1
+2020-07-19,admin_0,,th,60-69,1
+2020-07-19,admin_1,th,th-10,,1
+2020-07-19,admin_1,th,th-11,,2
+2020-07-20,admin_0,,th,,0
+2020-07-20,admin_1,th,th-10,,1
+2020-07-20,th_district,th-10,ratchathewi,,1
+2020-07-21,admin_0,,th,,6
+2020-07-21,admin_1,th,th-10,,1
+2020-07-22,admin_0,,th,,6
+2020-07-22,admin_0,,th,20-29,4
+2020-07-22,admin_0,,th,30-39,1
+2020-07-22,admin_1,th,th-10,,2
+2020-07-22,admin_1,th,th-20,,4
+2020-07-22,th_district,th-10,din daeng,,1
+2020-07-23,admin_0,,th,,8
+2020-07-23,admin_0,,th,20-29,8
+2020-07-23,admin_1,th,th-10,,2
+2020-07-23,admin_1,th,th-20,,6
+2020-07-23,th_district,th-10,chatuchak,,1
+2020-07-24,admin_0,,th,,9
+2020-07-24,admin_0,,th,20-29,5
+2020-07-24,admin_1,th,th-10,,7
+2020-07-24,admin_1,th,th-20,,3
+2020-07-24,th_district,th-10,chatuchak,,7
+2020-07-25,admin_0,,th,,4
+2020-07-25,admin_0,,th,10-19,1
+2020-07-25,admin_0,,th,20-29,2
+2020-07-25,admin_1,th,th-10,,2
+2020-07-25,admin_1,th,th-20,,1
+2020-07-26,admin_0,,th,,9
+2020-07-26,admin_0,,th,10-19,1
+2020-07-26,admin_0,,th,20-29,2
+2020-07-26,admin_1,th,th-10,,1
+2020-07-26,admin_1,th,th-20,,4
+2020-07-27,admin_0,,th,,4
+2020-07-27,admin_0,,th,20-29,2
+2020-07-27,admin_0,,th,30-39,1
+2020-07-27,admin_0,,th,40-49,1
+2020-07-27,admin_1,th,th-10,,1
+2020-07-27,admin_1,th,th-11,,2
+2020-07-27,admin_1,th,th-20,,1
+2020-07-28,admin_0,,th,,2
+2020-07-28,admin_0,,th,20-29,2
+2020-07-28,admin_1,th,th-10,,2
+2020-07-29,admin_0,,th,,1
+2020-07-29,admin_0,,th,20-29,1
+2020-07-29,admin_1,th,th-10,,1
+2020-07-29,th_district,th-10,sattahip,,1
+2020-07-30,admin_0,,th,,6
+2020-07-30,admin_0,,th,20-29,5
+2020-07-31,admin_0,,th,,6
+2020-07-31,admin_0,,th,20-29,5
+2020-07-31,admin_0,,th,50-59,1
+2020-07-31,admin_1,th,th-20,,4
+2020-08-01,admin_0,,th,,1
+2020-08-01,admin_0,,th,20-29,1
+2020-08-02,admin_0,,th,,6
+2020-08-02,admin_0,,th,20-29,2
+2020-08-02,admin_0,,th,40-49,1
+2020-08-02,admin_1,th,th-10,,1
+2020-08-03,admin_0,,th,,2
+2020-08-03,admin_0,,th,20-29,1
+2020-08-03,admin_0,,th,40-49,1
+2020-08-03,admin_1,th,th-10,,1
+2020-08-03,admin_1,th,th-20,,2
+2020-08-04,admin_0,,th,,2
+2020-08-04,admin_1,th,th-10,,1
+2020-08-05,admin_0,,th,,6
+2020-08-05,admin_0,,th,30-39,2
+2020-08-05,admin_1,th,th-10,,1
+2020-08-06,admin_0,,th,,3
+2020-08-06,admin_1,th,th-20,,2
+2020-08-07,admin_0,,th,,14
+2020-08-07,admin_0,,th,40-49,1
+2020-08-07,admin_1,th,th-20,,14
+2020-08-08,admin_0,,th,,3
+2020-08-08,admin_0,,th,20-29,2
+2020-08-08,admin_1,th,th-20,,3
+2020-08-09,admin_0,,th,,4
+2020-08-09,admin_0,,th,30-39,2
+2020-08-10,admin_0,,th,,-1
+2020-08-11,admin_0,,th,,0
+2020-08-12,admin_0,,th,,6
+2020-08-13,admin_0,,th,,2
+2020-08-13,admin_0,,th,50-59,1
+2020-08-13,admin_1,th,th-10,,2
+2020-08-13,admin_1,th,th-20,,1
+2020-08-13,th_district,th-20,bang lamung,,1
+2020-08-14,admin_0,,th,,17
+2020-08-14,admin_0,,th,30-39,3
+2020-08-14,admin_0,,th,50-59,1
+2020-08-14,admin_1,th,th-20,,17
+2020-08-14,th_district,th-20,bang lamung,,-57
+2020-08-15,admin_0,,th,,0
+2020-08-16,admin_0,,th,,2
+2020-08-17,admin_0,,th,,1
+2020-08-18,admin_0,,th,,3
+2020-08-19,admin_0,,th,,1
+2020-08-19,admin_0,,th,30-39,1
+2020-08-19,admin_1,th,th-10,,1
+2020-08-19,th_district,th-10,prawet,,1
+2020-08-20,admin_0,,th,,6
+2020-08-20,admin_0,,th,30-39,2
+2020-08-20,admin_1,th,th-10,,4
+2020-08-21,admin_0,,th,,2
+2020-08-21,admin_0,,th,50-59,1
+2020-08-21,admin_1,th,th-20,,1
+2020-08-21,th_district,th-20,bang lamung,,1
+2020-08-22,admin_0,,th,,-1
+2020-08-23,admin_0,,th,,6
+2020-08-24,admin_0,,th,,2
+2020-08-24,admin_1,th,th-10,,2
+2020-08-24,th_district,th-10,prawet,,1
+2020-08-25,admin_0,,th,,5
+2020-08-25,admin_1,th,th-10,,1
+2020-08-26,admin_0,,th,,1
+2020-08-26,admin_1,th,th-10,,1
+2020-08-27,admin_0,,th,,1
+2020-08-27,admin_0,,th,30-39,1
+2020-08-27,admin_1,th,th-10,,1
+2020-08-28,admin_0,,th,,6
+2020-08-28,admin_0,,th,30-39,3
+2020-08-28,admin_1,th,th-10,,3
+2020-08-29,admin_0,,th,,1
+2020-08-29,admin_0,,th,30-39,1
+2020-08-29,admin_1,th,th-20,,1
+2020-08-29,th_district,th-20,bang lamung,,69
+2020-08-30,admin_0,,th,,-1
+2020-08-31,admin_0,,th,,2
+2020-09-01,admin_0,,th,,4
+2020-09-01,admin_0,,th,20-29,2
+2020-09-01,admin_1,th,th-10,,5
+2020-09-02,admin_0,,th,,8
+2020-09-02,admin_0,,th,10-19,2
+2020-09-02,admin_0,,th,20-29,2
+2020-09-02,admin_0,,th,30-39,2
+2020-09-03,admin_0,,th,,3
+2020-09-03,admin_0,,th,20-29,2
+2020-09-03,admin_1,th,th-20,,1
+2020-09-03,th_district,th-20,bang lamung,,1
+2020-09-04,admin_0,,th,,3
+2020-09-04,admin_1,th,th-10,,4
+2020-09-05,admin_0,,th,,7
+2020-09-05,admin_1,th,th-10,,7
+2020-09-05,th_district,th-10,bang rak,,1
+2020-09-05,th_district,th-10,vadhana,,1
+2020-09-06,admin_0,,th,,6
+2020-09-06,admin_0,,th,40-49,3
+2020-09-06,admin_1,th,th-10,,3
+2020-09-06,th_district,th-10,pathum wan,,1
+2020-09-07,admin_0,,th,,1
+2020-09-07,admin_1,th,th-10,,1
+2020-09-08,admin_0,,th,,1
+2020-09-09,admin_0,,th,,1
+2020-09-10,admin_0,,th,,7
+2020-09-11,admin_0,,th,,7
+2020-09-12,admin_0,,th,,5
+2020-09-13,admin_0,,th,,7
+2020-09-14,admin_0,,th,,2
+2020-09-15,admin_0,,th,,5
+2020-09-16,admin_0,,th,,10
+2020-09-17,admin_0,,th,,0
+2020-09-18,admin_0,,th,,7
+2020-09-19,admin_0,,th,,3
+2020-09-20,admin_0,,th,,6
+2020-09-23,admin_0,,th,,3
+2020-09-24,admin_0,,th,,2
+2020-09-25,admin_0,,th,,3
+2020-09-26,admin_0,,th,,3
+2020-09-27,admin_0,,th,,1
+2020-09-28,admin_0,,th,,22
+2020-09-29,admin_0,,th,,14
+2020-09-30,admin_0,,th,,5
+2020-10-01,admin_0,,th,,5
+2020-10-02,admin_0,,th,,6
+2020-10-03,admin_0,,th,,8
+2020-10-04,admin_0,,th,,2
+2020-10-05,admin_0,,th,,5
+2020-10-06,admin_0,,th,,10
+2020-10-07,admin_0,,th,,15
+2020-10-08,admin_0,,th,,7
+2020-10-09,admin_0,,th,,6
+2020-10-10,admin_0,,th,,6
+2020-10-11,admin_0,,th,,2
+2020-10-12,admin_0,,th,,5
+2020-10-13,admin_0,,th,,2
+2020-10-14,admin_0,,th,,9
+2020-10-15,admin_0,,th,,13
+2020-10-16,admin_0,,th,,14
+2020-10-17,admin_0,,th,,-4
+2020-10-18,admin_0,,th,,11
+2020-10-19,admin_0,,th,,5
+2020-10-20,admin_0,,th,,9
+2020-10-21,admin_0,,th,,9
+2020-10-22,admin_0,,th,,10
+2020-10-23,admin_0,,th,,8
+2020-10-24,admin_0,,th,,4
+2020-10-25,admin_0,,th,,5
+2020-10-26,admin_0,,th,,7
+2020-10-27,admin_0,,th,,3
+2020-10-28,admin_0,,th,,13
+2020-10-29,admin_0,,th,,4
+2020-10-30,admin_0,,th,,12
+2020-10-31,admin_0,,th,,5
+2020-11-01,admin_0,,th,,4
+2020-11-02,admin_0,,th,,3
+2020-11-03,admin_0,,th,,10
+2020-11-04,admin_0,,th,,7
+2020-11-05,admin_0,,th,,6
+2020-11-06,admin_0,,th,,8
+2020-11-07,admin_0,,th,,12
+2020-11-08,admin_0,,th,,7
+2020-11-09,admin_0,,th,,3
+2020-11-10,admin_0,,th,,4
+2020-11-11,admin_0,,th,,3
+2020-11-12,admin_0,,th,,5
+2020-11-13,admin_0,,th,,9
+2020-11-14,admin_0,,th,,5
+2020-11-15,admin_0,,th,,8
+2020-11-16,admin_0,,th,,1
+2020-11-17,admin_0,,th,,3
+2020-11-18,admin_0,,th,,2
+2020-11-19,admin_0,,th,,8
+2020-11-20,admin_0,,th,,4
+2020-11-21,admin_0,,th,,28
+2020-11-22,admin_0,,th,,-10
+2020-11-23,admin_0,,th,,-11
+2020-11-24,admin_0,,th,,23
+2020-11-25,admin_0,,th,,4
+2020-11-26,admin_0,,th,,16
+2020-11-27,admin_0,,th,,19
+2020-11-28,admin_0,,th,,5
+2020-11-29,admin_0,,th,,11
+2020-11-30,admin_0,,th,,21
+2020-12-01,admin_0,,th,,10
+2020-12-02,admin_0,,th,,18
+2020-12-03,admin_0,,th,,13
+2020-12-04,admin_0,,th,,14
+2020-12-05,admin_0,,th,,19
+2020-12-06,admin_0,,th,,14
+2020-12-07,admin_0,,th,,21
+2020-12-08,admin_0,,th,,19
+2020-12-09,admin_0,,th,,25
+2020-12-10,admin_0,,th,,18
+2020-12-11,admin_0,,th,,11
+2020-12-12,admin_0,,th,,12
+2020-12-13,admin_0,,th,,17
+2020-12-14,admin_0,,th,,28
+2020-12-15,admin_0,,th,,9
+2020-12-16,admin_0,,th,,15
+2020-12-17,admin_0,,th,,20
+2020-12-18,admin_0,,th,,16
