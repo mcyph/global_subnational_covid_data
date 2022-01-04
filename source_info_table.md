@@ -61,6 +61,10 @@
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
+| world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
+| world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
+| world_owid | https://github.com/owid/covid-19-data |  |
+| world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
 | za_gov | https://sacoronavirus.co.za/ |  |

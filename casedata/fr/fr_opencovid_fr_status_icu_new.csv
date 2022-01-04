@@ -36,9 +36,9 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-15,admin_1,fr,fr-2a,,0
 2020-03-16,admin_1,fr,fr-2a,,0
 2020-03-17,admin_1,fr,fr-gp,,1
-2020-03-18,admin_0,,fr,,232
+2020-03-18,admin_0,,fr,,72
 2020-03-18,admin_1,fr,fr-gp,,-2
-2020-03-19,admin_0,,fr,,71
+2020-03-19,admin_0,,fr,,231
 2020-03-19,admin_1,fr,fr-01,,0
 2020-03-19,admin_1,fr,fr-02,,5
 2020-03-19,admin_1,fr,fr-03,,0
@@ -172,7 +172,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-20,admin_1,fr,fr-2a,,14
 2020-03-20,admin_1,fr,fr-2b,,0
 2020-03-20,admin_1,fr,fr-30,,0
-2020-03-20,admin_1,fr,fr-31,,4
+2020-03-20,admin_1,fr,fr-31,,5
 2020-03-20,admin_1,fr,fr-32,,0
 2020-03-20,admin_1,fr,fr-33,,0
 2020-03-20,admin_1,fr,fr-34,,3
@@ -241,8 +241,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-20,admin_1,fr,fr-gp,,-3
 2020-03-20,admin_1,fr,fr-mq,,0
 2020-03-20,admin_1,fr,fr-re,,0
-2020-03-20,admin_1,fr,fr-yt,,0
-2020-03-21,admin_0,,fr,,228
+2020-03-20,admin_1,fr,fr-yt,,1
+2020-03-21,admin_0,,fr,,156
 2020-03-21,admin_1,fr,fr-01,,0
 2020-03-21,admin_1,fr,fr-02,,1
 2020-03-21,admin_1,fr,fr-03,,0
@@ -274,10 +274,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-21,admin_1,fr,fr-2a,,0
 2020-03-21,admin_1,fr,fr-2b,,0
 2020-03-21,admin_1,fr,fr-30,,0
-2020-03-21,admin_1,fr,fr-31,,4
+2020-03-21,admin_1,fr,fr-31,,3
 2020-03-21,admin_1,fr,fr-32,,0
 2020-03-21,admin_1,fr,fr-33,,10
-2020-03-21,admin_1,fr,fr-34,,3
+2020-03-21,admin_1,fr,fr-34,,1
 2020-03-21,admin_1,fr,fr-35,,1
 2020-03-21,admin_1,fr,fr-36,,1
 2020-03-21,admin_1,fr,fr-37,,-1
@@ -344,7 +344,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-21,admin_1,fr,fr-mq,,0
 2020-03-21,admin_1,fr,fr-re,,0
 2020-03-21,admin_1,fr,fr-yt,,0
-2020-03-22,admin_0,,fr,,149
+2020-03-22,admin_0,,fr,,221
 2020-03-22,admin_1,fr,fr-01,,1
 2020-03-22,admin_1,fr,fr-02,,1
 2020-03-22,admin_1,fr,fr-03,,0
@@ -355,7 +355,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-22,admin_1,fr,fr-08,,0
 2020-03-22,admin_1,fr,fr-09,,0
 2020-03-22,admin_1,fr,fr-10,,2
-2020-03-22,admin_1,fr,fr-11,,2
+2020-03-22,admin_1,fr,fr-11,,0
 2020-03-22,admin_1,fr,fr-12,,0
 2020-03-22,admin_1,fr,fr-13,,8
 2020-03-22,admin_1,fr,fr-14,,1
@@ -376,10 +376,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-22,admin_1,fr,fr-2a,,-1
 2020-03-22,admin_1,fr,fr-2b,,0
 2020-03-22,admin_1,fr,fr-30,,0
-2020-03-22,admin_1,fr,fr-31,,2
+2020-03-22,admin_1,fr,fr-31,,4
 2020-03-22,admin_1,fr,fr-32,,0
 2020-03-22,admin_1,fr,fr-33,,8
-2020-03-22,admin_1,fr,fr-34,,-2
+2020-03-22,admin_1,fr,fr-34,,1
 2020-03-22,admin_1,fr,fr-35,,3
 2020-03-22,admin_1,fr,fr-36,,0
 2020-03-22,admin_1,fr,fr-37,,1
@@ -426,7 +426,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-22,admin_1,fr,fr-78,,4
 2020-03-22,admin_1,fr,fr-79,,0
 2020-03-22,admin_1,fr,fr-80,,4
-2020-03-22,admin_1,fr,fr-81,,2
+2020-03-22,admin_1,fr,fr-81,,1
 2020-03-22,admin_1,fr,fr-82,,0
 2020-03-22,admin_1,fr,fr-83,,3
 2020-03-22,admin_1,fr,fr-84,,0
@@ -456,8 +456,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-07,,0
 2020-03-23,admin_1,fr,fr-08,,2
 2020-03-23,admin_1,fr,fr-09,,2
-2020-03-23,admin_1,fr,fr-10,,5
-2020-03-23,admin_1,fr,fr-11,,1
+2020-03-23,admin_1,fr,fr-10,,0
+2020-03-23,admin_1,fr,fr-11,,4
 2020-03-23,admin_1,fr,fr-12,,0
 2020-03-23,admin_1,fr,fr-13,,23
 2020-03-23,admin_1,fr,fr-14,,2
@@ -478,10 +478,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-2a,,-4
 2020-03-23,admin_1,fr,fr-2b,,0
 2020-03-23,admin_1,fr,fr-30,,4
-2020-03-23,admin_1,fr,fr-31,,3
+2020-03-23,admin_1,fr,fr-31,,1
 2020-03-23,admin_1,fr,fr-32,,0
 2020-03-23,admin_1,fr,fr-33,,1
-2020-03-23,admin_1,fr,fr-34,,6
+2020-03-23,admin_1,fr,fr-34,,5
 2020-03-23,admin_1,fr,fr-35,,1
 2020-03-23,admin_1,fr,fr-36,,3
 2020-03-23,admin_1,fr,fr-37,,1
@@ -501,10 +501,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-51,,9
 2020-03-23,admin_1,fr,fr-52,,1
 2020-03-23,admin_1,fr,fr-53,,0
-2020-03-23,admin_1,fr,fr-54,,-2
+2020-03-23,admin_1,fr,fr-54,,25
 2020-03-23,admin_1,fr,fr-55,,3
 2020-03-23,admin_1,fr,fr-56,,-1
-2020-03-23,admin_1,fr,fr-57,,27
+2020-03-23,admin_1,fr,fr-57,,11
 2020-03-23,admin_1,fr,fr-58,,1
 2020-03-23,admin_1,fr,fr-59,,25
 2020-03-23,admin_1,fr,fr-60,,3
@@ -514,7 +514,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-64,,0
 2020-03-23,admin_1,fr,fr-65,,0
 2020-03-23,admin_1,fr,fr-66,,1
-2020-03-23,admin_1,fr,fr-67,,57
+2020-03-23,admin_1,fr,fr-67,,29
 2020-03-23,admin_1,fr,fr-68,,10
 2020-03-23,admin_1,fr,fr-69,,23
 2020-03-23,admin_1,fr,fr-70,,0
@@ -528,14 +528,14 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-78,,6
 2020-03-23,admin_1,fr,fr-79,,0
 2020-03-23,admin_1,fr,fr-80,,-2
-2020-03-23,admin_1,fr,fr-81,,0
+2020-03-23,admin_1,fr,fr-81,,1
 2020-03-23,admin_1,fr,fr-82,,0
 2020-03-23,admin_1,fr,fr-83,,1
 2020-03-23,admin_1,fr,fr-84,,3
 2020-03-23,admin_1,fr,fr-85,,1
 2020-03-23,admin_1,fr,fr-86,,0
 2020-03-23,admin_1,fr,fr-87,,0
-2020-03-23,admin_1,fr,fr-88,,1
+2020-03-23,admin_1,fr,fr-88,,11
 2020-03-23,admin_1,fr,fr-89,,4
 2020-03-23,admin_1,fr,fr-90,,6
 2020-03-23,admin_1,fr,fr-91,,19
@@ -547,7 +547,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,admin_1,fr,fr-gp,,0
 2020-03-23,admin_1,fr,fr-mq,,0
 2020-03-23,admin_1,fr,fr-re,,0
-2020-03-23,admin_1,fr,fr-yt,,0
+2020-03-23,admin_1,fr,fr-yt,,-1
 2020-03-24,admin_0,,fr,,421
 2020-03-24,admin_1,fr,fr-01,,0
 2020-03-24,admin_1,fr,fr-02,,4
@@ -558,8 +558,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-07,,1
 2020-03-24,admin_1,fr,fr-08,,0
 2020-03-24,admin_1,fr,fr-09,,0
-2020-03-24,admin_1,fr,fr-10,,-5
-2020-03-24,admin_1,fr,fr-11,,-1
+2020-03-24,admin_1,fr,fr-10,,0
+2020-03-24,admin_1,fr,fr-11,,-2
 2020-03-24,admin_1,fr,fr-12,,1
 2020-03-24,admin_1,fr,fr-13,,18
 2020-03-24,admin_1,fr,fr-14,,4
@@ -583,7 +583,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-31,,9
 2020-03-24,admin_1,fr,fr-32,,0
 2020-03-24,admin_1,fr,fr-33,,17
-2020-03-24,admin_1,fr,fr-34,,6
+2020-03-24,admin_1,fr,fr-34,,4
 2020-03-24,admin_1,fr,fr-35,,-1
 2020-03-24,admin_1,fr,fr-36,,2
 2020-03-24,admin_1,fr,fr-37,,0
@@ -603,10 +603,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-51,,5
 2020-03-24,admin_1,fr,fr-52,,3
 2020-03-24,admin_1,fr,fr-53,,0
-2020-03-24,admin_1,fr,fr-54,,24
+2020-03-24,admin_1,fr,fr-54,,-3
 2020-03-24,admin_1,fr,fr-55,,-2
 2020-03-24,admin_1,fr,fr-56,,0
-2020-03-24,admin_1,fr,fr-57,,2
+2020-03-24,admin_1,fr,fr-57,,18
 2020-03-24,admin_1,fr,fr-58,,0
 2020-03-24,admin_1,fr,fr-59,,8
 2020-03-24,admin_1,fr,fr-60,,4
@@ -616,7 +616,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-64,,4
 2020-03-24,admin_1,fr,fr-65,,0
 2020-03-24,admin_1,fr,fr-66,,6
-2020-03-24,admin_1,fr,fr-67,,-4
+2020-03-24,admin_1,fr,fr-67,,24
 2020-03-24,admin_1,fr,fr-68,,-3
 2020-03-24,admin_1,fr,fr-69,,16
 2020-03-24,admin_1,fr,fr-70,,7
@@ -637,7 +637,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-85,,0
 2020-03-24,admin_1,fr,fr-86,,-1
 2020-03-24,admin_1,fr,fr-87,,1
-2020-03-24,admin_1,fr,fr-88,,1
+2020-03-24,admin_1,fr,fr-88,,-9
 2020-03-24,admin_1,fr,fr-89,,1
 2020-03-24,admin_1,fr,fr-90,,2
 2020-03-24,admin_1,fr,fr-91,,4
@@ -646,7 +646,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,admin_1,fr,fr-94,,22
 2020-03-24,admin_1,fr,fr-95,,16
 2020-03-24,admin_1,fr,fr-gf,,0
-2020-03-24,admin_1,fr,fr-gp,,0
+2020-03-24,admin_1,fr,fr-gp,,1
 2020-03-24,admin_1,fr,fr-mq,,0
 2020-03-24,admin_1,fr,fr-re,,1
 2020-03-24,admin_1,fr,fr-yt,,0
@@ -679,13 +679,13 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-25,admin_1,fr,fr-27,,2
 2020-03-25,admin_1,fr,fr-28,,6
 2020-03-25,admin_1,fr,fr-29,,8
-2020-03-25,admin_1,fr,fr-2a,,-1
-2020-03-25,admin_1,fr,fr-2b,,0
+2020-03-25,admin_1,fr,fr-2a,,0
+2020-03-25,admin_1,fr,fr-2b,,1
 2020-03-25,admin_1,fr,fr-30,,2
 2020-03-25,admin_1,fr,fr-31,,8
 2020-03-25,admin_1,fr,fr-32,,0
 2020-03-25,admin_1,fr,fr-33,,0
-2020-03-25,admin_1,fr,fr-34,,3
+2020-03-25,admin_1,fr,fr-34,,5
 2020-03-25,admin_1,fr,fr-35,,1
 2020-03-25,admin_1,fr,fr-36,,0
 2020-03-25,admin_1,fr,fr-37,,2
@@ -732,7 +732,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-25,admin_1,fr,fr-78,,15
 2020-03-25,admin_1,fr,fr-79,,0
 2020-03-25,admin_1,fr,fr-80,,3
-2020-03-25,admin_1,fr,fr-81,,4
+2020-03-25,admin_1,fr,fr-81,,1
 2020-03-25,admin_1,fr,fr-82,,0
 2020-03-25,admin_1,fr,fr-83,,4
 2020-03-25,admin_1,fr,fr-84,,1
@@ -748,7 +748,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-25,admin_1,fr,fr-94,,20
 2020-03-25,admin_1,fr,fr-95,,12
 2020-03-25,admin_1,fr,fr-gf,,0
-2020-03-25,admin_1,fr,fr-gp,,1
+2020-03-25,admin_1,fr,fr-gp,,-1
 2020-03-25,admin_1,fr,fr-mq,,2
 2020-03-25,admin_1,fr,fr-re,,0
 2020-03-25,admin_1,fr,fr-yt,,0
@@ -781,8 +781,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-26,admin_1,fr,fr-27,,3
 2020-03-26,admin_1,fr,fr-28,,2
 2020-03-26,admin_1,fr,fr-29,,0
-2020-03-26,admin_1,fr,fr-2a,,5
-2020-03-26,admin_1,fr,fr-2b,,0
+2020-03-26,admin_1,fr,fr-2a,,4
+2020-03-26,admin_1,fr,fr-2b,,-1
 2020-03-26,admin_1,fr,fr-30,,1
 2020-03-26,admin_1,fr,fr-31,,18
 2020-03-26,admin_1,fr,fr-32,,0
@@ -819,7 +819,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-26,admin_1,fr,fr-63,,0
 2020-03-26,admin_1,fr,fr-64,,2
 2020-03-26,admin_1,fr,fr-65,,0
-2020-03-26,admin_1,fr,fr-66,,5
+2020-03-26,admin_1,fr,fr-66,,4
 2020-03-26,admin_1,fr,fr-67,,20
 2020-03-26,admin_1,fr,fr-68,,13
 2020-03-26,admin_1,fr,fr-69,,-2
@@ -834,7 +834,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-26,admin_1,fr,fr-78,,13
 2020-03-26,admin_1,fr,fr-79,,0
 2020-03-26,admin_1,fr,fr-80,,3
-2020-03-26,admin_1,fr,fr-81,,3
+2020-03-26,admin_1,fr,fr-81,,6
 2020-03-26,admin_1,fr,fr-82,,1
 2020-03-26,admin_1,fr,fr-83,,2
 2020-03-26,admin_1,fr,fr-84,,1
@@ -850,11 +850,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-26,admin_1,fr,fr-94,,7
 2020-03-26,admin_1,fr,fr-95,,1
 2020-03-26,admin_1,fr,fr-gf,,0
-2020-03-26,admin_1,fr,fr-gp,,0
+2020-03-26,admin_1,fr,fr-gp,,1
 2020-03-26,admin_1,fr,fr-mq,,4
 2020-03-26,admin_1,fr,fr-re,,0
 2020-03-26,admin_1,fr,fr-yt,,0
-2020-03-27,admin_0,,fr,,383
+2020-03-27,admin_0,,fr,,412
 2020-03-27,admin_1,fr,fr-01,,3
 2020-03-27,admin_1,fr,fr-02,,0
 2020-03-27,admin_1,fr,fr-03,,1
@@ -921,7 +921,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-27,admin_1,fr,fr-63,,1
 2020-03-27,admin_1,fr,fr-64,,2
 2020-03-27,admin_1,fr,fr-65,,0
-2020-03-27,admin_1,fr,fr-66,,-3
+2020-03-27,admin_1,fr,fr-66,,-2
 2020-03-27,admin_1,fr,fr-67,,19
 2020-03-27,admin_1,fr,fr-68,,9
 2020-03-27,admin_1,fr,fr-69,,25
@@ -955,8 +955,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-27,admin_1,fr,fr-gp,,6
 2020-03-27,admin_1,fr,fr-mq,,4
 2020-03-27,admin_1,fr,fr-re,,-1
-2020-03-27,admin_1,fr,fr-yt,,2
-2020-03-28,admin_0,,fr,,478
+2020-03-27,admin_1,fr,fr-yt,,0
+2020-03-28,admin_0,,fr,,486
 2020-03-28,admin_1,fr,fr-01,,3
 2020-03-28,admin_1,fr,fr-02,,-1
 2020-03-28,admin_1,fr,fr-03,,0
@@ -967,7 +967,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-28,admin_1,fr,fr-08,,0
 2020-03-28,admin_1,fr,fr-09,,0
 2020-03-28,admin_1,fr,fr-10,,0
-2020-03-28,admin_1,fr,fr-11,,5
+2020-03-28,admin_1,fr,fr-11,,4
 2020-03-28,admin_1,fr,fr-12,,0
 2020-03-28,admin_1,fr,fr-13,,14
 2020-03-28,admin_1,fr,fr-14,,6
@@ -1054,11 +1054,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-28,admin_1,fr,fr-94,,16
 2020-03-28,admin_1,fr,fr-95,,2
 2020-03-28,admin_1,fr,fr-gf,,0
-2020-03-28,admin_1,fr,fr-gp,,-4
+2020-03-28,admin_1,fr,fr-gp,,0
 2020-03-28,admin_1,fr,fr-mq,,-1
 2020-03-28,admin_1,fr,fr-re,,1
-2020-03-28,admin_1,fr,fr-yt,,0
-2020-03-29,admin_0,,fr,,356
+2020-03-28,admin_1,fr,fr-yt,,2
+2020-03-29,admin_0,,fr,,359
 2020-03-29,admin_1,fr,fr-01,,1
 2020-03-29,admin_1,fr,fr-02,,0
 2020-03-29,admin_1,fr,fr-03,,3
@@ -1069,7 +1069,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-29,admin_1,fr,fr-08,,3
 2020-03-29,admin_1,fr,fr-09,,1
 2020-03-29,admin_1,fr,fr-10,,0
-2020-03-29,admin_1,fr,fr-11,,-1
+2020-03-29,admin_1,fr,fr-11,,0
 2020-03-29,admin_1,fr,fr-12,,0
 2020-03-29,admin_1,fr,fr-13,,25
 2020-03-29,admin_1,fr,fr-14,,4
@@ -1156,11 +1156,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-29,admin_1,fr,fr-94,,3
 2020-03-29,admin_1,fr,fr-95,,16
 2020-03-29,admin_1,fr,fr-gf,,0
-2020-03-29,admin_1,fr,fr-gp,,1
+2020-03-29,admin_1,fr,fr-gp,,-3
 2020-03-29,admin_1,fr,fr-mq,,1
 2020-03-29,admin_1,fr,fr-re,,1
-2020-03-29,admin_1,fr,fr-yt,,-2
-2020-03-30,admin_0,,fr,,515
+2020-03-29,admin_1,fr,fr-yt,,0
+2020-03-30,admin_0,,fr,,475
 2020-03-30,admin_1,fr,fr-01,,6
 2020-03-30,admin_1,fr,fr-02,,0
 2020-03-30,admin_1,fr,fr-03,,3
@@ -1261,7 +1261,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-30,admin_1,fr,fr-gp,,1
 2020-03-30,admin_1,fr,fr-mq,,0
 2020-03-30,admin_1,fr,fr-re,,0
-2020-03-30,admin_1,fr,fr-yt,,0
+2020-03-30,admin_1,fr,fr-yt,,1
 2020-03-31,admin_0,,fr,,458
 2020-03-31,admin_1,fr,fr-01,,-3
 2020-03-31,admin_1,fr,fr-02,,3
@@ -1273,7 +1273,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-31,admin_1,fr,fr-08,,6
 2020-03-31,admin_1,fr,fr-09,,0
 2020-03-31,admin_1,fr,fr-10,,0
-2020-03-31,admin_1,fr,fr-11,,-1
+2020-03-31,admin_1,fr,fr-11,,-2
 2020-03-31,admin_1,fr,fr-12,,2
 2020-03-31,admin_1,fr,fr-13,,9
 2020-03-31,admin_1,fr,fr-14,,4
@@ -1297,7 +1297,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-31,admin_1,fr,fr-31,,5
 2020-03-31,admin_1,fr,fr-32,,0
 2020-03-31,admin_1,fr,fr-33,,3
-2020-03-31,admin_1,fr,fr-34,,2
+2020-03-31,admin_1,fr,fr-34,,3
 2020-03-31,admin_1,fr,fr-35,,5
 2020-03-31,admin_1,fr,fr-36,,0
 2020-03-31,admin_1,fr,fr-37,,8
@@ -1363,7 +1363,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-31,admin_1,fr,fr-gp,,1
 2020-03-31,admin_1,fr,fr-mq,,3
 2020-03-31,admin_1,fr,fr-re,,2
-2020-03-31,admin_1,fr,fr-yt,,0
+2020-03-31,admin_1,fr,fr-yt,,-1
 2020-04-01,admin_0,,fr,,452
 2020-04-01,admin_1,fr,fr-01,,12
 2020-04-01,admin_1,fr,fr-02,,3
@@ -1375,7 +1375,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-01,admin_1,fr,fr-08,,-1
 2020-04-01,admin_1,fr,fr-09,,3
 2020-04-01,admin_1,fr,fr-10,,2
-2020-04-01,admin_1,fr,fr-11,,1
+2020-04-01,admin_1,fr,fr-11,,2
 2020-04-01,admin_1,fr,fr-12,,0
 2020-04-01,admin_1,fr,fr-13,,16
 2020-04-01,admin_1,fr,fr-14,,6
@@ -1399,7 +1399,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-01,admin_1,fr,fr-31,,8
 2020-04-01,admin_1,fr,fr-32,,0
 2020-04-01,admin_1,fr,fr-33,,7
-2020-04-01,admin_1,fr,fr-34,,7
+2020-04-01,admin_1,fr,fr-34,,6
 2020-04-01,admin_1,fr,fr-35,,3
 2020-04-01,admin_1,fr,fr-36,,-2
 2020-04-01,admin_1,fr,fr-37,,6
@@ -1465,8 +1465,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-01,admin_1,fr,fr-gp,,0
 2020-04-01,admin_1,fr,fr-mq,,1
 2020-04-01,admin_1,fr,fr-re,,-3
-2020-04-01,admin_1,fr,fr-yt,,2
-2020-04-02,admin_0,,fr,,382
+2020-04-01,admin_1,fr,fr-yt,,0
+2020-04-02,admin_0,,fr,,288
 2020-04-02,admin_1,fr,fr-01,,5
 2020-04-02,admin_1,fr,fr-02,,-2
 2020-04-02,admin_1,fr,fr-03,,1
@@ -1568,7 +1568,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-02,admin_1,fr,fr-mq,,1
 2020-04-02,admin_1,fr,fr-re,,-1
 2020-04-02,admin_1,fr,fr-yt,,1
-2020-04-03,admin_0,,fr,,263
+2020-04-03,admin_0,,fr,,251
 2020-04-03,admin_1,fr,fr-01,,-2
 2020-04-03,admin_1,fr,fr-02,,1
 2020-04-03,admin_1,fr,fr-03,,-1
@@ -1670,7 +1670,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-03,admin_1,fr,fr-mq,,-1
 2020-04-03,admin_1,fr,fr-re,,0
 2020-04-03,admin_1,fr,fr-yt,,0
-2020-04-04,admin_0,,fr,,61
+2020-04-04,admin_0,,fr,,167
 2020-04-04,admin_1,fr,fr-01,,1
 2020-04-04,admin_1,fr,fr-02,,1
 2020-04-04,admin_1,fr,fr-03,,-1
@@ -1976,7 +1976,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-06,admin_1,fr,fr-mq,,-1
 2020-04-06,admin_1,fr,fr-re,,0
 2020-04-06,admin_1,fr,fr-yt,,0
-2020-04-07,admin_0,,fr,,56
+2020-04-07,admin_0,,fr,,183
 2020-04-07,admin_1,fr,fr-01,,2
 2020-04-07,admin_1,fr,fr-02,,-1
 2020-04-07,admin_1,fr,fr-03,,1
@@ -2078,7 +2078,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-07,admin_1,fr,fr-mq,,-1
 2020-04-07,admin_1,fr,fr-re,,0
 2020-04-07,admin_1,fr,fr-yt,,0
-2020-04-08,admin_0,,fr,,15
+2020-04-08,admin_0,,fr,,-112
 2020-04-08,admin_1,fr,fr-01,,2
 2020-04-08,admin_1,fr,fr-02,,4
 2020-04-08,admin_1,fr,fr-03,,2
@@ -2180,7 +2180,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-08,admin_1,fr,fr-mq,,0
 2020-04-08,admin_1,fr,fr-re,,0
 2020-04-08,admin_1,fr,fr-yt,,1
-2020-04-09,admin_0,,fr,,-82
+2020-04-09,admin_0,,fr,,47
 2020-04-09,admin_1,fr,fr-01,,-1
 2020-04-09,admin_1,fr,fr-02,,0
 2020-04-09,admin_1,fr,fr-03,,1
@@ -2282,7 +2282,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-09,admin_1,fr,fr-mq,,-2
 2020-04-09,admin_1,fr,fr-re,,-1
 2020-04-09,admin_1,fr,fr-yt,,0
-2020-04-10,admin_0,,fr,,-62
+2020-04-10,admin_0,,fr,,-191
 2020-04-10,admin_1,fr,fr-01,,-5
 2020-04-10,admin_1,fr,fr-02,,5
 2020-04-10,admin_1,fr,fr-03,,0
@@ -2588,7 +2588,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-12,admin_1,fr,fr-mq,,0
 2020-04-12,admin_1,fr,fr-re,,0
 2020-04-12,admin_1,fr,fr-yt,,0
-2020-04-13,admin_0,,fr,,-24
+2020-04-13,admin_0,,fr,,107
 2020-04-13,admin_1,fr,fr-01,,0
 2020-04-13,admin_1,fr,fr-02,,0
 2020-04-13,admin_1,fr,fr-03,,0
@@ -2792,7 +2792,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-14,admin_1,fr,fr-mq,,0
 2020-04-14,admin_1,fr,fr-re,,0
 2020-04-14,admin_1,fr,fr-yt,,0
-2020-04-15,admin_0,,fr,,-142
+2020-04-15,admin_0,,fr,,-273
 2020-04-15,admin_1,fr,fr-01,,-6
 2020-04-15,admin_1,fr,fr-02,,2
 2020-04-15,admin_1,fr,fr-03,,-1
@@ -2894,7 +2894,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-15,admin_1,fr,fr-mq,,0
 2020-04-15,admin_1,fr,fr-re,,0
 2020-04-15,admin_1,fr,fr-yt,,1
-2020-04-16,admin_0,,fr,,-318
+2020-04-16,admin_0,,fr,,-209
 2020-04-16,admin_1,fr,fr-01,,1
 2020-04-16,admin_1,fr,fr-02,,0
 2020-04-16,admin_1,fr,fr-03,,0
@@ -2996,7 +2996,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-16,admin_1,fr,fr-mq,,1
 2020-04-16,admin_1,fr,fr-re,,1
 2020-04-16,admin_1,fr,fr-yt,,2
-2020-04-17,admin_0,,fr,,-112
+2020-04-17,admin_0,,fr,,-326
 2020-04-17,admin_1,fr,fr-01,,0
 2020-04-17,admin_1,fr,fr-02,,-3
 2020-04-17,admin_1,fr,fr-03,,-1
@@ -3098,7 +3098,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-17,admin_1,fr,fr-mq,,0
 2020-04-17,admin_1,fr,fr-re,,-1
 2020-04-17,admin_1,fr,fr-yt,,0
-2020-04-18,admin_0,,fr,,-294
+2020-04-18,admin_0,,fr,,-189
 2020-04-18,admin_1,fr,fr-01,,1
 2020-04-18,admin_1,fr,fr-02,,-3
 2020-04-18,admin_1,fr,fr-03,,-2
@@ -3608,7 +3608,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-22,admin_1,fr,fr-mq,,-1
 2020-04-22,admin_1,fr,fr-re,,0
 2020-04-22,admin_1,fr,fr-yt,,0
-2020-04-23,admin_0,,fr,,-74
+2020-04-23,admin_0,,fr,,-160
 2020-04-23,admin_1,fr,fr-01,,1
 2020-04-23,admin_1,fr,fr-02,,0
 2020-04-23,admin_1,fr,fr-03,,-2
@@ -3710,7 +3710,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-23,admin_1,fr,fr-mq,,0
 2020-04-23,admin_1,fr,fr-re,,0
 2020-04-23,admin_1,fr,fr-yt,,0
-2020-04-24,admin_0,,fr,,-183
+2020-04-24,admin_0,,fr,,-97
 2020-04-24,admin_1,fr,fr-01,,0
 2020-04-24,admin_1,fr,fr-02,,-2
 2020-04-24,admin_1,fr,fr-03,,-2
@@ -4016,7 +4016,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-26,admin_1,fr,fr-mq,,-1
 2020-04-26,admin_1,fr,fr-re,,0
 2020-04-26,admin_1,fr,fr-yt,,2
-2020-04-27,admin_0,,fr,,-74
+2020-04-27,admin_0,,fr,,-156
 2020-04-27,admin_1,fr,fr-01,,-1
 2020-04-27,admin_1,fr,fr-02,,0
 2020-04-27,admin_1,fr,fr-03,,0
@@ -4118,7 +4118,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-27,admin_1,fr,fr-mq,,1
 2020-04-27,admin_1,fr,fr-re,,0
 2020-04-27,admin_1,fr,fr-yt,,0
-2020-04-28,admin_0,,fr,,-216
+2020-04-28,admin_0,,fr,,-139
 2020-04-28,admin_1,fr,fr-01,,-1
 2020-04-28,admin_1,fr,fr-02,,6
 2020-04-28,admin_1,fr,fr-03,,-2
@@ -4220,7 +4220,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-28,admin_1,fr,fr-mq,,-1
 2020-04-28,admin_1,fr,fr-re,,0
 2020-04-28,admin_1,fr,fr-yt,,0
-2020-04-29,admin_0,,fr,,-185
+2020-04-29,admin_0,,fr,,-180
 2020-04-29,admin_1,fr,fr-01,,-2
 2020-04-29,admin_1,fr,fr-02,,-4
 2020-04-29,admin_1,fr,fr-03,,2
@@ -4424,7 +4424,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-30,admin_1,fr,fr-mq,,1
 2020-04-30,admin_1,fr,fr-re,,0
 2020-04-30,admin_1,fr,fr-yt,,-1
-2020-05-01,admin_0,,fr,,-69
+2020-05-01,admin_0,,fr,,-128
 2020-05-01,admin_1,fr,fr-01,,-3
 2020-05-01,admin_1,fr,fr-02,,0
 2020-05-01,admin_1,fr,fr-03,,0
@@ -4526,7 +4526,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-01,admin_1,fr,fr-mq,,-1
 2020-05-01,admin_1,fr,fr-re,,0
 2020-05-01,admin_1,fr,fr-yt,,1
-2020-05-02,admin_0,,fr,,-108
+2020-05-02,admin_0,,fr,,8
 2020-05-02,admin_1,fr,fr-01,,1
 2020-05-02,admin_1,fr,fr-02,,0
 2020-05-02,admin_1,fr,fr-03,,0
@@ -4628,7 +4628,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-02,admin_1,fr,fr-mq,,0
 2020-05-02,admin_1,fr,fr-re,,1
 2020-05-02,admin_1,fr,fr-yt,,0
-2020-05-03,admin_0,,fr,,49
+2020-05-03,admin_0,,fr,,-65
 2020-05-03,admin_1,fr,fr-01,,0
 2020-05-03,admin_1,fr,fr-02,,-1
 2020-05-03,admin_1,fr,fr-03,,0
@@ -4730,7 +4730,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-03,admin_1,fr,fr-mq,,0
 2020-05-03,admin_1,fr,fr-re,,0
 2020-05-03,admin_1,fr,fr-yt,,1
-2020-05-04,admin_0,,fr,,-123
+2020-05-04,admin_0,,fr,,-66
 2020-05-04,admin_1,fr,fr-01,,-3
 2020-05-04,admin_1,fr,fr-02,,-2
 2020-05-04,admin_1,fr,fr-03,,0
@@ -5138,7 +5138,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-07,admin_1,fr,fr-mq,,0
 2020-05-07,admin_1,fr,fr-re,,1
 2020-05-07,admin_1,fr,fr-yt,,1
-2020-05-08,admin_0,,fr,,-43
+2020-05-08,admin_0,,fr,,-91
 2020-05-08,admin_1,fr,fr-01,,-1
 2020-05-08,admin_1,fr,fr-02,,1
 2020-05-08,admin_1,fr,fr-03,,-2
@@ -5342,7 +5342,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-09,admin_1,fr,fr-mq,,-2
 2020-05-09,admin_1,fr,fr-re,,1
 2020-05-09,admin_1,fr,fr-yt,,-1
-2020-05-10,admin_0,,fr,,-36
+2020-05-10,admin_0,,fr,,12
 2020-05-10,admin_1,fr,fr-01,,0
 2020-05-10,admin_1,fr,fr-02,,0
 2020-05-10,admin_1,fr,fr-03,,0
@@ -5444,7 +5444,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-10,admin_1,fr,fr-mq,,0
 2020-05-10,admin_1,fr,fr-re,,-1
 2020-05-10,admin_1,fr,fr-yt,,2
-2020-05-11,admin_0,,fr,,-110
+2020-05-11,admin_0,,fr,,-64
 2020-05-11,admin_1,fr,fr-01,,2
 2020-05-11,admin_1,fr,fr-02,,1
 2020-05-11,admin_1,fr,fr-03,,0
@@ -5546,7 +5546,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-11,admin_1,fr,fr-mq,,0
 2020-05-11,admin_1,fr,fr-re,,1
 2020-05-11,admin_1,fr,fr-yt,,-2
-2020-05-12,admin_0,,fr,,-170
+2020-05-12,admin_0,,fr,,-216
 2020-05-12,admin_1,fr,fr-01,,0
 2020-05-12,admin_1,fr,fr-02,,-3
 2020-05-12,admin_1,fr,fr-03,,-3
@@ -5954,7 +5954,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-15,admin_1,fr,fr-mq,,0
 2020-05-15,admin_1,fr,fr-re,,0
 2020-05-15,admin_1,fr,fr-yt,,0
-2020-05-16,admin_0,,fr,,-112
+2020-05-16,admin_0,,fr,,-71
 2020-05-16,admin_1,fr,fr-01,,-1
 2020-05-16,admin_1,fr,fr-02,,-1
 2020-05-16,admin_1,fr,fr-03,,-1
@@ -6056,7 +6056,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-16,admin_1,fr,fr-mq,,0
 2020-05-16,admin_1,fr,fr-re,,0
 2020-05-16,admin_1,fr,fr-yt,,1
-2020-05-17,admin_0,,fr,,-44
+2020-05-17,admin_0,,fr,,-45
 2020-05-17,admin_1,fr,fr-01,,0
 2020-05-17,admin_1,fr,fr-02,,-1
 2020-05-17,admin_1,fr,fr-03,,0
@@ -6158,7 +6158,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-17,admin_1,fr,fr-mq,,0
 2020-05-17,admin_1,fr,fr-re,,0
 2020-05-17,admin_1,fr,fr-yt,,-1
-2020-05-18,admin_0,,fr,,-49
+2020-05-18,admin_0,,fr,,-129
 2020-05-18,admin_1,fr,fr-01,,0
 2020-05-18,admin_1,fr,fr-02,,0
 2020-05-18,admin_1,fr,fr-03,,0
@@ -6260,7 +6260,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-18,admin_1,fr,fr-mq,,0
 2020-05-18,admin_1,fr,fr-re,,0
 2020-05-18,admin_1,fr,fr-yt,,0
-2020-05-19,admin_0,,fr,,-104
+2020-05-19,admin_0,,fr,,-64
 2020-05-19,admin_1,fr,fr-01,,-1
 2020-05-19,admin_1,fr,fr-02,,-3
 2020-05-19,admin_1,fr,fr-03,,-2
@@ -6362,7 +6362,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-19,admin_1,fr,fr-mq,,0
 2020-05-19,admin_1,fr,fr-re,,-1
 2020-05-19,admin_1,fr,fr-yt,,2
-2020-05-20,admin_0,,fr,,-100
+2020-05-20,admin_0,,fr,,-140
 2020-05-20,admin_1,fr,fr-01,,0
 2020-05-20,admin_1,fr,fr-02,,-1
 2020-05-20,admin_1,fr,fr-03,,0
@@ -6464,7 +6464,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-20,admin_1,fr,fr-mq,,-4
 2020-05-20,admin_1,fr,fr-re,,-1
 2020-05-20,admin_1,fr,fr-yt,,1
-2020-05-21,admin_0,,fr,,-86
+2020-05-21,admin_0,,fr,,-9
 2020-05-21,admin_1,fr,fr-01,,-2
 2020-05-21,admin_1,fr,fr-02,,0
 2020-05-21,admin_1,fr,fr-03,,0
@@ -6668,7 +6668,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-22,admin_1,fr,fr-mq,,1
 2020-05-22,admin_1,fr,fr-re,,0
 2020-05-22,admin_1,fr,fr-yt,,-1
-2020-05-23,admin_0,,fr,,1
+2020-05-23,admin_0,,fr,,-36
 2020-05-23,admin_1,fr,fr-01,,0
 2020-05-23,admin_1,fr,fr-02,,-1
 2020-05-23,admin_1,fr,fr-03,,0
@@ -6770,7 +6770,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-23,admin_1,fr,fr-mq,,0
 2020-05-23,admin_1,fr,fr-re,,0
 2020-05-23,admin_1,fr,fr-yt,,-2
-2020-05-24,admin_0,,fr,,-47
+2020-05-24,admin_0,,fr,,-10
 2020-05-24,admin_1,fr,fr-01,,0
 2020-05-24,admin_1,fr,fr-02,,0
 2020-05-24,admin_1,fr,fr-03,,1
@@ -6872,7 +6872,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-24,admin_1,fr,fr-mq,,0
 2020-05-24,admin_1,fr,fr-re,,-1
 2020-05-24,admin_1,fr,fr-yt,,1
-2020-05-25,admin_0,,fr,,-9
+2020-05-25,admin_0,,fr,,-83
 2020-05-25,admin_1,fr,fr-01,,0
 2020-05-25,admin_1,fr,fr-02,,0
 2020-05-25,admin_1,fr,fr-03,,-1
@@ -6974,7 +6974,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-25,admin_1,fr,fr-mq,,0
 2020-05-25,admin_1,fr,fr-re,,1
 2020-05-25,admin_1,fr,fr-yt,,0
-2020-05-26,admin_0,,fr,,-54
+2020-05-26,admin_0,,fr,,-17
 2020-05-26,admin_1,fr,fr-01,,0
 2020-05-26,admin_1,fr,fr-02,,2
 2020-05-26,admin_1,fr,fr-03,,0
@@ -7178,7 +7178,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-27,admin_1,fr,fr-mq,,0
 2020-05-27,admin_1,fr,fr-re,,1
 2020-05-27,admin_1,fr,fr-yt,,-1
-2020-05-28,admin_0,,fr,,-38
+2020-05-28,admin_0,,fr,,-72
 2020-05-28,admin_1,fr,fr-01,,1
 2020-05-28,admin_1,fr,fr-02,,2
 2020-05-28,admin_1,fr,fr-03,,0
@@ -7280,7 +7280,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-28,admin_1,fr,fr-mq,,0
 2020-05-28,admin_1,fr,fr-re,,0
 2020-05-28,admin_1,fr,fr-yt,,0
-2020-05-29,admin_0,,fr,,-68
+2020-05-29,admin_0,,fr,,-34
 2020-05-29,admin_1,fr,fr-01,,0
 2020-05-29,admin_1,fr,fr-02,,-2
 2020-05-29,admin_1,fr,fr-03,,0
@@ -7586,7 +7586,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-31,admin_1,fr,fr-mq,,0
 2020-05-31,admin_1,fr,fr-re,,0
 2020-05-31,admin_1,fr,fr-yt,,0
-2020-06-01,admin_0,,fr,,-17
+2020-06-01,admin_0,,fr,,-49
 2020-06-01,admin_1,fr,fr-01,,0
 2020-06-01,admin_1,fr,fr-02,,0
 2020-06-01,admin_1,fr,fr-03,,0
@@ -7688,7 +7688,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-01,admin_1,fr,fr-mq,,0
 2020-06-01,admin_1,fr,fr-re,,-1
 2020-06-01,admin_1,fr,fr-yt,,-3
-2020-06-02,admin_0,,fr,,-49
+2020-06-02,admin_0,,fr,,-17
 2020-06-02,admin_1,fr,fr-01,,-1
 2020-06-02,admin_1,fr,fr-02,,-2
 2020-06-02,admin_1,fr,fr-03,,0
@@ -7892,7 +7892,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-03,admin_1,fr,fr-mq,,0
 2020-06-03,admin_1,fr,fr-re,,0
 2020-06-03,admin_1,fr,fr-yt,,0
-2020-06-04,admin_0,,fr,,-47
+2020-06-04,admin_0,,fr,,-77
 2020-06-04,admin_1,fr,fr-01,,-1
 2020-06-04,admin_1,fr,fr-02,,2
 2020-06-04,admin_1,fr,fr-03,,0
@@ -7994,7 +7994,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-04,admin_1,fr,fr-mq,,-1
 2020-06-04,admin_1,fr,fr-re,,0
 2020-06-04,admin_1,fr,fr-yt,,0
-2020-06-05,admin_0,,fr,,-69
+2020-06-05,admin_0,,fr,,-39
 2020-06-05,admin_1,fr,fr-01,,0
 2020-06-05,admin_1,fr,fr-02,,0
 2020-06-05,admin_1,fr,fr-03,,0
@@ -8198,7 +8198,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-06,admin_1,fr,fr-mq,,0
 2020-06-06,admin_1,fr,fr-re,,1
 2020-06-06,admin_1,fr,fr-yt,,0
-2020-06-07,admin_0,,fr,,-6
+2020-06-07,admin_0,,fr,,-35
 2020-06-07,admin_1,fr,fr-01,,0
 2020-06-07,admin_1,fr,fr-02,,0
 2020-06-07,admin_1,fr,fr-03,,0
@@ -8402,7 +8402,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-08,admin_1,fr,fr-mq,,0
 2020-06-08,admin_1,fr,fr-re,,0
 2020-06-08,admin_1,fr,fr-yt,,0
-2020-06-09,admin_0,,fr,,-98
+2020-06-09,admin_0,,fr,,-69
 2020-06-09,admin_1,fr,fr-01,,0
 2020-06-09,admin_1,fr,fr-02,,-1
 2020-06-09,admin_1,fr,fr-03,,0
@@ -9116,7 +9116,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-15,admin_1,fr,fr-mq,,1
 2020-06-15,admin_1,fr,fr-re,,1
 2020-06-15,admin_1,fr,fr-yt,,-2
-2020-06-16,admin_0,,fr,,-54
+2020-06-16,admin_0,,fr,,-26
 2020-06-16,admin_1,fr,fr-01,,0
 2020-06-16,admin_1,fr,fr-02,,-2
 2020-06-16,admin_1,fr,fr-03,,0
@@ -9218,7 +9218,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-16,admin_1,fr,fr-mq,,0
 2020-06-16,admin_1,fr,fr-re,,0
 2020-06-16,admin_1,fr,fr-yt,,-1
-2020-06-17,admin_0,,fr,,-20
+2020-06-17,admin_0,,fr,,-48
 2020-06-17,admin_1,fr,fr-01,,0
 2020-06-17,admin_1,fr,fr-02,,0
 2020-06-17,admin_1,fr,fr-03,,1
@@ -9422,7 +9422,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-18,admin_1,fr,fr-mq,,0
 2020-06-18,admin_1,fr,fr-re,,0
 2020-06-18,admin_1,fr,fr-yt,,0
-2020-06-19,admin_0,,fr,,-53
+2020-06-19,admin_0,,fr,,-25
 2020-06-19,admin_1,fr,fr-01,,0
 2020-06-19,admin_1,fr,fr-02,,0
 2020-06-19,admin_1,fr,fr-03,,0
@@ -9524,7 +9524,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-19,admin_1,fr,fr-mq,,0
 2020-06-19,admin_1,fr,fr-re,,0
 2020-06-19,admin_1,fr,fr-yt,,0
-2020-06-20,admin_0,,fr,,16
+2020-06-20,admin_0,,fr,,-12
 2020-06-20,admin_1,fr,fr-01,,0
 2020-06-20,admin_1,fr,fr-02,,0
 2020-06-20,admin_1,fr,fr-03,,0
@@ -9626,7 +9626,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-20,admin_1,fr,fr-mq,,2
 2020-06-20,admin_1,fr,fr-re,,0
 2020-06-20,admin_1,fr,fr-yt,,-1
-2020-06-21,admin_0,,fr,,0
+2020-06-21,admin_0,,fr,,-28
 2020-06-21,admin_1,fr,fr-01,,0
 2020-06-21,admin_1,fr,fr-02,,0
 2020-06-21,admin_1,fr,fr-03,,0
@@ -9728,7 +9728,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-21,admin_1,fr,fr-mq,,0
 2020-06-21,admin_1,fr,fr-re,,0
 2020-06-21,admin_1,fr,fr-yt,,1
-2020-06-22,admin_0,,fr,,-14
+2020-06-22,admin_0,,fr,,14
 2020-06-22,admin_1,fr,fr-01,,0
 2020-06-22,admin_1,fr,fr-02,,-1
 2020-06-22,admin_1,fr,fr-03,,0
@@ -9932,7 +9932,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-23,admin_1,fr,fr-mq,,0
 2020-06-23,admin_1,fr,fr-re,,0
 2020-06-23,admin_1,fr,fr-yt,,-2
-2020-06-24,admin_0,,fr,,-24
+2020-06-24,admin_0,,fr,,-52
 2020-06-24,admin_1,fr,fr-01,,0
 2020-06-24,admin_1,fr,fr-02,,-1
 2020-06-24,admin_1,fr,fr-03,,0
@@ -10238,7 +10238,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-26,admin_1,fr,fr-mq,,0
 2020-06-26,admin_1,fr,fr-re,,-1
 2020-06-26,admin_1,fr,fr-yt,,-1
-2020-06-27,admin_0,,fr,,0
+2020-06-27,admin_0,,fr,,-12
 2020-06-27,admin_1,fr,fr-01,,0
 2020-06-27,admin_1,fr,fr-02,,0
 2020-06-27,admin_1,fr,fr-03,,0
@@ -10340,7 +10340,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-27,admin_1,fr,fr-mq,,0
 2020-06-27,admin_1,fr,fr-re,,0
 2020-06-27,admin_1,fr,fr-yt,,-2
-2020-06-28,admin_0,,fr,,-40
+2020-06-28,admin_0,,fr,,40
 2020-06-28,admin_1,fr,fr-01,,0
 2020-06-28,admin_1,fr,fr-02,,0
 2020-06-28,admin_1,fr,fr-03,,0
@@ -10442,7 +10442,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-28,admin_1,fr,fr-mq,,0
 2020-06-28,admin_1,fr,fr-re,,0
 2020-06-28,admin_1,fr,fr-yt,,0
-2020-06-29,admin_0,,fr,,25
+2020-06-29,admin_0,,fr,,-15
 2020-06-29,admin_1,fr,fr-01,,0
 2020-06-29,admin_1,fr,fr-02,,0
 2020-06-29,admin_1,fr,fr-03,,0
@@ -11156,7 +11156,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-05,admin_1,fr,fr-mq,,0
 2020-07-05,admin_1,fr,fr-re,,0
 2020-07-05,admin_1,fr,fr-yt,,0
-2020-07-06,admin_0,,fr,,0
+2020-07-06,admin_0,,fr,,27
 2020-07-06,admin_1,fr,fr-01,,0
 2020-07-06,admin_1,fr,fr-02,,0
 2020-07-06,admin_1,fr,fr-03,,0
@@ -11258,7 +11258,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-06,admin_1,fr,fr-mq,,0
 2020-07-06,admin_1,fr,fr-re,,1
 2020-07-06,admin_1,fr,fr-yt,,-1
-2020-07-07,admin_0,,fr,,17
+2020-07-07,admin_0,,fr,,-37
 2020-07-07,admin_1,fr,fr-01,,1
 2020-07-07,admin_1,fr,fr-02,,0
 2020-07-07,admin_1,fr,fr-03,,0
@@ -11360,7 +11360,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-07,admin_1,fr,fr-mq,,0
 2020-07-07,admin_1,fr,fr-re,,-1
 2020-07-07,admin_1,fr,fr-yt,,0
-2020-07-08,admin_0,,fr,,-35
+2020-07-08,admin_0,,fr,,18
 2020-07-08,admin_1,fr,fr-01,,0
 2020-07-08,admin_1,fr,fr-02,,-1
 2020-07-08,admin_1,fr,fr-03,,0
@@ -11462,7 +11462,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-08,admin_1,fr,fr-mq,,-1
 2020-07-08,admin_1,fr,fr-re,,0
 2020-07-08,admin_1,fr,fr-yt,,-1
-2020-07-09,admin_0,,fr,,9
+2020-07-09,admin_0,,fr,,-17
 2020-07-09,admin_1,fr,fr-01,,0
 2020-07-09,admin_1,fr,fr-02,,0
 2020-07-09,admin_1,fr,fr-03,,0
@@ -11564,7 +11564,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-09,admin_1,fr,fr-mq,,0
 2020-07-09,admin_1,fr,fr-re,,0
 2020-07-09,admin_1,fr,fr-yt,,0
-2020-07-10,admin_0,,fr,,-16
+2020-07-10,admin_0,,fr,,-41
 2020-07-10,admin_1,fr,fr-01,,0
 2020-07-10,admin_1,fr,fr-02,,0
 2020-07-10,admin_1,fr,fr-03,,0
@@ -11666,7 +11666,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-10,admin_1,fr,fr-mq,,0
 2020-07-10,admin_1,fr,fr-re,,0
 2020-07-10,admin_1,fr,fr-yt,,1
-2020-07-11,admin_0,,fr,,-26
+2020-07-11,admin_0,,fr,,-1
 2020-07-11,admin_1,fr,fr-01,,0
 2020-07-11,admin_1,fr,fr-02,,0
 2020-07-11,admin_1,fr,fr-03,,0
@@ -12176,7 +12176,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-15,admin_1,fr,fr-mq,,0
 2020-07-15,admin_1,fr,fr-re,,2
 2020-07-15,admin_1,fr,fr-yt,,1
-2020-07-16,admin_0,,fr,,-1
+2020-07-16,admin_0,,fr,,24
 2020-07-16,admin_1,fr,fr-01,,0
 2020-07-16,admin_1,fr,fr-02,,0
 2020-07-16,admin_1,fr,fr-03,,0
@@ -12278,7 +12278,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-16,admin_1,fr,fr-mq,,0
 2020-07-16,admin_1,fr,fr-re,,0
 2020-07-16,admin_1,fr,fr-yt,,0
-2020-07-17,admin_0,,fr,,21
+2020-07-17,admin_0,,fr,,-4
 2020-07-17,admin_1,fr,fr-01,,0
 2020-07-17,admin_1,fr,fr-02,,0
 2020-07-17,admin_1,fr,fr-03,,0
@@ -12890,7 +12890,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-22,admin_1,fr,fr-mq,,0
 2020-07-22,admin_1,fr,fr-re,,0
 2020-07-22,admin_1,fr,fr-yt,,1
-2020-07-23,admin_0,,fr,,16
+2020-07-23,admin_0,,fr,,-9
 2020-07-23,admin_1,fr,fr-01,,0
 2020-07-23,admin_1,fr,fr-02,,0
 2020-07-23,admin_1,fr,fr-03,,0
@@ -12992,7 +12992,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-23,admin_1,fr,fr-mq,,-1
 2020-07-23,admin_1,fr,fr-re,,-1
 2020-07-23,admin_1,fr,fr-yt,,0
-2020-07-24,admin_0,,fr,,-51
+2020-07-24,admin_0,,fr,,-1
 2020-07-24,admin_1,fr,fr-01,,0
 2020-07-24,admin_1,fr,fr-02,,-1
 2020-07-24,admin_1,fr,fr-03,,0
@@ -13094,7 +13094,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-24,admin_1,fr,fr-mq,,0
 2020-07-24,admin_1,fr,fr-re,,0
 2020-07-24,admin_1,fr,fr-yt,,-1
-2020-07-25,admin_0,,fr,,-17
+2020-07-25,admin_0,,fr,,-42
 2020-07-25,admin_1,fr,fr-01,,0
 2020-07-25,admin_1,fr,fr-02,,0
 2020-07-25,admin_1,fr,fr-03,,0
@@ -13298,7 +13298,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-26,admin_1,fr,fr-mq,,0
 2020-07-26,admin_1,fr,fr-re,,0
 2020-07-26,admin_1,fr,fr-yt,,0
-2020-07-27,admin_0,,fr,,31
+2020-07-27,admin_0,,fr,,7
 2020-07-27,admin_1,fr,fr-01,,0
 2020-07-27,admin_1,fr,fr-02,,0
 2020-07-27,admin_1,fr,fr-03,,0
@@ -13502,7 +13502,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-28,admin_1,fr,fr-mq,,0
 2020-07-28,admin_1,fr,fr-re,,-2
 2020-07-28,admin_1,fr,fr-yt,,0
-2020-07-29,admin_0,,fr,,-5
+2020-07-29,admin_0,,fr,,19
 2020-07-29,admin_1,fr,fr-01,,0
 2020-07-29,admin_1,fr,fr-02,,2
 2020-07-29,admin_1,fr,fr-03,,0
@@ -13604,7 +13604,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-29,admin_1,fr,fr-mq,,0
 2020-07-29,admin_1,fr,fr-re,,0
 2020-07-29,admin_1,fr,fr-yt,,1
-2020-07-30,admin_0,,fr,,-23
+2020-07-30,admin_0,,fr,,1
 2020-07-30,admin_1,fr,fr-01,,0
 2020-07-30,admin_1,fr,fr-02,,0
 2020-07-30,admin_1,fr,fr-03,,0
@@ -13808,7 +13808,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-31,admin_1,fr,fr-mq,,0
 2020-07-31,admin_1,fr,fr-re,,1
 2020-07-31,admin_1,fr,fr-yt,,-1
-2020-08-01,admin_0,,fr,,-3
+2020-08-01,admin_0,,fr,,-27
 2020-08-01,admin_1,fr,fr-01,,0
 2020-08-01,admin_1,fr,fr-02,,0
 2020-08-01,admin_1,fr,fr-03,,0
@@ -14012,7 +14012,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-02,admin_1,fr,fr-mq,,0
 2020-08-02,admin_1,fr,fr-re,,0
 2020-08-02,admin_1,fr,fr-yt,,0
-2020-08-03,admin_0,,fr,,15
+2020-08-03,admin_0,,fr,,39
 2020-08-03,admin_1,fr,fr-01,,0
 2020-08-03,admin_1,fr,fr-02,,0
 2020-08-03,admin_1,fr,fr-03,,0
@@ -14114,7 +14114,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-03,admin_1,fr,fr-mq,,0
 2020-08-03,admin_1,fr,fr-re,,0
 2020-08-03,admin_1,fr,fr-yt,,0
-2020-08-04,admin_0,,fr,,28
+2020-08-04,admin_0,,fr,,-20
 2020-08-04,admin_1,fr,fr-01,,0
 2020-08-04,admin_1,fr,fr-02,,0
 2020-08-04,admin_1,fr,fr-03,,0
@@ -14216,7 +14216,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-04,admin_1,fr,fr-mq,,-1
 2020-08-04,admin_1,fr,fr-re,,0
 2020-08-04,admin_1,fr,fr-yt,,1
-2020-08-05,admin_0,,fr,,-28
+2020-08-05,admin_0,,fr,,20
 2020-08-05,admin_1,fr,fr-01,,0
 2020-08-05,admin_1,fr,fr-02,,0
 2020-08-05,admin_1,fr,fr-03,,0
@@ -14318,7 +14318,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-05,admin_1,fr,fr-mq,,0
 2020-08-05,admin_1,fr,fr-re,,0
 2020-08-05,admin_1,fr,fr-yt,,0
-2020-08-06,admin_0,,fr,,6
+2020-08-06,admin_0,,fr,,-18
 2020-08-06,admin_1,fr,fr-01,,0
 2020-08-06,admin_1,fr,fr-02,,1
 2020-08-06,admin_1,fr,fr-03,,0
@@ -14420,7 +14420,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-06,admin_1,fr,fr-mq,,-1
 2020-08-06,admin_1,fr,fr-re,,0
 2020-08-06,admin_1,fr,fr-yt,,-1
-2020-08-07,admin_0,,fr,,-7
+2020-08-07,admin_0,,fr,,17
 2020-08-07,admin_1,fr,fr-01,,0
 2020-08-07,admin_1,fr,fr-02,,-1
 2020-08-07,admin_1,fr,fr-03,,0
@@ -14522,7 +14522,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-07,admin_1,fr,fr-mq,,-1
 2020-08-07,admin_1,fr,fr-re,,-1
 2020-08-07,admin_1,fr,fr-yt,,0
-2020-08-08,admin_0,,fr,,7
+2020-08-08,admin_0,,fr,,-17
 2020-08-08,admin_1,fr,fr-01,,0
 2020-08-08,admin_1,fr,fr-02,,3
 2020-08-08,admin_1,fr,fr-03,,0
@@ -14726,7 +14726,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-09,admin_1,fr,fr-mq,,0
 2020-08-09,admin_1,fr,fr-re,,0
 2020-08-09,admin_1,fr,fr-yt,,0
-2020-08-10,admin_0,,fr,,28
+2020-08-10,admin_0,,fr,,4
 2020-08-10,admin_1,fr,fr-01,,0
 2020-08-10,admin_1,fr,fr-02,,0
 2020-08-10,admin_1,fr,fr-03,,0
@@ -14828,7 +14828,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-10,admin_1,fr,fr-mq,,0
 2020-08-10,admin_1,fr,fr-re,,0
 2020-08-10,admin_1,fr,fr-yt,,0
-2020-08-11,admin_0,,fr,,-5
+2020-08-11,admin_0,,fr,,19
 2020-08-11,admin_1,fr,fr-01,,0
 2020-08-11,admin_1,fr,fr-02,,1
 2020-08-11,admin_1,fr,fr-03,,0
@@ -15440,7 +15440,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-16,admin_1,fr,fr-mq,,0
 2020-08-16,admin_1,fr,fr-re,,-1
 2020-08-16,admin_1,fr,fr-yt,,0
-2020-08-17,admin_0,,fr,,-15
+2020-08-17,admin_0,,fr,,8
 2020-08-17,admin_1,fr,fr-01,,0
 2020-08-17,admin_1,fr,fr-02,,0
 2020-08-17,admin_1,fr,fr-03,,0
@@ -15542,7 +15542,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-17,admin_1,fr,fr-mq,,0
 2020-08-17,admin_1,fr,fr-re,,2
 2020-08-17,admin_1,fr,fr-yt,,0
-2020-08-18,admin_0,,fr,,19
+2020-08-18,admin_0,,fr,,-4
 2020-08-18,admin_1,fr,fr-01,,0
 2020-08-18,admin_1,fr,fr-02,,-4
 2020-08-18,admin_1,fr,fr-03,,0
@@ -15644,7 +15644,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-18,admin_1,fr,fr-mq,,0
 2020-08-18,admin_1,fr,fr-re,,0
 2020-08-18,admin_1,fr,fr-yt,,1
-2020-08-19,admin_0,,fr,,-6
+2020-08-19,admin_0,,fr,,-18
 2020-08-19,admin_1,fr,fr-01,,0
 2020-08-19,admin_1,fr,fr-02,,1
 2020-08-19,admin_1,fr,fr-03,,0
@@ -15746,7 +15746,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-19,admin_1,fr,fr-mq,,0
 2020-08-19,admin_1,fr,fr-re,,0
 2020-08-19,admin_1,fr,fr-yt,,0
-2020-08-20,admin_0,,fr,,6
+2020-08-20,admin_0,,fr,,18
 2020-08-20,admin_1,fr,fr-01,,0
 2020-08-20,admin_1,fr,fr-02,,0
 2020-08-20,admin_1,fr,fr-03,,0
@@ -16052,7 +16052,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-22,admin_1,fr,fr-mq,,1
 2020-08-22,admin_1,fr,fr-re,,2
 2020-08-22,admin_1,fr,fr-yt,,0
-2020-08-23,admin_0,,fr,,-9
+2020-08-23,admin_0,,fr,,3
 2020-08-23,admin_1,fr,fr-01,,0
 2020-08-23,admin_1,fr,fr-02,,0
 2020-08-23,admin_1,fr,fr-03,,0
@@ -16154,7 +16154,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-23,admin_1,fr,fr-mq,,0
 2020-08-23,admin_1,fr,fr-re,,-1
 2020-08-23,admin_1,fr,fr-yt,,0
-2020-08-24,admin_0,,fr,,16
+2020-08-24,admin_0,,fr,,4
 2020-08-24,admin_1,fr,fr-01,,0
 2020-08-24,admin_1,fr,fr-02,,0
 2020-08-24,admin_1,fr,fr-03,,0
@@ -16460,7 +16460,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-26,admin_1,fr,fr-mq,,0
 2020-08-26,admin_1,fr,fr-re,,0
 2020-08-26,admin_1,fr,fr-yt,,0
-2020-08-27,admin_0,,fr,,2
+2020-08-27,admin_0,,fr,,8
 2020-08-27,admin_1,fr,fr-01,,0
 2020-08-27,admin_1,fr,fr-02,,-1
 2020-08-27,admin_1,fr,fr-03,,0
@@ -16562,7 +16562,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-27,admin_1,fr,fr-mq,,0
 2020-08-27,admin_1,fr,fr-re,,2
 2020-08-27,admin_1,fr,fr-yt,,-1
-2020-08-28,admin_0,,fr,,6
+2020-08-28,admin_0,,fr,,0
 2020-08-28,admin_1,fr,fr-01,,0
 2020-08-28,admin_1,fr,fr-02,,0
 2020-08-28,admin_1,fr,fr-03,,0
@@ -17072,7 +17072,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-01,admin_1,fr,fr-mq,,-1
 2020-09-01,admin_1,fr,fr-re,,-1
 2020-09-01,admin_1,fr,fr-yt,,1
-2020-09-02,admin_0,,fr,,22
+2020-09-02,admin_0,,fr,,16
 2020-09-02,admin_1,fr,fr-01,,0
 2020-09-02,admin_1,fr,fr-02,,0
 2020-09-02,admin_1,fr,fr-03,,0
@@ -17174,7 +17174,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-02,admin_1,fr,fr-mq,,1
 2020-09-02,admin_1,fr,fr-re,,0
 2020-09-02,admin_1,fr,fr-yt,,0
-2020-09-03,admin_0,,fr,,12
+2020-09-03,admin_0,,fr,,24
 2020-09-03,admin_1,fr,fr-01,,0
 2020-09-03,admin_1,fr,fr-02,,0
 2020-09-03,admin_1,fr,fr-03,,0
@@ -17276,7 +17276,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-03,admin_1,fr,fr-mq,,0
 2020-09-03,admin_1,fr,fr-re,,4
 2020-09-03,admin_1,fr,fr-yt,,0
-2020-09-04,admin_0,,fr,,9
+2020-09-04,admin_0,,fr,,3
 2020-09-04,admin_1,fr,fr-01,,0
 2020-09-04,admin_1,fr,fr-02,,0
 2020-09-04,admin_1,fr,fr-03,,0
@@ -17480,7 +17480,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-05,admin_1,fr,fr-mq,,0
 2020-09-05,admin_1,fr,fr-re,,-3
 2020-09-05,admin_1,fr,fr-yt,,0
-2020-09-06,admin_0,,fr,,4
+2020-09-06,admin_0,,fr,,-2
 2020-09-06,admin_1,fr,fr-01,,0
 2020-09-06,admin_1,fr,fr-02,,0
 2020-09-06,admin_1,fr,fr-03,,0
@@ -17684,7 +17684,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-07,admin_1,fr,fr-mq,,0
 2020-09-07,admin_1,fr,fr-re,,0
 2020-09-07,admin_1,fr,fr-yt,,0
-2020-09-08,admin_0,,fr,,37
+2020-09-08,admin_0,,fr,,43
 2020-09-08,admin_1,fr,fr-01,,-1
 2020-09-08,admin_1,fr,fr-02,,1
 2020-09-08,admin_1,fr,fr-03,,0
@@ -17888,7 +17888,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-09,admin_1,fr,fr-mq,,0
 2020-09-09,admin_1,fr,fr-re,,0
 2020-09-09,admin_1,fr,fr-yt,,0
-2020-09-10,admin_0,,fr,,16
+2020-09-10,admin_0,,fr,,9
 2020-09-10,admin_1,fr,fr-01,,0
 2020-09-10,admin_1,fr,fr-02,,0
 2020-09-10,admin_1,fr,fr-03,,1
@@ -17990,7 +17990,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-10,admin_1,fr,fr-mq,,-2
 2020-09-10,admin_1,fr,fr-re,,-1
 2020-09-10,admin_1,fr,fr-yt,,0
-2020-09-11,admin_0,,fr,,13
+2020-09-11,admin_0,,fr,,27
 2020-09-11,admin_1,fr,fr-01,,0
 2020-09-11,admin_1,fr,fr-02,,0
 2020-09-11,admin_1,fr,fr-03,,0
@@ -18092,7 +18092,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-11,admin_1,fr,fr-mq,,0
 2020-09-11,admin_1,fr,fr-re,,0
 2020-09-11,admin_1,fr,fr-yt,,-1
-2020-09-12,admin_0,,fr,,34
+2020-09-12,admin_0,,fr,,27
 2020-09-12,admin_1,fr,fr-01,,0
 2020-09-12,admin_1,fr,fr-02,,0
 2020-09-12,admin_1,fr,fr-03,,0
@@ -18194,7 +18194,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-12,admin_1,fr,fr-mq,,0
 2020-09-12,admin_1,fr,fr-re,,1
 2020-09-12,admin_1,fr,fr-yt,,0
-2020-09-13,admin_0,,fr,,7
+2020-09-13,admin_0,,fr,,0
 2020-09-13,admin_1,fr,fr-01,,0
 2020-09-13,admin_1,fr,fr-02,,0
 2020-09-13,admin_1,fr,fr-03,,1
@@ -18296,7 +18296,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-13,admin_1,fr,fr-mq,,0
 2020-09-13,admin_1,fr,fr-re,,0
 2020-09-13,admin_1,fr,fr-yt,,0
-2020-09-14,admin_0,,fr,,43
+2020-09-14,admin_0,,fr,,50
 2020-09-14,admin_1,fr,fr-01,,0
 2020-09-14,admin_1,fr,fr-02,,0
 2020-09-14,admin_1,fr,fr-03,,-1
@@ -18602,7 +18602,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-16,admin_1,fr,fr-mq,,1
 2020-09-16,admin_1,fr,fr-re,,-1
 2020-09-16,admin_1,fr,fr-yt,,0
-2020-09-17,admin_0,,fr,,-10
+2020-09-17,admin_0,,fr,,-3
 2020-09-17,admin_1,fr,fr-01,,0
 2020-09-17,admin_1,fr,fr-02,,-1
 2020-09-17,admin_1,fr,fr-03,,0
@@ -18704,7 +18704,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-17,admin_1,fr,fr-mq,,0
 2020-09-17,admin_1,fr,fr-re,,0
 2020-09-17,admin_1,fr,fr-yt,,0
-2020-09-18,admin_0,,fr,,34
+2020-09-18,admin_0,,fr,,27
 2020-09-18,admin_1,fr,fr-01,,0
 2020-09-18,admin_1,fr,fr-02,,-1
 2020-09-18,admin_1,fr,fr-03,,0
@@ -18806,7 +18806,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-18,admin_1,fr,fr-mq,,0
 2020-09-18,admin_1,fr,fr-re,,1
 2020-09-18,admin_1,fr,fr-yt,,0
-2020-09-19,admin_0,,fr,,7
+2020-09-19,admin_0,,fr,,0
 2020-09-19,admin_1,fr,fr-01,,0
 2020-09-19,admin_1,fr,fr-02,,1
 2020-09-19,admin_1,fr,fr-03,,1
@@ -18908,7 +18908,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-19,admin_1,fr,fr-mq,,2
 2020-09-19,admin_1,fr,fr-re,,4
 2020-09-19,admin_1,fr,fr-yt,,0
-2020-09-20,admin_0,,fr,,7
+2020-09-20,admin_0,,fr,,14
 2020-09-20,admin_1,fr,fr-01,,0
 2020-09-20,admin_1,fr,fr-02,,0
 2020-09-20,admin_1,fr,fr-03,,0
@@ -19316,7 +19316,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-23,admin_1,fr,fr-mq,,-1
 2020-09-23,admin_1,fr,fr-re,,0
 2020-09-23,admin_1,fr,fr-yt,,0
-2020-09-24,admin_0,,fr,,46
+2020-09-24,admin_0,,fr,,53
 2020-09-24,admin_1,fr,fr-01,,0
 2020-09-24,admin_1,fr,fr-02,,0
 2020-09-24,admin_1,fr,fr-03,,2
@@ -19418,7 +19418,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-24,admin_1,fr,fr-mq,,0
 2020-09-24,admin_1,fr,fr-re,,1
 2020-09-24,admin_1,fr,fr-yt,,0
-2020-09-25,admin_0,,fr,,51
+2020-09-25,admin_0,,fr,,44
 2020-09-25,admin_1,fr,fr-01,,3
 2020-09-25,admin_1,fr,fr-02,,0
 2020-09-25,admin_1,fr,fr-03,,-1
@@ -19622,7 +19622,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-26,admin_1,fr,fr-mq,,0
 2020-09-26,admin_1,fr,fr-re,,1
 2020-09-26,admin_1,fr,fr-yt,,1
-2020-09-27,admin_0,,fr,,7
+2020-09-27,admin_0,,fr,,1
 2020-09-27,admin_1,fr,fr-01,,0
 2020-09-27,admin_1,fr,fr-02,,0
 2020-09-27,admin_1,fr,fr-03,,0
@@ -19724,7 +19724,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-27,admin_1,fr,fr-mq,,4
 2020-09-27,admin_1,fr,fr-re,,-1
 2020-09-27,admin_1,fr,fr-yt,,0
-2020-09-28,admin_0,,fr,,46
+2020-09-28,admin_0,,fr,,52
 2020-09-28,admin_1,fr,fr-01,,0
 2020-09-28,admin_1,fr,fr-02,,2
 2020-09-28,admin_1,fr,fr-03,,0
@@ -19826,7 +19826,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-28,admin_1,fr,fr-mq,,0
 2020-09-28,admin_1,fr,fr-re,,-1
 2020-09-28,admin_1,fr,fr-yt,,0
-2020-09-29,admin_0,,fr,,40
+2020-09-29,admin_0,,fr,,34
 2020-09-29,admin_1,fr,fr-01,,0
 2020-09-29,admin_1,fr,fr-02,,-1
 2020-09-29,admin_1,fr,fr-03,,0
@@ -20030,7 +20030,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-30,admin_1,fr,fr-mq,,0
 2020-09-30,admin_1,fr,fr-re,,0
 2020-09-30,admin_1,fr,fr-yt,,0
-2020-10-01,admin_0,,fr,,21
+2020-10-01,admin_0,,fr,,27
 2020-10-01,admin_1,fr,fr-01,,0
 2020-10-01,admin_1,fr,fr-02,,0
 2020-10-01,admin_1,fr,fr-03,,0
@@ -20438,7 +20438,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-04,admin_1,fr,fr-mq,,0
 2020-10-04,admin_1,fr,fr-re,,1
 2020-10-04,admin_1,fr,fr-yt,,0
-2020-10-05,admin_0,,fr,,74
+2020-10-05,admin_0,,fr,,68
 2020-10-05,admin_1,fr,fr-01,,0
 2020-10-05,admin_1,fr,fr-02,,0
 2020-10-05,admin_1,fr,fr-03,,0
@@ -20540,7 +20540,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-05,admin_1,fr,fr-mq,,0
 2020-10-05,admin_1,fr,fr-re,,-1
 2020-10-05,admin_1,fr,fr-yt,,0
-2020-10-06,admin_0,,fr,,2
+2020-10-06,admin_0,,fr,,8
 2020-10-06,admin_1,fr,fr-01,,0
 2020-10-06,admin_1,fr,fr-02,,1
 2020-10-06,admin_1,fr,fr-03,,0
@@ -20642,7 +20642,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-06,admin_1,fr,fr-mq,,0
 2020-10-06,admin_1,fr,fr-re,,1
 2020-10-06,admin_1,fr,fr-yt,,0
-2020-10-07,admin_0,,fr,,-1
+2020-10-07,admin_0,,fr,,-11
 2020-10-07,admin_1,fr,fr-01,,-1
 2020-10-07,admin_1,fr,fr-02,,0
 2020-10-07,admin_1,fr,fr-03,,0
@@ -20744,7 +20744,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-07,admin_1,fr,fr-mq,,2
 2020-10-07,admin_1,fr,fr-re,,-2
 2020-10-07,admin_1,fr,fr-yt,,2
-2020-10-08,admin_0,,fr,,2
+2020-10-08,admin_0,,fr,,21
 2020-10-08,admin_1,fr,fr-01,,3
 2020-10-08,admin_1,fr,fr-02,,0
 2020-10-08,admin_1,fr,fr-03,,0
@@ -20846,7 +20846,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-08,admin_1,fr,fr-mq,,0
 2020-10-08,admin_1,fr,fr-re,,-1
 2020-10-08,admin_1,fr,fr-yt,,0
-2020-10-09,admin_0,,fr,,21
+2020-10-09,admin_0,,fr,,12
 2020-10-09,admin_1,fr,fr-01,,0
 2020-10-09,admin_1,fr,fr-02,,0
 2020-10-09,admin_1,fr,fr-03,,0
@@ -20948,7 +20948,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-09,admin_1,fr,fr-mq,,1
 2020-10-09,admin_1,fr,fr-re,,-1
 2020-10-09,admin_1,fr,fr-yt,,-1
-2020-10-10,admin_0,,fr,,17
+2020-10-10,admin_0,,fr,,26
 2020-10-10,admin_1,fr,fr-01,,1
 2020-10-10,admin_1,fr,fr-02,,1
 2020-10-10,admin_1,fr,fr-03,,0
@@ -21050,7 +21050,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-10,admin_1,fr,fr-mq,,0
 2020-10-10,admin_1,fr,fr-re,,-1
 2020-10-10,admin_1,fr,fr-yt,,0
-2020-10-11,admin_0,,fr,,36
+2020-10-11,admin_0,,fr,,18
 2020-10-11,admin_1,fr,fr-01,,0
 2020-10-11,admin_1,fr,fr-02,,0
 2020-10-11,admin_1,fr,fr-03,,0
@@ -21152,7 +21152,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-11,admin_1,fr,fr-mq,,0
 2020-10-11,admin_1,fr,fr-re,,1
 2020-10-11,admin_1,fr,fr-yt,,0
-2020-10-12,admin_0,,fr,,47
+2020-10-12,admin_0,,fr,,65
 2020-10-12,admin_1,fr,fr-01,,-3
 2020-10-12,admin_1,fr,fr-02,,-1
 2020-10-12,admin_1,fr,fr-03,,-1
@@ -21254,7 +21254,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-12,admin_1,fr,fr-mq,,1
 2020-10-12,admin_1,fr,fr-re,,0
 2020-10-12,admin_1,fr,fr-yt,,-1
-2020-10-13,admin_0,,fr,,94
+2020-10-13,admin_0,,fr,,85
 2020-10-13,admin_1,fr,fr-01,,1
 2020-10-13,admin_1,fr,fr-02,,-1
 2020-10-13,admin_1,fr,fr-03,,2
@@ -21764,7 +21764,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-17,admin_1,fr,fr-mq,,-3
 2020-10-17,admin_1,fr,fr-re,,0
 2020-10-17,admin_1,fr,fr-yt,,0
-2020-10-18,admin_0,,fr,,71
+2020-10-18,admin_0,,fr,,80
 2020-10-18,admin_1,fr,fr-01,,0
 2020-10-18,admin_1,fr,fr-02,,2
 2020-10-18,admin_1,fr,fr-03,,-1
@@ -21866,7 +21866,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-18,admin_1,fr,fr-mq,,-2
 2020-10-18,admin_1,fr,fr-re,,1
 2020-10-18,admin_1,fr,fr-yt,,0
-2020-10-19,admin_0,,fr,,160
+2020-10-19,admin_0,,fr,,142
 2020-10-19,admin_1,fr,fr-01,,2
 2020-10-19,admin_1,fr,fr-02,,-1
 2020-10-19,admin_1,fr,fr-03,,0
@@ -21968,7 +21968,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-19,admin_1,fr,fr-mq,,1
 2020-10-19,admin_1,fr,fr-re,,0
 2020-10-19,admin_1,fr,fr-yt,,0
-2020-10-20,admin_0,,fr,,69
+2020-10-20,admin_0,,fr,,87
 2020-10-20,admin_1,fr,fr-01,,1
 2020-10-20,admin_1,fr,fr-02,,1
 2020-10-20,admin_1,fr,fr-03,,0
@@ -22070,7 +22070,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-20,admin_1,fr,fr-mq,,0
 2020-10-20,admin_1,fr,fr-re,,-3
 2020-10-20,admin_1,fr,fr-yt,,0
-2020-10-21,admin_0,,fr,,80
+2020-10-21,admin_0,,fr,,62
 2020-10-21,admin_1,fr,fr-01,,1
 2020-10-21,admin_1,fr,fr-02,,-3
 2020-10-21,admin_1,fr,fr-03,,0
@@ -22172,7 +22172,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-21,admin_1,fr,fr-mq,,0
 2020-10-21,admin_1,fr,fr-re,,2
 2020-10-21,admin_1,fr,fr-yt,,0
-2020-10-22,admin_0,,fr,,71
+2020-10-22,admin_0,,fr,,80
 2020-10-22,admin_1,fr,fr-01,,0
 2020-10-22,admin_1,fr,fr-02,,4
 2020-10-22,admin_1,fr,fr-03,,0
@@ -22274,7 +22274,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-22,admin_1,fr,fr-mq,,0
 2020-10-22,admin_1,fr,fr-re,,1
 2020-10-22,admin_1,fr,fr-yt,,0
-2020-10-23,admin_0,,fr,,122
+2020-10-23,admin_0,,fr,,113
 2020-10-23,admin_1,fr,fr-01,,1
 2020-10-23,admin_1,fr,fr-02,,-1
 2020-10-23,admin_1,fr,fr-03,,-1
@@ -22478,7 +22478,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-24,admin_1,fr,fr-mq,,-1
 2020-10-24,admin_1,fr,fr-re,,0
 2020-10-24,admin_1,fr,fr-yt,,0
-2020-10-25,admin_0,,fr,,75
+2020-10-25,admin_0,,fr,,93
 2020-10-25,admin_1,fr,fr-01,,0
 2020-10-25,admin_1,fr,fr-02,,1
 2020-10-25,admin_1,fr,fr-03,,0
@@ -22580,7 +22580,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-25,admin_1,fr,fr-mq,,0
 2020-10-25,admin_1,fr,fr-re,,1
 2020-10-25,admin_1,fr,fr-yt,,0
-2020-10-26,admin_0,,fr,,195
+2020-10-26,admin_0,,fr,,177
 2020-10-26,admin_1,fr,fr-01,,6
 2020-10-26,admin_1,fr,fr-02,,1
 2020-10-26,admin_1,fr,fr-03,,2
@@ -22988,7 +22988,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-29,admin_1,fr,fr-mq,,0
 2020-10-29,admin_1,fr,fr-re,,1
 2020-10-29,admin_1,fr,fr-yt,,0
-2020-10-30,admin_0,,fr,,221
+2020-10-30,admin_0,,fr,,230
 2020-10-30,admin_1,fr,fr-01,,7
 2020-10-30,admin_1,fr,fr-02,,3
 2020-10-30,admin_1,fr,fr-03,,1
@@ -23192,7 +23192,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-31,admin_1,fr,fr-mq,,1
 2020-10-31,admin_1,fr,fr-re,,0
 2020-10-31,admin_1,fr,fr-yt,,1
-2020-11-01,admin_0,,fr,,126
+2020-11-01,admin_0,,fr,,135
 2020-11-01,admin_1,fr,fr-01,,0
 2020-11-01,admin_1,fr,fr-02,,1
 2020-11-01,admin_1,fr,fr-03,,-2
@@ -23294,7 +23294,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-01,admin_1,fr,fr-mq,,-1
 2020-11-01,admin_1,fr,fr-re,,1
 2020-11-01,admin_1,fr,fr-yt,,0
-2020-11-02,admin_0,,fr,,161
+2020-11-02,admin_0,,fr,,143
 2020-11-02,admin_1,fr,fr-01,,-1
 2020-11-02,admin_1,fr,fr-02,,5
 2020-11-02,admin_1,fr,fr-03,,0
@@ -23396,7 +23396,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-02,admin_1,fr,fr-mq,,2
 2020-11-02,admin_1,fr,fr-re,,-1
 2020-11-02,admin_1,fr,fr-yt,,-1
-2020-11-03,admin_0,,fr,,139
+2020-11-03,admin_0,,fr,,148
 2020-11-03,admin_1,fr,fr-01,,1
 2020-11-03,admin_1,fr,fr-02,,3
 2020-11-03,admin_1,fr,fr-03,,6
@@ -23498,7 +23498,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-03,admin_1,fr,fr-mq,,0
 2020-11-03,admin_1,fr,fr-re,,-1
 2020-11-03,admin_1,fr,fr-yt,,-1
-2020-11-04,admin_0,,fr,,211
+2020-11-04,admin_0,,fr,,220
 2020-11-04,admin_1,fr,fr-01,,6
 2020-11-04,admin_1,fr,fr-02,,0
 2020-11-04,admin_1,fr,fr-03,,0
@@ -23600,7 +23600,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-04,admin_1,fr,fr-mq,,-2
 2020-11-04,admin_1,fr,fr-re,,0
 2020-11-04,admin_1,fr,fr-yt,,0
-2020-11-05,admin_0,,fr,,150
+2020-11-05,admin_0,,fr,,132
 2020-11-05,admin_1,fr,fr-01,,3
 2020-11-05,admin_1,fr,fr-02,,2
 2020-11-05,admin_1,fr,fr-03,,-1
@@ -23702,7 +23702,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-05,admin_1,fr,fr-mq,,4
 2020-11-05,admin_1,fr,fr-re,,2
 2020-11-05,admin_1,fr,fr-yt,,-1
-2020-11-06,admin_0,,fr,,91
+2020-11-06,admin_0,,fr,,100
 2020-11-06,admin_1,fr,fr-01,,-2
 2020-11-06,admin_1,fr,fr-02,,-1
 2020-11-06,admin_1,fr,fr-03,,1
@@ -23906,7 +23906,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-07,admin_1,fr,fr-mq,,-4
 2020-11-07,admin_1,fr,fr-re,,1
 2020-11-07,admin_1,fr,fr-yt,,-2
-2020-11-08,admin_0,,fr,,129
+2020-11-08,admin_0,,fr,,117
 2020-11-08,admin_1,fr,fr-01,,0
 2020-11-08,admin_1,fr,fr-02,,3
 2020-11-08,admin_1,fr,fr-03,,0
@@ -24008,7 +24008,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-08,admin_1,fr,fr-mq,,0
 2020-11-08,admin_1,fr,fr-re,,0
 2020-11-08,admin_1,fr,fr-yt,,1
-2020-11-09,admin_0,,fr,,151
+2020-11-09,admin_0,,fr,,150
 2020-11-09,admin_1,fr,fr-01,,-1
 2020-11-09,admin_1,fr,fr-02,,0
 2020-11-09,admin_1,fr,fr-03,,5
@@ -24110,7 +24110,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-09,admin_1,fr,fr-mq,,2
 2020-11-09,admin_1,fr,fr-re,,1
 2020-11-09,admin_1,fr,fr-yt,,0
-2020-11-10,admin_0,,fr,,46
+2020-11-10,admin_0,,fr,,73
 2020-11-10,admin_1,fr,fr-01,,2
 2020-11-10,admin_1,fr,fr-02,,-1
 2020-11-10,admin_1,fr,fr-03,,-3
@@ -24314,7 +24314,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-11,admin_1,fr,fr-mq,,0
 2020-11-11,admin_1,fr,fr-re,,0
 2020-11-11,admin_1,fr,fr-yt,,1
-2020-11-12,admin_0,,fr,,95
+2020-11-12,admin_0,,fr,,81
 2020-11-12,admin_1,fr,fr-01,,-2
 2020-11-12,admin_1,fr,fr-02,,0
 2020-11-12,admin_1,fr,fr-03,,3
@@ -24416,7 +24416,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-12,admin_1,fr,fr-mq,,0
 2020-11-12,admin_1,fr,fr-re,,3
 2020-11-12,admin_1,fr,fr-yt,,1
-2020-11-13,admin_0,,fr,,3
+2020-11-13,admin_0,,fr,,19
 2020-11-13,admin_1,fr,fr-01,,-5
 2020-11-13,admin_1,fr,fr-02,,4
 2020-11-13,admin_1,fr,fr-03,,1
@@ -24518,7 +24518,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-13,admin_1,fr,fr-mq,,-1
 2020-11-13,admin_1,fr,fr-re,,0
 2020-11-13,admin_1,fr,fr-yt,,0
-2020-11-14,admin_0,,fr,,-16
+2020-11-14,admin_0,,fr,,-32
 2020-11-14,admin_1,fr,fr-01,,-3
 2020-11-14,admin_1,fr,fr-02,,0
 2020-11-14,admin_1,fr,fr-03,,1
@@ -24620,7 +24620,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-14,admin_1,fr,fr-mq,,-1
 2020-11-14,admin_1,fr,fr-re,,1
 2020-11-14,admin_1,fr,fr-yt,,0
-2020-11-15,admin_0,,fr,,25
+2020-11-15,admin_0,,fr,,9
 2020-11-15,admin_1,fr,fr-01,,0
 2020-11-15,admin_1,fr,fr-02,,0
 2020-11-15,admin_1,fr,fr-03,,0
@@ -24824,7 +24824,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-16,admin_1,fr,fr-mq,,2
 2020-11-16,admin_1,fr,fr-re,,-1
 2020-11-16,admin_1,fr,fr-yt,,1
-2020-11-17,admin_0,,fr,,-65
+2020-11-17,admin_0,,fr,,-49
 2020-11-17,admin_1,fr,fr-01,,-1
 2020-11-17,admin_1,fr,fr-02,,0
 2020-11-17,admin_1,fr,fr-03,,0
@@ -25130,7 +25130,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-19,admin_1,fr,fr-mq,,-1
 2020-11-19,admin_1,fr,fr-re,,-1
 2020-11-19,admin_1,fr,fr-yt,,1
-2020-11-20,admin_0,,fr,,-71
+2020-11-20,admin_0,,fr,,-55
 2020-11-20,admin_1,fr,fr-01,,1
 2020-11-20,admin_1,fr,fr-02,,-1
 2020-11-20,admin_1,fr,fr-03,,-3
@@ -25232,7 +25232,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-20,admin_1,fr,fr-mq,,0
 2020-11-20,admin_1,fr,fr-re,,3
 2020-11-20,admin_1,fr,fr-yt,,0
-2020-11-21,admin_0,,fr,,-57
+2020-11-21,admin_0,,fr,,-73
 2020-11-21,admin_1,fr,fr-01,,-2
 2020-11-21,admin_1,fr,fr-02,,0
 2020-11-21,admin_1,fr,fr-03,,0
@@ -25946,7 +25946,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-27,admin_1,fr,fr-mq,,-1
 2020-11-27,admin_1,fr,fr-re,,-1
 2020-11-27,admin_1,fr,fr-yt,,0
-2020-11-28,admin_0,,fr,,-106
+2020-11-28,admin_0,,fr,,-118
 2020-11-28,admin_1,fr,fr-01,,0
 2020-11-28,admin_1,fr,fr-02,,-2
 2020-11-28,admin_1,fr,fr-03,,1
@@ -26048,7 +26048,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-28,admin_1,fr,fr-mq,,-2
 2020-11-28,admin_1,fr,fr-re,,0
 2020-11-28,admin_1,fr,fr-yt,,0
-2020-11-29,admin_0,,fr,,-33
+2020-11-29,admin_0,,fr,,-21
 2020-11-29,admin_1,fr,fr-01,,0
 2020-11-29,admin_1,fr,fr-02,,0
 2020-11-29,admin_1,fr,fr-03,,-2
@@ -26252,7 +26252,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-11-30,admin_1,fr,fr-mq,,0
 2020-11-30,admin_1,fr,fr-re,,0
 2020-11-30,admin_1,fr,fr-yt,,-2
-2020-12-01,admin_0,,fr,,-134
+2020-12-01,admin_0,,fr,,-145
 2020-12-01,admin_1,fr,fr-01,,0
 2020-12-01,admin_1,fr,fr-02,,0
 2020-12-01,admin_1,fr,fr-03,,-1
@@ -26354,7 +26354,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-01,admin_1,fr,fr-mq,,-1
 2020-12-01,admin_1,fr,fr-re,,1
 2020-12-01,admin_1,fr,fr-yt,,0
-2020-12-02,admin_0,,fr,,-127
+2020-12-02,admin_0,,fr,,-106
 2020-12-02,admin_1,fr,fr-01,,0
 2020-12-02,admin_1,fr,fr-02,,0
 2020-12-02,admin_1,fr,fr-03,,0
@@ -26456,7 +26456,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-02,admin_1,fr,fr-mq,,-1
 2020-12-02,admin_1,fr,fr-re,,0
 2020-12-02,admin_1,fr,fr-yt,,1
-2020-12-03,admin_0,,fr,,-63
+2020-12-03,admin_0,,fr,,-73
 2020-12-03,admin_1,fr,fr-01,,1
 2020-12-03,admin_1,fr,fr-02,,0
 2020-12-03,admin_1,fr,fr-03,,0
@@ -26762,7 +26762,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-05,admin_1,fr,fr-mq,,0
 2020-12-05,admin_1,fr,fr-re,,-1
 2020-12-05,admin_1,fr,fr-yt,,1
-2020-12-06,admin_0,,fr,,-10
+2020-12-06,admin_0,,fr,,-20
 2020-12-06,admin_1,fr,fr-01,,0
 2020-12-06,admin_1,fr,fr-02,,0
 2020-12-06,admin_1,fr,fr-03,,0
@@ -27068,7 +27068,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-08,admin_1,fr,fr-mq,,0
 2020-12-08,admin_1,fr,fr-re,,-3
 2020-12-08,admin_1,fr,fr-yt,,-1
-2020-12-09,admin_0,,fr,,-57
+2020-12-09,admin_0,,fr,,-37
 2020-12-09,admin_1,fr,fr-01,,-2
 2020-12-09,admin_1,fr,fr-02,,0
 2020-12-09,admin_1,fr,fr-03,,0
@@ -27272,7 +27272,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-10,admin_1,fr,fr-mq,,0
 2020-12-10,admin_1,fr,fr-re,,1
 2020-12-10,admin_1,fr,fr-yt,,-1
-2020-12-11,admin_0,,fr,,-65
+2020-12-11,admin_0,,fr,,-85
 2020-12-11,admin_1,fr,fr-01,,1
 2020-12-11,admin_1,fr,fr-02,,1
 2020-12-11,admin_1,fr,fr-03,,-1
@@ -27476,7 +27476,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-12,admin_1,fr,fr-mq,,0
 2020-12-12,admin_1,fr,fr-re,,0
 2020-12-12,admin_1,fr,fr-yt,,1
-2020-12-13,admin_0,,fr,,0
+2020-12-13,admin_0,,fr,,10
 2020-12-13,admin_1,fr,fr-01,,0
 2020-12-13,admin_1,fr,fr-02,,0
 2020-12-13,admin_1,fr,fr-03,,0
@@ -27578,7 +27578,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-13,admin_1,fr,fr-mq,,-1
 2020-12-13,admin_1,fr,fr-re,,-1
 2020-12-13,admin_1,fr,fr-yt,,-1
-2020-12-14,admin_0,,fr,,35
+2020-12-14,admin_0,,fr,,45
 2020-12-14,admin_1,fr,fr-01,,0
 2020-12-14,admin_1,fr,fr-02,,1
 2020-12-14,admin_1,fr,fr-03,,-1
@@ -27680,7 +27680,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-14,admin_1,fr,fr-mq,,0
 2020-12-14,admin_1,fr,fr-re,,0
 2020-12-14,admin_1,fr,fr-yt,,0
-2020-12-15,admin_0,,fr,,-15
+2020-12-15,admin_0,,fr,,-25
 2020-12-15,admin_1,fr,fr-01,,0
 2020-12-15,admin_1,fr,fr-02,,1
 2020-12-15,admin_1,fr,fr-03,,0
@@ -27782,7 +27782,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-15,admin_1,fr,fr-mq,,-1
 2020-12-15,admin_1,fr,fr-re,,0
 2020-12-15,admin_1,fr,fr-yt,,-1
-2020-12-16,admin_0,,fr,,-31
+2020-12-16,admin_0,,fr,,-41
 2020-12-16,admin_1,fr,fr-01,,2
 2020-12-16,admin_1,fr,fr-02,,-3
 2020-12-16,admin_1,fr,fr-03,,0
@@ -27884,7 +27884,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-16,admin_1,fr,fr-mq,,0
 2020-12-16,admin_1,fr,fr-re,,-1
 2020-12-16,admin_1,fr,fr-yt,,2
-2020-12-17,admin_0,,fr,,-52
+2020-12-17,admin_0,,fr,,-32
 2020-12-17,admin_1,fr,fr-01,,-3
 2020-12-17,admin_1,fr,fr-02,,1
 2020-12-17,admin_1,fr,fr-03,,-2
@@ -27986,7 +27986,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-17,admin_1,fr,fr-mq,,0
 2020-12-17,admin_1,fr,fr-re,,0
 2020-12-17,admin_1,fr,fr-yt,,-1
-2020-12-18,admin_0,,fr,,-25
+2020-12-18,admin_0,,fr,,-35
 2020-12-18,admin_1,fr,fr-01,,-1
 2020-12-18,admin_1,fr,fr-02,,1
 2020-12-18,admin_1,fr,fr-03,,-2
@@ -28190,7 +28190,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-19,admin_1,fr,fr-mq,,0
 2020-12-19,admin_1,fr,fr-re,,1
 2020-12-19,admin_1,fr,fr-yt,,0
-2020-12-20,admin_0,,fr,,36
+2020-12-20,admin_0,,fr,,27
 2020-12-20,admin_1,fr,fr-01,,-1
 2020-12-20,admin_1,fr,fr-02,,0
 2020-12-20,admin_1,fr,fr-03,,-2
@@ -28292,7 +28292,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-20,admin_1,fr,fr-mq,,0
 2020-12-20,admin_1,fr,fr-re,,2
 2020-12-20,admin_1,fr,fr-yt,,0
-2020-12-21,admin_0,,fr,,-8
+2020-12-21,admin_0,,fr,,1
 2020-12-21,admin_1,fr,fr-01,,-1
 2020-12-21,admin_1,fr,fr-02,,1
 2020-12-21,admin_1,fr,fr-03,,1
@@ -28496,7 +28496,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-22,admin_1,fr,fr-mq,,1
 2020-12-22,admin_1,fr,fr-re,,0
 2020-12-22,admin_1,fr,fr-yt,,0
-2020-12-23,admin_0,,fr,,-18
+2020-12-23,admin_0,,fr,,-9
 2020-12-23,admin_1,fr,fr-01,,-2
 2020-12-23,admin_1,fr,fr-02,,-2
 2020-12-23,admin_1,fr,fr-03,,1
@@ -28598,7 +28598,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-23,admin_1,fr,fr-mq,,0
 2020-12-23,admin_1,fr,fr-re,,0
 2020-12-23,admin_1,fr,fr-yt,,0
-2020-12-24,admin_0,,fr,,-58
+2020-12-24,admin_0,,fr,,-67
 2020-12-24,admin_1,fr,fr-01,,0
 2020-12-24,admin_1,fr,fr-02,,-4
 2020-12-24,admin_1,fr,fr-03,,-1
@@ -28700,7 +28700,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-24,admin_1,fr,fr-mq,,0
 2020-12-24,admin_1,fr,fr-re,,-2
 2020-12-24,admin_1,fr,fr-yt,,-1
-2020-12-25,admin_0,,fr,,-27
+2020-12-25,admin_0,,fr,,-18
 2020-12-25,admin_1,fr,fr-01,,1
 2020-12-25,admin_1,fr,fr-02,,0
 2020-12-25,admin_1,fr,fr-03,,-2
@@ -28802,7 +28802,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-25,admin_1,fr,fr-mq,,-1
 2020-12-25,admin_1,fr,fr-re,,0
 2020-12-25,admin_1,fr,fr-yt,,-1
-2020-12-26,admin_0,,fr,,24
+2020-12-26,admin_0,,fr,,15
 2020-12-26,admin_1,fr,fr-01,,0
 2020-12-26,admin_1,fr,fr-02,,0
 2020-12-26,admin_1,fr,fr-03,,0
@@ -29006,7 +29006,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-27,admin_1,fr,fr-mq,,0
 2020-12-27,admin_1,fr,fr-re,,0
 2020-12-27,admin_1,fr,fr-yt,,0
-2020-12-28,admin_0,,fr,,44
+2020-12-28,admin_0,,fr,,53
 2020-12-28,admin_1,fr,fr-01,,-1
 2020-12-28,admin_1,fr,fr-02,,2
 2020-12-28,admin_1,fr,fr-03,,0
@@ -29210,7 +29210,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-29,admin_1,fr,fr-mq,,-1
 2020-12-29,admin_1,fr,fr-re,,-2
 2020-12-29,admin_1,fr,fr-yt,,0
-2020-12-30,admin_0,,fr,,-5
+2020-12-30,admin_0,,fr,,-23
 2020-12-30,admin_1,fr,fr-01,,-1
 2020-12-30,admin_1,fr,fr-02,,0
 2020-12-30,admin_1,fr,fr-03,,0
@@ -29312,7 +29312,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-30,admin_1,fr,fr-mq,,0
 2020-12-30,admin_1,fr,fr-re,,1
 2020-12-30,admin_1,fr,fr-yt,,-1
-2020-12-31,admin_0,,fr,,-36
+2020-12-31,admin_0,,fr,,-18
 2020-12-31,admin_1,fr,fr-01,,1
 2020-12-31,admin_1,fr,fr-02,,3
 2020-12-31,admin_1,fr,fr-03,,0
@@ -29516,7 +29516,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-01,admin_1,fr,fr-mq,,0
 2021-01-01,admin_1,fr,fr-re,,-1
 2021-01-01,admin_1,fr,fr-yt,,0
-2021-01-02,admin_0,,fr,,32
+2021-01-02,admin_0,,fr,,23
 2021-01-02,admin_1,fr,fr-01,,0
 2021-01-02,admin_1,fr,fr-02,,0
 2021-01-02,admin_1,fr,fr-03,,0
@@ -29822,7 +29822,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-04,admin_1,fr,fr-mq,,0
 2021-01-04,admin_1,fr,fr-re,,0
 2021-01-04,admin_1,fr,fr-yt,,0
-2021-01-05,admin_0,,fr,,-50
+2021-01-05,admin_0,,fr,,-41
 2021-01-05,admin_1,fr,fr-01,,0
 2021-01-05,admin_1,fr,fr-02,,-3
 2021-01-05,admin_1,fr,fr-03,,-1
@@ -29924,7 +29924,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-05,admin_1,fr,fr-mq,,0
 2021-01-05,admin_1,fr,fr-re,,-1
 2021-01-05,admin_1,fr,fr-yt,,0
-2021-01-06,admin_0,,fr,,0
+2021-01-06,admin_0,,fr,,-18
 2021-01-06,admin_1,fr,fr-01,,0
 2021-01-06,admin_1,fr,fr-02,,-1
 2021-01-06,admin_1,fr,fr-03,,0
@@ -30026,7 +30026,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-06,admin_1,fr,fr-mq,,-1
 2021-01-06,admin_1,fr,fr-re,,0
 2021-01-06,admin_1,fr,fr-yt,,0
-2021-01-07,admin_0,,fr,,-34
+2021-01-07,admin_0,,fr,,-25
 2021-01-07,admin_1,fr,fr-01,,0
 2021-01-07,admin_1,fr,fr-02,,-3
 2021-01-07,admin_1,fr,fr-03,,0
@@ -30128,7 +30128,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-07,admin_1,fr,fr-mq,,0
 2021-01-07,admin_1,fr,fr-re,,0
 2021-01-07,admin_1,fr,fr-yt,,-1
-2021-01-08,admin_0,,fr,,33
+2021-01-08,admin_0,,fr,,24
 2021-01-08,admin_1,fr,fr-01,,0
 2021-01-08,admin_1,fr,fr-02,,0
 2021-01-08,admin_1,fr,fr-03,,1
@@ -30230,7 +30230,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-08,admin_1,fr,fr-mq,,0
 2021-01-08,admin_1,fr,fr-re,,-1
 2021-01-08,admin_1,fr,fr-yt,,0
-2021-01-09,admin_0,,fr,,-15
+2021-01-09,admin_0,,fr,,-6
 2021-01-09,admin_1,fr,fr-01,,1
 2021-01-09,admin_1,fr,fr-02,,-1
 2021-01-09,admin_1,fr,fr-03,,1
@@ -30638,7 +30638,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-12,admin_1,fr,fr-mq,,-2
 2021-01-12,admin_1,fr,fr-re,,2
 2021-01-12,admin_1,fr,fr-yt,,0
-2021-01-13,admin_0,,fr,,13
+2021-01-13,admin_0,,fr,,23
 2021-01-13,admin_1,fr,fr-01,,-1
 2021-01-13,admin_1,fr,fr-02,,1
 2021-01-13,admin_1,fr,fr-03,,1
@@ -30842,7 +30842,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-14,admin_1,fr,fr-mq,,0
 2021-01-14,admin_1,fr,fr-re,,1
 2021-01-14,admin_1,fr,fr-yt,,2
-2021-01-15,admin_0,,fr,,24
+2021-01-15,admin_0,,fr,,14
 2021-01-15,admin_1,fr,fr-01,,6
 2021-01-15,admin_1,fr,fr-02,,-2
 2021-01-15,admin_1,fr,fr-03,,-4
@@ -30944,7 +30944,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-15,admin_1,fr,fr-mq,,0
 2021-01-15,admin_1,fr,fr-re,,0
 2021-01-15,admin_1,fr,fr-yt,,2
-2021-01-16,admin_0,,fr,,1
+2021-01-16,admin_0,,fr,,-9
 2021-01-16,admin_1,fr,fr-01,,0
 2021-01-16,admin_1,fr,fr-02,,-2
 2021-01-16,admin_1,fr,fr-03,,2
@@ -31046,7 +31046,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-16,admin_1,fr,fr-mq,,0
 2021-01-16,admin_1,fr,fr-re,,-1
 2021-01-16,admin_1,fr,fr-yt,,-2
-2021-01-17,admin_0,,fr,,25
+2021-01-17,admin_0,,fr,,45
 2021-01-17,admin_1,fr,fr-01,,0
 2021-01-17,admin_1,fr,fr-02,,0
 2021-01-17,admin_1,fr,fr-03,,-4
@@ -31148,7 +31148,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-17,admin_1,fr,fr-mq,,0
 2021-01-17,admin_1,fr,fr-re,,0
 2021-01-17,admin_1,fr,fr-yt,,0
-2021-01-18,admin_0,,fr,,47
+2021-01-18,admin_0,,fr,,37
 2021-01-18,admin_1,fr,fr-01,,0
 2021-01-18,admin_1,fr,fr-02,,-2
 2021-01-18,admin_1,fr,fr-03,,2
@@ -31250,7 +31250,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-18,admin_1,fr,fr-mq,,0
 2021-01-18,admin_1,fr,fr-re,,0
 2021-01-18,admin_1,fr,fr-yt,,-1
-2021-01-19,admin_0,,fr,,16
+2021-01-19,admin_0,,fr,,26
 2021-01-19,admin_1,fr,fr-01,,-5
 2021-01-19,admin_1,fr,fr-02,,1
 2021-01-19,admin_1,fr,fr-03,,1
@@ -31556,7 +31556,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-21,admin_1,fr,fr-mq,,-1
 2021-01-21,admin_1,fr,fr-re,,-1
 2021-01-21,admin_1,fr,fr-yt,,1
-2021-01-22,admin_0,,fr,,46
+2021-01-22,admin_0,,fr,,26
 2021-01-22,admin_1,fr,fr-01,,4
 2021-01-22,admin_1,fr,fr-02,,1
 2021-01-22,admin_1,fr,fr-03,,1
@@ -31760,7 +31760,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-23,admin_1,fr,fr-mq,,0
 2021-01-23,admin_1,fr,fr-re,,-1
 2021-01-23,admin_1,fr,fr-yt,,1
-2021-01-24,admin_0,,fr,,69
+2021-01-24,admin_0,,fr,,79
 2021-01-24,admin_1,fr,fr-01,,0
 2021-01-24,admin_1,fr,fr-02,,0
 2021-01-24,admin_1,fr,fr-03,,0
@@ -31964,7 +31964,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-25,admin_1,fr,fr-mq,,0
 2021-01-25,admin_1,fr,fr-re,,-1
 2021-01-25,admin_1,fr,fr-yt,,0
-2021-01-26,admin_0,,fr,,40
+2021-01-26,admin_0,,fr,,50
 2021-01-26,admin_1,fr,fr-01,,0
 2021-01-26,admin_1,fr,fr-02,,2
 2021-01-26,admin_1,fr,fr-03,,-1
@@ -32066,7 +32066,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-26,admin_1,fr,fr-mq,,0
 2021-01-26,admin_1,fr,fr-re,,-1
 2021-01-26,admin_1,fr,fr-yt,,-1
-2021-01-27,admin_0,,fr,,36
+2021-01-27,admin_0,,fr,,26
 2021-01-27,admin_1,fr,fr-01,,-3
 2021-01-27,admin_1,fr,fr-02,,0
 2021-01-27,admin_1,fr,fr-03,,0
@@ -32270,7 +32270,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-28,admin_1,fr,fr-mq,,1
 2021-01-28,admin_1,fr,fr-re,,0
 2021-01-28,admin_1,fr,fr-yt,,0
-2021-01-29,admin_0,,fr,,19
+2021-01-29,admin_0,,fr,,29
 2021-01-29,admin_1,fr,fr-01,,-1
 2021-01-29,admin_1,fr,fr-02,,1
 2021-01-29,admin_1,fr,fr-03,,-4
@@ -32372,7 +32372,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-29,admin_1,fr,fr-mq,,0
 2021-01-29,admin_1,fr,fr-re,,-2
 2021-01-29,admin_1,fr,fr-yt,,0
-2021-01-30,admin_0,,fr,,-7
+2021-01-30,admin_0,,fr,,-27
 2021-01-30,admin_1,fr,fr-01,,1
 2021-01-30,admin_1,fr,fr-02,,0
 2021-01-30,admin_1,fr,fr-03,,-2
@@ -32474,7 +32474,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-30,admin_1,fr,fr-mq,,0
 2021-01-30,admin_1,fr,fr-re,,-1
 2021-01-30,admin_1,fr,fr-yt,,0
-2021-01-31,admin_0,,fr,,35
+2021-01-31,admin_0,,fr,,55
 2021-01-31,admin_1,fr,fr-01,,0
 2021-01-31,admin_1,fr,fr-02,,0
 2021-01-31,admin_1,fr,fr-03,,2
@@ -32678,7 +32678,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-01,admin_1,fr,fr-mq,,0
 2021-02-01,admin_1,fr,fr-re,,1
 2021-02-01,admin_1,fr,fr-yt,,3
-2021-02-02,admin_0,,fr,,62
+2021-02-02,admin_0,,fr,,52
 2021-02-02,admin_1,fr,fr-01,,-4
 2021-02-02,admin_1,fr,fr-02,,3
 2021-02-02,admin_1,fr,fr-03,,-1
@@ -32780,7 +32780,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-02,admin_1,fr,fr-mq,,0
 2021-02-02,admin_1,fr,fr-re,,-1
 2021-02-02,admin_1,fr,fr-yt,,2
-2021-02-03,admin_0,,fr,,-13
+2021-02-03,admin_0,,fr,,-3
 2021-02-03,admin_1,fr,fr-01,,0
 2021-02-03,admin_1,fr,fr-02,,-1
 2021-02-03,admin_1,fr,fr-03,,-4
@@ -33086,7 +33086,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-05,admin_1,fr,fr-mq,,0
 2021-02-05,admin_1,fr,fr-re,,2
 2021-02-05,admin_1,fr,fr-yt,,3
-2021-02-06,admin_0,,fr,,-10
+2021-02-06,admin_0,,fr,,-30
 2021-02-06,admin_1,fr,fr-01,,1
 2021-02-06,admin_1,fr,fr-02,,1
 2021-02-06,admin_1,fr,fr-03,,-1
@@ -33188,7 +33188,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-06,admin_1,fr,fr-mq,,-1
 2021-02-06,admin_1,fr,fr-re,,0
 2021-02-06,admin_1,fr,fr-yt,,0
-2021-02-07,admin_0,,fr,,37
+2021-02-07,admin_0,,fr,,47
 2021-02-07,admin_1,fr,fr-01,,0
 2021-02-07,admin_1,fr,fr-02,,1
 2021-02-07,admin_1,fr,fr-03,,-3
@@ -33392,7 +33392,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-08,admin_1,fr,fr-mq,,0
 2021-02-08,admin_1,fr,fr-re,,4
 2021-02-08,admin_1,fr,fr-yt,,7
-2021-02-09,admin_0,,fr,,-11
+2021-02-09,admin_0,,fr,,-21
 2021-02-09,admin_1,fr,fr-01,,4
 2021-02-09,admin_1,fr,fr-02,,-3
 2021-02-09,admin_1,fr,fr-03,,-1
@@ -33494,7 +33494,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-09,admin_1,fr,fr-mq,,0
 2021-02-09,admin_1,fr,fr-re,,5
 2021-02-09,admin_1,fr,fr-yt,,5
-2021-02-10,admin_0,,fr,,-33
+2021-02-10,admin_0,,fr,,-23
 2021-02-10,admin_1,fr,fr-01,,3
 2021-02-10,admin_1,fr,fr-02,,-2
 2021-02-10,admin_1,fr,fr-03,,0
@@ -33596,7 +33596,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-10,admin_1,fr,fr-mq,,-1
 2021-02-10,admin_1,fr,fr-re,,4
 2021-02-10,admin_1,fr,fr-yt,,0
-2021-02-11,admin_0,,fr,,18
+2021-02-11,admin_0,,fr,,28
 2021-02-11,admin_1,fr,fr-01,,-4
 2021-02-11,admin_1,fr,fr-02,,4
 2021-02-11,admin_1,fr,fr-03,,-1
@@ -33698,7 +33698,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-11,admin_1,fr,fr-mq,,0
 2021-02-11,admin_1,fr,fr-re,,0
 2021-02-11,admin_1,fr,fr-yt,,2
-2021-02-12,admin_0,,fr,,-29
+2021-02-12,admin_0,,fr,,-39
 2021-02-12,admin_1,fr,fr-01,,-1
 2021-02-12,admin_1,fr,fr-02,,0
 2021-02-12,admin_1,fr,fr-03,,-1
@@ -33800,7 +33800,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-12,admin_1,fr,fr-mq,,0
 2021-02-12,admin_1,fr,fr-re,,5
 2021-02-12,admin_1,fr,fr-yt,,0
-2021-02-13,admin_0,,fr,,-4
+2021-02-13,admin_0,,fr,,6
 2021-02-13,admin_1,fr,fr-01,,0
 2021-02-13,admin_1,fr,fr-02,,-1
 2021-02-13,admin_1,fr,fr-03,,-1
@@ -33902,7 +33902,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-13,admin_1,fr,fr-mq,,0
 2021-02-13,admin_1,fr,fr-re,,3
 2021-02-13,admin_1,fr,fr-yt,,1
-2021-02-14,admin_0,,fr,,5
+2021-02-14,admin_0,,fr,,-5
 2021-02-14,admin_1,fr,fr-01,,0
 2021-02-14,admin_1,fr,fr-02,,0
 2021-02-14,admin_1,fr,fr-03,,0
@@ -34004,7 +34004,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-14,admin_1,fr,fr-mq,,0
 2021-02-14,admin_1,fr,fr-re,,1
 2021-02-14,admin_1,fr,fr-yt,,-4
-2021-02-15,admin_0,,fr,,82
+2021-02-15,admin_0,,fr,,72
 2021-02-15,admin_1,fr,fr-01,,0
 2021-02-15,admin_1,fr,fr-02,,-6
 2021-02-15,admin_1,fr,fr-03,,2
@@ -34208,7 +34208,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-16,admin_1,fr,fr-mq,,0
 2021-02-16,admin_1,fr,fr-re,,3
 2021-02-16,admin_1,fr,fr-yt,,-1
-2021-02-17,admin_0,,fr,,-8
+2021-02-17,admin_0,,fr,,12
 2021-02-17,admin_1,fr,fr-01,,1
 2021-02-17,admin_1,fr,fr-02,,2
 2021-02-17,admin_1,fr,fr-03,,2
@@ -34310,7 +34310,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-17,admin_1,fr,fr-mq,,0
 2021-02-17,admin_1,fr,fr-re,,-2
 2021-02-17,admin_1,fr,fr-yt,,4
-2021-02-18,admin_0,,fr,,54
+2021-02-18,admin_0,,fr,,34
 2021-02-18,admin_1,fr,fr-01,,3
 2021-02-18,admin_1,fr,fr-02,,-1
 2021-02-18,admin_1,fr,fr-03,,0
@@ -34514,7 +34514,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-19,admin_1,fr,fr-mq,,0
 2021-02-19,admin_1,fr,fr-re,,6
 2021-02-19,admin_1,fr,fr-yt,,-3
-2021-02-20,admin_0,,fr,,-21
+2021-02-20,admin_0,,fr,,-11
 2021-02-20,admin_1,fr,fr-01,,0
 2021-02-20,admin_1,fr,fr-02,,2
 2021-02-20,admin_1,fr,fr-03,,0
