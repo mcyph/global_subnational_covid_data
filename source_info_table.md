@@ -7,7 +7,9 @@
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
+| au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
+| au_sa_old_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
 | au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_powerbi | https://app.powerbi.com/view?r=eyJrIjoiODBmMmE3NWQtZWNlNC00OWRkLTk1NjYtMjM2YTY1MjI2NzdjIiwidCI6ImMwZTA2MDFmLTBmYWMtNDQ5Yy05Yzg4LWExMDRjNGViOWYyOCJ9 |  |
@@ -19,6 +21,7 @@
 | bw_gov | https://covid19portal.gov.bw/ |  |
 | ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
+| cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
 | cn_qq | https://news.qq.com/zt2020/page/feiyan.htm |  |
 | co_ocha_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia |  |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
@@ -51,6 +54,7 @@
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
+| om_gov | https://covid19.moh.gov.om/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
@@ -58,6 +62,7 @@
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
+| tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
 | us_nytimes | https://github.com/nytimes/covid-19-data |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
