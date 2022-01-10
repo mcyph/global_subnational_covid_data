@@ -1,17 +1,17 @@
 date,region_schema,region_parent,region_child,agerange,value
-2020-01-07,de_kreis,de-nw,sk köln,,1
-2020-01-19,de_kreis,de-be,sk berlin neukölln,,1
+2020-01-02,de_kreis,de-nw,lk märkischer kreis,,1
 2020-01-23,de_kreis,de-sl,lk stadtverband saarbrücken,,1
 2020-01-28,de_kreis,de-by,lk landsberg a.lech,,1
 2020-01-28,de_kreis,de-by,lk starnberg,,1
 2020-01-29,de_kreis,de-by,lk fürstenfeldbruck,,1
 2020-01-29,de_kreis,de-by,sk münchen,,1
+2020-01-29,de_kreis,de-th,lk sömmerda,,1
 2020-01-31,de_kreis,de-by,lk traunstein,,2
 2020-01-31,de_kreis,de-sl,lk neunkirchen,,1
 2020-02-01,de_kreis,de-by,lk dachau,,1
 2020-02-04,de_kreis,de-by,lk münchen,,1
 2020-02-04,de_kreis,de-ni,sk delmenhorst,,1
-2020-02-12,de_kreis,de-by,lk freising,,1
+2020-02-05,de_kreis,de-by,lk freising,,1
 2020-02-17,de_kreis,de-bb,lk prignitz,,1
 2020-02-18,de_kreis,de-bb,lk märkisch-oderland,,1
 2020-02-20,de_kreis,de-by,lk schwandorf,,1
@@ -27,13 +27,13 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-27,de_kreis,de-bw,lk böblingen,,1
 2020-02-27,de_kreis,de-bw,lk ludwigsburg,,1
 2020-02-27,de_kreis,de-by,sk erlangen,,1
+2020-02-27,de_kreis,de-nw,sk köln,,1
 2020-02-27,de_kreis,de-sl,lk saar-pfalz-kreis,,1
 2020-02-28,de_kreis,de-bw,lk alb-donau-kreis,,1
 2020-02-28,de_kreis,de-bw,lk heilbronn,,1
 2020-02-28,de_kreis,de-bw,lk ostalbkreis,,1
 2020-02-28,de_kreis,de-bw,lk rhein-neckar-kreis,,2
 2020-02-28,de_kreis,de-he,lk gießen,,1
-2020-02-28,de_kreis,de-nw,lk märkischer kreis,,1
 2020-02-28,de_kreis,de-nw,lk viersen,,1
 2020-02-28,de_kreis,de-nw,lk wesel,,1
 2020-02-28,de_kreis,de-nw,sk bonn,,1
@@ -41,6 +41,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-28,de_kreis,de-nw,stadtregion aachen,,1
 2020-02-28,de_kreis,de-rp,sk kaiserslautern,,1
 2020-02-28,de_kreis,de-sh,lk segeberg,,1
+2020-02-29,de_kreis,de-be,sk berlin neukölln,,1
 2020-02-29,de_kreis,de-by,lk ostallgäu,,1
 2020-02-29,de_kreis,de-by,lk rosenheim,,1
 2020-02-29,de_kreis,de-hh,sk hamburg,,1
@@ -68,6 +69,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-02,de_kreis,de-sh,lk herzogtum lauenburg,,1
 2020-03-02,de_kreis,de-sh,lk stormarn,,1
 2020-03-02,de_kreis,de-sn,lk sächsische schweiz-osterzgebirge,,1
+2020-03-02,de_kreis,de-th,lk saale-orla-kreis,,1
 2020-03-03,de_kreis,de-be,sk berlin marzahn-hellersdorf,,1
 2020-03-03,de_kreis,de-be,sk berlin mitte,,3
 2020-03-03,de_kreis,de-be,sk berlin tempelhof-schöneberg,,1
@@ -86,7 +88,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-03,de_kreis,de-nw,lk oberbergischer kreis,,1
 2020-03-03,de_kreis,de-nw,lk rhein-sieg-kreis,,2
 2020-03-03,de_kreis,de-sh,lk pinneberg,,1
-2020-03-03,de_kreis,de-th,lk saale-orla-kreis,,1
 2020-03-04,de_kreis,de-be,sk berlin friedrichshain-kreuzberg,,2
 2020-03-04,de_kreis,de-be,sk berlin pankow,,1
 2020-03-04,de_kreis,de-bw,lk bodenseekreis,,1
@@ -261,7 +262,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,de_kreis,de-th,lk ilm-kreis,,1
 2020-03-10,de_kreis,de-th,lk kyffhäuserkreis,,2
 2020-03-10,de_kreis,de-th,lk saale-holzland-kreis,,1
-2020-03-10,de_kreis,de-th,sk eisenach,,1
+2020-03-10,de_kreis,de-th,lk wartburgkreis,,1
 2020-03-10,de_kreis,de-th,sk weimar,,1
 2020-03-11,de_kreis,de-bb,sk cottbus,,3
 2020-03-11,de_kreis,de-by,lk aschaffenburg,,1
@@ -368,7 +369,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-13,de_kreis,de-th,lk nordhausen,,2
 2020-03-13,de_kreis,de-th,sk suhl,,1
 2020-03-14,de_kreis,de-by,lk ansbach,,1
-2020-03-14,de_kreis,de-by,lk coburg,,3
+2020-03-14,de_kreis,de-by,lk coburg,,2
 2020-03-14,de_kreis,de-by,lk neuburg-schrobenhausen,,1
 2020-03-14,de_kreis,de-he,lk odenwaldkreis,,2
 2020-03-14,de_kreis,de-nw,lk höxter,,2
@@ -378,7 +379,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-14,de_kreis,de-sh,sk flensburg,,4
 2020-03-14,de_kreis,de-th,lk gotha,,1
 2020-03-14,de_kreis,de-th,lk greiz,,1
-2020-03-14,de_kreis,de-th,lk wartburgkreis,,1
 2020-03-14,de_kreis,de-th,sk jena,,8
 2020-03-15,de_kreis,de-bb,sk brandenburg a.d.havel,,2
 2020-03-15,de_kreis,de-by,lk wunsiedel i.fichtelgebirge,,2
@@ -407,7 +407,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-18,de_kreis,de-ni,lk wesermarsch,,4
 2020-03-19,de_kreis,de-ni,lk lüchow-dannenberg,,1
 2020-03-19,de_kreis,de-rp,sk pirmasens,,1
-2020-03-19,de_kreis,de-th,lk sömmerda,,2
 2020-03-20,de_kreis,de-rp,sk zweibrücken,,2
 2020-03-20,de_kreis,de-th,lk hildburghausen,,1
 2020-03-20,de_kreis,de-th,lk sonneberg,,5

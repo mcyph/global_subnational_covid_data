@@ -64999,11 +64999,651 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-04,lga,au-nsw,wollongong,,5696
 2022-01-04,lga,au-nsw,woollahra,,2972
 2022-01-04,lga,au-nsw,yass valley,,236
+2022-01-05,lga,au-nsw,albury,,1214
+2022-01-05,lga,au-nsw,armidale,,310
+2022-01-05,lga,au-nsw,ballina,,763
+2022-01-05,lga,au-nsw,balranald,,25
+2022-01-05,lga,au-nsw,bathurst,,456
+2022-01-05,lga,au-nsw,bayside,,10356
+2022-01-05,lga,au-nsw,bega valley,,306
+2022-01-05,lga,au-nsw,bellingen,,159
+2022-01-05,lga,au-nsw,berrigan,,35
+2022-01-05,lga,au-nsw,blacktown,,22827
+2022-01-05,lga,au-nsw,bland,,11
+2022-01-05,lga,au-nsw,blayney,,67
+2022-01-05,lga,au-nsw,blue mountains,,1326
+2022-01-05,lga,au-nsw,bogan,,14
+2022-01-05,lga,au-nsw,bourke,,178
+2022-01-05,lga,au-nsw,brewarrina,,24
+2022-01-05,lga,au-nsw,broken hill,,235
+2022-01-05,lga,au-nsw,burwood,,1441
+2022-01-05,lga,au-nsw,byron,,2171
+2022-01-05,lga,au-nsw,cabonne,,145
+2022-01-05,lga,au-nsw,camden,,5319
+2022-01-05,lga,au-nsw,campbelltown,,10070
+2022-01-05,lga,au-nsw,canada bay,,4037
+2022-01-05,lga,au-nsw,canterbury-bankstown,,31123
+2022-01-05,lga,au-nsw,carrathool,,23
+2022-01-05,lga,au-nsw,central coast,,8699
+2022-01-05,lga,au-nsw,central darling,,182
+2022-01-05,lga,au-nsw,cessnock,,1657
+2022-01-05,lga,au-nsw,clarence valley,,427
+2022-01-05,lga,au-nsw,cobar,,33
+2022-01-05,lga,au-nsw,coffs harbour,,1296
+2022-01-05,lga,au-nsw,coolamon,,24
+2022-01-05,lga,au-nsw,coonamble,,52
+2022-01-05,lga,au-nsw,cootamundra-gundagai,,75
+2022-01-05,lga,au-nsw,cowra,,126
+2022-01-05,lga,au-nsw,cumberland,,21347
+2022-01-05,lga,au-nsw,dubbo,,1861
+2022-01-05,lga,au-nsw,dungog,,106
+2022-01-05,lga,au-nsw,edward river,,43
+2022-01-05,lga,au-nsw,eurobodalla,,180
+2022-01-05,lga,au-nsw,fairfield,,14758
+2022-01-05,lga,au-nsw,federation,,131
+2022-01-05,lga,au-nsw,forbes,,53
+2022-01-05,lga,au-nsw,georges river,,8224
+2022-01-05,lga,au-nsw,gilgandra,,34
+2022-01-05,lga,au-nsw,glen innes severn,,24
+2022-01-05,lga,au-nsw,goulburn mulwaree,,438
+2022-01-05,lga,au-nsw,greater hume,,160
+2022-01-05,lga,au-nsw,griffith,,299
+2022-01-05,lga,au-nsw,gunnedah,,130
+2022-01-05,lga,au-nsw,gwydir,,22
+2022-01-05,lga,au-nsw,hawkesbury,,1641
+2022-01-05,lga,au-nsw,hay,,12
+2022-01-05,lga,au-nsw,hills,,7975
+2022-01-05,lga,au-nsw,hilltops,,150
+2022-01-05,lga,au-nsw,hornsby,,2839
+2022-01-05,lga,au-nsw,hunters hill,,1123
+2022-01-05,lga,au-nsw,inner west,,7845
+2022-01-05,lga,au-nsw,inverell,,159
+2022-01-05,lga,au-nsw,junee,,99
+2022-01-05,lga,au-nsw,kempsey,,726
+2022-01-05,lga,au-nsw,kiama,,524
+2022-01-05,lga,au-nsw,ku-ring-gai,,3715
+2022-01-05,lga,au-nsw,kyogle,,58
+2022-01-05,lga,au-nsw,lachlan,,25
+2022-01-05,lga,au-nsw,lake macquarie,,7570
+2022-01-05,lga,au-nsw,lane cove,,2062
+2022-01-05,lga,au-nsw,leeton,,49
+2022-01-05,lga,au-nsw,lismore,,520
+2022-01-05,lga,au-nsw,lithgow,,153
+2022-01-05,lga,au-nsw,liverpool,,16550
+2022-01-05,lga,au-nsw,liverpool plains,,47
+2022-01-05,lga,au-nsw,lockhart,,22
+2022-01-05,lga,au-nsw,maitland,,4166
+2022-01-05,lga,au-nsw,mid-coast,,1657
+2022-01-05,lga,au-nsw,mid-western,,220
+2022-01-05,lga,au-nsw,moree plains,,532
+2022-01-05,lga,au-nsw,mosman,,1008
+2022-01-05,lga,au-nsw,murray river,,86
+2022-01-05,lga,au-nsw,murrumbidgee,,26
+2022-01-05,lga,au-nsw,muswellbrook,,347
+2022-01-05,lga,au-nsw,nambucca,,181
+2022-01-05,lga,au-nsw,narrabri,,333
+2022-01-05,lga,au-nsw,narrandera,,23
+2022-01-05,lga,au-nsw,narromine,,117
+2022-01-05,lga,au-nsw,newcastle,,8802
+2022-01-05,lga,au-nsw,north sydney,,1872
+2022-01-05,lga,au-nsw,northern beaches,,9177
+2022-01-05,lga,au-nsw,oberon,,66
+2022-01-05,lga,au-nsw,orange,,808
+2022-01-05,lga,au-nsw,parkes,,95
+2022-01-05,lga,au-nsw,parramatta,,8872
+2022-01-05,lga,au-nsw,penrith,,11109
+2022-01-05,lga,au-nsw,port macquarie-hastings,,1529
+2022-01-05,lga,au-nsw,port stephens,,2061
+2022-01-05,lga,au-nsw,queanbeyan-palerang,,935
+2022-01-05,lga,au-nsw,randwick,,10184
+2022-01-05,lga,au-nsw,richmond valley,,132
+2022-01-05,lga,au-nsw,ryde,,4258
+2022-01-05,lga,au-nsw,shellharbour,,2118
+2022-01-05,lga,au-nsw,shoalhaven,,1534
+2022-01-05,lga,au-nsw,singleton,,979
+2022-01-05,lga,au-nsw,snowy monaro,,341
+2022-01-05,lga,au-nsw,snowy valleys,,78
+2022-01-05,lga,au-nsw,strathfield,,3385
+2022-01-05,lga,au-nsw,sutherland,,11211
+2022-01-05,lga,au-nsw,sydney,,16676
+2022-01-05,lga,au-nsw,tamworth,,1142
+2022-01-05,lga,au-nsw,temora,,33
+2022-01-05,lga,au-nsw,tenterfield,,27
+2022-01-05,lga,au-nsw,tweed,,1168
 2022-01-05,lga,au-nsw,unknown,,4782
+2022-01-05,lga,au-nsw,upper hunter,,278
+2022-01-05,lga,au-nsw,upper lachlan,,78
+2022-01-05,lga,au-nsw,uralla,,20
+2022-01-05,lga,au-nsw,wagga wagga,,735
+2022-01-05,lga,au-nsw,walcha,,33
+2022-01-05,lga,au-nsw,walgett,,137
+2022-01-05,lga,au-nsw,warren,,86
+2022-01-05,lga,au-nsw,warrumbungle,,145
+2022-01-05,lga,au-nsw,waverley,,6109
+2022-01-05,lga,au-nsw,weddin,,8
+2022-01-05,lga,au-nsw,wentworth,,79
+2022-01-05,lga,au-nsw,willoughby,,1737
+2022-01-05,lga,au-nsw,wingecarribee,,1427
+2022-01-05,lga,au-nsw,wollondilly,,1226
+2022-01-05,lga,au-nsw,wollongong,,6647
+2022-01-05,lga,au-nsw,woollahra,,3222
+2022-01-05,lga,au-nsw,yass valley,,259
+2022-01-06,lga,au-nsw,albury,,1432
+2022-01-06,lga,au-nsw,armidale,,356
+2022-01-06,lga,au-nsw,ballina,,878
+2022-01-06,lga,au-nsw,balranald,,24
+2022-01-06,lga,au-nsw,bathurst,,713
+2022-01-06,lga,au-nsw,bayside,,11762
+2022-01-06,lga,au-nsw,bega valley,,364
+2022-01-06,lga,au-nsw,bellingen,,170
+2022-01-06,lga,au-nsw,berrigan,,38
+2022-01-06,lga,au-nsw,blacktown,,25230
+2022-01-06,lga,au-nsw,bland,,13
+2022-01-06,lga,au-nsw,blayney,,76
+2022-01-06,lga,au-nsw,blue mountains,,1522
+2022-01-06,lga,au-nsw,bogan,,15
+2022-01-06,lga,au-nsw,bourke,,188
+2022-01-06,lga,au-nsw,brewarrina,,24
+2022-01-06,lga,au-nsw,broken hill,,284
+2022-01-06,lga,au-nsw,burwood,,1571
+2022-01-06,lga,au-nsw,byron,,2314
+2022-01-06,lga,au-nsw,cabonne,,161
+2022-01-06,lga,au-nsw,camden,,5986
+2022-01-06,lga,au-nsw,campbelltown,,11335
+2022-01-06,lga,au-nsw,canada bay,,4332
+2022-01-06,lga,au-nsw,canterbury-bankstown,,33700
+2022-01-06,lga,au-nsw,carrathool,,25
+2022-01-06,lga,au-nsw,central coast,,10318
+2022-01-06,lga,au-nsw,central darling,,185
+2022-01-06,lga,au-nsw,cessnock,,1854
+2022-01-06,lga,au-nsw,clarence valley,,481
+2022-01-06,lga,au-nsw,cobar,,45
+2022-01-06,lga,au-nsw,coffs harbour,,1411
+2022-01-06,lga,au-nsw,coolamon,,26
+2022-01-06,lga,au-nsw,coonamble,,57
+2022-01-06,lga,au-nsw,cootamundra-gundagai,,92
+2022-01-06,lga,au-nsw,cowra,,138
+2022-01-06,lga,au-nsw,cumberland,,23620
+2022-01-06,lga,au-nsw,dubbo,,2032
+2022-01-06,lga,au-nsw,dungog,,119
+2022-01-06,lga,au-nsw,edward river,,50
+2022-01-06,lga,au-nsw,eurobodalla,,199
+2022-01-06,lga,au-nsw,fairfield,,15936
+2022-01-06,lga,au-nsw,federation,,150
+2022-01-06,lga,au-nsw,forbes,,69
+2022-01-06,lga,au-nsw,georges river,,9278
+2022-01-06,lga,au-nsw,gilgandra,,40
+2022-01-06,lga,au-nsw,glen innes severn,,26
+2022-01-06,lga,au-nsw,goulburn mulwaree,,529
+2022-01-06,lga,au-nsw,greater hume,,191
+2022-01-06,lga,au-nsw,griffith,,379
+2022-01-06,lga,au-nsw,gunnedah,,189
+2022-01-06,lga,au-nsw,gwydir,,21
+2022-01-06,lga,au-nsw,hawkesbury,,1812
+2022-01-06,lga,au-nsw,hay,,13
+2022-01-06,lga,au-nsw,hills,,9009
+2022-01-06,lga,au-nsw,hilltops,,190
+2022-01-06,lga,au-nsw,hornsby,,3165
+2022-01-06,lga,au-nsw,hunters hill,,1286
+2022-01-06,lga,au-nsw,inner west,,8712
+2022-01-06,lga,au-nsw,inverell,,174
+2022-01-06,lga,au-nsw,junee,,132
+2022-01-06,lga,au-nsw,kempsey,,788
+2022-01-06,lga,au-nsw,kiama,,671
+2022-01-06,lga,au-nsw,ku-ring-gai,,4231
+2022-01-06,lga,au-nsw,kyogle,,64
+2022-01-06,lga,au-nsw,lachlan,,27
+2022-01-06,lga,au-nsw,lake macquarie,,8114
+2022-01-06,lga,au-nsw,lane cove,,2378
+2022-01-06,lga,au-nsw,leeton,,62
+2022-01-06,lga,au-nsw,lismore,,603
+2022-01-06,lga,au-nsw,lithgow,,175
+2022-01-06,lga,au-nsw,liverpool,,17895
+2022-01-06,lga,au-nsw,liverpool plains,,72
+2022-01-06,lga,au-nsw,lockhart,,25
+2022-01-06,lga,au-nsw,maitland,,4558
+2022-01-06,lga,au-nsw,mid-coast,,1834
+2022-01-06,lga,au-nsw,mid-western,,239
+2022-01-06,lga,au-nsw,moree plains,,581
+2022-01-06,lga,au-nsw,mosman,,1170
+2022-01-06,lga,au-nsw,murray river,,95
+2022-01-06,lga,au-nsw,murrumbidgee,,31
+2022-01-06,lga,au-nsw,muswellbrook,,379
+2022-01-06,lga,au-nsw,nambucca,,193
+2022-01-06,lga,au-nsw,narrabri,,348
+2022-01-06,lga,au-nsw,narrandera,,26
+2022-01-06,lga,au-nsw,narromine,,135
+2022-01-06,lga,au-nsw,newcastle,,9091
+2022-01-06,lga,au-nsw,north sydney,,2164
+2022-01-06,lga,au-nsw,northern beaches,,10393
+2022-01-06,lga,au-nsw,oberon,,88
+2022-01-06,lga,au-nsw,orange,,1014
+2022-01-06,lga,au-nsw,parkes,,117
+2022-01-06,lga,au-nsw,parramatta,,10250
+2022-01-06,lga,au-nsw,penrith,,12479
+2022-01-06,lga,au-nsw,port macquarie-hastings,,1802
+2022-01-06,lga,au-nsw,port stephens,,2225
+2022-01-06,lga,au-nsw,queanbeyan-palerang,,1029
+2022-01-06,lga,au-nsw,randwick,,11129
+2022-01-06,lga,au-nsw,richmond valley,,161
+2022-01-06,lga,au-nsw,ryde,,4984
+2022-01-06,lga,au-nsw,shellharbour,,2286
+2022-01-06,lga,au-nsw,shoalhaven,,1628
+2022-01-06,lga,au-nsw,singleton,,1070
+2022-01-06,lga,au-nsw,snowy monaro,,365
+2022-01-06,lga,au-nsw,snowy valleys,,92
+2022-01-06,lga,au-nsw,strathfield,,3784
+2022-01-06,lga,au-nsw,sutherland,,12419
+2022-01-06,lga,au-nsw,sydney,,18667
+2022-01-06,lga,au-nsw,tamworth,,1396
+2022-01-06,lga,au-nsw,temora,,38
+2022-01-06,lga,au-nsw,tenterfield,,34
+2022-01-06,lga,au-nsw,tweed,,1415
 2022-01-06,lga,au-nsw,unknown,,4794
+2022-01-06,lga,au-nsw,upper hunter,,312
+2022-01-06,lga,au-nsw,upper lachlan,,99
+2022-01-06,lga,au-nsw,uralla,,20
+2022-01-06,lga,au-nsw,wagga wagga,,883
+2022-01-06,lga,au-nsw,walcha,,40
+2022-01-06,lga,au-nsw,walgett,,170
+2022-01-06,lga,au-nsw,warren,,95
+2022-01-06,lga,au-nsw,warrumbungle,,178
+2022-01-06,lga,au-nsw,waverley,,6729
+2022-01-06,lga,au-nsw,weddin,,9
+2022-01-06,lga,au-nsw,wentworth,,91
+2022-01-06,lga,au-nsw,willoughby,,2000
+2022-01-06,lga,au-nsw,wingecarribee,,1579
+2022-01-06,lga,au-nsw,wollondilly,,1421
+2022-01-06,lga,au-nsw,wollongong,,7152
+2022-01-06,lga,au-nsw,woollahra,,3639
+2022-01-06,lga,au-nsw,yass valley,,308
+2022-01-07,lga,au-nsw,albury,,1710
+2022-01-07,lga,au-nsw,armidale,,447
+2022-01-07,lga,au-nsw,ballina,,984
+2022-01-07,lga,au-nsw,balranald,,28
+2022-01-07,lga,au-nsw,bathurst,,985
+2022-01-07,lga,au-nsw,bayside,,13215
+2022-01-07,lga,au-nsw,bega valley,,374
+2022-01-07,lga,au-nsw,bellingen,,191
+2022-01-07,lga,au-nsw,berrigan,,40
+2022-01-07,lga,au-nsw,blacktown,,28298
+2022-01-07,lga,au-nsw,bland,,16
+2022-01-07,lga,au-nsw,blayney,,104
+2022-01-07,lga,au-nsw,blue mountains,,1704
+2022-01-07,lga,au-nsw,bogan,,18
+2022-01-07,lga,au-nsw,bourke,,189
+2022-01-07,lga,au-nsw,brewarrina,,28
+2022-01-07,lga,au-nsw,broken hill,,298
+2022-01-07,lga,au-nsw,burwood,,1868
+2022-01-07,lga,au-nsw,byron,,2490
+2022-01-07,lga,au-nsw,cabonne,,186
+2022-01-07,lga,au-nsw,camden,,6632
+2022-01-07,lga,au-nsw,campbelltown,,12677
+2022-01-07,lga,au-nsw,canada bay,,4971
+2022-01-07,lga,au-nsw,canterbury-bankstown,,36216
+2022-01-07,lga,au-nsw,carrathool,,27
+2022-01-07,lga,au-nsw,central coast,,12030
+2022-01-07,lga,au-nsw,central darling,,186
+2022-01-07,lga,au-nsw,cessnock,,2061
+2022-01-07,lga,au-nsw,clarence valley,,535
+2022-01-07,lga,au-nsw,cobar,,61
+2022-01-07,lga,au-nsw,coffs harbour,,1664
+2022-01-07,lga,au-nsw,coolamon,,34
+2022-01-07,lga,au-nsw,coonamble,,77
+2022-01-07,lga,au-nsw,cootamundra-gundagai,,129
+2022-01-07,lga,au-nsw,cowra,,156
+2022-01-07,lga,au-nsw,cumberland,,25579
+2022-01-07,lga,au-nsw,dubbo,,2262
+2022-01-07,lga,au-nsw,dungog,,131
+2022-01-07,lga,au-nsw,edward river,,62
+2022-01-07,lga,au-nsw,eurobodalla,,235
+2022-01-07,lga,au-nsw,fairfield,,18000
+2022-01-07,lga,au-nsw,federation,,182
+2022-01-07,lga,au-nsw,forbes,,93
+2022-01-07,lga,au-nsw,georges river,,10241
+2022-01-07,lga,au-nsw,gilgandra,,45
+2022-01-07,lga,au-nsw,glen innes severn,,33
+2022-01-07,lga,au-nsw,goulburn mulwaree,,565
+2022-01-07,lga,au-nsw,greater hume,,220
+2022-01-07,lga,au-nsw,griffith,,483
+2022-01-07,lga,au-nsw,gunnedah,,239
+2022-01-07,lga,au-nsw,gwydir,,21
+2022-01-07,lga,au-nsw,hawkesbury,,2027
+2022-01-07,lga,au-nsw,hay,,17
+2022-01-07,lga,au-nsw,hills,,9998
+2022-01-07,lga,au-nsw,hilltops,,256
+2022-01-07,lga,au-nsw,hornsby,,3592
+2022-01-07,lga,au-nsw,hunters hill,,1427
+2022-01-07,lga,au-nsw,inner west,,9673
+2022-01-07,lga,au-nsw,inverell,,277
+2022-01-07,lga,au-nsw,junee,,152
+2022-01-07,lga,au-nsw,kempsey,,824
+2022-01-07,lga,au-nsw,kiama,,769
+2022-01-07,lga,au-nsw,ku-ring-gai,,4791
+2022-01-07,lga,au-nsw,kyogle,,70
+2022-01-07,lga,au-nsw,lachlan,,31
+2022-01-07,lga,au-nsw,lake macquarie,,8990
+2022-01-07,lga,au-nsw,lane cove,,2689
+2022-01-07,lga,au-nsw,leeton,,69
+2022-01-07,lga,au-nsw,lismore,,699
+2022-01-07,lga,au-nsw,lithgow,,205
+2022-01-07,lga,au-nsw,liverpool,,19988
+2022-01-07,lga,au-nsw,liverpool plains,,112
+2022-01-07,lga,au-nsw,lockhart,,26
+2022-01-07,lga,au-nsw,maitland,,5182
+2022-01-07,lga,au-nsw,mid-coast,,2122
+2022-01-07,lga,au-nsw,mid-western,,349
+2022-01-07,lga,au-nsw,moree plains,,626
+2022-01-07,lga,au-nsw,mosman,,1275
+2022-01-07,lga,au-nsw,murray river,,101
+2022-01-07,lga,au-nsw,murrumbidgee,,40
+2022-01-07,lga,au-nsw,muswellbrook,,395
+2022-01-07,lga,au-nsw,nambucca,,217
+2022-01-07,lga,au-nsw,narrabri,,390
+2022-01-07,lga,au-nsw,narrandera,,29
+2022-01-07,lga,au-nsw,narromine,,142
+2022-01-07,lga,au-nsw,newcastle,,10323
+2022-01-07,lga,au-nsw,north sydney,,2421
+2022-01-07,lga,au-nsw,northern beaches,,11920
+2022-01-07,lga,au-nsw,oberon,,92
+2022-01-07,lga,au-nsw,orange,,1228
+2022-01-07,lga,au-nsw,parkes,,136
+2022-01-07,lga,au-nsw,parramatta,,11301
+2022-01-07,lga,au-nsw,penrith,,13857
+2022-01-07,lga,au-nsw,port macquarie-hastings,,2133
+2022-01-07,lga,au-nsw,port stephens,,2626
+2022-01-07,lga,au-nsw,queanbeyan-palerang,,1248
+2022-01-07,lga,au-nsw,randwick,,12415
+2022-01-07,lga,au-nsw,richmond valley,,239
+2022-01-07,lga,au-nsw,ryde,,5601
+2022-01-07,lga,au-nsw,shellharbour,,2643
+2022-01-07,lga,au-nsw,shoalhaven,,2044
+2022-01-07,lga,au-nsw,singleton,,1163
+2022-01-07,lga,au-nsw,snowy monaro,,491
+2022-01-07,lga,au-nsw,snowy valleys,,109
+2022-01-07,lga,au-nsw,strathfield,,4319
+2022-01-07,lga,au-nsw,sutherland,,13748
+2022-01-07,lga,au-nsw,sydney,,20706
+2022-01-07,lga,au-nsw,tamworth,,1652
+2022-01-07,lga,au-nsw,temora,,40
+2022-01-07,lga,au-nsw,tenterfield,,40
+2022-01-07,lga,au-nsw,tweed,,2051
 2022-01-07,lga,au-nsw,unknown,,4799
+2022-01-07,lga,au-nsw,upper hunter,,318
+2022-01-07,lga,au-nsw,upper lachlan,,105
+2022-01-07,lga,au-nsw,uralla,,29
+2022-01-07,lga,au-nsw,wagga wagga,,1017
+2022-01-07,lga,au-nsw,walcha,,48
+2022-01-07,lga,au-nsw,walgett,,184
+2022-01-07,lga,au-nsw,warren,,115
+2022-01-07,lga,au-nsw,warrumbungle,,197
+2022-01-07,lga,au-nsw,waverley,,7167
+2022-01-07,lga,au-nsw,weddin,,11
+2022-01-07,lga,au-nsw,wentworth,,100
+2022-01-07,lga,au-nsw,willoughby,,2286
+2022-01-07,lga,au-nsw,wingecarribee,,1853
+2022-01-07,lga,au-nsw,wollondilly,,1646
+2022-01-07,lga,au-nsw,wollongong,,8008
+2022-01-07,lga,au-nsw,woollahra,,3897
+2022-01-07,lga,au-nsw,yass valley,,316
+2022-01-08,lga,au-nsw,albury,,1882
+2022-01-08,lga,au-nsw,armidale,,507
+2022-01-08,lga,au-nsw,ballina,,1149
+2022-01-08,lga,au-nsw,balranald,,28
+2022-01-08,lga,au-nsw,bathurst,,999
+2022-01-08,lga,au-nsw,bayside,,14134
+2022-01-08,lga,au-nsw,bega valley,,452
+2022-01-08,lga,au-nsw,bellingen,,199
+2022-01-08,lga,au-nsw,berrigan,,45
+2022-01-08,lga,au-nsw,blacktown,,30187
+2022-01-08,lga,au-nsw,bland,,18
+2022-01-08,lga,au-nsw,blayney,,114
+2022-01-08,lga,au-nsw,blue mountains,,1961
+2022-01-08,lga,au-nsw,bogan,,21
+2022-01-08,lga,au-nsw,bourke,,199
+2022-01-08,lga,au-nsw,brewarrina,,30
+2022-01-08,lga,au-nsw,broken hill,,331
+2022-01-08,lga,au-nsw,burwood,,2035
+2022-01-08,lga,au-nsw,byron,,2697
+2022-01-08,lga,au-nsw,cabonne,,189
+2022-01-08,lga,au-nsw,camden,,7019
+2022-01-08,lga,au-nsw,campbelltown,,13181
+2022-01-08,lga,au-nsw,canada bay,,5361
+2022-01-08,lga,au-nsw,canterbury-bankstown,,38351
+2022-01-08,lga,au-nsw,carrathool,,36
+2022-01-08,lga,au-nsw,central coast,,13160
+2022-01-08,lga,au-nsw,central darling,,187
+2022-01-08,lga,au-nsw,cessnock,,2240
+2022-01-08,lga,au-nsw,clarence valley,,609
+2022-01-08,lga,au-nsw,cobar,,68
+2022-01-08,lga,au-nsw,coffs harbour,,1750
+2022-01-08,lga,au-nsw,coolamon,,43
+2022-01-08,lga,au-nsw,coonamble,,78
+2022-01-08,lga,au-nsw,cootamundra-gundagai,,142
+2022-01-08,lga,au-nsw,cowra,,163
+2022-01-08,lga,au-nsw,cumberland,,27361
+2022-01-08,lga,au-nsw,dubbo,,2284
+2022-01-08,lga,au-nsw,dungog,,150
+2022-01-08,lga,au-nsw,edward river,,64
+2022-01-08,lga,au-nsw,eurobodalla,,271
+2022-01-08,lga,au-nsw,fairfield,,19383
+2022-01-08,lga,au-nsw,federation,,195
+2022-01-08,lga,au-nsw,forbes,,107
+2022-01-08,lga,au-nsw,georges river,,10935
+2022-01-08,lga,au-nsw,gilgandra,,46
+2022-01-08,lga,au-nsw,glen innes severn,,34
+2022-01-08,lga,au-nsw,goulburn mulwaree,,611
+2022-01-08,lga,au-nsw,greater hume,,244
+2022-01-08,lga,au-nsw,griffith,,558
+2022-01-08,lga,au-nsw,gunnedah,,275
+2022-01-08,lga,au-nsw,gwydir,,23
+2022-01-08,lga,au-nsw,hawkesbury,,2274
+2022-01-08,lga,au-nsw,hay,,20
+2022-01-08,lga,au-nsw,hills,,10602
+2022-01-08,lga,au-nsw,hilltops,,268
+2022-01-08,lga,au-nsw,hornsby,,3865
+2022-01-08,lga,au-nsw,hunters hill,,1492
+2022-01-08,lga,au-nsw,inner west,,10234
+2022-01-08,lga,au-nsw,inverell,,338
+2022-01-08,lga,au-nsw,junee,,172
+2022-01-08,lga,au-nsw,kempsey,,897
+2022-01-08,lga,au-nsw,kiama,,838
+2022-01-08,lga,au-nsw,ku-ring-gai,,5063
+2022-01-08,lga,au-nsw,kyogle,,84
+2022-01-08,lga,au-nsw,lachlan,,38
+2022-01-08,lga,au-nsw,lake macquarie,,9441
+2022-01-08,lga,au-nsw,lane cove,,2839
+2022-01-08,lga,au-nsw,leeton,,70
+2022-01-08,lga,au-nsw,lismore,,812
+2022-01-08,lga,au-nsw,lithgow,,236
+2022-01-08,lga,au-nsw,liverpool,,21456
+2022-01-08,lga,au-nsw,liverpool plains,,120
+2022-01-08,lga,au-nsw,lockhart,,28
+2022-01-08,lga,au-nsw,maitland,,5550
+2022-01-08,lga,au-nsw,mid-coast,,2340
+2022-01-08,lga,au-nsw,mid-western,,434
+2022-01-08,lga,au-nsw,moree plains,,665
+2022-01-08,lga,au-nsw,mosman,,1350
+2022-01-08,lga,au-nsw,murray river,,106
+2022-01-08,lga,au-nsw,murrumbidgee,,43
+2022-01-08,lga,au-nsw,muswellbrook,,457
+2022-01-08,lga,au-nsw,nambucca,,263
+2022-01-08,lga,au-nsw,narrabri,,413
+2022-01-08,lga,au-nsw,narrandera,,30
+2022-01-08,lga,au-nsw,narromine,,147
+2022-01-08,lga,au-nsw,newcastle,,10773
+2022-01-08,lga,au-nsw,north sydney,,2542
+2022-01-08,lga,au-nsw,northern beaches,,12876
+2022-01-08,lga,au-nsw,oberon,,100
+2022-01-08,lga,au-nsw,orange,,1385
+2022-01-08,lga,au-nsw,parkes,,149
+2022-01-08,lga,au-nsw,parramatta,,12101
+2022-01-08,lga,au-nsw,penrith,,14862
+2022-01-08,lga,au-nsw,port macquarie-hastings,,2373
+2022-01-08,lga,au-nsw,port stephens,,2826
+2022-01-08,lga,au-nsw,queanbeyan-palerang,,1302
+2022-01-08,lga,au-nsw,randwick,,13414
+2022-01-08,lga,au-nsw,richmond valley,,287
+2022-01-08,lga,au-nsw,ryde,,5965
+2022-01-08,lga,au-nsw,shellharbour,,2856
+2022-01-08,lga,au-nsw,shoalhaven,,2251
+2022-01-08,lga,au-nsw,singleton,,1298
+2022-01-08,lga,au-nsw,snowy monaro,,525
+2022-01-08,lga,au-nsw,snowy valleys,,120
+2022-01-08,lga,au-nsw,strathfield,,4759
+2022-01-08,lga,au-nsw,sutherland,,14661
+2022-01-08,lga,au-nsw,sydney,,21776
+2022-01-08,lga,au-nsw,tamworth,,1805
+2022-01-08,lga,au-nsw,temora,,43
+2022-01-08,lga,au-nsw,tenterfield,,43
+2022-01-08,lga,au-nsw,tweed,,2456
 2022-01-08,lga,au-nsw,unknown,,4810
+2022-01-08,lga,au-nsw,upper hunter,,351
+2022-01-08,lga,au-nsw,upper lachlan,,107
+2022-01-08,lga,au-nsw,uralla,,32
+2022-01-08,lga,au-nsw,wagga wagga,,1132
+2022-01-08,lga,au-nsw,walcha,,56
+2022-01-08,lga,au-nsw,walgett,,200
+2022-01-08,lga,au-nsw,warren,,123
+2022-01-08,lga,au-nsw,warrumbungle,,217
+2022-01-08,lga,au-nsw,waverley,,7541
+2022-01-08,lga,au-nsw,weddin,,11
+2022-01-08,lga,au-nsw,wentworth,,102
+2022-01-08,lga,au-nsw,willoughby,,2414
+2022-01-08,lga,au-nsw,wingecarribee,,1940
+2022-01-08,lga,au-nsw,wollondilly,,1763
+2022-01-08,lga,au-nsw,wollongong,,8906
+2022-01-08,lga,au-nsw,woollahra,,4085
+2022-01-08,lga,au-nsw,yass valley,,372
+2022-01-09,lga,au-nsw,albury,,2067
+2022-01-09,lga,au-nsw,armidale,,540
+2022-01-09,lga,au-nsw,ballina,,1256
+2022-01-09,lga,au-nsw,balranald,,36
+2022-01-09,lga,au-nsw,bathurst,,1219
+2022-01-09,lga,au-nsw,bayside,,14626
+2022-01-09,lga,au-nsw,bega valley,,513
+2022-01-09,lga,au-nsw,bellingen,,211
+2022-01-09,lga,au-nsw,berrigan,,50
+2022-01-09,lga,au-nsw,blacktown,,31758
+2022-01-09,lga,au-nsw,bland,,21
+2022-01-09,lga,au-nsw,blayney,,123
+2022-01-09,lga,au-nsw,blue mountains,,2202
+2022-01-09,lga,au-nsw,bogan,,22
+2022-01-09,lga,au-nsw,bourke,,205
+2022-01-09,lga,au-nsw,brewarrina,,32
+2022-01-09,lga,au-nsw,broken hill,,346
+2022-01-09,lga,au-nsw,burwood,,2101
+2022-01-09,lga,au-nsw,byron,,2908
+2022-01-09,lga,au-nsw,cabonne,,196
+2022-01-09,lga,au-nsw,camden,,7306
+2022-01-09,lga,au-nsw,campbelltown,,13501
+2022-01-09,lga,au-nsw,canada bay,,5507
+2022-01-09,lga,au-nsw,canterbury-bankstown,,39678
+2022-01-09,lga,au-nsw,carrathool,,37
+2022-01-09,lga,au-nsw,central coast,,13774
+2022-01-09,lga,au-nsw,central darling,,187
+2022-01-09,lga,au-nsw,cessnock,,2294
+2022-01-09,lga,au-nsw,clarence valley,,697
+2022-01-09,lga,au-nsw,cobar,,77
+2022-01-09,lga,au-nsw,coffs harbour,,1809
+2022-01-09,lga,au-nsw,coolamon,,47
+2022-01-09,lga,au-nsw,coonamble,,81
+2022-01-09,lga,au-nsw,cootamundra-gundagai,,148
+2022-01-09,lga,au-nsw,cowra,,172
+2022-01-09,lga,au-nsw,cumberland,,28578
+2022-01-09,lga,au-nsw,dubbo,,2370
+2022-01-09,lga,au-nsw,dungog,,166
+2022-01-09,lga,au-nsw,edward river,,66
+2022-01-09,lga,au-nsw,eurobodalla,,298
+2022-01-09,lga,au-nsw,fairfield,,20130
+2022-01-09,lga,au-nsw,federation,,219
+2022-01-09,lga,au-nsw,forbes,,118
+2022-01-09,lga,au-nsw,georges river,,11461
+2022-01-09,lga,au-nsw,gilgandra,,46
+2022-01-09,lga,au-nsw,glen innes severn,,37
+2022-01-09,lga,au-nsw,goulburn mulwaree,,665
+2022-01-09,lga,au-nsw,greater hume,,253
+2022-01-09,lga,au-nsw,griffith,,629
+2022-01-09,lga,au-nsw,gunnedah,,298
+2022-01-09,lga,au-nsw,gwydir,,23
+2022-01-09,lga,au-nsw,hawkesbury,,2475
+2022-01-09,lga,au-nsw,hay,,20
+2022-01-09,lga,au-nsw,hills,,11002
+2022-01-09,lga,au-nsw,hilltops,,319
+2022-01-09,lga,au-nsw,hornsby,,3977
+2022-01-09,lga,au-nsw,hunters hill,,1531
+2022-01-09,lga,au-nsw,inner west,,10667
+2022-01-09,lga,au-nsw,inverell,,364
+2022-01-09,lga,au-nsw,junee,,178
+2022-01-09,lga,au-nsw,kempsey,,972
+2022-01-09,lga,au-nsw,kiama,,913
+2022-01-09,lga,au-nsw,ku-ring-gai,,5269
+2022-01-09,lga,au-nsw,kyogle,,94
+2022-01-09,lga,au-nsw,lachlan,,42
+2022-01-09,lga,au-nsw,lake macquarie,,9711
+2022-01-09,lga,au-nsw,lane cove,,2991
+2022-01-09,lga,au-nsw,leeton,,80
+2022-01-09,lga,au-nsw,lismore,,904
+2022-01-09,lga,au-nsw,lithgow,,271
+2022-01-09,lga,au-nsw,liverpool,,22443
+2022-01-09,lga,au-nsw,liverpool plains,,125
+2022-01-09,lga,au-nsw,lockhart,,28
+2022-01-09,lga,au-nsw,maitland,,5685
+2022-01-09,lga,au-nsw,mid-coast,,2408
+2022-01-09,lga,au-nsw,mid-western,,463
+2022-01-09,lga,au-nsw,moree plains,,675
+2022-01-09,lga,au-nsw,mosman,,1426
+2022-01-09,lga,au-nsw,murray river,,106
+2022-01-09,lga,au-nsw,murrumbidgee,,45
+2022-01-09,lga,au-nsw,muswellbrook,,479
+2022-01-09,lga,au-nsw,nambucca,,298
+2022-01-09,lga,au-nsw,narrabri,,425
+2022-01-09,lga,au-nsw,narrandera,,32
+2022-01-09,lga,au-nsw,narromine,,151
+2022-01-09,lga,au-nsw,newcastle,,10978
+2022-01-09,lga,au-nsw,north sydney,,2686
+2022-01-09,lga,au-nsw,northern beaches,,13465
+2022-01-09,lga,au-nsw,oberon,,102
+2022-01-09,lga,au-nsw,orange,,1479
+2022-01-09,lga,au-nsw,parkes,,154
+2022-01-09,lga,au-nsw,parramatta,,12602
+2022-01-09,lga,au-nsw,penrith,,15621
+2022-01-09,lga,au-nsw,port macquarie-hastings,,2531
+2022-01-09,lga,au-nsw,port stephens,,2890
+2022-01-09,lga,au-nsw,queanbeyan-palerang,,1442
+2022-01-09,lga,au-nsw,randwick,,13749
+2022-01-09,lga,au-nsw,richmond valley,,323
+2022-01-09,lga,au-nsw,ryde,,6245
+2022-01-09,lga,au-nsw,shellharbour,,3070
+2022-01-09,lga,au-nsw,shoalhaven,,2342
+2022-01-09,lga,au-nsw,singleton,,1324
+2022-01-09,lga,au-nsw,snowy monaro,,557
+2022-01-09,lga,au-nsw,snowy valleys,,133
+2022-01-09,lga,au-nsw,strathfield,,4999
+2022-01-09,lga,au-nsw,sutherland,,15153
+2022-01-09,lga,au-nsw,sydney,,22722
+2022-01-09,lga,au-nsw,tamworth,,1919
+2022-01-09,lga,au-nsw,temora,,48
+2022-01-09,lga,au-nsw,tenterfield,,47
+2022-01-09,lga,au-nsw,tweed,,2687
 2022-01-09,lga,au-nsw,unknown,,4817
+2022-01-09,lga,au-nsw,upper hunter,,365
+2022-01-09,lga,au-nsw,upper lachlan,,119
+2022-01-09,lga,au-nsw,uralla,,34
+2022-01-09,lga,au-nsw,wagga wagga,,1233
+2022-01-09,lga,au-nsw,walcha,,57
+2022-01-09,lga,au-nsw,walgett,,203
+2022-01-09,lga,au-nsw,warren,,132
+2022-01-09,lga,au-nsw,warrumbungle,,228
+2022-01-09,lga,au-nsw,waverley,,7841
+2022-01-09,lga,au-nsw,weddin,,11
+2022-01-09,lga,au-nsw,wentworth,,122
+2022-01-09,lga,au-nsw,willoughby,,2559
+2022-01-09,lga,au-nsw,wingecarribee,,2013
+2022-01-09,lga,au-nsw,wollondilly,,1852
+2022-01-09,lga,au-nsw,wollongong,,9414
+2022-01-09,lga,au-nsw,woollahra,,4245
+2022-01-09,lga,au-nsw,yass valley,,419
 2022-01-10,lga,au-nsw,unknown,,4829
 2022-01-11,lga,au-nsw,unknown,,4840
 2022-01-12,lga,au-nsw,unknown,,4845
