@@ -6423,7 +6423,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-31,admin_1,ua,ua-18,,0
 2020-03-31,admin_1,ua,ua-21,,0
 2020-03-31,admin_1,ua,ua-26,,0
-2020-03-31,admin_1,ua,ua-30,,0
+2020-03-31,admin_1,ua,ua-30,,1
 2020-03-31,admin_1,ua,ua-35,,0
 2020-03-31,admin_1,ua,ua-46,,0
 2020-03-31,admin_1,ua,ua-48,,0
@@ -6858,7 +6858,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-02,admin_1,ua,ua-18,,0
 2020-04-02,admin_1,ua,ua-21,,0
 2020-04-02,admin_1,ua,ua-26,,0
-2020-04-02,admin_1,ua,ua-30,,0
+2020-04-02,admin_1,ua,ua-30,,2
 2020-04-02,admin_1,ua,ua-35,,0
 2020-04-02,admin_1,ua,ua-46,,1
 2020-04-02,admin_1,ua,ua-48,,0
@@ -8108,3 +8108,4 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-08,admin_1,au,au-vic,,50
 2020-04-08,admin_1,au,au-wa,,0
 2020-04-08,admin_1,ca,ca-ab,,0
+2020-04-08,admin_1,ca,ca-bc,,55
