@@ -38,6 +38,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-30,lga,au-vic,unknown,,1
 2020-03-31,lga,au-vic,boroondara,,7
 2020-03-31,lga,au-vic,brimbank,,5
+2020-03-31,lga,au-vic,glen eira,,2
 2020-03-31,lga,au-vic,hume,,3
 2020-03-31,lga,au-vic,maroondah,,2
 2020-03-31,lga,au-vic,monash,,2
@@ -526,6 +527,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-13,lga,au-vic,moonee valley,,79
 2020-07-13,lga,au-vic,moreland,,61
 2020-07-13,lga,au-vic,nillumbik,,12
+2020-07-13,lga,au-vic,port phillip,,15
 2020-07-13,lga,au-vic,south gippsland,,1
 2020-07-13,lga,au-vic,stonnington,,13
 2020-07-13,lga,au-vic,unknown,,3
@@ -1474,9 +1476,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-22,lga,au-vic,moreland,,176
 2020-08-22,lga,au-vic,mornington peninsula,,21
 2020-08-22,lga,au-vic,port phillip,,56
+2020-08-22,lga,au-vic,stonnington,,49
 2020-08-22,lga,au-vic,whittlesea,,199
 2020-08-22,lga,au-vic,wyndham,,341
 2020-08-22,lga,au-vic,yarra,,157
+2020-08-23,lga,au-vic,banyule,,81
 2020-08-23,lga,au-vic,brimbank,,314
 2020-08-23,lga,au-vic,casey,,157
 2020-08-23,lga,au-vic,darebin,,120
@@ -1589,6 +1593,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-02,lga,au-vic,glen eira,,47
 2020-09-02,lga,au-vic,kingston,,44
 2020-09-02,lga,au-vic,maroondah,,22
+2020-09-02,lga,au-vic,melton,,223
 2020-09-02,lga,au-vic,moreland,,194
 2020-09-02,lga,au-vic,port phillip,,60
 2020-09-02,lga,au-vic,whittlesea,,202
@@ -2526,6 +2531,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-08,lga,au-vic,baw baw,,65
 2021-12-08,lga,au-vic,greater geelong,,240
 2021-12-08,lga,au-vic,macedon ranges,,40
+2021-12-08,lga,au-vic,melbourne,,295
 2021-12-08,lga,au-vic,mildura,,36
 2021-12-08,lga,au-vic,mount alexander,,12
 2021-12-08,lga,au-vic,northern grampians,,6
@@ -2566,6 +2572,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-13,lga,au-vic,greater dandenong,,118
 2021-12-13,lga,au-vic,greater geelong,,251
 2021-12-14,lga,au-vic,greater geelong,,252
+2021-12-16,lga,au-vic,benalla,,4
 2021-12-16,lga,au-vic,campaspe,,29
 2021-12-16,lga,au-vic,east gippsland,,34
 2021-12-16,lga,au-vic,golden plains,,13
@@ -2661,25 +2668,50 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-26,lga,au-vic,mitchell,,64
 2021-12-26,lga,au-vic,nillumbik,,36
 2021-12-26,lga,au-vic,surf coast,,42
+2021-12-28,lga,au-vic,greater geelong,,289
 2021-12-28,lga,au-vic,wodonga,,36
 2021-12-29,lga,au-vic,south gippsland,,19
 2021-12-29,lga,au-vic,wodonga,,37
 2021-12-30,lga,au-vic,campaspe,,30
+2021-12-30,lga,au-vic,greater geelong,,290
 2021-12-30,lga,au-vic,maroondah,,25
 2021-12-30,lga,au-vic,mitchell,,65
 2021-12-30,lga,au-vic,moira,,27
 2021-12-31,lga,au-vic,bass coast,,37
+2021-12-31,lga,au-vic,campaspe,,31
 2021-12-31,lga,au-vic,horsham,,5
+2021-12-31,lga,au-vic,macedon ranges,,43
 2021-12-31,lga,au-vic,south gippsland,,20
 2022-01-01,lga,au-vic,colac-otway,,24
+2022-01-01,lga,au-vic,east gippsland,,35
 2022-01-01,lga,au-vic,greater geelong,,288
 2022-01-01,lga,au-vic,greater shepparton,,144
 2022-01-01,lga,au-vic,indigo,,6
 2022-01-01,lga,au-vic,latrobe,,73
 2022-01-01,lga,au-vic,macedon ranges,,43
 2022-01-01,lga,au-vic,mildura,,43
+2022-01-01,lga,au-vic,moira,,28
 2022-01-01,lga,au-vic,south gippsland,,23
 2022-01-01,lga,au-vic,surf coast,,42
+2022-01-01,lga,au-vic,swan hill,,6
+2022-01-01,lga,au-vic,unknown,,36
+2022-01-01,lga,au-vic,warrnambool,,8
+2022-01-01,lga,au-vic,wodonga,,39
+2022-01-02,lga,au-vic,greater geelong,,295
+2022-01-02,lga,au-vic,latrobe,,75
+2022-01-02,lga,au-vic,macedon ranges,,45
+2022-01-02,lga,au-vic,mildura,,45
+2022-01-02,lga,au-vic,mitchell,,67
 2022-01-02,lga,au-vic,surf coast,,42
+2022-01-02,lga,au-vic,warrnambool,,9
+2022-01-02,lga,au-vic,wodonga,,40
+2022-01-03,lga,au-vic,corangamite,,2
+2022-01-04,lga,au-vic,ballarat,,58
 2022-01-04,lga,au-vic,bass coast,,37
+2022-01-04,lga,au-vic,benalla,,5
 2022-01-04,lga,au-vic,greater bendigo,,80
+2022-01-04,lga,au-vic,greater shepparton,,145
+2022-01-04,lga,au-vic,melton,,243
+2022-01-05,lga,au-vic,benalla,,6
+2022-01-06,lga,au-vic,hepburn,,13
+2022-01-06,lga,au-vic,macedon ranges,,46
