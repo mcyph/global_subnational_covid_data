@@ -2824,7 +2824,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-12,admin_1,au,au-vic,,0
 2021-01-12,admin_1,au,au-wa,,0
 2021-01-13,admin_1,au,au-act,,0
-2021-01-13,admin_1,au,au-nsw,,0
+2021-01-13,admin_1,au,au-nsw,,1
 2021-01-13,admin_1,au,au-nt,,-2
 2021-01-13,admin_1,au,au-qld,,-2
 2021-01-13,admin_1,au,au-sa,,0
@@ -2832,7 +2832,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-13,admin_1,au,au-vic,,0
 2021-01-13,admin_1,au,au-wa,,0
 2021-01-14,admin_1,au,au-act,,0
-2021-01-14,admin_1,au,au-nsw,,0
+2021-01-14,admin_1,au,au-nsw,,-1
 2021-01-14,admin_1,au,au-nt,,2
 2021-01-14,admin_1,au,au-qld,,2
 2021-01-14,admin_1,au,au-sa,,0
@@ -2864,7 +2864,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-17,admin_1,au,au-vic,,0
 2021-01-17,admin_1,au,au-wa,,0
 2021-01-18,admin_1,au,au-act,,0
-2021-01-18,admin_1,au,au-nsw,,-1
+2021-01-18,admin_1,au,au-nsw,,0
 2021-01-18,admin_1,au,au-nt,,-2
 2021-01-18,admin_1,au,au-qld,,-2
 2021-01-18,admin_1,au,au-sa,,0
@@ -2872,7 +2872,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-18,admin_1,au,au-vic,,0
 2021-01-18,admin_1,au,au-wa,,0
 2021-01-19,admin_1,au,au-act,,0
-2021-01-19,admin_1,au,au-nsw,,1
+2021-01-19,admin_1,au,au-nsw,,0
 2021-01-19,admin_1,au,au-nt,,0
 2021-01-19,admin_1,au,au-qld,,-1
 2021-01-19,admin_1,au,au-sa,,0
@@ -2880,7 +2880,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-19,admin_1,au,au-vic,,0
 2021-01-19,admin_1,au,au-wa,,0
 2021-01-20,admin_1,au,au-act,,0
-2021-01-20,admin_1,au,au-nsw,,-1
+2021-01-20,admin_1,au,au-nsw,,0
 2021-01-20,admin_1,au,au-nt,,2
 2021-01-20,admin_1,au,au-qld,,2
 2021-01-20,admin_1,au,au-sa,,0
@@ -2904,7 +2904,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-22,admin_1,au,au-vic,,0
 2021-01-22,admin_1,au,au-wa,,0
 2021-01-23,admin_1,au,au-act,,0
-2021-01-23,admin_1,au,au-nsw,,1
+2021-01-23,admin_1,au,au-nsw,,0
 2021-01-23,admin_1,au,au-nt,,0
 2021-01-23,admin_1,au,au-qld,,-2
 2021-01-23,admin_1,au,au-sa,,0
@@ -2944,7 +2944,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-27,admin_1,au,au-vic,,0
 2021-01-27,admin_1,au,au-wa,,0
 2021-01-28,admin_1,au,au-act,,0
-2021-01-28,admin_1,au,au-nsw,,-1
+2021-01-28,admin_1,au,au-nsw,,0
 2021-01-28,admin_1,au,au-nt,,0
 2021-01-28,admin_1,au,au-qld,,0
 2021-01-28,admin_1,au,au-sa,,0
@@ -2952,7 +2952,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-28,admin_1,au,au-vic,,0
 2021-01-28,admin_1,au,au-wa,,0
 2021-01-29,admin_1,au,au-act,,0
-2021-01-29,admin_1,au,au-nsw,,0
+2021-01-29,admin_1,au,au-nsw,,-1
 2021-01-29,admin_1,au,au-nt,,0
 2021-01-29,admin_1,au,au-qld,,0
 2021-01-29,admin_1,au,au-sa,,0
@@ -2968,7 +2968,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-30,admin_1,au,au-vic,,0
 2021-01-30,admin_1,au,au-wa,,0
 2021-01-31,admin_1,au,au-act,,0
-2021-01-31,admin_1,au,au-nsw,,-1
+2021-01-31,admin_1,au,au-nsw,,0
 2021-01-31,admin_1,au,au-nt,,0
 2021-01-31,admin_1,au,au-qld,,0
 2021-01-31,admin_1,au,au-sa,,0
@@ -2976,7 +2976,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-01-31,admin_1,au,au-vic,,0
 2021-01-31,admin_1,au,au-wa,,0
 2021-02-01,admin_1,au,au-act,,0
-2021-02-01,admin_1,au,au-nsw,,0
+2021-02-01,admin_1,au,au-nsw,,-1
 2021-02-01,admin_1,au,au-nt,,-3
 2021-02-01,admin_1,au,au-qld,,0
 2021-02-01,admin_1,au,au-sa,,0
@@ -3080,7 +3080,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-13,admin_1,au,au-vic,,0
 2021-02-13,admin_1,au,au-wa,,0
 2021-02-14,admin_1,au,au-act,,0
-2021-02-14,admin_1,au,au-nsw,,-1
+2021-02-14,admin_1,au,au-nsw,,0
 2021-02-14,admin_1,au,au-nt,,1
 2021-02-14,admin_1,au,au-qld,,0
 2021-02-14,admin_1,au,au-sa,,0
@@ -3104,7 +3104,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-16,admin_1,au,au-vic,,0
 2021-02-16,admin_1,au,au-wa,,0
 2021-02-17,admin_1,au,au-act,,0
-2021-02-17,admin_1,au,au-nsw,,2
+2021-02-17,admin_1,au,au-nsw,,1
 2021-02-17,admin_1,au,au-nt,,0
 2021-02-17,admin_1,au,au-qld,,-1
 2021-02-17,admin_1,au,au-sa,,0
@@ -3112,7 +3112,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-17,admin_1,au,au-vic,,-1
 2021-02-17,admin_1,au,au-wa,,0
 2021-02-18,admin_1,au,au-act,,0
-2021-02-18,admin_1,au,au-nsw,,-2
+2021-02-18,admin_1,au,au-nsw,,-1
 2021-02-18,admin_1,au,au-nt,,0
 2021-02-18,admin_1,au,au-qld,,0
 2021-02-18,admin_1,au,au-sa,,0
@@ -3128,7 +3128,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-19,admin_1,au,au-vic,,1
 2021-02-19,admin_1,au,au-wa,,0
 2021-02-20,admin_1,au,au-act,,0
-2021-02-20,admin_1,au,au-nsw,,1
+2021-02-20,admin_1,au,au-nsw,,0
 2021-02-20,admin_1,au,au-nt,,1
 2021-02-20,admin_1,au,au-qld,,-1
 2021-02-20,admin_1,au,au-sa,,0
@@ -3136,7 +3136,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-20,admin_1,au,au-vic,,0
 2021-02-20,admin_1,au,au-wa,,0
 2021-02-21,admin_1,au,au-act,,0
-2021-02-21,admin_1,au,au-nsw,,-1
+2021-02-21,admin_1,au,au-nsw,,0
 2021-02-21,admin_1,au,au-nt,,0
 2021-02-21,admin_1,au,au-qld,,0
 2021-02-21,admin_1,au,au-sa,,0
@@ -3160,7 +3160,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-23,admin_1,au,au-vic,,0
 2021-02-23,admin_1,au,au-wa,,0
 2021-02-24,admin_1,au,au-act,,0
-2021-02-24,admin_1,au,au-nsw,,2
+2021-02-24,admin_1,au,au-nsw,,1
 2021-02-24,admin_1,au,au-nt,,-1
 2021-02-24,admin_1,au,au-qld,,0
 2021-02-24,admin_1,au,au-sa,,0
@@ -3176,7 +3176,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-25,admin_1,au,au-vic,,1
 2021-02-25,admin_1,au,au-wa,,0
 2021-02-26,admin_1,au,au-act,,0
-2021-02-26,admin_1,au,au-nsw,,0
+2021-02-26,admin_1,au,au-nsw,,1
 2021-02-26,admin_1,au,au-nt,,1
 2021-02-26,admin_1,au,au-qld,,2
 2021-02-26,admin_1,au,au-sa,,0
@@ -3184,7 +3184,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-26,admin_1,au,au-vic,,0
 2021-02-26,admin_1,au,au-wa,,0
 2021-02-27,admin_1,au,au-act,,0
-2021-02-27,admin_1,au,au-nsw,,2
+2021-02-27,admin_1,au,au-nsw,,1
 2021-02-27,admin_1,au,au-nt,,0
 2021-02-27,admin_1,au,au-qld,,2
 2021-02-27,admin_1,au,au-sa,,0
@@ -3192,7 +3192,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-02-27,admin_1,au,au-vic,,1
 2021-02-27,admin_1,au,au-wa,,0
 2021-02-28,admin_1,au,au-act,,0
-2021-02-28,admin_1,au,au-nsw,,-1
+2021-02-28,admin_1,au,au-nsw,,0
 2021-02-28,admin_1,au,au-nt,,0
 2021-02-28,admin_1,au,au-qld,,-1
 2021-02-28,admin_1,au,au-sa,,0
@@ -3216,7 +3216,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-02,admin_1,au,au-vic,,0
 2021-03-02,admin_1,au,au-wa,,0
 2021-03-03,admin_1,au,au-act,,0
-2021-03-03,admin_1,au,au-nsw,,-2
+2021-03-03,admin_1,au,au-nsw,,-3
 2021-03-03,admin_1,au,au-nt,,-1
 2021-03-03,admin_1,au,au-qld,,0
 2021-03-03,admin_1,au,au-sa,,0
@@ -3248,7 +3248,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-06,admin_1,au,au-vic,,0
 2021-03-06,admin_1,au,au-wa,,0
 2021-03-07,admin_1,au,au-act,,0
-2021-03-07,admin_1,au,au-nsw,,0
+2021-03-07,admin_1,au,au-nsw,,1
 2021-03-07,admin_1,au,au-nt,,-1
 2021-03-07,admin_1,au,au-qld,,1
 2021-03-07,admin_1,au,au-sa,,0
@@ -3280,7 +3280,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-10,admin_1,au,au-vic,,0
 2021-03-10,admin_1,au,au-wa,,0
 2021-03-11,admin_1,au,au-act,,0
-2021-03-11,admin_1,au,au-nsw,,1
+2021-03-11,admin_1,au,au-nsw,,0
 2021-03-11,admin_1,au,au-nt,,0
 2021-03-11,admin_1,au,au-qld,,4
 2021-03-11,admin_1,au,au-sa,,0
@@ -3288,7 +3288,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-11,admin_1,au,au-vic,,0
 2021-03-11,admin_1,au,au-wa,,0
 2021-03-12,admin_1,au,au-act,,0
-2021-03-12,admin_1,au,au-nsw,,0
+2021-03-12,admin_1,au,au-nsw,,1
 2021-03-12,admin_1,au,au-nt,,0
 2021-03-12,admin_1,au,au-qld,,-3
 2021-03-12,admin_1,au,au-sa,,0
@@ -3304,7 +3304,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-13,admin_1,au,au-vic,,0
 2021-03-13,admin_1,au,au-wa,,0
 2021-03-14,admin_1,au,au-act,,0
-2021-03-14,admin_1,au,au-nsw,,0
+2021-03-14,admin_1,au,au-nsw,,-1
 2021-03-14,admin_1,au,au-nt,,0
 2021-03-14,admin_1,au,au-qld,,-6
 2021-03-14,admin_1,au,au-sa,,0
@@ -3320,7 +3320,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-15,admin_1,au,au-vic,,0
 2021-03-15,admin_1,au,au-wa,,0
 2021-03-16,admin_1,au,au-act,,0
-2021-03-16,admin_1,au,au-nsw,,-1
+2021-03-16,admin_1,au,au-nsw,,0
 2021-03-16,admin_1,au,au-nt,,0
 2021-03-16,admin_1,au,au-qld,,6
 2021-03-16,admin_1,au,au-sa,,0
@@ -3328,7 +3328,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-16,admin_1,au,au-vic,,0
 2021-03-16,admin_1,au,au-wa,,0
 2021-03-17,admin_1,au,au-act,,0
-2021-03-17,admin_1,au,au-nsw,,1
+2021-03-17,admin_1,au,au-nsw,,0
 2021-03-17,admin_1,au,au-nt,,1
 2021-03-17,admin_1,au,au-qld,,3
 2021-03-17,admin_1,au,au-sa,,0
@@ -3336,7 +3336,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-17,admin_1,au,au-vic,,0
 2021-03-17,admin_1,au,au-wa,,0
 2021-03-18,admin_1,au,au-act,,0
-2021-03-18,admin_1,au,au-nsw,,-1
+2021-03-18,admin_1,au,au-nsw,,0
 2021-03-18,admin_1,au,au-nt,,0
 2021-03-18,admin_1,au,au-qld,,-1
 2021-03-18,admin_1,au,au-sa,,0
@@ -3352,7 +3352,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-19,admin_1,au,au-vic,,0
 2021-03-19,admin_1,au,au-wa,,0
 2021-03-20,admin_1,au,au-act,,0
-2021-03-20,admin_1,au,au-nsw,,1
+2021-03-20,admin_1,au,au-nsw,,0
 2021-03-20,admin_1,au,au-nt,,0
 2021-03-20,admin_1,au,au-qld,,1
 2021-03-20,admin_1,au,au-sa,,0
@@ -3360,7 +3360,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-20,admin_1,au,au-vic,,0
 2021-03-20,admin_1,au,au-wa,,0
 2021-03-21,admin_1,au,au-act,,0
-2021-03-21,admin_1,au,au-nsw,,-1
+2021-03-21,admin_1,au,au-nsw,,0
 2021-03-21,admin_1,au,au-nt,,0
 2021-03-21,admin_1,au,au-qld,,-4
 2021-03-21,admin_1,au,au-sa,,0
@@ -3376,7 +3376,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-22,admin_1,au,au-vic,,0
 2021-03-22,admin_1,au,au-wa,,0
 2021-03-23,admin_1,au,au-act,,0
-2021-03-23,admin_1,au,au-nsw,,1
+2021-03-23,admin_1,au,au-nsw,,0
 2021-03-23,admin_1,au,au-nt,,0
 2021-03-23,admin_1,au,au-qld,,2
 2021-03-23,admin_1,au,au-sa,,0
@@ -3384,7 +3384,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-23,admin_1,au,au-vic,,0
 2021-03-23,admin_1,au,au-wa,,0
 2021-03-24,admin_1,au,au-act,,0
-2021-03-24,admin_1,au,au-nsw,,-1
+2021-03-24,admin_1,au,au-nsw,,0
 2021-03-24,admin_1,au,au-nt,,0
 2021-03-24,admin_1,au,au-qld,,6
 2021-03-24,admin_1,au,au-sa,,0
@@ -3400,7 +3400,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-25,admin_1,au,au-vic,,0
 2021-03-25,admin_1,au,au-wa,,0
 2021-03-26,admin_1,au,au-act,,0
-2021-03-26,admin_1,au,au-nsw,,0
+2021-03-26,admin_1,au,au-nsw,,-1
 2021-03-26,admin_1,au,au-nt,,0
 2021-03-26,admin_1,au,au-qld,,4
 2021-03-26,admin_1,au,au-sa,,0
@@ -3432,7 +3432,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-29,admin_1,au,au-vic,,0
 2021-03-29,admin_1,au,au-wa,,0
 2021-03-30,admin_1,au,au-act,,0
-2021-03-30,admin_1,au,au-nsw,,-1
+2021-03-30,admin_1,au,au-nsw,,0
 2021-03-30,admin_1,au,au-nt,,0
 2021-03-30,admin_1,au,au-qld,,5
 2021-03-30,admin_1,au,au-sa,,0
@@ -3440,7 +3440,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-03-30,admin_1,au,au-vic,,0
 2021-03-30,admin_1,au,au-wa,,0
 2021-03-31,admin_1,au,au-act,,0
-2021-03-31,admin_1,au,au-nsw,,1
+2021-03-31,admin_1,au,au-nsw,,0
 2021-03-31,admin_1,au,au-nt,,0
 2021-03-31,admin_1,au,au-qld,,-7
 2021-03-31,admin_1,au,au-sa,,0
@@ -3464,7 +3464,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-02,admin_1,au,au-vic,,0
 2021-04-02,admin_1,au,au-wa,,0
 2021-04-03,admin_1,au,au-act,,0
-2021-04-03,admin_1,au,au-nsw,,-1
+2021-04-03,admin_1,au,au-nsw,,0
 2021-04-03,admin_1,au,au-nt,,0
 2021-04-03,admin_1,au,au-qld,,-8
 2021-04-03,admin_1,au,au-sa,,0
@@ -3488,7 +3488,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-05,admin_1,au,au-vic,,0
 2021-04-05,admin_1,au,au-wa,,0
 2021-04-06,admin_1,au,au-act,,0
-2021-04-06,admin_1,au,au-nsw,,1
+2021-04-06,admin_1,au,au-nsw,,0
 2021-04-06,admin_1,au,au-nt,,0
 2021-04-06,admin_1,au,au-qld,,-5
 2021-04-06,admin_1,au,au-sa,,0
@@ -3496,7 +3496,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-06,admin_1,au,au-vic,,0
 2021-04-06,admin_1,au,au-wa,,0
 2021-04-07,admin_1,au,au-act,,0
-2021-04-07,admin_1,au,au-nsw,,-1
+2021-04-07,admin_1,au,au-nsw,,0
 2021-04-07,admin_1,au,au-nt,,0
 2021-04-07,admin_1,au,au-qld,,3
 2021-04-07,admin_1,au,au-sa,,0
@@ -3504,7 +3504,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-07,admin_1,au,au-vic,,0
 2021-04-07,admin_1,au,au-wa,,0
 2021-04-08,admin_1,au,au-act,,0
-2021-04-08,admin_1,au,au-nsw,,1
+2021-04-08,admin_1,au,au-nsw,,0
 2021-04-08,admin_1,au,au-nt,,-1
 2021-04-08,admin_1,au,au-qld,,-5
 2021-04-08,admin_1,au,au-sa,,0
@@ -3520,7 +3520,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-09,admin_1,au,au-vic,,0
 2021-04-09,admin_1,au,au-wa,,0
 2021-04-10,admin_1,au,au-act,,0
-2021-04-10,admin_1,au,au-nsw,,-2
+2021-04-10,admin_1,au,au-nsw,,-1
 2021-04-10,admin_1,au,au-nt,,0
 2021-04-10,admin_1,au,au-qld,,-6
 2021-04-10,admin_1,au,au-sa,,0
@@ -3536,7 +3536,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-11,admin_1,au,au-vic,,0
 2021-04-11,admin_1,au,au-wa,,0
 2021-04-12,admin_1,au,au-act,,0
-2021-04-12,admin_1,au,au-nsw,,1
+2021-04-12,admin_1,au,au-nsw,,0
 2021-04-12,admin_1,au,au-nt,,-1
 2021-04-12,admin_1,au,au-qld,,-2
 2021-04-12,admin_1,au,au-sa,,0
@@ -3592,7 +3592,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-18,admin_1,au,au-vic,,0
 2021-04-18,admin_1,au,au-wa,,0
 2021-04-19,admin_1,au,au-act,,0
-2021-04-19,admin_1,au,au-nsw,,0
+2021-04-19,admin_1,au,au-nsw,,1
 2021-04-19,admin_1,au,au-nt,,1
 2021-04-19,admin_1,au,au-qld,,-2
 2021-04-19,admin_1,au,au-sa,,0
@@ -3608,7 +3608,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-20,admin_1,au,au-vic,,0
 2021-04-20,admin_1,au,au-wa,,0
 2021-04-21,admin_1,au,au-act,,0
-2021-04-21,admin_1,au,au-nsw,,1
+2021-04-21,admin_1,au,au-nsw,,0
 2021-04-21,admin_1,au,au-nt,,3
 2021-04-21,admin_1,au,au-qld,,-3
 2021-04-21,admin_1,au,au-sa,,-1
@@ -3624,7 +3624,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-22,admin_1,au,au-vic,,0
 2021-04-22,admin_1,au,au-wa,,0
 2021-04-23,admin_1,au,au-act,,0
-2021-04-23,admin_1,au,au-nsw,,-3
+2021-04-23,admin_1,au,au-nsw,,-2
 2021-04-23,admin_1,au,au-nt,,12
 2021-04-23,admin_1,au,au-qld,,4
 2021-04-23,admin_1,au,au-sa,,0
@@ -3664,7 +3664,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-04-27,admin_1,au,au-vic,,0
 2021-04-27,admin_1,au,au-wa,,0
 2021-04-28,admin_1,au,au-act,,0
-2021-04-28,admin_1,au,au-nsw,,3
+2021-04-28,admin_1,au,au-nsw,,2
 2021-04-28,admin_1,au,au-nt,,0
 2021-04-28,admin_1,au,au-qld,,2
 2021-04-28,admin_1,au,au-sa,,0
@@ -3784,7 +3784,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-12,admin_1,au,au-vic,,0
 2021-05-12,admin_1,au,au-wa,,1
 2021-05-13,admin_1,au,au-act,,0
-2021-05-13,admin_1,au,au-nsw,,-1
+2021-05-13,admin_1,au,au-nsw,,0
 2021-05-13,admin_1,au,au-nt,,-1
 2021-05-13,admin_1,au,au-qld,,-3
 2021-05-13,admin_1,au,au-sa,,0
@@ -3792,7 +3792,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-13,admin_1,au,au-vic,,0
 2021-05-13,admin_1,au,au-wa,,0
 2021-05-14,admin_1,au,au-act,,0
-2021-05-14,admin_1,au,au-nsw,,1
+2021-05-14,admin_1,au,au-nsw,,0
 2021-05-14,admin_1,au,au-nt,,0
 2021-05-14,admin_1,au,au-qld,,-2
 2021-05-14,admin_1,au,au-sa,,0
@@ -3800,7 +3800,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-14,admin_1,au,au-vic,,0
 2021-05-14,admin_1,au,au-wa,,-1
 2021-05-15,admin_1,au,au-act,,0
-2021-05-15,admin_1,au,au-nsw,,-3
+2021-05-15,admin_1,au,au-nsw,,-2
 2021-05-15,admin_1,au,au-nt,,2
 2021-05-15,admin_1,au,au-qld,,0
 2021-05-15,admin_1,au,au-sa,,0
@@ -3808,7 +3808,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-15,admin_1,au,au-vic,,0
 2021-05-15,admin_1,au,au-wa,,0
 2021-05-16,admin_1,au,au-act,,0
-2021-05-16,admin_1,au,au-nsw,,1
+2021-05-16,admin_1,au,au-nsw,,0
 2021-05-16,admin_1,au,au-nt,,-1
 2021-05-16,admin_1,au,au-qld,,0
 2021-05-16,admin_1,au,au-sa,,0
@@ -3832,7 +3832,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-18,admin_1,au,au-vic,,0
 2021-05-18,admin_1,au,au-wa,,0
 2021-05-19,admin_1,au,au-act,,0
-2021-05-19,admin_1,au,au-nsw,,-1
+2021-05-19,admin_1,au,au-nsw,,0
 2021-05-19,admin_1,au,au-nt,,-1
 2021-05-19,admin_1,au,au-qld,,-2
 2021-05-19,admin_1,au,au-sa,,0
@@ -3856,7 +3856,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-05-21,admin_1,au,au-vic,,0
 2021-05-21,admin_1,au,au-wa,,0
 2021-05-22,admin_1,au,au-act,,0
-2021-05-22,admin_1,au,au-nsw,,2
+2021-05-22,admin_1,au,au-nsw,,1
 2021-05-22,admin_1,au,au-nt,,1
 2021-05-22,admin_1,au,au-qld,,1
 2021-05-22,admin_1,au,au-sa,,0
@@ -4008,7 +4008,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-06-09,admin_1,au,au-vic,,0
 2021-06-09,admin_1,au,au-wa,,0
 2021-06-10,admin_1,au,au-act,,0
-2021-06-10,admin_1,au,au-nsw,,-1
+2021-06-10,admin_1,au,au-nsw,,0
 2021-06-10,admin_1,au,au-nt,,0
 2021-06-10,admin_1,au,au-qld,,2
 2021-06-10,admin_1,au,au-sa,,0
@@ -4056,7 +4056,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-06-15,admin_1,au,au-vic,,2
 2021-06-15,admin_1,au,au-wa,,0
 2021-06-16,admin_1,au,au-act,,0
-2021-06-16,admin_1,au,au-nsw,,1
+2021-06-16,admin_1,au,au-nsw,,0
 2021-06-16,admin_1,au,au-nt,,-1
 2021-06-16,admin_1,au,au-qld,,2
 2021-06-16,admin_1,au,au-sa,,0
@@ -5553,7 +5553,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-19,admin_1,au,au-wa,,0
 2021-12-20,admin_1,au,au-act,,0
 2021-12-20,admin_1,au,au-nsw,,34
-2021-12-20,admin_1,au,au-nt,,6
+2021-12-20,admin_1,au,au-nt,,-63
 2021-12-20,admin_1,au,au-qld,,9
 2021-12-20,admin_1,au,au-sa,,2
 2021-12-20,admin_1,au,au-tas,,0
@@ -5561,7 +5561,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-20,admin_1,au,au-wa,,0
 2021-12-21,admin_1,au,au-act,,0
 2021-12-21,admin_1,au,au-nsw,,23
-2021-12-21,admin_1,au,au-nt,,7
+2021-12-21,admin_1,au,au-nt,,2
 2021-12-21,admin_1,au,au-qld,,9
 2021-12-21,admin_1,au,au-sa,,1
 2021-12-21,admin_1,au,au-tas,,0
@@ -5569,7 +5569,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-21,admin_1,au,au-wa,,0
 2021-12-22,admin_1,au,au-act,,0
 2021-12-22,admin_1,au,au-nsw,,18
-2021-12-22,admin_1,au,au-nt,,4
+2021-12-22,admin_1,au,au-nt,,-5
 2021-12-22,admin_1,au,au-qld,,5
 2021-12-22,admin_1,au,au-sa,,-2
 2021-12-22,admin_1,au,au-tas,,0
@@ -5577,7 +5577,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-22,admin_1,au,au-wa,,0
 2021-12-23,admin_1,au,au-act,,0
 2021-12-23,admin_1,au,au-nsw,,45
-2021-12-23,admin_1,au,au-nt,,-1
+2021-12-23,admin_1,au,au-nt,,1
 2021-12-23,admin_1,au,au-qld,,14
 2021-12-23,admin_1,au,au-sa,,3
 2021-12-23,admin_1,au,au-tas,,1
@@ -5585,7 +5585,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-23,admin_1,au,au-wa,,0
 2021-12-24,admin_1,au,au-act,,-1
 2021-12-24,admin_1,au,au-nsw,,35
-2021-12-24,admin_1,au,au-nt,,2
+2021-12-24,admin_1,au,au-nt,,-1
 2021-12-24,admin_1,au,au-qld,,17
 2021-12-24,admin_1,au,au-sa,,0
 2021-12-24,admin_1,au,au-tas,,0
@@ -5593,7 +5593,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-24,admin_1,au,au-wa,,0
 2021-12-25,admin_1,au,au-act,,0
 2021-12-25,admin_1,au,au-nsw,,6
-2021-12-25,admin_1,au,au-nt,,0
+2021-12-25,admin_1,au,au-nt,,9
 2021-12-25,admin_1,au,au-qld,,0
 2021-12-25,admin_1,au,au-sa,,4
 2021-12-25,admin_1,au,au-tas,,-1
@@ -5601,7 +5601,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-25,admin_1,au,au-wa,,0
 2021-12-26,admin_1,au,au-act,,-1
 2021-12-26,admin_1,au,au-nsw,,70
-2021-12-26,admin_1,au,au-nt,,11
+2021-12-26,admin_1,au,au-nt,,-1
 2021-12-26,admin_1,au,au-qld,,-11
 2021-12-26,admin_1,au,au-sa,,5
 2021-12-26,admin_1,au,au-tas,,0
@@ -5609,7 +5609,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-26,admin_1,au,au-wa,,0
 2021-12-27,admin_1,au,au-act,,0
 2021-12-27,admin_1,au,au-nsw,,63
-2021-12-27,admin_1,au,au-nt,,10
+2021-12-27,admin_1,au,au-nt,,-3
 2021-12-27,admin_1,au,au-qld,,-28
 2021-12-27,admin_1,au,au-sa,,6
 2021-12-27,admin_1,au,au-tas,,0
@@ -5617,7 +5617,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-27,admin_1,au,au-wa,,0
 2021-12-28,admin_1,au,au-act,,2
 2021-12-28,admin_1,au,au-nsw,,36
-2021-12-28,admin_1,au,au-nt,,-15
+2021-12-28,admin_1,au,au-nt,,5
 2021-12-28,admin_1,au,au-qld,,17
 2021-12-28,admin_1,au,au-sa,,13
 2021-12-28,admin_1,au,au-tas,,0
@@ -5625,7 +5625,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-28,admin_1,au,au-wa,,0
 2021-12-29,admin_1,au,au-act,,1
 2021-12-29,admin_1,au,au-nsw,,68
-2021-12-29,admin_1,au,au-nt,,58
+2021-12-29,admin_1,au,au-nt,,0
 2021-12-29,admin_1,au,au-qld,,4
 2021-12-29,admin_1,au,au-sa,,1
 2021-12-29,admin_1,au,au-tas,,0
@@ -5633,7 +5633,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-29,admin_1,au,au-wa,,0
 2021-12-30,admin_1,au,au-act,,0
 2021-12-30,admin_1,au,au-nsw,,122
-2021-12-30,admin_1,au,au-nt,,37
+2021-12-30,admin_1,au,au-nt,,0
 2021-12-30,admin_1,au,au-qld,,10
 2021-12-30,admin_1,au,au-sa,,0
 2021-12-30,admin_1,au,au-tas,,3
@@ -5641,7 +5641,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-30,admin_1,au,au-wa,,0
 2021-12-31,admin_1,au,au-act,,2
 2021-12-31,admin_1,au,au-nsw,,87
-2021-12-31,admin_1,au,au-nt,,-13
+2021-12-31,admin_1,au,au-nt,,4
 2021-12-31,admin_1,au,au-qld,,23
 2021-12-31,admin_1,au,au-sa,,3
 2021-12-31,admin_1,au,au-tas,,1
@@ -5649,7 +5649,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-31,admin_1,au,au-wa,,0
 2022-01-01,admin_1,au,au-act,,3
 2022-01-01,admin_1,au,au-nsw,,69
-2022-01-01,admin_1,au,au-nt,,-20
+2022-01-01,admin_1,au,au-nt,,-3
 2022-01-01,admin_1,au,au-qld,,24
 2022-01-01,admin_1,au,au-sa,,31
 2022-01-01,admin_1,au,au-tas,,-2
@@ -5657,7 +5657,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-01,admin_1,au,au-wa,,0
 2022-01-02,admin_1,au,au-act,,0
 2022-01-02,admin_1,au,au-nsw,,166
-2022-01-02,admin_1,au,au-nt,,12
+2022-01-02,admin_1,au,au-nt,,5
 2022-01-02,admin_1,au,au-qld,,20
 2022-01-02,admin_1,au,au-sa,,11
 2022-01-02,admin_1,au,au-tas,,0
@@ -5665,7 +5665,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-02,admin_1,au,au-wa,,0
 2022-01-03,admin_1,au,au-act,,2
 2022-01-03,admin_1,au,au-nsw,,136
-2022-01-03,admin_1,au,au-nt,,3
+2022-01-03,admin_1,au,au-nt,,-5
 2022-01-03,admin_1,au,au-qld,,10
 2022-01-03,admin_1,au,au-sa,,12
 2022-01-03,admin_1,au,au-tas,,0
@@ -5673,7 +5673,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-03,admin_1,au,au-wa,,0
 2022-01-04,admin_1,au,au-act,,2
 2022-01-04,admin_1,au,au-nsw,,144
-2022-01-04,admin_1,au,au-nt,,320
+2022-01-04,admin_1,au,au-nt,,3
 2022-01-04,admin_1,au,au-qld,,25
 2022-01-04,admin_1,au,au-sa,,8
 2022-01-04,admin_1,au,au-tas,,0
@@ -5681,7 +5681,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-04,admin_1,au,au-wa,,0
 2022-01-05,admin_1,au,au-act,,3
 2022-01-05,admin_1,au,au-nsw,,142
-2022-01-05,admin_1,au,au-nt,,102
+2022-01-05,admin_1,au,au-nt,,-3
 2022-01-05,admin_1,au,au-qld,,70
 2022-01-05,admin_1,au,au-sa,,23
 2022-01-05,admin_1,au,au-tas,,2
@@ -5689,7 +5689,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-05,admin_1,au,au-wa,,0
 2022-01-06,admin_1,au,au-act,,4
 2022-01-06,admin_1,au,au-nsw,,118
-2022-01-06,admin_1,au,au-nt,,204
+2022-01-06,admin_1,au,au-nt,,2
 2022-01-06,admin_1,au,au-qld,,21
 2022-01-06,admin_1,au,au-sa,,-2
 2022-01-06,admin_1,au,au-tas,,1
@@ -5697,7 +5697,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-06,admin_1,au,au-wa,,0
 2022-01-07,admin_1,au,au-act,,4
 2022-01-07,admin_1,au,au-nsw,,132
-2022-01-07,admin_1,au,au-nt,,296
+2022-01-07,admin_1,au,au-nt,,-4
 2022-01-07,admin_1,au,au-qld,,31
 2022-01-07,admin_1,au,au-sa,,21
 2022-01-07,admin_1,au,au-tas,,3
@@ -5705,7 +5705,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-07,admin_1,au,au-wa,,0
 2022-01-08,admin_1,au,au-act,,0
 2022-01-08,admin_1,au,au-nsw,,55
-2022-01-08,admin_1,au,au-nt,,59
+2022-01-08,admin_1,au,au-nt,,-2
 2022-01-08,admin_1,au,au-qld,,39
 2022-01-08,admin_1,au,au-sa,,20
 2022-01-08,admin_1,au,au-tas,,2
@@ -5713,7 +5713,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-08,admin_1,au,au-wa,,0
 2022-01-09,admin_1,au,au-act,,3
 2022-01-09,admin_1,au,au-nsw,,134
-2022-01-09,admin_1,au,au-nt,,636
+2022-01-09,admin_1,au,au-nt,,7
 2022-01-09,admin_1,au,au-qld,,36
 2022-01-09,admin_1,au,au-sa,,12
 2022-01-09,admin_1,au,au-tas,,5
@@ -5721,17 +5721,25 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-09,admin_1,au,au-wa,,0
 2022-01-10,admin_1,au,au-act,,-2
 2022-01-10,admin_1,au,au-nsw,,99
-2022-01-10,admin_1,au,au-nt,,0
+2022-01-10,admin_1,au,au-nt,,2
 2022-01-10,admin_1,au,au-qld,,38
 2022-01-10,admin_1,au,au-sa,,12
 2022-01-10,admin_1,au,au-tas,,2
 2022-01-10,admin_1,au,au-vic,,66
 2022-01-10,admin_1,au,au-wa,,0
 2022-01-11,admin_1,au,au-act,,3
-2022-01-11,admin_1,au,au-nsw,,157
-2022-01-11,admin_1,au,au-nt,,0
+2022-01-11,admin_1,au,au-nsw,,161
+2022-01-11,admin_1,au,au-nt,,6
 2022-01-11,admin_1,au,au-qld,,89
-2022-01-11,admin_1,au,au-sa,,0
+2022-01-11,admin_1,au,au-sa,,23
 2022-01-11,admin_1,au,au-tas,,1
 2022-01-11,admin_1,au,au-vic,,43
 2022-01-11,admin_1,au,au-wa,,0
+2022-01-12,admin_1,au,au-act,,0
+2022-01-12,admin_1,au,au-nsw,,52
+2022-01-12,admin_1,au,au-nt,,-4
+2022-01-12,admin_1,au,au-qld,,26
+2022-01-12,admin_1,au,au-sa,,-21
+2022-01-12,admin_1,au,au-tas,,4
+2022-01-12,admin_1,au,au-vic,,85
+2022-01-12,admin_1,au,au-wa,,0
