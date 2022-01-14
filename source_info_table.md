@@ -64,6 +64,7 @@
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
+| world_covid19datahub | https://covid19datahub.io/articles/data.html | citation: citation: Guidotti and Ardia (2020) https://joss.theoj.org/papers/10.21105/joss.02376 |
 | world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
