@@ -7,6 +7,7 @@
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
+| au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_sa_old_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
 | au_tas_peter_gutwein_fb | Peter Gutweins Facebook Page |  |
 | au_vic_dhhs_csv | https://www.dhhs.vic.gov.au/coronavirus |  |
@@ -40,7 +41,6 @@
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
 | jp_ministry_unofficial |  |  |
-| jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
 | lk_arimacdev | https://github.com/arimacdev/covid19-srilankan-data |  |
