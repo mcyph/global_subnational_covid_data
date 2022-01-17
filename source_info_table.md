@@ -17,7 +17,6 @@
 | au_wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
-| bw_gov | https://covid19portal.gov.bw/ |  |
 | ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
@@ -26,6 +25,7 @@
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
+| es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
