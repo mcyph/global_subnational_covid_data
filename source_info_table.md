@@ -1,7 +1,6 @@
 | source_id | source_url | source_desc |
 | --- | --- | --- |
 | af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
-| au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
 | au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
@@ -22,8 +21,10 @@
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
 | co_ocha_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia |  |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
+| cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
+| es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
@@ -61,11 +62,12 @@
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_covid19datahub | https://covid19datahub.io/articles/data.html | citation: citation: Guidotti and Ardia (2020) https://joss.theoj.org/papers/10.21105/joss.02376 |
-| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide |  |
+| world_eu_cdc | https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country |  |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
+| world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
 | za_gov | https://sacoronavirus.co.za/ |  |
