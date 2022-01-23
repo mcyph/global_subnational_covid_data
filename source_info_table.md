@@ -59,11 +59,9 @@
 | tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
-| world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
-| world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
