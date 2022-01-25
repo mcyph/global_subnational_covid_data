@@ -1,10 +1,8 @@
 date,region_schema,region_parent,region_child,agerange,value
-2020-01-02,de_kreis,de-nw,lk märkischer kreis,,1
 2020-01-10,de_kreis,de-by,lk weilheim-schongau,,1
 2020-01-15,de_kreis,de-nw,sk essen,,1
 2020-01-17,de_kreis,de-by,lk münchen,,1
 2020-01-20,de_kreis,de-bw,lk ortenaukreis,,1
-2020-01-20,de_kreis,de-nw,lk rhein-sieg-kreis,,1
 2020-01-23,de_kreis,de-sl,lk stadtverband saarbrücken,,1
 2020-01-28,de_kreis,de-by,lk landsberg a.lech,,1
 2020-01-28,de_kreis,de-by,lk starnberg,,1
@@ -24,7 +22,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-25,de_kreis,de-bw,lk göppingen,,1
 2020-02-25,de_kreis,de-bw,lk tübingen,,1
 2020-02-26,de_kreis,de-bw,lk breisgau-hochschwarzwald,,1
-2020-02-26,de_kreis,de-bw,lk rottweil,,1
 2020-02-26,de_kreis,de-bw,sk freiburg i.breisgau,,1
 2020-02-26,de_kreis,de-nw,lk heinsberg,,3
 2020-02-27,de_kreis,de-bw,lk böblingen,,1
@@ -32,28 +29,22 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-27,de_kreis,de-by,sk erlangen,,1
 2020-02-27,de_kreis,de-nw,sk köln,,1
 2020-02-27,de_kreis,de-sl,lk saar-pfalz-kreis,,1
-2020-02-28,de_kreis,de-bw,lk alb-donau-kreis,,1
-2020-02-28,de_kreis,de-bw,lk heilbronn,,1
 2020-02-28,de_kreis,de-bw,lk ostalbkreis,,1
 2020-02-28,de_kreis,de-bw,lk rhein-neckar-kreis,,2
 2020-02-28,de_kreis,de-he,lk gießen,,1
-2020-02-28,de_kreis,de-nw,lk viersen,,1
 2020-02-28,de_kreis,de-nw,lk wesel,,1
 2020-02-28,de_kreis,de-nw,sk bonn,,1
 2020-02-28,de_kreis,de-nw,sk mönchengladbach,,1
 2020-02-28,de_kreis,de-nw,stadtregion aachen,,1
 2020-02-28,de_kreis,de-rp,sk kaiserslautern,,1
 2020-02-28,de_kreis,de-sh,lk segeberg,,1
-2020-02-29,de_kreis,de-be,sk berlin neukölln,,1
 2020-02-29,de_kreis,de-by,lk ostallgäu,,1
 2020-02-29,de_kreis,de-by,lk rosenheim,,1
 2020-02-29,de_kreis,de-hh,sk hamburg,,1
 2020-02-29,de_kreis,de-sh,sk lübeck,,1
 2020-03-01,de_kreis,de-bb,lk oberhavel,,1
-2020-03-01,de_kreis,de-bw,sk heilbronn,,1
 2020-03-01,de_kreis,de-by,sk schwabach,,1
 2020-03-01,de_kreis,de-hb,sk bremen,,1
-2020-03-01,de_kreis,de-he,lk groß-gerau,,1
 2020-03-01,de_kreis,de-he,lk lahn-dill-kreis,,2
 2020-03-01,de_kreis,de-ni,region hannover,,1
 2020-03-01,de_kreis,de-nw,lk düren,,1
@@ -65,23 +56,17 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-02,de_kreis,de-by,sk nürnberg,,2
 2020-03-02,de_kreis,de-he,lk hochtaunuskreis,,1
 2020-03-02,de_kreis,de-he,sk frankfurt am main,,3
-2020-03-02,de_kreis,de-ni,lk cuxhaven,,2
 2020-03-02,de_kreis,de-nw,lk borken,,1
-2020-03-02,de_kreis,de-nw,lk rhein-kreis neuss,,1
 2020-03-02,de_kreis,de-nw,lk rheinisch-bergischer kreis,,1
 2020-03-02,de_kreis,de-sh,lk herzogtum lauenburg,,1
 2020-03-02,de_kreis,de-sh,lk stormarn,,1
-2020-03-02,de_kreis,de-sn,lk sächsische schweiz-osterzgebirge,,1
 2020-03-02,de_kreis,de-th,lk saale-orla-kreis,,1
-2020-03-03,de_kreis,de-be,sk berlin marzahn-hellersdorf,,1
 2020-03-03,de_kreis,de-be,sk berlin mitte,,3
 2020-03-03,de_kreis,de-be,sk berlin tempelhof-schöneberg,,1
 2020-03-03,de_kreis,de-bw,lk esslingen,,6
 2020-03-03,de_kreis,de-bw,lk karlsruhe,,1
 2020-03-03,de_kreis,de-bw,lk lörrach,,1
-2020-03-03,de_kreis,de-bw,lk neckar-odenwald-kreis,,1
 2020-03-03,de_kreis,de-bw,lk rems-murr-kreis,,5
-2020-03-03,de_kreis,de-bw,sk ulm,,2
 2020-03-03,de_kreis,de-by,lk passau,,1
 2020-03-03,de_kreis,de-he,lk bergstraße,,3
 2020-03-03,de_kreis,de-he,lk main-kinzig-kreis,,1
@@ -89,25 +74,21 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-03,de_kreis,de-ni,lk ammerland,,1
 2020-03-03,de_kreis,de-ni,lk rotenburg (wümme),,2
 2020-03-03,de_kreis,de-nw,lk oberbergischer kreis,,1
+2020-03-03,de_kreis,de-nw,lk rhein-sieg-kreis,,2
 2020-03-03,de_kreis,de-sh,lk pinneberg,,1
 2020-03-04,de_kreis,de-be,sk berlin friedrichshain-kreuzberg,,2
 2020-03-04,de_kreis,de-be,sk berlin pankow,,1
-2020-03-04,de_kreis,de-bw,lk bodenseekreis,,1
 2020-03-04,de_kreis,de-bw,lk emmendingen,,1
 2020-03-04,de_kreis,de-bw,lk main-tauber-kreis,,1
 2020-03-04,de_kreis,de-bw,lk sigmaringen,,1
-2020-03-04,de_kreis,de-bw,sk heidelberg,,2
 2020-03-04,de_kreis,de-bw,sk stuttgart,,1
 2020-03-04,de_kreis,de-by,lk aichach-friedberg,,1
 2020-03-04,de_kreis,de-by,lk cham,,1
 2020-03-04,de_kreis,de-by,lk roth,,1
 2020-03-04,de_kreis,de-mv,lk mecklenburgische seenplatte,,1
 2020-03-04,de_kreis,de-mv,lk vorpommern-rügen,,1
-2020-03-04,de_kreis,de-ni,lk grafschaft bentheim,,1
 2020-03-04,de_kreis,de-ni,lk leer,,1
-2020-03-04,de_kreis,de-ni,sk oldenburg,,1
 2020-03-04,de_kreis,de-nw,lk coesfeld,,10
-2020-03-04,de_kreis,de-nw,lk lippe,,1
 2020-03-04,de_kreis,de-nw,lk mettmann,,1
 2020-03-04,de_kreis,de-nw,sk bochum,,1
 2020-03-04,de_kreis,de-nw,sk düsseldorf,,2
@@ -117,7 +98,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-04,de_kreis,de-rp,sk mainz,,1
 2020-03-05,de_kreis,de-bb,lk havelland,,2
 2020-03-05,de_kreis,de-be,sk berlin reinickendorf,,2
-2020-03-05,de_kreis,de-bw,lk calw,,1
 2020-03-05,de_kreis,de-bw,lk hohenlohekreis,,1
 2020-03-05,de_kreis,de-by,lk bad kissingen,,1
 2020-03-05,de_kreis,de-by,lk erlangen-höchstadt,,2
@@ -132,15 +112,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,de_kreis,de-ni,lk osnabrück,,1
 2020-03-05,de_kreis,de-ni,lk stade,,1
 2020-03-05,de_kreis,de-ni,sk braunschweig,,1
-2020-03-05,de_kreis,de-nw,lk euskirchen,,1
-2020-03-05,de_kreis,de-nw,lk rhein-erft-kreis,,1
 2020-03-05,de_kreis,de-nw,lk unna,,1
 2020-03-05,de_kreis,de-nw,sk dortmund,,2
 2020-03-05,de_kreis,de-nw,sk gelsenkirchen,,2
 2020-03-05,de_kreis,de-sh,lk dithmarschen,,1
-2020-03-06,de_kreis,de-be,sk berlin charlottenburg-wilmersdorf,,2
 2020-03-06,de_kreis,de-bw,lk biberach,,2
-2020-03-06,de_kreis,de-bw,lk konstanz,,1
 2020-03-06,de_kreis,de-bw,sk karlsruhe,,2
 2020-03-06,de_kreis,de-by,lk würzburg,,2
 2020-03-06,de_kreis,de-by,sk augsburg,,1
@@ -166,7 +142,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,de_kreis,de-ni,lk hildesheim,,1
 2020-03-07,de_kreis,de-ni,sk wilhelmshaven,,2
 2020-03-07,de_kreis,de-nw,lk ennepe-ruhr-kreis,,1
-2020-03-07,de_kreis,de-nw,lk steinfurt,,1
 2020-03-07,de_kreis,de-nw,lk warendorf,,1
 2020-03-07,de_kreis,de-rp,lk bitburg-prüm,,1
 2020-03-07,de_kreis,de-sn,sk dresden,,2
@@ -179,7 +154,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-08,de_kreis,de-by,lk pfaffenhofen a.d.ilm,,1
 2020-03-08,de_kreis,de-by,sk aschaffenburg,,1
 2020-03-08,de_kreis,de-by,sk fürth,,1
-2020-03-08,de_kreis,de-mv,lk rostock,,2
 2020-03-08,de_kreis,de-ni,lk friesland,,2
 2020-03-08,de_kreis,de-sl,lk merzig-wadern,,1
 2020-03-09,de_kreis,de-bb,lk oberspreewald-lausitz,,1
@@ -217,7 +191,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,de_kreis,de-bb,lk oder-spree,,1
 2020-03-10,de_kreis,de-be,sk berlin treptow-köpenick,,4
 2020-03-10,de_kreis,de-bw,lk waldshut,,1
-2020-03-10,de_kreis,de-bw,sk pforzheim,,3
 2020-03-10,de_kreis,de-by,lk amberg-sulzbach,,3
 2020-03-10,de_kreis,de-by,lk bayreuth,,4
 2020-03-10,de_kreis,de-by,lk forchheim,,1
@@ -228,15 +201,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,de_kreis,de-by,sk weiden i.d.opf.,,1
 2020-03-10,de_kreis,de-he,lk main-taunus-kreis,,2
 2020-03-10,de_kreis,de-mv,sk rostock,,1
-2020-03-10,de_kreis,de-ni,lk aurich,,1
 2020-03-10,de_kreis,de-ni,lk diepholz,,1
-2020-03-10,de_kreis,de-ni,lk hameln-pyrmont,,1
-2020-03-10,de_kreis,de-ni,lk osterholz,,6
 2020-03-10,de_kreis,de-ni,lk verden,,3
 2020-03-10,de_kreis,de-nw,lk hochsauerlandkreis,,1
 2020-03-10,de_kreis,de-nw,lk kleve,,2
 2020-03-10,de_kreis,de-nw,lk paderborn,,2
-2020-03-10,de_kreis,de-nw,lk recklinghausen,,2
 2020-03-10,de_kreis,de-nw,lk siegen-wittgenstein,,1
 2020-03-10,de_kreis,de-nw,lk soest,,1
 2020-03-10,de_kreis,de-nw,sk krefeld,,1
@@ -257,7 +226,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,de_kreis,de-st,lk saalekreis,,1
 2020-03-10,de_kreis,de-st,lk salzlandkreis,,1
 2020-03-10,de_kreis,de-st,sk halle,,2
-2020-03-10,de_kreis,de-st,sk magdeburg,,1
 2020-03-10,de_kreis,de-th,lk ilm-kreis,,1
 2020-03-10,de_kreis,de-th,lk kyffhäuserkreis,,2
 2020-03-10,de_kreis,de-th,lk saale-holzland-kreis,,1
@@ -284,7 +252,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,de_kreis,de-ni,lk gifhorn,,2
 2020-03-11,de_kreis,de-ni,lk holzminden,,2
 2020-03-11,de_kreis,de-ni,lk lüneburg,,1
-2020-03-11,de_kreis,de-ni,lk nienburg (weser),,2
 2020-03-11,de_kreis,de-ni,lk northeim,,3
 2020-03-11,de_kreis,de-ni,lk uelzen,,1
 2020-03-11,de_kreis,de-ni,lk vechta,,2
@@ -292,24 +259,19 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,de_kreis,de-ni,sk emden,,3
 2020-03-11,de_kreis,de-ni,sk salzgitter,,1
 2020-03-11,de_kreis,de-nw,lk gütersloh,,6
-2020-03-11,de_kreis,de-nw,lk olpe,,1
 2020-03-11,de_kreis,de-nw,sk herne,,2
 2020-03-11,de_kreis,de-nw,sk mülheim a.d.ruhr,,4
 2020-03-11,de_kreis,de-nw,sk wuppertal,,1
 2020-03-11,de_kreis,de-rp,lk kaiserslautern,,3
 2020-03-11,de_kreis,de-rp,lk mainz-bingen,,2
-2020-03-11,de_kreis,de-rp,lk rhein-lahn-kreis,,4
-2020-03-11,de_kreis,de-rp,sk ludwigshafen,,1
 2020-03-11,de_kreis,de-rp,sk neustadt a.d.weinstraße,,1
 2020-03-11,de_kreis,de-sh,lk rendsburg-eckernförde,,2
 2020-03-11,de_kreis,de-sh,lk schleswig-flensburg,,1
 2020-03-11,de_kreis,de-st,lk anhalt-bitterfeld,,1
 2020-03-11,de_kreis,de-st,lk börde,,1
 2020-03-11,de_kreis,de-st,lk mansfeld-südharz,,1
-2020-03-11,de_kreis,de-th,sk gera,,1
 2020-03-12,de_kreis,de-bb,lk dahme-spreewald,,1
 2020-03-12,de_kreis,de-bb,lk potsdam-mittelmark,,4
-2020-03-12,de_kreis,de-bw,lk heidenheim,,4
 2020-03-12,de_kreis,de-by,lk berchtesgadener land,,4
 2020-03-12,de_kreis,de-by,lk eichstätt,,1
 2020-03-12,de_kreis,de-by,lk freyung-grafenau,,1
@@ -338,8 +300,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,de_kreis,de-rp,sk trier,,3
 2020-03-12,de_kreis,de-sh,lk nordfriesland,,1
 2020-03-12,de_kreis,de-sl,lk sankt wendel,,8
-2020-03-12,de_kreis,de-sn,lk nordsachsen,,2
-2020-03-12,de_kreis,de-sn,lk zwickau,,1
 2020-03-12,de_kreis,de-st,lk altmarkkreis salzwedel,,1
 2020-03-12,de_kreis,de-st,lk harz,,2
 2020-03-12,de_kreis,de-st,lk wittenberg,,2
@@ -352,14 +312,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-13,de_kreis,de-by,sk amberg,,1
 2020-03-13,de_kreis,de-by,sk memmingen,,1
 2020-03-13,de_kreis,de-he,lk limburg-weilburg,,1
-2020-03-13,de_kreis,de-mv,lk ludwigslust-parchim,,1
 2020-03-13,de_kreis,de-ni,lk goslar,,5
 2020-03-13,de_kreis,de-ni,lk heidekreis,,1
 2020-03-13,de_kreis,de-ni,lk helmstedt,,2
 2020-03-13,de_kreis,de-ni,lk peine,,2
-2020-03-13,de_kreis,de-ni,sk wolfsburg,,3
-2020-03-13,de_kreis,de-rp,sk speyer,,2
-2020-03-13,de_kreis,de-sh,lk steinburg,,2
 2020-03-13,de_kreis,de-sn,lk erzgebirgskreis,,2
 2020-03-13,de_kreis,de-sn,lk mittelsachsen,,4
 2020-03-13,de_kreis,de-st,lk jerichower land,,1
@@ -370,8 +326,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-14,de_kreis,de-by,lk ansbach,,1
 2020-03-14,de_kreis,de-by,lk coburg,,2
 2020-03-14,de_kreis,de-by,lk neuburg-schrobenhausen,,1
-2020-03-14,de_kreis,de-he,lk odenwaldkreis,,2
-2020-03-14,de_kreis,de-nw,lk höxter,,2
 2020-03-14,de_kreis,de-rp,lk trier-saarburg,,1
 2020-03-14,de_kreis,de-rp,sk landau i.d.pfalz,,1
 2020-03-14,de_kreis,de-rp,sk worms,,1
@@ -379,7 +333,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-14,de_kreis,de-th,lk gotha,,1
 2020-03-14,de_kreis,de-th,lk greiz,,1
 2020-03-14,de_kreis,de-th,sk jena,,8
-2020-03-15,de_kreis,de-bb,sk brandenburg a.d.havel,,2
 2020-03-15,de_kreis,de-by,lk wunsiedel i.fichtelgebirge,,2
 2020-03-15,de_kreis,de-by,sk ansbach,,1
 2020-03-15,de_kreis,de-sn,lk vogtlandkreis,,2
