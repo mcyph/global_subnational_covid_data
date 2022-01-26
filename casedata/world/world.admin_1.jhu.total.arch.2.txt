@@ -2427,19 +2427,19 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,admin_1,us,us-wv,,0
 2020-03-10,admin_1,us,us-wy,,0
 2020-03-11,admin_1,au,au-act,,1
-2020-03-11,admin_1,au,au-nsw,,92
+2020-03-11,admin_1,au,au-nsw,,65
 2020-03-11,admin_1,au,au-nt,,1
-2020-03-11,admin_1,au,au-qld,,35
-2020-03-11,admin_1,au,au-sa,,9
-2020-03-11,admin_1,au,au-tas,,3
-2020-03-11,admin_1,au,au-vic,,36
-2020-03-11,admin_1,au,au-wa,,14
-2020-03-11,admin_1,ca,ca-ab,,29
+2020-03-11,admin_1,au,au-qld,,20
+2020-03-11,admin_1,au,au-sa,,16
+2020-03-11,admin_1,au,au-tas,,5
+2020-03-11,admin_1,au,au-vic,,21
+2020-03-11,admin_1,au,au-wa,,9
+2020-03-11,admin_1,ca,ca-ab,,19
 2020-03-11,admin_1,ca,ca-bc,,39
 2020-03-11,admin_1,ca,ca-mb,,4
 2020-03-11,admin_1,ca,ca-nb,,1
 2020-03-11,admin_1,ca,ca-on,,41
-2020-03-11,admin_1,ca,ca-qc,,37
+2020-03-11,admin_1,ca,ca-qc,,27
 2020-03-11,admin_1,ca,ca-sk,,2
 2020-03-11,admin_1,cn,cn-ah,,990
 2020-03-11,admin_1,cn,cn-bj,,435
@@ -2475,7 +2475,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,admin_1,cn,unknown,,0
 2020-03-11,admin_1,fr,fr-gf,,5
 2020-03-11,admin_1,fr,fr-gp,,1
-2020-03-11,admin_1,fr,fr-re,,1
+2020-03-11,admin_1,fr,fr-re,,5
 2020-03-11,admin_1,my,my-01,,0
 2020-03-11,admin_1,my,my-02,,0
 2020-03-11,admin_1,my,my-03,,0
@@ -2499,18 +2499,18 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,admin_1,us,us-az,,9
 2020-03-11,admin_1,us,us-ca,,282
 2020-03-11,admin_1,us,us-co,,34
-2020-03-11,admin_1,us,us-ct,,11
+2020-03-11,admin_1,us,us-ct,,3
 2020-03-11,admin_1,us,us-dc,,10
 2020-03-11,admin_1,us,us-de,,1
-2020-03-11,admin_1,us,us-fl,,28
+2020-03-11,admin_1,us,us-fl,,50
 2020-03-11,admin_1,us,us-ga,,23
 2020-03-11,admin_1,us,us-hi,,2
 2020-03-11,admin_1,us,us-ia,,13
 2020-03-11,admin_1,us,us-id,,1
 2020-03-11,admin_1,us,us-il,,25
-2020-03-11,admin_1,us,us-in,,11
+2020-03-11,admin_1,us,us-in,,13
 2020-03-11,admin_1,us,us-ks,,5
-2020-03-11,admin_1,us,us-ky,,8
+2020-03-11,admin_1,us,us-ky,,14
 2020-03-11,admin_1,us,us-la,,36
 2020-03-11,admin_1,us,us-ma,,123
 2020-03-11,admin_1,us,us-md,,18
@@ -2524,24 +2524,24 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,admin_1,us,us-nd,,1
 2020-03-11,admin_1,us,us-ne,,13
 2020-03-11,admin_1,us,us-nh,,5
-2020-03-11,admin_1,us,us-nj,,23
-2020-03-11,admin_1,us,us-nm,,3
+2020-03-11,admin_1,us,us-nj,,29
+2020-03-11,admin_1,us,us-nm,,10
 2020-03-11,admin_1,us,us-nv,,17
 2020-03-11,admin_1,us,us-ny,,421
 2020-03-11,admin_1,us,us-oh,,4
 2020-03-11,admin_1,us,us-ok,,2
 2020-03-11,admin_1,us,us-or,,19
-2020-03-11,admin_1,us,us-pa,,41
+2020-03-11,admin_1,us,us-pa,,16
 2020-03-11,admin_1,us,us-ri,,14
 2020-03-11,admin_1,us,us-sc,,10
 2020-03-11,admin_1,us,us-sd,,8
-2020-03-11,admin_1,us,us-tn,,26
-2020-03-11,admin_1,us,us-tx,,43
-2020-03-11,admin_1,us,us-ut,,3
+2020-03-11,admin_1,us,us-tn,,9
+2020-03-11,admin_1,us,us-tx,,21
+2020-03-11,admin_1,us,us-ut,,9
 2020-03-11,admin_1,us,us-va,,9
 2020-03-11,admin_1,us,us-vt,,2
-2020-03-11,admin_1,us,us-wa,,568
-2020-03-11,admin_1,us,us-wi,,19
+2020-03-11,admin_1,us,us-wa,,366
+2020-03-11,admin_1,us,us-wi,,6
 2020-03-11,admin_1,us,us-wv,,0
 2020-03-11,admin_1,us,us-wy,,1
 2020-03-12,admin_1,ca,ca-bc,,46
@@ -2716,7 +2716,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-14,admin_1,us,us-ca,,340
 2020-03-14,admin_1,us,us-co,,131
 2020-03-14,admin_1,us,us-ct,,22
-2020-03-14,admin_1,us,us-de,,7
+2020-03-14,admin_1,us,us-de,,6
 2020-03-14,admin_1,us,us-fl,,76
 2020-03-14,admin_1,us,us-ga,,66
 2020-03-14,admin_1,us,us-hi,,4
@@ -2735,23 +2735,23 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-14,admin_1,us,us-mt,,5
 2020-03-14,admin_1,us,us-nc,,24
 2020-03-14,admin_1,us,us-ne,,14
-2020-03-14,admin_1,us,us-nh,,7
+2020-03-14,admin_1,us,us-nh,,13
 2020-03-14,admin_1,us,us-nj,,69
 2020-03-14,admin_1,us,us-nm,,10
-2020-03-14,admin_1,us,us-nv,,21
+2020-03-14,admin_1,us,us-nv,,24
 2020-03-14,admin_1,us,us-ny,,525
 2020-03-14,admin_1,us,us-oh,,26
-2020-03-14,admin_1,us,us-ok,,4
+2020-03-14,admin_1,us,us-ok,,7
 2020-03-14,admin_1,us,us-or,,32
 2020-03-14,admin_1,us,us-pa,,66
 2020-03-14,admin_1,us,us-ri,,20
-2020-03-14,admin_1,us,us-sc,,19
+2020-03-14,admin_1,us,us-sc,,28
 2020-03-14,admin_1,us,us-sd,,9
-2020-03-14,admin_1,us,us-tn,,32
+2020-03-14,admin_1,us,us-tn,,39
 2020-03-14,admin_1,us,us-tx,,57
 2020-03-14,admin_1,us,us-ut,,10
 2020-03-14,admin_1,us,us-va,,41
-2020-03-14,admin_1,us,us-vt,,8
+2020-03-14,admin_1,us,us-vt,,5
 2020-03-14,admin_1,us,us-wa,,572
 2020-03-14,admin_1,us,us-wi,,27
 2020-03-14,admin_1,us,us-wy,,2
@@ -2863,7 +2863,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-16,admin_1,cn,cn-yn,,176
 2020-03-16,admin_1,cn,cn-zj,,1231
 2020-03-16,admin_1,cn,unknown,,0
-2020-03-16,admin_1,fr,fr-gf,,5
+2020-03-16,admin_1,fr,fr-gf,,11
 2020-03-16,admin_1,fr,fr-gp,,3
 2020-03-16,admin_1,fr,fr-re,,9
 2020-03-16,admin_1,fr,fr-yt,,1
@@ -2954,7 +2954,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-17,admin_1,cn,cn-zj,,1232
 2020-03-17,admin_1,cn,unknown,,0
 2020-03-17,admin_1,fr,fr-gf,,7
-2020-03-17,admin_1,fr,fr-gp,,6
+2020-03-17,admin_1,fr,fr-gp,,18
 2020-03-17,admin_1,fr,fr-re,,9
 2020-03-17,admin_1,my,my-01,,0
 2020-03-17,admin_1,my,my-02,,0
@@ -3049,7 +3049,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-18,admin_1,fr,fr-gf,,0
 2020-03-18,admin_1,fr,fr-gp,,0
 2020-03-18,admin_1,fr,fr-re,,12
-2020-03-18,admin_1,fr,fr-yt,,0
+2020-03-18,admin_1,fr,fr-yt,,3
 2020-03-18,admin_1,my,my-01,,0
 2020-03-18,admin_1,my,my-02,,0
 2020-03-18,admin_1,my,my-03,,0
@@ -3595,7 +3595,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-25,admin_1,cn,cn-gd,,1433
 2020-03-25,admin_1,cn,cn-gs,,136
 2020-03-25,admin_1,cn,cn-hb,,67801
-2020-03-25,admin_1,cn,cn-jl,,94
+2020-03-25,admin_1,cn,cn-jl,,95
 2020-03-25,admin_1,cn,cn-js,,638
 2020-03-25,admin_1,cn,cn-nm,,77
 2020-03-25,admin_1,cn,cn-sc,,547
@@ -3889,7 +3889,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-30,admin_1,cn,cn-he,,321
 2020-03-30,admin_1,cn,cn-js,,645
 2020-03-30,admin_1,cn,cn-jx,,937
-2020-03-30,admin_1,cn,cn-nm,,107
+2020-03-30,admin_1,cn,cn-nm,,97
 2020-03-30,admin_1,cn,cn-sc,,550
 2020-03-30,admin_1,cn,cn-sd,,773
 2020-03-30,admin_1,cn,cn-sh,,498
@@ -4002,7 +4002,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-01,admin_1,cn,cn-hb,,67802
 2020-04-01,admin_1,cn,cn-he,,323
 2020-04-01,admin_1,cn,cn-ln,,140
-2020-04-01,admin_1,cn,cn-nm,,111
+2020-04-01,admin_1,cn,cn-nm,,117
 2020-04-01,admin_1,cn,cn-sc,,552
 2020-04-01,admin_1,cn,cn-sh,,516
 2020-04-01,admin_1,cn,cn-sn,,255
@@ -5079,7 +5079,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-04-16,admin_1,cn,cn-nm,,193
 2020-04-16,admin_1,cn,cn-sc,,560
 2020-04-16,admin_1,cn,cn-sh,,628
-2020-04-16,admin_1,cn,cn-sx,,194
+2020-04-16,admin_1,cn,cn-sx,,197
 2020-04-16,admin_1,cn,cn-tj,,186
 2020-04-16,admin_1,cn,cn-yn,,184
 2020-04-16,admin_1,cn,unknown,,0
@@ -11577,7 +11577,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-29,admin_1,co,co-ces,,115
 2020-05-29,admin_1,co,co-cho,,154
 2020-05-29,admin_1,co,co-cor,,96
-2020-05-29,admin_1,co,co-cun,,676
+2020-05-29,admin_1,co,co-cun,,8045
 2020-05-29,admin_1,co,co-hui,,244
 2020-05-29,admin_1,co,co-lag,,55
 2020-05-29,admin_1,co,co-mag,,548
@@ -14151,7 +14151,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-04,admin_1,pe,pe-uca,,4580
 2020-06-04,admin_1,pe,unknown,,0
 2020-06-04,admin_1,ru,ru-ad,,904
-2020-06-04,admin_1,ru,ru-alt,,2066
+2020-06-04,admin_1,ru,ru-alt,,138
 2020-06-04,admin_1,ru,ru-amu,,566
 2020-06-04,admin_1,ru,ru-ark,,2363
 2020-06-04,admin_1,ru,ru-ast,,2004
@@ -15087,7 +15087,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-06,admin_1,pe,pe-uca,,5087
 2020-06-06,admin_1,pe,unknown,,0
 2020-06-06,admin_1,ru,ru-ad,,962
-2020-06-06,admin_1,ru,ru-alt,,156
+2020-06-06,admin_1,ru,ru-alt,,2192
 2020-06-06,admin_1,ru,ru-amu,,615
 2020-06-06,admin_1,ru,ru-ark,,2621
 2020-06-06,admin_1,ru,ru-ast,,2172
@@ -15576,7 +15576,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-07,admin_1,pe,pe-uca,,5183
 2020-06-07,admin_1,pe,unknown,,0
 2020-06-07,admin_1,ru,ru-ad,,995
-2020-06-07,admin_1,ru,ru-alt,,163
+2020-06-07,admin_1,ru,ru-alt,,2255
 2020-06-07,admin_1,ru,ru-amu,,657
 2020-06-07,admin_1,ru,ru-ark,,2746
 2020-06-07,admin_1,ru,ru-ast,,2233
@@ -15864,7 +15864,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-08,admin_1,co,co-ces,,425
 2020-06-08,admin_1,co,co-cho,,396
 2020-06-08,admin_1,co,co-cor,,210
-2020-06-08,admin_1,co,co-cun,,12531
+2020-06-08,admin_1,co,co-cun,,1241
 2020-06-08,admin_1,co,co-gua,,6
 2020-06-08,admin_1,co,co-hui,,253
 2020-06-08,admin_1,co,co-lag,,107
@@ -16065,7 +16065,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-08,admin_1,pe,pe-uca,,5306
 2020-06-08,admin_1,pe,unknown,,0
 2020-06-08,admin_1,ru,ru-ad,,1025
-2020-06-08,admin_1,ru,ru-alt,,172
+2020-06-08,admin_1,ru,ru-alt,,2319
 2020-06-08,admin_1,ru,ru-amu,,702
 2020-06-08,admin_1,ru,ru-ark,,2868
 2020-06-08,admin_1,ru,ru-ast,,2293
@@ -16554,7 +16554,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-09,admin_1,pe,pe-uca,,5421
 2020-06-09,admin_1,pe,unknown,,0
 2020-06-09,admin_1,ru,ru-ad,,1069
-2020-06-09,admin_1,ru,ru-alt,,180
+2020-06-09,admin_1,ru,ru-alt,,2390
 2020-06-09,admin_1,ru,ru-amu,,748
 2020-06-09,admin_1,ru,ru-ark,,2989
 2020-06-09,admin_1,ru,ru-ast,,2337
@@ -16841,7 +16841,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-10,admin_1,co,co-ces,,449
 2020-06-10,admin_1,co,co-cho,,472
 2020-06-10,admin_1,co,co-cor,,226
-2020-06-10,admin_1,co,co-cun,,1403
+2020-06-10,admin_1,co,co-cun,,13329
 2020-06-10,admin_1,co,co-gua,,6
 2020-06-10,admin_1,co,co-guv,,1
 2020-06-10,admin_1,co,co-hui,,259
@@ -17330,7 +17330,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-11,admin_1,co,co-ces,,470
 2020-06-11,admin_1,co,co-cho,,488
 2020-06-11,admin_1,co,co-cor,,231
-2020-06-11,admin_1,co,co-cun,,1454
+2020-06-11,admin_1,co,co-cun,,13709
 2020-06-11,admin_1,co,co-gua,,6
 2020-06-11,admin_1,co,co-guv,,2
 2020-06-11,admin_1,co,co-hui,,259
@@ -17575,7 +17575,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-11,admin_1,pk,pk-pb,,43460
 2020-06-11,admin_1,pk,pk-sd,,41303
 2020-06-11,admin_1,ru,ru-ad,,1158
-2020-06-11,admin_1,ru,ru-alt,,2524
+2020-06-11,admin_1,ru,ru-alt,,204
 2020-06-11,admin_1,ru,ru-amu,,835
 2020-06-11,admin_1,ru,ru-ark,,3217
 2020-06-11,admin_1,ru,ru-ast,,2501
@@ -17862,7 +17862,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-12,admin_1,co,co-ces,,496
 2020-06-12,admin_1,co,co-cho,,556
 2020-06-12,admin_1,co,co-cor,,235
-2020-06-12,admin_1,co,co-cun,,1491
+2020-06-12,admin_1,co,co-cun,,14132
 2020-06-12,admin_1,co,co-gua,,7
 2020-06-12,admin_1,co,co-guv,,2
 2020-06-12,admin_1,co,co-hui,,259
@@ -19174,7 +19174,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-14,admin_1,pk,pk-pb,,50087
 2020-06-14,admin_1,pk,pk-sd,,49256
 2020-06-14,admin_1,ru,ru-ad,,1278
-2020-06-14,admin_1,ru,ru-alt,,2726
+2020-06-14,admin_1,ru,ru-alt,,243
 2020-06-14,admin_1,ru,ru-amu,,973
 2020-06-14,admin_1,ru,ru-ark,,3587
 2020-06-14,admin_1,ru,ru-ast,,2674
@@ -19707,7 +19707,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-15,admin_1,pk,pk-pb,,54138
 2020-06-15,admin_1,pk,pk-sd,,53805
 2020-06-15,admin_1,ru,ru-ad,,1311
-2020-06-15,admin_1,ru,ru-alt,,256
+2020-06-15,admin_1,ru,ru-alt,,2795
 2020-06-15,admin_1,ru,ru-amu,,1018
 2020-06-15,admin_1,ru,ru-ark,,3696
 2020-06-15,admin_1,ru,ru-ast,,2733
@@ -19994,7 +19994,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-16,admin_1,co,co-ces,,554
 2020-06-16,admin_1,co,co-cho,,715
 2020-06-16,admin_1,co,co-cor,,279
-2020-06-16,admin_1,co,co-cun,,16404
+2020-06-16,admin_1,co,co-cun,,1789
 2020-06-16,admin_1,co,co-gua,,7
 2020-06-16,admin_1,co,co-guv,,5
 2020-06-16,admin_1,co,co-hui,,276
@@ -20240,7 +20240,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-16,admin_1,pk,pk-pb,,55878
 2020-06-16,admin_1,pk,pk-sd,,55581
 2020-06-16,admin_1,ru,ru-ad,,1340
-2020-06-16,admin_1,ru,ru-alt,,275
+2020-06-16,admin_1,ru,ru-alt,,2867
 2020-06-16,admin_1,ru,ru-amu,,1062
 2020-06-16,admin_1,ru,ru-ark,,3803
 2020-06-16,admin_1,ru,ru-ast,,2794
@@ -20527,7 +20527,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-17,admin_1,co,co-ces,,554
 2020-06-17,admin_1,co,co-cho,,715
 2020-06-17,admin_1,co,co-cor,,279
-2020-06-17,admin_1,co,co-cun,,1789
+2020-06-17,admin_1,co,co-cun,,16404
 2020-06-17,admin_1,co,co-gua,,7
 2020-06-17,admin_1,co,co-guv,,5
 2020-06-17,admin_1,co,co-hui,,276
@@ -20773,7 +20773,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-17,admin_1,pk,pk-pb,,58239
 2020-06-17,admin_1,pk,pk-sd,,57868
 2020-06-17,admin_1,ru,ru-ad,,1389
-2020-06-17,admin_1,ru,ru-alt,,279
+2020-06-17,admin_1,ru,ru-alt,,2939
 2020-06-17,admin_1,ru,ru-amu,,1100
 2020-06-17,admin_1,ru,ru-ark,,3912
 2020-06-17,admin_1,ru,ru-ast,,2862
@@ -21060,7 +21060,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-18,admin_1,co,co-ces,,560
 2020-06-18,admin_1,co,co-cho,,823
 2020-06-18,admin_1,co,co-cor,,303
-2020-06-18,admin_1,co,co-cun,,1835
+2020-06-18,admin_1,co,co-cun,,16839
 2020-06-18,admin_1,co,co-gua,,7
 2020-06-18,admin_1,co,co-guv,,6
 2020-06-18,admin_1,co,co-hui,,281
@@ -22659,7 +22659,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-21,admin_1,co,co-ces,,627
 2020-06-21,admin_1,co,co-cho,,952
 2020-06-21,admin_1,co,co-cor,,407
-2020-06-21,admin_1,co,co-cun,,2003
+2020-06-21,admin_1,co,co-cun,,19241
 2020-06-21,admin_1,co,co-gua,,7
 2020-06-21,admin_1,co,co-guv,,9
 2020-06-21,admin_1,co,co-hui,,289
@@ -23438,7 +23438,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-22,admin_1,pk,pk-pb,,66943
 2020-06-22,admin_1,pk,pk-sd,,69628
 2020-06-22,admin_1,ru,ru-ad,,1541
-2020-06-22,admin_1,ru,ru-alt,,3298
+2020-06-22,admin_1,ru,ru-alt,,421
 2020-06-22,admin_1,ru,ru-amu,,1340
 2020-06-22,admin_1,ru,ru-ark,,4524
 2020-06-22,admin_1,ru,ru-ast,,3158
@@ -24258,7 +24258,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-24,admin_1,co,co-ces,,733
 2020-06-24,admin_1,co,co-cho,,1030
 2020-06-24,admin_1,co,co-cor,,467
-2020-06-24,admin_1,co,co-cun,,22409
+2020-06-24,admin_1,co,co-cun,,2222
 2020-06-24,admin_1,co,co-gua,,14
 2020-06-24,admin_1,co,co-guv,,10
 2020-06-24,admin_1,co,co-hui,,314
@@ -24791,7 +24791,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-25,admin_1,co,co-ces,,733
 2020-06-25,admin_1,co,co-cho,,1030
 2020-06-25,admin_1,co,co-cor,,467
-2020-06-25,admin_1,co,co-cun,,22409
+2020-06-25,admin_1,co,co-cun,,2222
 2020-06-25,admin_1,co,co-gua,,14
 2020-06-25,admin_1,co,co-guv,,10
 2020-06-25,admin_1,co,co-hui,,314
@@ -25324,7 +25324,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-26,admin_1,co,co-ces,,784
 2020-06-26,admin_1,co,co-cho,,1148
 2020-06-26,admin_1,co,co-cor,,485
-2020-06-26,admin_1,co,co-cun,,2282
+2020-06-26,admin_1,co,co-cun,,23367
 2020-06-26,admin_1,co,co-gua,,14
 2020-06-26,admin_1,co,co-guv,,10
 2020-06-26,admin_1,co,co-hui,,315
@@ -25570,7 +25570,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-26,admin_1,pk,pk-pb,,71987
 2020-06-26,admin_1,pk,pk-sd,,75168
 2020-06-26,admin_1,ru,ru-ad,,1682
-2020-06-26,admin_1,ru,ru-alt,,3600
+2020-06-26,admin_1,ru,ru-alt,,511
 2020-06-26,admin_1,ru,ru-amu,,1528
 2020-06-26,admin_1,ru,ru-ark,,4992
 2020-06-26,admin_1,ru,ru-ast,,3307
@@ -26103,7 +26103,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-27,admin_1,pk,pk-pb,,72880
 2020-06-27,admin_1,pk,pk-sd,,76318
 2020-06-27,admin_1,ru,ru-ad,,1712
-2020-06-27,admin_1,ru,ru-alt,,3676
+2020-06-27,admin_1,ru,ru-alt,,522
 2020-06-27,admin_1,ru,ru-amu,,1572
 2020-06-27,admin_1,ru,ru-ark,,5107
 2020-06-27,admin_1,ru,ru-ast,,3347
@@ -26923,7 +26923,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-29,admin_1,co,co-ces,,946
 2020-06-29,admin_1,co,co-cho,,1421
 2020-06-29,admin_1,co,co-cor,,642
-2020-06-29,admin_1,co,co-cun,,2633
+2020-06-29,admin_1,co,co-cun,,27927
 2020-06-29,admin_1,co,co-gua,,14
 2020-06-29,admin_1,co,co-guv,,37
 2020-06-29,admin_1,co,co-hui,,325
@@ -27989,7 +27989,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-01,admin_1,co,co-ces,,994
 2020-07-01,admin_1,co,co-cho,,1452
 2020-07-01,admin_1,co,co-cor,,744
-2020-07-01,admin_1,co,co-cun,,2687
+2020-07-01,admin_1,co,co-cun,,29320
 2020-07-01,admin_1,co,co-gua,,15
 2020-07-01,admin_1,co,co-guv,,37
 2020-07-01,admin_1,co,co-hui,,332
@@ -28235,7 +28235,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-01,admin_1,pk,pk-pb,,76262
 2020-07-01,admin_1,pk,pk-sd,,84640
 2020-07-01,admin_1,ru,ru-ad,,1898
-2020-07-01,admin_1,ru,ru-alt,,3985
+2020-07-01,admin_1,ru,ru-alt,,650
 2020-07-01,admin_1,ru,ru-amu,,1707
 2020-07-01,admin_1,ru,ru-ark,,5556
 2020-07-01,admin_1,ru,ru-ast,,3479
@@ -28522,7 +28522,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-02,admin_1,co,co-ces,,1027
 2020-07-02,admin_1,co,co-cho,,1544
 2020-07-02,admin_1,co,co-cor,,786
-2020-07-02,admin_1,co,co-cun,,2831
+2020-07-02,admin_1,co,co-cun,,30017
 2020-07-02,admin_1,co,co-gua,,15
 2020-07-02,admin_1,co,co-guv,,38
 2020-07-02,admin_1,co,co-hui,,341
@@ -28768,7 +28768,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-02,admin_1,pk,pk-pb,,77740
 2020-07-02,admin_1,pk,pk-sd,,86795
 2020-07-02,admin_1,ru,ru-ad,,1935
-2020-07-02,admin_1,ru,ru-alt,,4059
+2020-07-02,admin_1,ru,ru-alt,,681
 2020-07-02,admin_1,ru,ru-amu,,1734
 2020-07-02,admin_1,ru,ru-ark,,5674
 2020-07-02,admin_1,ru,ru-ast,,3513
@@ -29055,7 +29055,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-03,admin_1,co,co-ces,,1071
 2020-07-03,admin_1,co,co-cho,,1682
 2020-07-03,admin_1,co,co-cor,,801
-2020-07-03,admin_1,co,co-cun,,2975
+2020-07-03,admin_1,co,co-cun,,31417
 2020-07-03,admin_1,co,co-gua,,14
 2020-07-03,admin_1,co,co-guv,,39
 2020-07-03,admin_1,co,co-hui,,340
@@ -29301,7 +29301,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-03,admin_1,pk,pk-pb,,78956
 2020-07-03,admin_1,pk,pk-sd,,89225
 2020-07-03,admin_1,ru,ru-ad,,1981
-2020-07-03,admin_1,ru,ru-alt,,745
+2020-07-03,admin_1,ru,ru-alt,,4134
 2020-07-03,admin_1,ru,ru-amu,,1765
 2020-07-03,admin_1,ru,ru-ark,,5790
 2020-07-03,admin_1,ru,ru-ast,,3548
@@ -30119,7 +30119,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-05,admin_1,co,co-ces,,1169
 2020-07-05,admin_1,co,co-cho,,1754
 2020-07-05,admin_1,co,co-cor,,915
-2020-07-05,admin_1,co,co-cun,,3218
+2020-07-05,admin_1,co,co-cun,,34131
 2020-07-05,admin_1,co,co-gua,,14
 2020-07-05,admin_1,co,co-guv,,39
 2020-07-05,admin_1,co,co-hui,,369
@@ -30365,7 +30365,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-05,admin_1,pk,pk-pb,,80297
 2020-07-05,admin_1,pk,pk-sd,,90721
 2020-07-05,admin_1,ru,ru-ad,,2068
-2020-07-05,admin_1,ru,ru-alt,,808
+2020-07-05,admin_1,ru,ru-alt,,4299
 2020-07-05,admin_1,ru,ru-amu,,1826
 2020-07-05,admin_1,ru,ru-ark,,6026
 2020-07-05,admin_1,ru,ru-ast,,3617
@@ -30651,7 +30651,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-06,admin_1,co,co-ces,,1272
 2020-07-06,admin_1,co,co-cho,,1833
 2020-07-06,admin_1,co,co-cor,,1019
-2020-07-06,admin_1,co,co-cun,,3331
+2020-07-06,admin_1,co,co-cun,,35266
 2020-07-06,admin_1,co,co-gua,,14
 2020-07-06,admin_1,co,co-guv,,39
 2020-07-06,admin_1,co,co-hui,,374
@@ -31183,7 +31183,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-07,admin_1,co,co-ces,,1299
 2020-07-07,admin_1,co,co-cho,,1869
 2020-07-07,admin_1,co,co-cor,,1052
-2020-07-07,admin_1,co,co-cun,,36554
+2020-07-07,admin_1,co,co-cun,,3389
 2020-07-07,admin_1,co,co-gua,,14
 2020-07-07,admin_1,co,co-guv,,39
 2020-07-07,admin_1,co,co-hui,,380
@@ -32780,7 +32780,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-10,admin_1,co,co-ces,,1359
 2020-07-10,admin_1,co,co-cho,,2033
 2020-07-10,admin_1,co,co-cor,,1264
-2020-07-10,admin_1,co,co-cun,,3417
+2020-07-10,admin_1,co,co-cun,,40737
 2020-07-10,admin_1,co,co-gua,,14
 2020-07-10,admin_1,co,co-guv,,39
 2020-07-10,admin_1,co,co-hui,,397
@@ -34092,7 +34092,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-12,admin_1,pk,pk-pb,,86556
 2020-07-12,admin_1,pk,pk-sd,,103836
 2020-07-12,admin_1,ru,ru-ad,,2224
-2020-07-12,admin_1,ru,ru-alt,,1036
+2020-07-12,admin_1,ru,ru-alt,,5589
 2020-07-12,admin_1,ru,ru-amu,,2057
 2020-07-12,admin_1,ru,ru-ark,,6873
 2020-07-12,admin_1,ru,ru-ast,,3873
@@ -34379,7 +34379,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-13,admin_1,co,co-ces,,1433
 2020-07-13,admin_1,co,co-cho,,2176
 2020-07-13,admin_1,co,co-cor,,1526
-2020-07-13,admin_1,co,co-cun,,4052
+2020-07-13,admin_1,co,co-cun,,47524
 2020-07-13,admin_1,co,co-gua,,14
 2020-07-13,admin_1,co,co-guv,,42
 2020-07-13,admin_1,co,co-hui,,418
@@ -34625,7 +34625,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-13,admin_1,pk,pk-pb,,87043
 2020-07-13,admin_1,pk,pk-sd,,105533
 2020-07-13,admin_1,ru,ru-ad,,2242
-2020-07-13,admin_1,ru,ru-alt,,1053
+2020-07-13,admin_1,ru,ru-alt,,5821
 2020-07-13,admin_1,ru,ru-amu,,2097
 2020-07-13,admin_1,ru,ru-ark,,6988
 2020-07-13,admin_1,ru,ru-ast,,3910
@@ -35445,7 +35445,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-15,admin_1,co,co-ces,,1557
 2020-07-15,admin_1,co,co-cho,,2207
 2020-07-15,admin_1,co,co-cor,,1657
-2020-07-15,admin_1,co,co-cun,,51281
+2020-07-15,admin_1,co,co-cun,,4310
 2020-07-15,admin_1,co,co-gua,,14
 2020-07-15,admin_1,co,co-guv,,42
 2020-07-15,admin_1,co,co-hui,,424
@@ -36757,7 +36757,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-17,admin_1,pk,pk-pb,,88539
 2020-07-17,admin_1,pk,pk-sd,,108913
 2020-07-17,admin_1,ru,ru-ad,,2308
-2020-07-17,admin_1,ru,ru-alt,,1154
+2020-07-17,admin_1,ru,ru-alt,,6755
 2020-07-17,admin_1,ru,ru-amu,,2271
 2020-07-17,admin_1,ru,ru-ark,,7492
 2020-07-17,admin_1,ru,ru-ast,,4045
@@ -37848,7 +37848,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-19,admin_1,pk,pk-pb,,89793
 2020-07-19,admin_1,pk,pk-sd,,112118
 2020-07-19,admin_1,ru,ru-ad,,2344
-2020-07-19,admin_1,ru,ru-alt,,1217
+2020-07-19,admin_1,ru,ru-alt,,7184
 2020-07-19,admin_1,ru,ru-amu,,2354
 2020-07-19,admin_1,ru,ru-ark,,7712
 2020-07-19,admin_1,ru,ru-ast,,4144
@@ -38938,7 +38938,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-21,admin_1,pk,pk-pb,,90444
 2020-07-21,admin_1,pk,pk-sd,,113553
 2020-07-21,admin_1,ru,ru-ad,,2384
-2020-07-21,admin_1,ru,ru-alt,,1276
+2020-07-21,admin_1,ru,ru-alt,,7573
 2020-07-21,admin_1,ru,ru-amu,,2423
 2020-07-21,admin_1,ru,ru-ark,,7908
 2020-07-21,admin_1,ru,ru-ast,,4213
@@ -39770,7 +39770,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-23,admin_1,co,co-ces,,2225
 2020-07-23,admin_1,co,co-cho,,2713
 2020-07-23,admin_1,co,co-cor,,3173
-2020-07-23,admin_1,co,co-cun,,70849
+2020-07-23,admin_1,co,co-cun,,6358
 2020-07-23,admin_1,co,co-gua,,14
 2020-07-23,admin_1,co,co-guv,,51
 2020-07-23,admin_1,co,co-hui,,590
@@ -40028,7 +40028,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-23,admin_1,pk,pk-pb,,91129
 2020-07-23,admin_1,pk,pk-sd,,115213
 2020-07-23,admin_1,ru,ru-ad,,2436
-2020-07-23,admin_1,ru,ru-alt,,1331
+2020-07-23,admin_1,ru,ru-alt,,7941
 2020-07-23,admin_1,ru,ru-amu,,2478
 2020-07-23,admin_1,ru,ru-ark,,8081
 2020-07-23,admin_1,ru,ru-ast,,4280
@@ -40315,7 +40315,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-24,admin_1,co,co-ces,,2309
 2020-07-24,admin_1,co,co-cho,,2761
 2020-07-24,admin_1,co,co-cor,,3344
-2020-07-24,admin_1,co,co-cun,,6513
+2020-07-24,admin_1,co,co-cun,,74599
 2020-07-24,admin_1,co,co-gua,,14
 2020-07-24,admin_1,co,co-guv,,52
 2020-07-24,admin_1,co,co-hui,,625
@@ -41950,7 +41950,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-27,admin_1,co,co-ces,,2447
 2020-07-27,admin_1,co,co-cho,,2802
 2020-07-27,admin_1,co,co-cor,,3593
-2020-07-27,admin_1,co,co-cun,,81180
+2020-07-27,admin_1,co,co-cun,,6928
 2020-07-27,admin_1,co,co-gua,,14
 2020-07-27,admin_1,co,co-guv,,77
 2020-07-27,admin_1,co,co-hui,,673
@@ -43041,7 +43041,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-29,admin_1,co,co-ces,,2798
 2020-07-29,admin_1,co,co-cho,,2916
 2020-07-29,admin_1,co,co-cor,,4841
-2020-07-29,admin_1,co,co-cun,,7458
+2020-07-29,admin_1,co,co-cun,,91408
 2020-07-29,admin_1,co,co-gua,,15
 2020-07-29,admin_1,co,co-guv,,85
 2020-07-29,admin_1,co,co-hui,,746
@@ -43588,7 +43588,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-30,admin_1,co,co-ces,,2886
 2020-07-30,admin_1,co,co-cho,,2931
 2020-07-30,admin_1,co,co-cor,,5032
-2020-07-30,admin_1,co,co-cun,,7720
+2020-07-30,admin_1,co,co-cun,,95199
 2020-07-30,admin_1,co,co-gua,,14
 2020-07-30,admin_1,co,co-guv,,85
 2020-07-30,admin_1,co,co-hui,,778
@@ -43848,7 +43848,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-07-30,admin_1,pk,pk-pb,,92452
 2020-07-30,admin_1,pk,pk-sd,,119398
 2020-07-30,admin_1,ru,ru-ad,,2679
-2020-07-30,admin_1,ru,ru-alt,,8893
+2020-07-30,admin_1,ru,ru-alt,,1498
 2020-07-30,admin_1,ru,ru-amu,,2689
 2020-07-30,admin_1,ru,ru-ark,,8565
 2020-07-30,admin_1,ru,ru-ast,,4503
@@ -44681,7 +44681,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-01,admin_1,co,co-ces,,3116
 2020-08-01,admin_1,co,co-cho,,3000
 2020-08-01,admin_1,co,co-cor,,5538
-2020-08-01,admin_1,co,co-cun,,101955
+2020-08-01,admin_1,co,co-cun,,8500
 2020-08-01,admin_1,co,co-gua,,14
 2020-08-01,admin_1,co,co-guv,,99
 2020-08-01,admin_1,co,co-hui,,908
@@ -45228,7 +45228,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-02,admin_1,co,co-ces,,3351
 2020-08-02,admin_1,co,co-cho,,3021
 2020-08-02,admin_1,co,co-cor,,5825
-2020-08-02,admin_1,co,co-cun,,8978
+2020-08-02,admin_1,co,co-cun,,104656
 2020-08-02,admin_1,co,co-gua,,14
 2020-08-02,admin_1,co,co-guv,,99
 2020-08-02,admin_1,co,co-hui,,950
@@ -45775,7 +45775,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-03,admin_1,co,co-ces,,3504
 2020-08-03,admin_1,co,co-cho,,3055
 2020-08-03,admin_1,co,co-cor,,6437
-2020-08-03,admin_1,co,co-cun,,9545
+2020-08-03,admin_1,co,co-cun,,109153
 2020-08-03,admin_1,co,co-gua,,14
 2020-08-03,admin_1,co,co-guv,,110
 2020-08-03,admin_1,co,co-hui,,986
@@ -46035,7 +46035,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-03,admin_1,pk,pk-pb,,93173
 2020-08-03,admin_1,pk,pk-sd,,121309
 2020-08-03,admin_1,ru,ru-ad,,2803
-2020-08-03,admin_1,ru,ru-alt,,1606
+2020-08-03,admin_1,ru,ru-alt,,9326
 2020-08-03,admin_1,ru,ru-amu,,2801
 2020-08-03,admin_1,ru,ru-ark,,8842
 2020-08-03,admin_1,ru,ru-ast,,4657
@@ -46582,7 +46582,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-04,admin_1,pk,pk-pb,,93336
 2020-08-04,admin_1,pk,pk-sd,,121705
 2020-08-04,admin_1,ru,ru-ad,,2830
-2020-08-04,admin_1,ru,ru-alt,,1631
+2020-08-04,admin_1,ru,ru-alt,,9433
 2020-08-04,admin_1,ru,ru-amu,,2824
 2020-08-04,admin_1,ru,ru-ark,,8901
 2020-08-04,admin_1,ru,ru-ast,,4688
@@ -46869,7 +46869,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-05,admin_1,co,co-ces,,3735
 2020-08-05,admin_1,co,co-cho,,3098
 2020-08-05,admin_1,co,co-cor,,7249
-2020-08-05,admin_1,co,co-cun,,113548
+2020-08-05,admin_1,co,co-cun,,10231
 2020-08-05,admin_1,co,co-gua,,14
 2020-08-05,admin_1,co,co-guv,,115
 2020-08-05,admin_1,co,co-hui,,1164
@@ -47129,7 +47129,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-05,admin_1,pk,pk-pb,,93336
 2020-08-05,admin_1,pk,pk-sd,,121705
 2020-08-05,admin_1,ru,ru-ad,,2855
-2020-08-05,admin_1,ru,ru-alt,,9528
+2020-08-05,admin_1,ru,ru-alt,,1636
 2020-08-05,admin_1,ru,ru-amu,,2845
 2020-08-05,admin_1,ru,ru-ark,,8969
 2020-08-05,admin_1,ru,ru-ast,,4717
@@ -47963,7 +47963,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-07,admin_1,co,co-ces,,3979
 2020-08-07,admin_1,co,co-cho,,3125
 2020-08-07,admin_1,co,co-cor,,8046
-2020-08-07,admin_1,co,co-cun,,10978
+2020-08-07,admin_1,co,co-cun,,123875
 2020-08-07,admin_1,co,co-gua,,14
 2020-08-07,admin_1,co,co-guv,,125
 2020-08-07,admin_1,co,co-hui,,1271
@@ -48223,7 +48223,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-07,admin_1,pk,pk-pb,,93847
 2020-08-07,admin_1,pk,pk-sd,,122373
 2020-08-07,admin_1,ru,ru-ad,,2906
-2020-08-07,admin_1,ru,ru-alt,,9714
+2020-08-07,admin_1,ru,ru-alt,,1661
 2020-08-07,admin_1,ru,ru-amu,,2887
 2020-08-07,admin_1,ru,ru-ark,,9101
 2020-08-07,admin_1,ru,ru-ast,,4792
@@ -48510,7 +48510,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-08,admin_1,co,co-ces,,4204
 2020-08-08,admin_1,co,co-cho,,3152
 2020-08-08,admin_1,co,co-cor,,8245
-2020-08-08,admin_1,co,co-cun,,126488
+2020-08-08,admin_1,co,co-cun,,11272
 2020-08-08,admin_1,co,co-gua,,15
 2020-08-08,admin_1,co,co-guv,,126
 2020-08-08,admin_1,co,co-hui,,1363
@@ -49057,7 +49057,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-09,admin_1,co,co-ces,,4382
 2020-08-09,admin_1,co,co-cho,,3168
 2020-08-09,admin_1,co,co-cor,,8716
-2020-08-09,admin_1,co,co-cun,,11626
+2020-08-09,admin_1,co,co-cun,,129975
 2020-08-09,admin_1,co,co-gua,,14
 2020-08-09,admin_1,co,co-guv,,128
 2020-08-09,admin_1,co,co-hui,,1470
@@ -49604,7 +49604,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-10,admin_1,co,co-ces,,4466
 2020-08-10,admin_1,co,co-cho,,3197
 2020-08-10,admin_1,co,co-cor,,9616
-2020-08-10,admin_1,co,co-cun,,11828
+2020-08-10,admin_1,co,co-cun,,133423
 2020-08-10,admin_1,co,co-gua,,14
 2020-08-10,admin_1,co,co-guv,,149
 2020-08-10,admin_1,co,co-hui,,1614
@@ -50411,7 +50411,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-11,admin_1,pk,pk-pb,,94477
 2020-08-11,admin_1,pk,pk-sd,,123849
 2020-08-11,admin_1,ru,ru-ad,,2995
-2020-08-11,admin_1,ru,ru-alt,,10094
+2020-08-11,admin_1,ru,ru-alt,,1724
 2020-08-11,admin_1,ru,ru-amu,,2966
 2020-08-11,admin_1,ru,ru-ark,,9366
 2020-08-11,admin_1,ru,ru-ast,,4928
@@ -50958,7 +50958,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-12,admin_1,pk,pk-pb,,94586
 2020-08-12,admin_1,pk,pk-sd,,124127
 2020-08-12,admin_1,ru,ru-ad,,3016
-2020-08-12,admin_1,ru,ru-alt,,10185
+2020-08-12,admin_1,ru,ru-alt,,1731
 2020-08-12,admin_1,ru,ru-amu,,2981
 2020-08-12,admin_1,ru,ru-ark,,9414
 2020-08-12,admin_1,ru,ru-ast,,4965
@@ -51792,7 +51792,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-14,admin_1,co,co-ces,,5123
 2020-08-14,admin_1,co,co-cho,,3429
 2020-08-14,admin_1,co,co-cor,,12200
-2020-08-14,admin_1,co,co-cun,,149944
+2020-08-14,admin_1,co,co-cun,,13483
 2020-08-14,admin_1,co,co-gua,,20
 2020-08-14,admin_1,co,co-guv,,176
 2020-08-14,admin_1,co,co-hui,,2130
@@ -53146,7 +53146,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-16,admin_1,pk,pk-pb,,95203
 2020-08-16,admin_1,pk,pk-sd,,125632
 2020-08-16,admin_1,ru,ru-ad,,3095
-2020-08-16,admin_1,ru,ru-alt,,10534
+2020-08-16,admin_1,ru,ru-alt,,1799
 2020-08-16,admin_1,ru,ru-amu,,3042
 2020-08-16,admin_1,ru,ru-ark,,9697
 2020-08-16,admin_1,ru,ru-ast,,5115
@@ -53433,7 +53433,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-17,admin_1,co,co-ces,,5732
 2020-08-17,admin_1,co,co-cho,,3468
 2020-08-17,admin_1,co,co-cor,,13916
-2020-08-17,admin_1,co,co-cun,,163295
+2020-08-17,admin_1,co,co-cun,,15180
 2020-08-17,admin_1,co,co-gua,,15
 2020-08-17,admin_1,co,co-guv,,196
 2020-08-17,admin_1,co,co-hui,,2513
@@ -53693,7 +53693,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-17,admin_1,pk,pk-pb,,95447
 2020-08-17,admin_1,pk,pk-sd,,126182
 2020-08-17,admin_1,ru,ru-ad,,3113
-2020-08-17,admin_1,ru,ru-alt,,1818
+2020-08-17,admin_1,ru,ru-alt,,10623
 2020-08-17,admin_1,ru,ru-amu,,3060
 2020-08-17,admin_1,ru,ru-ark,,9768
 2020-08-17,admin_1,ru,ru-ast,,5148
@@ -54240,7 +54240,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-18,admin_1,pk,pk-pb,,95447
 2020-08-18,admin_1,pk,pk-sd,,126182
 2020-08-18,admin_1,ru,ru-ad,,3129
-2020-08-18,admin_1,ru,ru-alt,,1833
+2020-08-18,admin_1,ru,ru-alt,,10711
 2020-08-18,admin_1,ru,ru-amu,,3081
 2020-08-18,admin_1,ru,ru-ark,,9838
 2020-08-18,admin_1,ru,ru-ast,,5185
@@ -54527,7 +54527,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-19,admin_1,co,co-ces,,6060
 2020-08-19,admin_1,co,co-cho,,3524
 2020-08-19,admin_1,co,co-cor,,15181
-2020-08-19,admin_1,co,co-cun,,171312
+2020-08-19,admin_1,co,co-cun,,16290
 2020-08-19,admin_1,co,co-gua,,20
 2020-08-19,admin_1,co,co-guv,,198
 2020-08-19,admin_1,co,co-hui,,2845
@@ -54787,7 +54787,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-19,admin_1,pk,pk-pb,,95611
 2020-08-19,admin_1,pk,pk-sd,,126425
 2020-08-19,admin_1,ru,ru-ad,,3144
-2020-08-19,admin_1,ru,ru-alt,,10802
+2020-08-19,admin_1,ru,ru-alt,,1870
 2020-08-19,admin_1,ru,ru-amu,,3098
 2020-08-19,admin_1,ru,ru-ark,,9921
 2020-08-19,admin_1,ru,ru-ast,,5229
@@ -55074,7 +55074,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-20,admin_1,co,co-ces,,6439
 2020-08-20,admin_1,co,co-cho,,3547
 2020-08-20,admin_1,co,co-cor,,15786
-2020-08-20,admin_1,co,co-cun,,16959
+2020-08-20,admin_1,co,co-cun,,176336
 2020-08-20,admin_1,co,co-gua,,20
 2020-08-20,admin_1,co,co-guv,,198
 2020-08-20,admin_1,co,co-hui,,3040
@@ -55621,7 +55621,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-21,admin_1,co,co-ces,,6968
 2020-08-21,admin_1,co,co-cho,,3571
 2020-08-21,admin_1,co,co-cor,,16351
-2020-08-21,admin_1,co,co-cun,,179540
+2020-08-21,admin_1,co,co-cun,,18127
 2020-08-21,admin_1,co,co-gua,,28
 2020-08-21,admin_1,co,co-guv,,205
 2020-08-21,admin_1,co,co-hui,,3148
@@ -56168,7 +56168,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-22,admin_1,co,co-ces,,7187
 2020-08-22,admin_1,co,co-cho,,3592
 2020-08-22,admin_1,co,co-cor,,16727
-2020-08-22,admin_1,co,co-cun,,181775
+2020-08-22,admin_1,co,co-cun,,18441
 2020-08-22,admin_1,co,co-gua,,28
 2020-08-22,admin_1,co,co-guv,,216
 2020-08-22,admin_1,co,co-hui,,3325
@@ -57262,7 +57262,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-24,admin_1,co,co-ces,,7889
 2020-08-24,admin_1,co,co-cho,,3630
 2020-08-24,admin_1,co,co-cor,,17156
-2020-08-24,admin_1,co,co-cun,,19168
+2020-08-24,admin_1,co,co-cun,,188220
 2020-08-24,admin_1,co,co-gua,,42
 2020-08-24,admin_1,co,co-guv,,236
 2020-08-24,admin_1,co,co-hui,,3530
@@ -57809,7 +57809,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-25,admin_1,co,co-ces,,8067
 2020-08-25,admin_1,co,co-cho,,3664
 2020-08-25,admin_1,co,co-cor,,17498
-2020-08-25,admin_1,co,co-cun,,192654
+2020-08-25,admin_1,co,co-cun,,19829
 2020-08-25,admin_1,co,co-gua,,49
 2020-08-25,admin_1,co,co-guv,,236
 2020-08-25,admin_1,co,co-hui,,3690
@@ -58069,7 +58069,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-25,admin_1,pk,pk-pb,,96233
 2020-08-25,admin_1,pk,pk-sd,,128284
 2020-08-25,admin_1,ru,ru-ad,,3254
-2020-08-25,admin_1,ru,ru-alt,,11251
+2020-08-25,admin_1,ru,ru-alt,,2014
 2020-08-25,admin_1,ru,ru-amu,,3208
 2020-08-25,admin_1,ru,ru-ark,,10358
 2020-08-25,admin_1,ru,ru-ast,,5445
@@ -58356,7 +58356,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-26,admin_1,co,co-ces,,8385
 2020-08-26,admin_1,co,co-cho,,3675
 2020-08-26,admin_1,co,co-cor,,18187
-2020-08-26,admin_1,co,co-cun,,20539
+2020-08-26,admin_1,co,co-cun,,195137
 2020-08-26,admin_1,co,co-gua,,74
 2020-08-26,admin_1,co,co-guv,,237
 2020-08-26,admin_1,co,co-hui,,3891
@@ -58616,7 +58616,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-26,admin_1,pk,pk-pb,,96391
 2020-08-26,admin_1,pk,pk-sd,,128456
 2020-08-26,admin_1,ru,ru-ad,,3273
-2020-08-26,admin_1,ru,ru-alt,,2020
+2020-08-26,admin_1,ru,ru-alt,,11317
 2020-08-26,admin_1,ru,ru-amu,,3228
 2020-08-26,admin_1,ru,ru-ark,,10382
 2020-08-26,admin_1,ru,ru-ast,,5478
@@ -59163,7 +59163,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-27,admin_1,pk,pk-pb,,96466
 2020-08-27,admin_1,pk,pk-sd,,128676
 2020-08-27,admin_1,ru,ru-ad,,3291
-2020-08-27,admin_1,ru,ru-alt,,2041
+2020-08-27,admin_1,ru,ru-alt,,11387
 2020-08-27,admin_1,ru,ru-amu,,3250
 2020-08-27,admin_1,ru,ru-ark,,10442
 2020-08-27,admin_1,ru,ru-ast,,5508
@@ -59450,7 +59450,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-28,admin_1,co,co-ces,,9330
 2020-08-28,admin_1,co,co-cho,,3693
 2020-08-28,admin_1,co,co-cor,,18911
-2020-08-28,admin_1,co,co-cun,,21297
+2020-08-28,admin_1,co,co-cun,,201880
 2020-08-28,admin_1,co,co-gua,,92
 2020-08-28,admin_1,co,co-guv,,238
 2020-08-28,admin_1,co,co-hui,,4303
@@ -59997,7 +59997,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-29,admin_1,co,co-ces,,9655
 2020-08-29,admin_1,co,co-cho,,3697
 2020-08-29,admin_1,co,co-cor,,19113
-2020-08-29,admin_1,co,co-cun,,21640
+2020-08-29,admin_1,co,co-cun,,204065
 2020-08-29,admin_1,co,co-gua,,92
 2020-08-29,admin_1,co,co-guv,,239
 2020-08-29,admin_1,co,co-hui,,4529
@@ -60257,7 +60257,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-29,admin_1,pk,pk-pb,,96636
 2020-08-29,admin_1,pk,pk-sd,,129081
 2020-08-29,admin_1,ru,ru-ad,,3327
-2020-08-29,admin_1,ru,ru-alt,,11523
+2020-08-29,admin_1,ru,ru-alt,,2086
 2020-08-29,admin_1,ru,ru-amu,,3299
 2020-08-29,admin_1,ru,ru-ark,,10602
 2020-08-29,admin_1,ru,ru-ast,,5591
@@ -60544,7 +60544,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-30,admin_1,co,co-ces,,10013
 2020-08-30,admin_1,co,co-cho,,3704
 2020-08-30,admin_1,co,co-cor,,19277
-2020-08-30,admin_1,co,co-cun,,22175
+2020-08-30,admin_1,co,co-cun,,207403
 2020-08-30,admin_1,co,co-gua,,93
 2020-08-30,admin_1,co,co-guv,,241
 2020-08-30,admin_1,co,co-hui,,4737
@@ -61091,7 +61091,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-31,admin_1,co,co-ces,,10514
 2020-08-31,admin_1,co,co-cho,,3719
 2020-08-31,admin_1,co,co-cor,,19568
-2020-08-31,admin_1,co,co-cun,,22772
+2020-08-31,admin_1,co,co-cun,,209250
 2020-08-31,admin_1,co,co-gua,,101
 2020-08-31,admin_1,co,co-guv,,265
 2020-08-31,admin_1,co,co-hui,,5007
@@ -61351,7 +61351,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-31,admin_1,pk,pk-pb,,96741
 2020-08-31,admin_1,pk,pk-sd,,129268
 2020-08-31,admin_1,ru,ru-ad,,3364
-2020-08-31,admin_1,ru,ru-alt,,11655
+2020-08-31,admin_1,ru,ru-alt,,2125
 2020-08-31,admin_1,ru,ru-amu,,3355
 2020-08-31,admin_1,ru,ru-ark,,10783
 2020-08-31,admin_1,ru,ru-ast,,5658
@@ -61638,7 +61638,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-01,admin_1,co,co-ces,,10815
 2020-09-01,admin_1,co,co-cho,,3722
 2020-09-01,admin_1,co,co-cor,,19738
-2020-09-01,admin_1,co,co-cun,,211300
+2020-09-01,admin_1,co,co-cun,,23128
 2020-09-01,admin_1,co,co-gua,,140
 2020-09-01,admin_1,co,co-guv,,273
 2020-09-01,admin_1,co,co-hui,,5167
@@ -61898,7 +61898,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-01,admin_1,pk,pk-pb,,96769
 2020-09-01,admin_1,pk,pk-sd,,129348
 2020-09-01,admin_1,ru,ru-ad,,3386
-2020-09-01,admin_1,ru,ru-alt,,2142
+2020-09-01,admin_1,ru,ru-alt,,11720
 2020-09-01,admin_1,ru,ru-amu,,3386
 2020-09-01,admin_1,ru,ru-ark,,10825
 2020-09-01,admin_1,ru,ru-ast,,5693
@@ -62992,7 +62992,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-03,admin_1,pk,pk-pb,,96983
 2020-09-03,admin_1,pk,pk-sd,,129827
 2020-09-03,admin_1,ru,ru-ad,,3420
-2020-09-03,admin_1,ru,ru-alt,,2181
+2020-09-03,admin_1,ru,ru-alt,,11844
 2020-09-03,admin_1,ru,ru-amu,,3449
 2020-09-03,admin_1,ru,ru-ark,,10937
 2020-09-03,admin_1,ru,ru-ast,,5771
@@ -63279,7 +63279,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-04,admin_1,co,co-ces,,11964
 2020-09-04,admin_1,co,co-cho,,3762
 2020-09-04,admin_1,co,co-cor,,20328
-2020-09-04,admin_1,co,co-cun,,219584
+2020-09-04,admin_1,co,co-cun,,24690
 2020-09-04,admin_1,co,co-gua,,164
 2020-09-04,admin_1,co,co-guv,,310
 2020-09-04,admin_1,co,co-hui,,5636
@@ -63539,7 +63539,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-04,admin_1,pk,pk-pb,,97044
 2020-09-04,admin_1,pk,pk-sd,,130041
 2020-09-04,admin_1,ru,ru-ad,,3440
-2020-09-04,admin_1,ru,ru-alt,,11908
+2020-09-04,admin_1,ru,ru-alt,,2209
 2020-09-04,admin_1,ru,ru-amu,,3479
 2020-09-04,admin_1,ru,ru-ark,,10985
 2020-09-04,admin_1,ru,ru-ast,,5809
@@ -64373,7 +64373,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-06,admin_1,co,co-ces,,12228
 2020-09-06,admin_1,co,co-cho,,3767
 2020-09-06,admin_1,co,co-cor,,20568
-2020-09-06,admin_1,co,co-cun,,221738
+2020-09-06,admin_1,co,co-cun,,25144
 2020-09-06,admin_1,co,co-gua,,165
 2020-09-06,admin_1,co,co-guv,,328
 2020-09-06,admin_1,co,co-hui,,5918
@@ -64633,7 +64633,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-06,admin_1,pk,pk-pb,,97118
 2020-09-06,admin_1,pk,pk-sd,,130253
 2020-09-06,admin_1,ru,ru-ad,,3480
-2020-09-06,admin_1,ru,ru-alt,,2252
+2020-09-06,admin_1,ru,ru-alt,,12033
 2020-09-06,admin_1,ru,ru-amu,,3537
 2020-09-06,admin_1,ru,ru-ark,,11131
 2020-09-06,admin_1,ru,ru-ast,,5894
@@ -65180,7 +65180,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-07,admin_1,pk,pk-pb,,97226
 2020-09-07,admin_1,pk,pk-sd,,130671
 2020-09-07,admin_1,ru,ru-ad,,3500
-2020-09-07,admin_1,ru,ru-alt,,2288
+2020-09-07,admin_1,ru,ru-alt,,12094
 2020-09-07,admin_1,ru,ru-amu,,3572
 2020-09-07,admin_1,ru,ru-ark,,11191
 2020-09-07,admin_1,ru,ru-ast,,5935
@@ -66014,7 +66014,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-09,admin_1,co,co-ces,,13010
 2020-09-09,admin_1,co,co-cho,,3789
 2020-09-09,admin_1,co,co-cor,,21140
-2020-09-09,admin_1,co,co-cun,,26241
+2020-09-09,admin_1,co,co-cun,,227979
 2020-09-09,admin_1,co,co-gua,,277
 2020-09-09,admin_1,co,co-guv,,37
 2020-09-09,admin_1,co,co-hui,,6507
@@ -66274,7 +66274,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-09,admin_1,pk,pk-pb,,97389
 2020-09-09,admin_1,pk,pk-sd,,130969
 2020-09-09,admin_1,ru,ru-ad,,3546
-2020-09-09,admin_1,ru,ru-alt,,2323
+2020-09-09,admin_1,ru,ru-alt,,12216
 2020-09-09,admin_1,ru,ru-amu,,3641
 2020-09-09,admin_1,ru,ru-ark,,11337
 2020-09-09,admin_1,ru,ru-ast,,6026
@@ -67108,7 +67108,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-11,admin_1,co,co-ces,,14405
 2020-09-11,admin_1,co,co-cho,,3841
 2020-09-11,admin_1,co,co-cor,,21641
-2020-09-11,admin_1,co,co-cun,,234514
+2020-09-11,admin_1,co,co-cun,,27386
 2020-09-11,admin_1,co,co-gua,,337
 2020-09-11,admin_1,co,co-guv,,426
 2020-09-11,admin_1,co,co-hui,,7195
@@ -67655,7 +67655,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-12,admin_1,co,co-ces,,14983
 2020-09-12,admin_1,co,co-cho,,3853
 2020-09-12,admin_1,co,co-cor,,21892
-2020-09-12,admin_1,co,co-cun,,236313
+2020-09-12,admin_1,co,co-cun,,27775
 2020-09-12,admin_1,co,co-gua,,340
 2020-09-12,admin_1,co,co-guv,,442
 2020-09-12,admin_1,co,co-hui,,7386
@@ -67915,7 +67915,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-12,admin_1,pk,pk-pb,,97602
 2020-09-12,admin_1,pk,pk-sd,,131675
 2020-09-12,admin_1,ru,ru-ad,,3609
-2020-09-12,admin_1,ru,ru-alt,,12405
+2020-09-12,admin_1,ru,ru-alt,,2422
 2020-09-12,admin_1,ru,ru-amu,,3731
 2020-09-12,admin_1,ru,ru-ark,,11574
 2020-09-12,admin_1,ru,ru-ast,,6168
@@ -68462,7 +68462,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-13,admin_1,pk,pk-pb,,97679
 2020-09-13,admin_1,pk,pk-sd,,131880
 2020-09-13,admin_1,ru,ru-ad,,3630
-2020-09-13,admin_1,ru,ru-alt,,12466
+2020-09-13,admin_1,ru,ru-alt,,2477
 2020-09-13,admin_1,ru,ru-amu,,3761
 2020-09-13,admin_1,ru,ru-ark,,11657
 2020-09-13,admin_1,ru,ru-ast,,6218
@@ -68749,7 +68749,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-14,admin_1,co,co-ces,,15745
 2020-09-14,admin_1,co,co-cho,,3864
 2020-09-14,admin_1,co,co-cor,,22102
-2020-09-14,admin_1,co,co-cun,,28519
+2020-09-14,admin_1,co,co-cun,,240287
 2020-09-14,admin_1,co,co-gua,,348
 2020-09-14,admin_1,co,co-guv,,474
 2020-09-14,admin_1,co,co-hui,,7864
@@ -69556,7 +69556,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-15,admin_1,pk,pk-pb,,97817
 2020-09-15,admin_1,pk,pk-sd,,132250
 2020-09-15,admin_1,ru,ru-ad,,3669
-2020-09-15,admin_1,ru,ru-alt,,2563
+2020-09-15,admin_1,ru,ru-alt,,12588
 2020-09-15,admin_1,ru,ru-amu,,3816
 2020-09-15,admin_1,ru,ru-ark,,11844
 2020-09-15,admin_1,ru,ru-ast,,6305
@@ -70103,7 +70103,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-16,admin_1,pk,pk-pb,,97946
 2020-09-16,admin_1,pk,pk-sd,,132591
 2020-09-16,admin_1,ru,ru-ad,,3689
-2020-09-16,admin_1,ru,ru-alt,,12651
+2020-09-16,admin_1,ru,ru-alt,,2584
 2020-09-16,admin_1,ru,ru-amu,,3842
 2020-09-16,admin_1,ru,ru-ark,,11932
 2020-09-16,admin_1,ru,ru-ast,,6356
@@ -71197,7 +71197,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-18,admin_1,pk,pk-pb,,98142
 2020-09-18,admin_1,pk,pk-sd,,133125
 2020-09-18,admin_1,ru,ru-ad,,3730
-2020-09-18,admin_1,ru,ru-alt,,2681
+2020-09-18,admin_1,ru,ru-alt,,12780
 2020-09-18,admin_1,ru,ru-amu,,3895
 2020-09-18,admin_1,ru,ru-ark,,12090
 2020-09-18,admin_1,ru,ru-ast,,6457
@@ -71744,7 +71744,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-19,admin_1,pk,pk-pb,,98272
 2020-09-19,admin_1,pk,pk-sd,,133362
 2020-09-19,admin_1,ru,ru-ad,,3753
-2020-09-19,admin_1,ru,ru-alt,,2746
+2020-09-19,admin_1,ru,ru-alt,,12846
 2020-09-19,admin_1,ru,ru-amu,,3928
 2020-09-19,admin_1,ru,ru-ark,,12193
 2020-09-19,admin_1,ru,ru-ast,,6504
@@ -72031,7 +72031,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-20,admin_1,co,co-ces,,17236
 2020-09-20,admin_1,co,co-cho,,3930
 2020-09-20,admin_1,co,co-cor,,22745
-2020-09-20,admin_1,co,co-cun,,250490
+2020-09-20,admin_1,co,co-cun,,30582
 2020-09-20,admin_1,co,co-gua,,547
 2020-09-20,admin_1,co,co-guv,,628
 2020-09-20,admin_1,co,co-hui,,9380
@@ -72064,3 +72064,4 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-09-20,admin_1,de,de-sh,,4384
 2020-09-20,admin_1,de,de-sl,,3275
 2020-09-20,admin_1,de,de-sn,,6658
+2020-09-20,admin_1,de,de-st,,2423
