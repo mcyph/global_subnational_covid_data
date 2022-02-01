@@ -48,7 +48,6 @@
 | ly_hdx_humdata | https://data.humdata.org/dataset/libya-coronavirus-covid-19-subnational-cases |  |
 | my_unofficial_github | https://github.com/ynshung/covid-19-malaysia |  |
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
-| ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
 | rs_gov | https://covid19.data.gov.rs |  |
 | sd_gov | https://covid19.sd/ |  |
