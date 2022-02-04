@@ -2317,6 +2317,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-21,lga,au-vic,east gippsland,,2
 2020-08-21,lga,au-vic,frankston,,145
 2020-08-21,lga,au-vic,glen eira,,118
+2020-08-21,lga,au-vic,glenelg,,20
 2020-08-21,lga,au-vic,greater dandenong,,336
 2020-08-21,lga,au-vic,greater geelong,,245
 2020-08-21,lga,au-vic,hobsons bay,,301
@@ -3782,6 +3783,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-08-30,lga,au-vic,greater shepparton,,145
 2021-08-30,lga,au-vic,hobsons bay,,597
 2021-08-30,lga,au-vic,hume,,1419
+2021-08-30,lga,au-vic,interstate,,33
 2021-08-30,lga,au-vic,monash,,304
 2021-08-30,lga,au-vic,moreland,,897
 2021-08-30,lga,au-vic,mornington peninsula,,127
@@ -7737,6 +7739,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-11-29,lga,au-vic,south gippsland,,75
 2021-11-29,lga,au-vic,stonnington,,506
 2021-11-29,lga,au-vic,surf coast,,82
+2021-11-29,lga,au-vic,unknown,,341
 2021-11-29,lga,au-vic,whitehorse,,451
 2021-11-29,lga,au-vic,whittlesea,,4693
 2021-11-29,lga,au-vic,wodonga,,386
@@ -11773,6 +11776,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-30,lga,au-vic,yarra,,2938
 2022-01-30,lga,au-vic,yarra ranges,,2639
 2022-01-30,lga,au-vic,yarriambiack,,48
+2022-01-31,lga,au-vic,alpine,,177
 2022-01-31,lga,au-vic,ballarat,,1770
 2022-01-31,lga,au-vic,banyule,,3138
 2022-01-31,lga,au-vic,bass coast,,521
@@ -11827,6 +11831,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-31,lga,au-vic,strathbogie,,93
 2022-01-31,lga,au-vic,surf coast,,587
 2022-01-31,lga,au-vic,swan hill,,301
+2022-01-31,lga,au-vic,unknown,,813
 2022-01-31,lga,au-vic,wangaratta,,424
 2022-01-31,lga,au-vic,warrnambool,,653
 2022-01-31,lga,au-vic,wellington,,484
@@ -11843,6 +11848,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,bass coast,,530
 2022-02-01,lga,au-vic,baw baw,,1338
 2022-02-01,lga,au-vic,bayside,,2742
+2022-02-01,lga,au-vic,benalla,,126
 2022-02-01,lga,au-vic,boroondara,,3172
 2022-02-01,lga,au-vic,brimbank,,11576
 2022-02-01,lga,au-vic,buloke,,64
@@ -11850,6 +11856,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,casey,,13466
 2022-02-01,lga,au-vic,central goldfields,,82
 2022-02-01,lga,au-vic,colac-otway,,387
+2022-02-01,lga,au-vic,corangamite,,182
 2022-02-01,lga,au-vic,darebin,,4921
 2022-02-01,lga,au-vic,east gippsland,,534
 2022-02-01,lga,au-vic,frankston,,2986
@@ -11872,10 +11879,12 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,loddon,,48
 2022-02-01,lga,au-vic,macedon ranges,,870
 2022-02-01,lga,au-vic,manningham,,2936
+2022-02-01,lga,au-vic,mansfield,,104
 2022-02-01,lga,au-vic,maribyrnong,,3437
 2022-02-01,lga,au-vic,maroondah,,2026
 2022-02-01,lga,au-vic,melbourne,,6130
 2022-02-01,lga,au-vic,melton,,10075
+2022-02-01,lga,au-vic,mildura,,1138
 2022-02-01,lga,au-vic,mitchell,,1074
 2022-02-01,lga,au-vic,moira,,459
 2022-02-01,lga,au-vic,monash,,4147
@@ -11885,6 +11894,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,mornington peninsula,,3289
 2022-02-01,lga,au-vic,mount alexander,,217
 2022-02-01,lga,au-vic,moyne,,223
+2022-02-01,lga,au-vic,murrindindi,,145
 2022-02-01,lga,au-vic,nillumbik,,1280
 2022-02-01,lga,au-vic,port phillip,,2998
 2022-02-01,lga,au-vic,pyrenees,,95
@@ -11892,7 +11902,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,south gippsland,,313
 2022-02-01,lga,au-vic,southern grampians,,265
 2022-02-01,lga,au-vic,stonnington,,2500
+2022-02-01,lga,au-vic,strathbogie,,96
 2022-02-01,lga,au-vic,surf coast,,601
+2022-02-01,lga,au-vic,swan hill,,305
+2022-02-01,lga,au-vic,unknown,,816
 2022-02-01,lga,au-vic,wangaratta,,426
 2022-02-01,lga,au-vic,warrnambool,,659
 2022-02-01,lga,au-vic,wellington,,496
@@ -11902,3 +11915,71 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-01,lga,au-vic,wyndham,,14204
 2022-02-01,lga,au-vic,yarra,,2969
 2022-02-01,lga,au-vic,yarra ranges,,2714
+2022-02-02,lga,au-vic,ararat,,210
+2022-02-02,lga,au-vic,ballarat,,1813
+2022-02-02,lga,au-vic,banyule,,3214
+2022-02-02,lga,au-vic,bass coast,,533
+2022-02-02,lga,au-vic,baw baw,,1391
+2022-02-02,lga,au-vic,bayside,,2810
+2022-02-02,lga,au-vic,boroondara,,3213
+2022-02-02,lga,au-vic,brimbank,,11661
+2022-02-02,lga,au-vic,campaspe,,453
+2022-02-02,lga,au-vic,cardinia,,3078
+2022-02-02,lga,au-vic,casey,,13594
+2022-02-02,lga,au-vic,colac-otway,,391
+2022-02-02,lga,au-vic,corangamite,,185
+2022-02-02,lga,au-vic,darebin,,4964
+2022-02-02,lga,au-vic,east gippsland,,535
+2022-02-02,lga,au-vic,frankston,,3010
+2022-02-02,lga,au-vic,gannawarra,,60
+2022-02-02,lga,au-vic,glen eira,,3944
+2022-02-02,lga,au-vic,glenelg,,164
+2022-02-02,lga,au-vic,golden plains,,329
+2022-02-02,lga,au-vic,greater bendigo,,1554
+2022-02-02,lga,au-vic,greater dandenong,,6872
+2022-02-02,lga,au-vic,greater geelong,,5360
+2022-02-02,lga,au-vic,greater shepparton,,2074
+2022-02-02,lga,au-vic,hindmarsh,,114
+2022-02-02,lga,au-vic,hobsons bay,,3249
+2022-02-02,lga,au-vic,hume,,16163
+2022-02-02,lga,au-vic,interstate,,139
+2022-02-02,lga,au-vic,kingston,,3740
+2022-02-02,lga,au-vic,knox,,2674
+2022-02-02,lga,au-vic,latrobe,,1867
+2022-02-02,lga,au-vic,macedon ranges,,879
+2022-02-02,lga,au-vic,manningham,,2979
+2022-02-02,lga,au-vic,maribyrnong,,3465
+2022-02-02,lga,au-vic,maroondah,,2060
+2022-02-02,lga,au-vic,melbourne,,6216
+2022-02-02,lga,au-vic,melton,,10143
+2022-02-02,lga,au-vic,mildura,,1141
+2022-02-02,lga,au-vic,mitchell,,1091
+2022-02-02,lga,au-vic,moira,,485
+2022-02-02,lga,au-vic,monash,,4230
+2022-02-02,lga,au-vic,moonee valley,,4615
+2022-02-02,lga,au-vic,moorabool,,941
+2022-02-02,lga,au-vic,moreland,,7815
+2022-02-02,lga,au-vic,mornington peninsula,,3325
+2022-02-02,lga,au-vic,mount alexander,,218
+2022-02-02,lga,au-vic,moyne,,225
+2022-02-02,lga,au-vic,murrindindi,,147
+2022-02-02,lga,au-vic,nillumbik,,1320
+2022-02-02,lga,au-vic,northern grampians,,192
+2022-02-02,lga,au-vic,port phillip,,3033
+2022-02-02,lga,au-vic,pyrenees,,99
+2022-02-02,lga,au-vic,south gippsland,,321
+2022-02-02,lga,au-vic,southern grampians,,274
+2022-02-02,lga,au-vic,stonnington,,2543
+2022-02-02,lga,au-vic,strathbogie,,97
+2022-02-02,lga,au-vic,surf coast,,612
+2022-02-02,lga,au-vic,swan hill,,306
+2022-02-02,lga,au-vic,unknown,,818
+2022-02-02,lga,au-vic,wangaratta,,429
+2022-02-02,lga,au-vic,warrnambool,,663
+2022-02-02,lga,au-vic,wellington,,508
+2022-02-02,lga,au-vic,whitehorse,,2637
+2022-02-02,lga,au-vic,whittlesea,,10881
+2022-02-02,lga,au-vic,wodonga,,867
+2022-02-02,lga,au-vic,wyndham,,14441
+2022-02-02,lga,au-vic,yarra,,3009
+2022-02-02,lga,au-vic,yarra ranges,,2800
