@@ -1,10 +1,7 @@
 | source_id | source_url | source_desc |
 | --- | --- | --- |
-| af_humdata | https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit |  |
 | au_covid_19_data | https://github.com/pappubahry/AU_COVID19 |  |
 | au_covid_19_data_com_au | https://github.com/M3IT/COVID-19_Data |  |
-| au_nsw_open_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
-| au_nsw_website_data | https://data.nsw.gov.au/nsw-covid-19-data |  |
 | au_qld_press_releases | https://www.qld.gov.au/health/conditions/health-alerts/coronavirus-covid-19 |  |
 | au_sa_dash | https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/infectious+diseases/covid+2019/covid-19+dashboard |  |
 | au_sa_dashmap | https://www.covid-19.sa.gov.au/home/dashboard |  |
@@ -15,17 +12,13 @@
 | au_vic_tableau_native | https://www.dhhs.vic.gov.au/coronavirus |  |
 | au_vic_the_age_google_doc | https://docs.google.com/spreadsheets/d/1oxJt0BBPzk-w2Gn1ImO4zASBCdqeeLJRwHEA4DASBFQ/edit#gid=0 |  |
 | au_wa_dashboard | https://experience.arcgis.com/experience/359bca83a1264e3fb8d3b6f0a028d768 |  |
-| be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
 | bw_gov | https://covid19portal.gov.bw/ |  |
 | ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
 | ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
 | cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
-| cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
-| de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
-| es_iscii | https://cnecovid.isciii.es/covid19/ |  |
 | et_ocha_humdata | https://data.humdata.org/dataset/ethiopia-coronavirus-covid-19-subnational-cases |  |
 | eu_subnational | https://data.humdata.org/dataset/europe-covid-19-subnational-cases |  |
 | fr_opencovid_fr | https://github.com/opencovid19-fr/data |  |
@@ -53,7 +46,6 @@
 | ng_ncdc | https://covid19.ncdc.gov.ng/ |  |
 | ps_gov | https://www.corona.ps/details |  |
 | pt_dash | https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/ |  |
-| rs_gov | https://covid19.data.gov.rs |  |
 | sd_gov | https://covid19.sd/ |  |
 | sn_ocha_rowca_humdata | https://data.humdata.org/dataset/positive-cases-of-covid-19-in-senegal |  |
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
@@ -66,8 +58,6 @@
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
 | world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
-| world_jhu | https://github.com/CSSEGISandData/COVID-19 |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
-| world_umd_covidmap | https://covidmap.umd.edu |  |
 | world_who |  |  |
 | za_gov | https://sacoronavirus.co.za/ |  |
