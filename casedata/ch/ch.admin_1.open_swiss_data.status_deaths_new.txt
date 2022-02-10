@@ -5811,7 +5811,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-16,admin_1,ch,ch-bs,,7
 2020-12-16,admin_1,ch,ch-fr,,3
 2020-12-16,admin_1,ch,ch-gl,,0
-2020-12-16,admin_1,ch,ch-ju,,-24
+2020-12-16,admin_1,ch,ch-ju,,0
 2020-12-16,admin_1,ch,ch-lu,,5
 2020-12-16,admin_1,ch,ch-ne,,3
 2020-12-16,admin_1,ch,ch-nw,,0
@@ -5835,7 +5835,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-17,admin_1,ch,ch-bs,,2
 2020-12-17,admin_1,ch,ch-fr,,3
 2020-12-17,admin_1,ch,ch-gl,,2
-2020-12-17,admin_1,ch,ch-ju,,0
+2020-12-17,admin_1,ch,ch-ju,,-24
 2020-12-17,admin_1,ch,ch-lu,,3
 2020-12-17,admin_1,ch,ch-ne,,6
 2020-12-17,admin_1,ch,ch-nw,,1
@@ -12498,7 +12498,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-12-11,admin_1,ch,ch-bl,,0
 2021-12-11,admin_1,ch,ch-bs,,2
 2021-12-11,admin_1,ch,ch-fr,,2
-2021-12-11,admin_1,ch,ch-ju,,-149
+2021-12-11,admin_1,ch,ch-ju,,2
 2021-12-11,admin_1,ch,ch-lu,,2
 2021-12-11,admin_1,ch,ch-ne,,0
 2021-12-11,admin_1,ch,ch-nw,,0
@@ -13318,7 +13318,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-25,admin_1,ch,ch-fr,,1
 2022-01-25,admin_1,ch,ch-gl,,0
 2022-01-25,admin_1,ch,ch-ju,,1
-2022-01-25,admin_1,ch,ch-ne,,2
+2022-01-25,admin_1,ch,ch-ne,,3
 2022-01-25,admin_1,ch,ch-nw,,0
 2022-01-25,admin_1,ch,ch-ow,,0
 2022-01-25,admin_1,ch,ch-sg,,0
@@ -13417,7 +13417,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-01-30,admin_1,ch,ch-bs,,0
 2022-01-30,admin_1,ch,ch-fr,,0
 2022-01-30,admin_1,ch,ch-ju,,0
-2022-01-30,admin_1,ch,ch-ne,,1
+2022-01-30,admin_1,ch,ch-ne,,2
 2022-01-30,admin_1,ch,ch-nw,,0
 2022-01-30,admin_1,ch,ch-sh,,0
 2022-01-30,admin_1,ch,ch-sz,,0
@@ -13471,7 +13471,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-02,admin_1,ch,ch-fr,,0
 2022-02-02,admin_1,ch,ch-gl,,0
 2022-02-02,admin_1,ch,ch-ju,,0
-2022-02-02,admin_1,ch,ch-ne,,0
+2022-02-02,admin_1,ch,ch-ne,,1
 2022-02-02,admin_1,ch,ch-nw,,1
 2022-02-02,admin_1,ch,ch-ow,,0
 2022-02-02,admin_1,ch,ch-sg,,0
@@ -13513,7 +13513,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-04,admin_1,ch,ch-fr,,0
 2022-02-04,admin_1,ch,ch-gl,,0
 2022-02-04,admin_1,ch,ch-ju,,1
-2022-02-04,admin_1,ch,ch-ne,,0
+2022-02-04,admin_1,ch,ch-ne,,1
 2022-02-04,admin_1,ch,ch-nw,,0
 2022-02-04,admin_1,ch,ch-ow,,1
 2022-02-04,admin_1,ch,ch-sh,,0
@@ -13546,7 +13546,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-06,admin_1,ch,ch-bs,,0
 2022-02-06,admin_1,ch,ch-fr,,0
 2022-02-06,admin_1,ch,ch-ju,,0
-2022-02-06,admin_1,ch,ch-ne,,0
+2022-02-06,admin_1,ch,ch-ne,,1
 2022-02-06,admin_1,ch,ch-nw,,0
 2022-02-06,admin_1,ch,ch-sh,,0
 2022-02-06,admin_1,ch,ch-sz,,0
@@ -13560,7 +13560,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-07,admin_1,ch,ch-bl,,1
 2022-02-07,admin_1,ch,ch-bs,,0
 2022-02-07,admin_1,ch,ch-ju,,0
-2022-02-07,admin_1,ch,ch-ne,,0
+2022-02-07,admin_1,ch,ch-ne,,1
 2022-02-07,admin_1,ch,ch-nw,,0
 2022-02-07,admin_1,ch,ch-sg,,3
 2022-02-07,admin_1,ch,ch-sh,,0
@@ -13593,8 +13593,12 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-09,admin_1,ch,ch-be,,0
 2022-02-09,admin_1,ch,ch-bs,,0
 2022-02-09,admin_1,ch,ch-gl,,0
+2022-02-09,admin_1,ch,ch-ju,,1
+2022-02-09,admin_1,ch,ch-ne,,0
 2022-02-09,admin_1,ch,ch-nw,,0
 2022-02-09,admin_1,ch,ch-ow,,0
+2022-02-09,admin_1,ch,ch-sg,,0
+2022-02-09,admin_1,ch,ch-sh,,0
 2022-02-09,admin_1,ch,ch-so,,1
 2022-02-09,admin_1,ch,ch-sz,,0
 2022-02-09,admin_1,ch,ch-tg,,0
@@ -13602,4 +13606,5 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-09,admin_1,ch,ch-ur,,2
 2022-02-09,admin_1,ch,ch-zg,,0
 2022-02-09,admin_1,ch,ch-zh,,0
+2022-02-10,admin_1,ch,ch-sz,,0
 2022-02-10,admin_1,ch,ch-ur,,0
