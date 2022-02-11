@@ -394,10 +394,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-22,uk_area,gb,york,,0
 2020-02-23,uk_area,gb,barnet,,0
 2020-02-23,uk_area,gb,birmingham,,0
-2020-02-23,uk_area,gb,brighton and hove,,1
+2020-02-23,uk_area,gb,brighton and hove,,0
 2020-02-23,uk_area,gb,bromley,,0
 2020-02-23,uk_area,gb,cherwell,,0
-2020-02-23,uk_area,gb,chiltern,,0
+2020-02-23,uk_area,gb,chiltern,,1
 2020-02-23,uk_area,gb,croydon,,0
 2020-02-23,uk_area,gb,gb-abc,,0
 2020-02-23,uk_area,gb,gb-and,,0
@@ -504,7 +504,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-26,uk_area,gb,waverley,,0
 2020-02-26,uk_area,gb,westminster,,1
 2020-02-26,uk_area,gb,york,,0
-2020-02-27,uk_area,gb,barnet,,0
+2020-02-27,uk_area,gb,barnet,,1
 2020-02-27,uk_area,gb,birmingham,,0
 2020-02-27,uk_area,gb,blaenau gwent,,0
 2020-02-27,uk_area,gb,bradford,,1
@@ -618,9 +618,9 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-28,uk_area,gb,hounslow,,1
 2020-02-28,uk_area,gb,inverclyde,,0
 2020-02-28,uk_area,gb,isle of anglesey,,0
-2020-02-28,uk_area,gb,kensington and chelsea,,1
+2020-02-28,uk_area,gb,kensington and chelsea,,0
 2020-02-28,uk_area,gb,lambeth,,0
-2020-02-28,uk_area,gb,leeds,,1
+2020-02-28,uk_area,gb,leeds,,2
 2020-02-28,uk_area,gb,lewisham,,0
 2020-02-28,uk_area,gb,liverpool,,0
 2020-02-28,uk_area,gb,merthyr tydfil,,0
@@ -643,7 +643,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-28,uk_area,gb,shetland islands,,0
 2020-02-28,uk_area,gb,south ayrshire,,0
 2020-02-28,uk_area,gb,south lanarkshire,,0
-2020-02-28,uk_area,gb,southwark,,0
+2020-02-28,uk_area,gb,southwark,,1
 2020-02-28,uk_area,gb,st albans,,0
 2020-02-28,uk_area,gb,stevenage,,1
 2020-02-28,uk_area,gb,stirling,,0
@@ -772,7 +772,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-01,uk_area,gb,bridgend,,0
 2020-03-01,uk_area,gb,brighton and hove,,0
 2020-03-01,uk_area,gb,bromley,,1
-2020-03-01,uk_area,gb,bury,,1
+2020-03-01,uk_area,gb,bury,,2
 2020-03-01,uk_area,gb,caerphilly,,0
 2020-03-01,uk_area,gb,cardiff,,0
 2020-03-01,uk_area,gb,carmarthenshire,,0
@@ -975,7 +975,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-02,uk_area,gb,south lanarkshire,,0
 2020-03-02,uk_area,gb,south ribble,,0
 2020-03-02,uk_area,gb,southwark,,1
-2020-03-02,uk_area,gb,st albans,,0
+2020-03-02,uk_area,gb,st albans,,1
 2020-03-02,uk_area,gb,stevenage,,0
 2020-03-02,uk_area,gb,stirling,,0
 2020-03-02,uk_area,gb,stockport,,0
@@ -1056,7 +1056,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-03,uk_area,gb,gb-abc,,0
 2020-03-03,uk_area,gb,gb-and,,0
 2020-03-03,uk_area,gb,gb-ann,,0
-2020-03-03,uk_area,gb,gb-bfs,,0
+2020-03-03,uk_area,gb,gb-bfs,,1
 2020-03-03,uk_area,gb,gb-ccg,,0
 2020-03-03,uk_area,gb,gb-drs,,0
 2020-03-03,uk_area,gb,gb-fmo,,0
@@ -1113,7 +1113,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-03,uk_area,gb,rotherham,,0
 2020-03-03,uk_area,gb,rugby,,0
 2020-03-03,uk_area,gb,scottish borders,,0
-2020-03-03,uk_area,gb,sheffield,,2
+2020-03-03,uk_area,gb,sheffield,,1
 2020-03-03,uk_area,gb,shetland islands,,0
 2020-03-03,uk_area,gb,south ayrshire,,0
 2020-03-03,uk_area,gb,south cambridgeshire,,1
@@ -1233,7 +1233,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-04,uk_area,gb,high peak,,0
 2020-03-04,uk_area,gb,highland,,0
 2020-03-04,uk_area,gb,hillingdon,,1
-2020-03-04,uk_area,gb,hounslow,,0
+2020-03-04,uk_area,gb,hounslow,,1
 2020-03-04,uk_area,gb,inverclyde,,0
 2020-03-04,uk_area,gb,isle of anglesey,,0
 2020-03-04,uk_area,gb,isle of wight,,1
@@ -1304,11 +1304,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-04,uk_area,gb,test valley,,0
 2020-03-04,uk_area,gb,torbay,,0
 2020-03-04,uk_area,gb,torfaen,,0
-2020-03-04,uk_area,gb,tower hamlets,,1
+2020-03-04,uk_area,gb,tower hamlets,,2
 2020-03-04,uk_area,gb,trafford,,1
 2020-03-04,uk_area,gb,vale of glamorgan,,0
 2020-03-04,uk_area,gb,walsall,,0
-2020-03-04,uk_area,gb,wandsworth,,1
+2020-03-04,uk_area,gb,wandsworth,,0
 2020-03-04,uk_area,gb,waverley,,0
 2020-03-04,uk_area,gb,west devon,,0
 2020-03-04,uk_area,gb,west dunbartonshire,,0
@@ -1359,7 +1359,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,cherwell,,0
 2020-03-05,uk_area,gb,cheshire west and chester,,0
 2020-03-05,uk_area,gb,chesterfield,,0
-2020-03-05,uk_area,gb,chichester,,0
+2020-03-05,uk_area,gb,chichester,,1
 2020-03-05,uk_area,gb,chiltern,,0
 2020-03-05,uk_area,gb,chorley,,2
 2020-03-05,uk_area,gb,clackmannanshire,,0
@@ -1378,7 +1378,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,east hertfordshire,,0
 2020-03-05,uk_area,gb,east lothian,,0
 2020-03-05,uk_area,gb,east renfrewshire,,0
-2020-03-05,uk_area,gb,edinburgh,,0
+2020-03-05,uk_area,gb,edinburgh,,1
 2020-03-05,uk_area,gb,epping forest,,0
 2020-03-05,uk_area,gb,exeter,,0
 2020-03-05,uk_area,gb,falkirk,,0
@@ -1397,7 +1397,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,gb-mul,,0
 2020-03-05,uk_area,gb,gb-nmd,,0
 2020-03-05,uk_area,gb,gedling,,0
-2020-03-05,uk_area,gb,glasgow,,0
+2020-03-05,uk_area,gb,glasgow,,1
 2020-03-05,uk_area,gb,guildford,,0
 2020-03-05,uk_area,gb,gwynedd,,0
 2020-03-05,uk_area,gb,hambleton,,0
@@ -1441,7 +1441,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,northampton,,1
 2020-03-05,uk_area,gb,nottingham,,1
 2020-03-05,uk_area,gb,nuneaton and bedworth,,2
-2020-03-05,uk_area,gb,oldham,,1
+2020-03-05,uk_area,gb,oldham,,0
 2020-03-05,uk_area,gb,orkney islands,,0
 2020-03-05,uk_area,gb,oxford,,0
 2020-03-05,uk_area,gb,pembrokeshire,,0
@@ -1455,7 +1455,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,rugby,,0
 2020-03-05,uk_area,gb,rushmoor,,1
 2020-03-05,uk_area,gb,scottish borders,,0
-2020-03-05,uk_area,gb,sheffield,,2
+2020-03-05,uk_area,gb,sheffield,,1
 2020-03-05,uk_area,gb,shetland islands,,0
 2020-03-05,uk_area,gb,south ayrshire,,0
 2020-03-05,uk_area,gb,south cambridgeshire,,0
@@ -1468,7 +1468,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,south oxfordshire,,0
 2020-03-05,uk_area,gb,south ribble,,0
 2020-03-05,uk_area,gb,southampton,,0
-2020-03-05,uk_area,gb,southend-on-sea,,0
+2020-03-05,uk_area,gb,southend-on-sea,,1
 2020-03-05,uk_area,gb,southwark,,1
 2020-03-05,uk_area,gb,st albans,,0
 2020-03-05,uk_area,gb,stevenage,,0
@@ -1494,7 +1494,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-05,uk_area,gb,west dunbartonshire,,0
 2020-03-05,uk_area,gb,west lothian,,0
 2020-03-05,uk_area,gb,west oxfordshire,,0
-2020-03-05,uk_area,gb,westminster,,0
+2020-03-05,uk_area,gb,westminster,,1
 2020-03-05,uk_area,gb,wigan,,1
 2020-03-05,uk_area,gb,wiltshire,,0
 2020-03-05,uk_area,gb,wirral,,0
@@ -1577,7 +1577,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-06,uk_area,gb,gb-abc,,2
 2020-03-06,uk_area,gb,gb-and,,0
 2020-03-06,uk_area,gb,gb-ann,,0
-2020-03-06,uk_area,gb,gb-bfs,,0
+2020-03-06,uk_area,gb,gb-bfs,,2
 2020-03-06,uk_area,gb,gb-ccg,,0
 2020-03-06,uk_area,gb,gb-drs,,0
 2020-03-06,uk_area,gb,gb-fmo,,0
@@ -1593,7 +1593,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-06,uk_area,gb,hammersmith and fulham,,2
 2020-03-06,uk_area,gb,harborough,,1
 2020-03-06,uk_area,gb,harrow,,0
-2020-03-06,uk_area,gb,havering,,2
+2020-03-06,uk_area,gb,havering,,1
 2020-03-06,uk_area,gb,"herefordshire, county of",,1
 2020-03-06,uk_area,gb,hertsmere,,0
 2020-03-06,uk_area,gb,high peak,,0
@@ -1657,7 +1657,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-06,uk_area,gb,south ayrshire,,0
 2020-03-06,uk_area,gb,south bucks,,1
 2020-03-06,uk_area,gb,south cambridgeshire,,0
-2020-03-06,uk_area,gb,south derbyshire,,1
+2020-03-06,uk_area,gb,south derbyshire,,0
 2020-03-06,uk_area,gb,south hams,,2
 2020-03-06,uk_area,gb,south holland,,0
 2020-03-06,uk_area,gb,south kesteven,,0
@@ -1667,7 +1667,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-06,uk_area,gb,south ribble,,0
 2020-03-06,uk_area,gb,southampton,,0
 2020-03-06,uk_area,gb,southend-on-sea,,0
-2020-03-06,uk_area,gb,southwark,,3
+2020-03-06,uk_area,gb,southwark,,2
 2020-03-06,uk_area,gb,st albans,,0
 2020-03-06,uk_area,gb,stevenage,,0
 2020-03-06,uk_area,gb,stirling,,0
@@ -1767,7 +1767,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,dundee,,0
 2020-03-07,uk_area,gb,ealing,,1
 2020-03-07,uk_area,gb,east ayrshire,,1
-2020-03-07,uk_area,gb,east devon,,0
+2020-03-07,uk_area,gb,east devon,,1
 2020-03-07,uk_area,gb,east dunbartonshire,,0
 2020-03-07,uk_area,gb,east hampshire,,0
 2020-03-07,uk_area,gb,east hertfordshire,,0
@@ -1818,11 +1818,11 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,kingston upon thames,,0
 2020-03-07,uk_area,gb,lambeth,,2
 2020-03-07,uk_area,gb,leeds,,2
-2020-03-07,uk_area,gb,lewisham,,1
+2020-03-07,uk_area,gb,lewisham,,2
 2020-03-07,uk_area,gb,lichfield,,0
-2020-03-07,uk_area,gb,liverpool,,1
+2020-03-07,uk_area,gb,liverpool,,2
 2020-03-07,uk_area,gb,luton,,0
-2020-03-07,uk_area,gb,manchester,,0
+2020-03-07,uk_area,gb,manchester,,1
 2020-03-07,uk_area,gb,medway,,0
 2020-03-07,uk_area,gb,mendip,,0
 2020-03-07,uk_area,gb,merthyr tydfil,,0
@@ -1835,7 +1835,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,moray,,0
 2020-03-07,uk_area,gb,neath port talbot,,1
 2020-03-07,uk_area,gb,newark and sherwood,,1
-2020-03-07,uk_area,gb,newcastle upon tyne,,0
+2020-03-07,uk_area,gb,newcastle upon tyne,,1
 2020-03-07,uk_area,gb,newcastle-under-lyme,,0
 2020-03-07,uk_area,gb,newport,,0
 2020-03-07,uk_area,gb,north ayrshire,,0
@@ -1848,7 +1848,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,nottingham,,1
 2020-03-07,uk_area,gb,nuneaton and bedworth,,0
 2020-03-07,uk_area,gb,oadby and wigston,,1
-2020-03-07,uk_area,gb,oldham,,1
+2020-03-07,uk_area,gb,oldham,,2
 2020-03-07,uk_area,gb,orkney islands,,0
 2020-03-07,uk_area,gb,oxford,,0
 2020-03-07,uk_area,gb,pembrokeshire,,0
@@ -1875,7 +1875,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,south hams,,0
 2020-03-07,uk_area,gb,south holland,,0
 2020-03-07,uk_area,gb,south kesteven,,0
-2020-03-07,uk_area,gb,south lakeland,,1
+2020-03-07,uk_area,gb,south lakeland,,2
 2020-03-07,uk_area,gb,south lanarkshire,,0
 2020-03-07,uk_area,gb,south oxfordshire,,1
 2020-03-07,uk_area,gb,south ribble,,0
@@ -1898,7 +1898,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,uk_area,gb,test valley,,0
 2020-03-07,uk_area,gb,thanet,,0
 2020-03-07,uk_area,gb,tonbridge and malling,,1
-2020-03-07,uk_area,gb,torbay,,2
+2020-03-07,uk_area,gb,torbay,,1
 2020-03-07,uk_area,gb,torfaen,,0
 2020-03-07,uk_area,gb,tower hamlets,,1
 2020-03-07,uk_area,gb,trafford,,0
@@ -2002,7 +2002,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-08,uk_area,gb,fenland,,0
 2020-03-08,uk_area,gb,fife,,0
 2020-03-08,uk_area,gb,flintshire,,0
-2020-03-08,uk_area,gb,gb-abc,,3
+2020-03-08,uk_area,gb,gb-abc,,1
 2020-03-08,uk_area,gb,gb-and,,0
 2020-03-08,uk_area,gb,gb-ann,,0
 2020-03-08,uk_area,gb,gb-bfs,,0
@@ -2151,7 +2151,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-08,uk_area,gb,wokingham,,0
 2020-03-08,uk_area,gb,wolverhampton,,1
 2020-03-08,uk_area,gb,wrexham,,0
-2020-03-08,uk_area,gb,wycombe,,0
+2020-03-08,uk_area,gb,wycombe,,1
 2020-03-08,uk_area,gb,york,,0
 2020-03-09,uk_area,gb,aberdeen,,0
 2020-03-09,uk_area,gb,aberdeenshire,,0
@@ -2182,7 +2182,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-09,uk_area,gb,bury,,0
 2020-03-09,uk_area,gb,caerphilly,,0
 2020-03-09,uk_area,gb,cambridge,,0
-2020-03-09,uk_area,gb,camden,,1
+2020-03-09,uk_area,gb,camden,,2
 2020-03-09,uk_area,gb,cannock chase,,0
 2020-03-09,uk_area,gb,cardiff,,1
 2020-03-09,uk_area,gb,carlisle,,1
@@ -2226,7 +2226,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-09,uk_area,gb,east renfrewshire,,1
 2020-03-09,uk_area,gb,east staffordshire,,1
 2020-03-09,uk_area,gb,eastleigh,,1
-2020-03-09,uk_area,gb,edinburgh,,1
+2020-03-09,uk_area,gb,edinburgh,,2
 2020-03-09,uk_area,gb,elmbridge,,0
 2020-03-09,uk_area,gb,enfield,,1
 2020-03-09,uk_area,gb,epping forest,,0
@@ -2332,7 +2332,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-09,uk_area,gb,ryedale,,1
 2020-03-09,uk_area,gb,scottish borders,,1
 2020-03-09,uk_area,gb,sefton,,1
-2020-03-09,uk_area,gb,sheffield,,0
+2020-03-09,uk_area,gb,sheffield,,1
 2020-03-09,uk_area,gb,shetland islands,,4
 2020-03-09,uk_area,gb,shropshire,,1
 2020-03-09,uk_area,gb,slough,,1
@@ -2387,7 +2387,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-09,uk_area,gb,west devon,,0
 2020-03-09,uk_area,gb,west dunbartonshire,,0
 2020-03-09,uk_area,gb,west lothian,,1
-2020-03-09,uk_area,gb,west oxfordshire,,1
+2020-03-09,uk_area,gb,west oxfordshire,,2
 2020-03-09,uk_area,gb,westminster,,6
 2020-03-09,uk_area,gb,wigan,,0
 2020-03-09,uk_area,gb,wiltshire,,0
@@ -2499,7 +2499,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,flintshire,,1
 2020-03-10,uk_area,gb,gb-abc,,0
 2020-03-10,uk_area,gb,gb-and,,0
-2020-03-10,uk_area,gb,gb-ann,,0
+2020-03-10,uk_area,gb,gb-ann,,1
 2020-03-10,uk_area,gb,gb-bfs,,0
 2020-03-10,uk_area,gb,gb-ccg,,0
 2020-03-10,uk_area,gb,gb-drs,,0
@@ -2524,7 +2524,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,hertsmere,,0
 2020-03-10,uk_area,gb,high peak,,1
 2020-03-10,uk_area,gb,highland,,1
-2020-03-10,uk_area,gb,hillingdon,,4
+2020-03-10,uk_area,gb,hillingdon,,2
 2020-03-10,uk_area,gb,horsham,,0
 2020-03-10,uk_area,gb,hounslow,,2
 2020-03-10,uk_area,gb,inverclyde,,0
@@ -2563,7 +2563,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,newham,,1
 2020-03-10,uk_area,gb,newport,,0
 2020-03-10,uk_area,gb,north ayrshire,,1
-2020-03-10,uk_area,gb,north east derbyshire,,0
+2020-03-10,uk_area,gb,north east derbyshire,,1
 2020-03-10,uk_area,gb,north kesteven,,1
 2020-03-10,uk_area,gb,north lanarkshire,,1
 2020-03-10,uk_area,gb,north lincolnshire,,0
@@ -2589,7 +2589,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,reigate and banstead,,1
 2020-03-10,uk_area,gb,renfrewshire,,1
 2020-03-10,uk_area,gb,rhondda cynon taf,,0
-2020-03-10,uk_area,gb,richmond upon thames,,1
+2020-03-10,uk_area,gb,richmond upon thames,,0
 2020-03-10,uk_area,gb,richmondshire,,1
 2020-03-10,uk_area,gb,rochdale,,1
 2020-03-10,uk_area,gb,rotherham,,1
@@ -2602,7 +2602,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,sedgemoor,,1
 2020-03-10,uk_area,gb,sefton,,0
 2020-03-10,uk_area,gb,sevenoaks,,1
-2020-03-10,uk_area,gb,sheffield,,6
+2020-03-10,uk_area,gb,sheffield,,7
 2020-03-10,uk_area,gb,shetland islands,,5
 2020-03-10,uk_area,gb,shropshire,,1
 2020-03-10,uk_area,gb,slough,,0
@@ -2610,7 +2610,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-10,uk_area,gb,south bucks,,1
 2020-03-10,uk_area,gb,south cambridgeshire,,2
 2020-03-10,uk_area,gb,south derbyshire,,0
-2020-03-10,uk_area,gb,south gloucestershire,,0
+2020-03-10,uk_area,gb,south gloucestershire,,1
 2020-03-10,uk_area,gb,south hams,,0
 2020-03-10,uk_area,gb,south holland,,0
 2020-03-10,uk_area,gb,south kesteven,,2
@@ -2830,9 +2830,9 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,uk_area,gb,liverpool,,0
 2020-03-11,uk_area,gb,luton,,0
 2020-03-11,uk_area,gb,maidstone,,1
-2020-03-11,uk_area,gb,manchester,,0
+2020-03-11,uk_area,gb,manchester,,1
 2020-03-11,uk_area,gb,mansfield,,1
-2020-03-11,uk_area,gb,medway,,3
+2020-03-11,uk_area,gb,medway,,4
 2020-03-11,uk_area,gb,mendip,,0
 2020-03-11,uk_area,gb,merthyr tydfil,,0
 2020-03-11,uk_area,gb,merton,,7
@@ -2936,19 +2936,19 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,uk_area,gb,test valley,,1
 2020-03-11,uk_area,gb,tewkesbury,,0
 2020-03-11,uk_area,gb,thanet,,0
-2020-03-11,uk_area,gb,three rivers,,0
+2020-03-11,uk_area,gb,three rivers,,1
 2020-03-11,uk_area,gb,thurrock,,1
 2020-03-11,uk_area,gb,tonbridge and malling,,1
 2020-03-11,uk_area,gb,torbay,,0
 2020-03-11,uk_area,gb,torfaen,,0
 2020-03-11,uk_area,gb,torridge,,0
 2020-03-11,uk_area,gb,tower hamlets,,1
-2020-03-11,uk_area,gb,trafford,,0
+2020-03-11,uk_area,gb,trafford,,1
 2020-03-11,uk_area,gb,vale of glamorgan,,0
 2020-03-11,uk_area,gb,vale of white horse,,1
 2020-03-11,uk_area,gb,wakefield,,1
-2020-03-11,uk_area,gb,walsall,,4
-2020-03-11,uk_area,gb,waltham forest,,1
+2020-03-11,uk_area,gb,walsall,,5
+2020-03-11,uk_area,gb,waltham forest,,2
 2020-03-11,uk_area,gb,wandsworth,,10
 2020-03-11,uk_area,gb,warrington,,0
 2020-03-11,uk_area,gb,watford,,0
@@ -2976,7 +2976,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-11,uk_area,gb,wyre forest,,1
 2020-03-11,uk_area,gb,york,,0
 2020-03-12,uk_area,gb,aberdeen,,3
-2020-03-12,uk_area,gb,aberdeenshire,,3
+2020-03-12,uk_area,gb,aberdeenshire,,2
 2020-03-12,uk_area,gb,allerdale,,1
 2020-03-12,uk_area,gb,amber valley,,1
 2020-03-12,uk_area,gb,angus,,2
@@ -2990,7 +2990,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,bassetlaw,,0
 2020-03-12,uk_area,gb,bath and north east somerset,,2
 2020-03-12,uk_area,gb,bexley,,5
-2020-03-12,uk_area,gb,birmingham,,8
+2020-03-12,uk_area,gb,birmingham,,7
 2020-03-12,uk_area,gb,blaby,,0
 2020-03-12,uk_area,gb,blackpool,,1
 2020-03-12,uk_area,gb,blaenau gwent,,1
@@ -2999,7 +2999,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,boston,,0
 2020-03-12,uk_area,gb,bracknell forest,,0
 2020-03-12,uk_area,gb,bradford,,2
-2020-03-12,uk_area,gb,brent,,10
+2020-03-12,uk_area,gb,brent,,9
 2020-03-12,uk_area,gb,brentwood,,0
 2020-03-12,uk_area,gb,bridgend,,0
 2020-03-12,uk_area,gb,brighton and hove,,0
@@ -3042,7 +3042,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,croydon,,8
 2020-03-12,uk_area,gb,dacorum,,0
 2020-03-12,uk_area,gb,darlington,,1
-2020-03-12,uk_area,gb,dartford,,0
+2020-03-12,uk_area,gb,dartford,,1
 2020-03-12,uk_area,gb,daventry,,0
 2020-03-12,uk_area,gb,denbighshire,,0
 2020-03-12,uk_area,gb,derby,,0
@@ -3080,7 +3080,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,flintshire,,0
 2020-03-12,uk_area,gb,fylde,,0
 2020-03-12,uk_area,gb,gateshead,,1
-2020-03-12,uk_area,gb,gb-abc,,1
+2020-03-12,uk_area,gb,gb-abc,,0
 2020-03-12,uk_area,gb,gb-and,,0
 2020-03-12,uk_area,gb,gb-ann,,0
 2020-03-12,uk_area,gb,gb-bfs,,0
@@ -3089,7 +3089,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,gb-fmo,,0
 2020-03-12,uk_area,gb,gb-lbc,,0
 2020-03-12,uk_area,gb,gb-mea,,0
-2020-03-12,uk_area,gb,gb-mul,,1
+2020-03-12,uk_area,gb,gb-mul,,0
 2020-03-12,uk_area,gb,gb-nmd,,0
 2020-03-12,uk_area,gb,gedling,,0
 2020-03-12,uk_area,gb,glasgow,,5
@@ -3106,14 +3106,14 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,harrogate,,1
 2020-03-12,uk_area,gb,harrow,,7
 2020-03-12,uk_area,gb,hart,,1
-2020-03-12,uk_area,gb,havant,,0
+2020-03-12,uk_area,gb,havant,,1
 2020-03-12,uk_area,gb,havering,,1
 2020-03-12,uk_area,gb,"herefordshire, county of",,0
 2020-03-12,uk_area,gb,hertsmere,,0
 2020-03-12,uk_area,gb,high peak,,0
 2020-03-12,uk_area,gb,highland,,0
-2020-03-12,uk_area,gb,hillingdon,,5
-2020-03-12,uk_area,gb,hinckley and bosworth,,0
+2020-03-12,uk_area,gb,hillingdon,,4
+2020-03-12,uk_area,gb,hinckley and bosworth,,1
 2020-03-12,uk_area,gb,horsham,,1
 2020-03-12,uk_area,gb,hounslow,,1
 2020-03-12,uk_area,gb,hyndburn,,1
@@ -3129,9 +3129,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-12,uk_area,gb,kingston upon thames,,1
 2020-03-12,uk_area,gb,kirklees,,0
 2020-03-12,uk_area,gb,knowsley,,1
-2020-03-12,uk_area,gb,lambeth,,5
+2020-03-12,uk_area,gb,lambeth,,4
 2020-03-12,uk_area,gb,leeds,,1
 2020-03-12,uk_area,gb,leicester,,1
-2020-03-12,uk_area,gb,lewes,,1
-2020-03-12,uk_area,gb,lewisham,,9
-2020-03-12,uk_area,gb,lichfield,,0
