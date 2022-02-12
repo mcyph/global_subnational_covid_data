@@ -18,7 +18,10 @@
 | be_epistat | https://epistat.wiv-isp.be/covid/ |  |
 | br_kaggle | https://www.kaggle.com/unanimad/corona-virus-brazil | CC0: Public Domain |
 | bw_gov | https://covid19portal.gov.bw/ |  |
+| ca_covid_19_canada | https://github.com/ishaberry/Covid19Canada |  |
+| ch_open_swiss_data | https://github.com/openZH/covid_19 | Creative Commons Attribution 4.0 International |
 | cn_geodata | http://www.geodata.cn/sari2020/web/yiqingMap.html |  |
+| cu_covid19cubadata | https://github.com/covid19cubadata/covid19cubadata.github.io/tree/master/data |  |
 | cz_mzcr | https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19 |  |
 | de_rki_dash | https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4/page/page_1/ |  |
 | de_unofficial | https://github.com/jgehrcke/covid-19-germany-gae |  |
@@ -37,6 +40,7 @@
 | is_gov | https://www.covid.is/data |  |
 | it_protezionecivile_covid19 | https://github.com/pcm-dpc/COVID-19 |  |
 | jp_jag_japan | https://jag-japan.com/covid19map-readme/ |  |
+| jp_ministry_unofficial |  |  |
 | jp_tokyo_city | https://www.metro.tokyo.lg.jp |  |
 | kg_gov | https://covid.kg/ |  |
 | kr_kaggle_ds4c | https://www.kaggle.com/kimjihoo/coronavirusdataset |  |
@@ -55,7 +59,6 @@
 | so_ocha_somalia_humdata | https://data.humdata.org/dataset/somalia-coronavirus-covid-19-subnational-cases |  |
 | tr_dash | https://cbskampus.maps.arcgis.com/apps/opsdashboard/index.html#/233c6c3e8a7144eb8153ca1636ea3f86 |  |
 | tw_cdc | https://nidss.cdc.gov.tw/en/NIDSS_DiseaseMap.aspx?dc=1&dt=5&disease=19CoV |  |
-| us_nytimes | https://github.com/nytimes/covid-19-data |  |
 | ve_ocha_venezuela_humdata | https://data.humdata.org/dataset/corona-virus-covid-19-cases-and-deaths-in-venezuela |  |
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | world_bing | https://github.com/microsoft/Bing-COVID-19-Data |  |
