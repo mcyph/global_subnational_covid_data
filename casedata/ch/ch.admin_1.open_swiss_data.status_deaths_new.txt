@@ -5897,7 +5897,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-20,admin_1,ch,ch-bl,,4
 2020-12-20,admin_1,ch,ch-bs,,0
 2020-12-20,admin_1,ch,ch-fr,,1
-2020-12-20,admin_1,ch,ch-ju,,-18
+2020-12-20,admin_1,ch,ch-ju,,1
 2020-12-20,admin_1,ch,ch-lu,,7
 2020-12-20,admin_1,ch,ch-ne,,4
 2020-12-20,admin_1,ch,ch-nw,,0
@@ -5915,7 +5915,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-12-21,admin_1,ch,ch-bl,,1
 2020-12-21,admin_1,ch,ch-bs,,1
 2020-12-21,admin_1,ch,ch-fr,,1
-2020-12-21,admin_1,ch,ch-ju,,0
+2020-12-21,admin_1,ch,ch-ju,,-19
 2020-12-21,admin_1,ch,ch-lu,,4
 2020-12-21,admin_1,ch,ch-ne,,1
 2020-12-21,admin_1,ch,ch-nw,,0
@@ -9743,7 +9743,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-07-08,admin_1,ch,ch-bs,,0
 2021-07-08,admin_1,ch,ch-fr,,0
 2021-07-08,admin_1,ch,ch-gl,,0
-2021-07-08,admin_1,ch,ch-ju,,1
+2021-07-08,admin_1,ch,ch-ju,,0
 2021-07-08,admin_1,ch,ch-ne,,0
 2021-07-08,admin_1,ch,ch-nw,,0
 2021-07-08,admin_1,ch,ch-ow,,0
@@ -9763,7 +9763,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-07-09,admin_1,ch,ch-bs,,0
 2021-07-09,admin_1,ch,ch-fr,,0
 2021-07-09,admin_1,ch,ch-gl,,0
-2021-07-09,admin_1,ch,ch-ju,,0
+2021-07-09,admin_1,ch,ch-ju,,1
 2021-07-09,admin_1,ch,ch-ne,,0
 2021-07-09,admin_1,ch,ch-nw,,0
 2021-07-09,admin_1,ch,ch-ow,,0
@@ -13633,6 +13633,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-11,admin_1,ch,ch-be,,0
 2022-02-11,admin_1,ch,ch-bs,,1
 2022-02-11,admin_1,ch,ch-ju,,0
+2022-02-11,admin_1,ch,ch-ne,,0
 2022-02-11,admin_1,ch,ch-nw,,0
 2022-02-11,admin_1,ch,ch-ow,,0
 2022-02-11,admin_1,ch,ch-so,,2
@@ -13644,10 +13645,14 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-11,admin_1,ch,ch-zh,,1
 2022-02-12,admin_1,ch,ch-bs,,0
 2022-02-12,admin_1,ch,ch-ju,,0
+2022-02-12,admin_1,ch,ch-ne,,0
 2022-02-12,admin_1,ch,ch-nw,,0
 2022-02-12,admin_1,ch,ch-sz,,0
 2022-02-12,admin_1,ch,ch-ti,,1
 2022-02-13,admin_1,ch,ch-bs,,0
+2022-02-13,admin_1,ch,ch-ju,,0
+2022-02-13,admin_1,ch,ch-ne,,0
 2022-02-13,admin_1,ch,ch-nw,,0
 2022-02-13,admin_1,ch,ch-sz,,2
 2022-02-13,admin_1,ch,ch-ti,,2
+2022-02-14,admin_1,ch,ch-sz,,0
