@@ -3623,6 +3623,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2021-08-20,lga,au-vic,boroondara,,205
 2021-08-20,lga,au-vic,cardinia,,154
 2021-08-20,lga,au-vic,darebin,,539
+2021-08-20,lga,au-vic,greater dandenong,,434
 2021-08-20,lga,au-vic,greater shepparton,,39
 2021-08-20,lga,au-vic,hobsons bay,,490
 2021-08-20,lga,au-vic,hume,,1352
@@ -12365,6 +12366,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-08,lga,au-vic,stonnington,,2598
 2022-02-08,lga,au-vic,surf coast,,667
 2022-02-08,lga,au-vic,swan hill,,313
+2022-02-08,lga,au-vic,unknown,,878
 2022-02-08,lga,au-vic,wangaratta,,449
 2022-02-08,lga,au-vic,wellington,,540
 2022-02-08,lga,au-vic,whitehorse,,2758
@@ -12529,6 +12531,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-11,lga,au-vic,kingston,,3886
 2022-02-11,lga,au-vic,knox,,2871
 2022-02-11,lga,au-vic,latrobe,,1965
+2022-02-11,lga,au-vic,loddon,,51
 2022-02-11,lga,au-vic,manningham,,3188
 2022-02-11,lga,au-vic,maribyrnong,,3574
 2022-02-11,lga,au-vic,maroondah,,2242
@@ -12562,6 +12565,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-11,lga,au-vic,yarra ranges,,3041
 2022-02-11,lga,au-vic,yarriambiack,,55
 2022-02-12,lga,au-vic,alpine,,182
+2022-02-12,lga,au-vic,ararat,,227
 2022-02-12,lga,au-vic,ballarat,,2044
 2022-02-12,lga,au-vic,banyule,,3381
 2022-02-12,lga,au-vic,bass coast,,577
@@ -12581,8 +12585,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-12,lga,au-vic,glen eira,,4178
 2022-02-12,lga,au-vic,golden plains,,372
 2022-02-12,lga,au-vic,greater bendigo,,1692
+2022-02-12,lga,au-vic,greater dandenong,,6988
 2022-02-12,lga,au-vic,greater geelong,,5812
 2022-02-12,lga,au-vic,greater shepparton,,2153
+2022-02-12,lga,au-vic,hepburn,,163
 2022-02-12,lga,au-vic,hobsons bay,,3396
 2022-02-12,lga,au-vic,hume,,16709
 2022-02-12,lga,au-vic,interstate,,146
@@ -12609,6 +12615,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-12,lga,au-vic,southern grampians,,307
 2022-02-12,lga,au-vic,stonnington,,2614
 2022-02-12,lga,au-vic,surf coast,,689
+2022-02-12,lga,au-vic,unincorporated vic,,10
 2022-02-12,lga,au-vic,unknown,,878
 2022-02-12,lga,au-vic,warrnambool,,687
 2022-02-12,lga,au-vic,wellington,,570
@@ -12641,6 +12648,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-13,lga,au-vic,kingston,,3909
 2022-02-13,lga,au-vic,knox,,2913
 2022-02-13,lga,au-vic,latrobe,,1981
+2022-02-13,lga,au-vic,loddon,,52
 2022-02-13,lga,au-vic,manningham,,3223
 2022-02-13,lga,au-vic,mansfield,,118
 2022-02-13,lga,au-vic,maribyrnong,,3594
@@ -12667,3 +12675,52 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-13,lga,au-vic,wyndham,,15266
 2022-02-13,lga,au-vic,yarra,,3100
 2022-02-13,lga,au-vic,yarra ranges,,3097
+2022-02-13,lga,au-vic,yarriambiack,,56
+2022-02-14,lga,au-vic,alpine,,183
+2022-02-14,lga,au-vic,ballarat,,2095
+2022-02-14,lga,au-vic,bayside,,2959
+2022-02-14,lga,au-vic,benalla,,131
+2022-02-14,lga,au-vic,boroondara,,3348
+2022-02-14,lga,au-vic,brimbank,,12017
+2022-02-14,lga,au-vic,cardinia,,3370
+2022-02-14,lga,au-vic,casey,,14233
+2022-02-14,lga,au-vic,darebin,,5243
+2022-02-14,lga,au-vic,frankston,,3134
+2022-02-14,lga,au-vic,glen eira,,4218
+2022-02-14,lga,au-vic,golden plains,,379
+2022-02-14,lga,au-vic,greater bendigo,,1707
+2022-02-14,lga,au-vic,greater dandenong,,6998
+2022-02-14,lga,au-vic,greater geelong,,5874
+2022-02-14,lga,au-vic,greater shepparton,,2165
+2022-02-14,lga,au-vic,hepburn,,164
+2022-02-14,lga,au-vic,hobsons bay,,3414
+2022-02-14,lga,au-vic,horsham,,272
+2022-02-14,lga,au-vic,hume,,16779
+2022-02-14,lga,au-vic,indigo,,194
+2022-02-14,lga,au-vic,kingston,,3920
+2022-02-14,lga,au-vic,knox,,2926
+2022-02-14,lga,au-vic,macedon ranges,,917
+2022-02-14,lga,au-vic,manningham,,3239
+2022-02-14,lga,au-vic,maribyrnong,,3600
+2022-02-14,lga,au-vic,maroondah,,2294
+2022-02-14,lga,au-vic,melbourne,,6377
+2022-02-14,lga,au-vic,melton,,10682
+2022-02-14,lga,au-vic,mildura,,1254
+2022-02-14,lga,au-vic,mitchell,,1148
+2022-02-14,lga,au-vic,monash,,4424
+2022-02-14,lga,au-vic,moonee valley,,4801
+2022-02-14,lga,au-vic,moorabool,,1019
+2022-02-14,lga,au-vic,moreland,,8113
+2022-02-14,lga,au-vic,mornington peninsula,,3526
+2022-02-14,lga,au-vic,mount alexander,,240
+2022-02-14,lga,au-vic,nillumbik,,1459
+2022-02-14,lga,au-vic,northern grampians,,203
+2022-02-14,lga,au-vic,port phillip,,3152
+2022-02-14,lga,au-vic,stonnington,,2622
+2022-02-14,lga,au-vic,surf coast,,693
+2022-02-14,lga,au-vic,wangaratta,,475
+2022-02-14,lga,au-vic,whitehorse,,2901
+2022-02-14,lga,au-vic,whittlesea,,11634
+2022-02-14,lga,au-vic,wyndham,,15291
+2022-02-14,lga,au-vic,yarra ranges,,3120
+2022-02-14,lga,au-vic,yarriambiack,,58
