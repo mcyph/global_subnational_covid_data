@@ -1,7 +1,6 @@
 date,region_schema,region_parent,region_child,agerange,value
 2020-01-02,de_kreis,de-nw,lk märkischer kreis,,1
 2020-01-15,de_kreis,de-nw,sk essen,,1
-2020-01-20,de_kreis,de-bw,lk ortenaukreis,,1
 2020-01-23,de_kreis,de-sl,lk stadtverband saarbrücken,,1
 2020-01-28,de_kreis,de-by,lk landsberg a.lech,,1
 2020-01-28,de_kreis,de-by,lk starnberg,,1
@@ -16,6 +15,8 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-02-05,de_kreis,de-nw,lk rhein-kreis neuss,,1
 2020-02-10,de_kreis,de-by,lk dingolfing-landau,,1
 2020-02-11,de_kreis,de-by,lk forchheim,,1
+2020-02-12,de_kreis,de-be,sk berlin spandau,,1
+2020-02-15,de_kreis,de-nw,lk mettmann,,1
 2020-02-17,de_kreis,de-bb,lk prignitz,,1
 2020-02-18,de_kreis,de-bb,lk märkisch-oderland,,1
 2020-02-20,de_kreis,de-by,lk schwandorf,,1
@@ -96,6 +97,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-04,de_kreis,de-bw,lk bodenseekreis,,1
 2020-03-04,de_kreis,de-bw,lk emmendingen,,1
 2020-03-04,de_kreis,de-bw,lk main-tauber-kreis,,1
+2020-03-04,de_kreis,de-bw,lk ortenaukreis,,1
 2020-03-04,de_kreis,de-bw,lk sigmaringen,,1
 2020-03-04,de_kreis,de-bw,sk heidelberg,,2
 2020-03-04,de_kreis,de-bw,sk stuttgart,,1
@@ -109,7 +111,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-04,de_kreis,de-ni,sk oldenburg,,1
 2020-03-04,de_kreis,de-nw,lk coesfeld,,10
 2020-03-04,de_kreis,de-nw,lk lippe,,1
-2020-03-04,de_kreis,de-nw,lk mettmann,,1
 2020-03-04,de_kreis,de-nw,sk bochum,,1
 2020-03-04,de_kreis,de-nw,sk düsseldorf,,2
 2020-03-04,de_kreis,de-rp,lk bad dürkheim,,1
@@ -175,7 +176,6 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-07,de_kreis,de-th,sk erfurt,,1
 2020-03-08,de_kreis,de-bb,lk spree-neiße,,1
 2020-03-08,de_kreis,de-bb,lk teltow-fläming,,1
-2020-03-08,de_kreis,de-be,sk berlin spandau,,2
 2020-03-08,de_kreis,de-bw,lk reutlingen,,1
 2020-03-08,de_kreis,de-bw,lk tuttlingen,,1
 2020-03-08,de_kreis,de-by,lk pfaffenhofen a.d.ilm,,1
