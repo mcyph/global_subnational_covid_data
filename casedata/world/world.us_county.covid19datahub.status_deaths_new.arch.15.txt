@@ -5538,7 +5538,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-21,us_county,us-mo,169,,0
 2020-03-21,us_county,us-mo,183,,0
 2020-03-21,us_county,us-mo,201,,0
-2020-03-21,us_county,us-mo,510,,0
+2020-03-21,us_county,us-mo,510,,-1
 2020-03-21,us_county,us-ms,001,,0
 2020-03-21,us_county,us-ms,011,,0
 2020-03-21,us_county,us-ms,027,,0
@@ -6496,7 +6496,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-22,us_county,us-mo,169,,0
 2020-03-22,us_county,us-mo,183,,0
 2020-03-22,us_county,us-mo,201,,0
-2020-03-22,us_county,us-mo,510,,0
+2020-03-22,us_county,us-mo,510,,1
 2020-03-22,us_county,us-ms,001,,0
 2020-03-22,us_county,us-ms,007,,0
 2020-03-22,us_county,us-ms,011,,0
@@ -7458,7 +7458,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-23,us_county,us-ma,025,,1
 2020-03-23,us_county,us-ma,027,,1
 2020-03-23,us_county,us-md,003,,0
-2020-03-23,us_county,us-md,005,,0
+2020-03-23,us_county,us-md,005,,1
 2020-03-23,us_county,us-md,009,,0
 2020-03-23,us_county,us-md,011,,0
 2020-03-23,us_county,us-md,013,,0
@@ -8603,7 +8603,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-24,us_county,us-ma,025,,0
 2020-03-24,us_county,us-ma,027,,0
 2020-03-24,us_county,us-md,003,,0
-2020-03-24,us_county,us-md,005,,1
+2020-03-24,us_county,us-md,005,,-1
 2020-03-24,us_county,us-md,009,,0
 2020-03-24,us_county,us-md,011,,0
 2020-03-24,us_county,us-md,013,,0
@@ -9867,7 +9867,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-25,us_county,us-ma,025,,0
 2020-03-25,us_county,us-ma,027,,2
 2020-03-25,us_county,us-md,003,,0
-2020-03-25,us_county,us-md,005,,-1
+2020-03-25,us_county,us-md,005,,1
 2020-03-25,us_county,us-md,009,,0
 2020-03-25,us_county,us-md,011,,0
 2020-03-25,us_county,us-md,013,,0
@@ -11249,7 +11249,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-26,us_county,us-ma,025,,1
 2020-03-26,us_county,us-ma,027,,1
 2020-03-26,us_county,us-md,003,,0
-2020-03-26,us_county,us-md,005,,0
+2020-03-26,us_county,us-md,005,,-1
 2020-03-26,us_county,us-md,009,,0
 2020-03-26,us_county,us-md,011,,0
 2020-03-26,us_county,us-md,013,,0
@@ -12802,7 +12802,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-27,us_county,us-ma,025,,0
 2020-03-27,us_county,us-ma,027,,0
 2020-03-27,us_county,us-md,003,,1
-2020-03-27,us_county,us-md,005,,1
+2020-03-27,us_county,us-md,005,,0
 2020-03-27,us_county,us-md,009,,0
 2020-03-27,us_county,us-md,011,,0
 2020-03-27,us_county,us-md,013,,0
@@ -14484,7 +14484,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-28,us_county,us-ma,025,,1
 2020-03-28,us_county,us-ma,027,,2
 2020-03-28,us_county,us-md,003,,0
-2020-03-28,us_county,us-md,005,,1
+2020-03-28,us_county,us-md,005,,2
 2020-03-28,us_county,us-md,009,,0
 2020-03-28,us_county,us-md,011,,0
 2020-03-28,us_county,us-md,013,,0
@@ -16275,7 +16275,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-29,us_county,us-ma,025,,0
 2020-03-29,us_county,us-ma,027,,0
 2020-03-29,us_county,us-md,003,,0
-2020-03-29,us_county,us-md,005,,0
+2020-03-29,us_county,us-md,005,,-1
 2020-03-29,us_county,us-md,009,,0
 2020-03-29,us_county,us-md,011,,0
 2020-03-29,us_county,us-md,013,,1
@@ -16476,3 +16476,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-03-29,us_county,us-ms,043,,0
 2020-03-29,us_county,us-ms,045,,0
 2020-03-29,us_county,us-ms,047,,0
+2020-03-29,us_county,us-ms,049,,0
+2020-03-29,us_county,us-ms,051,,0
+2020-03-29,us_county,us-ms,053,,0
+2020-03-29,us_county,us-ms,057,,0
