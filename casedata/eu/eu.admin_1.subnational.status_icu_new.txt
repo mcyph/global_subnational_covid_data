@@ -8483,7 +8483,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-09,admin_1,at,at-7,,0
 2020-05-09,admin_1,at,at-8,,0
 2020-05-09,admin_1,at,at-9,,0
-2020-05-09,admin_1,at,unknown,,-11
+2020-05-09,admin_1,at,unknown,,0
 2020-05-09,admin_1,bg,bg-01,,0
 2020-05-09,admin_1,bg,bg-02,,0
 2020-05-09,admin_1,bg,bg-03,,0
@@ -8690,7 +8690,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-10,admin_1,at,at-7,,0
 2020-05-10,admin_1,at,at-8,,0
 2020-05-10,admin_1,at,at-9,,0
-2020-05-10,admin_1,at,unknown,,0
+2020-05-10,admin_1,at,unknown,,-11
 2020-05-10,admin_1,bg,bg-01,,0
 2020-05-10,admin_1,bg,bg-02,,0
 2020-05-10,admin_1,bg,bg-03,,0
@@ -10195,7 +10195,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-17,admin_1,at,at-7,,0
 2020-05-17,admin_1,at,at-8,,0
 2020-05-17,admin_1,at,at-9,,0
-2020-05-17,admin_1,at,unknown,,-11
+2020-05-17,admin_1,at,unknown,,0
 2020-05-17,admin_1,bg,bg-01,,0
 2020-05-17,admin_1,bg,bg-02,,0
 2020-05-17,admin_1,bg,bg-03,,0
@@ -10403,7 +10403,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-05-18,admin_1,at,at-7,,0
 2020-05-18,admin_1,at,at-8,,0
 2020-05-18,admin_1,at,at-9,,0
-2020-05-18,admin_1,at,unknown,,0
+2020-05-18,admin_1,at,unknown,,-11
 2020-05-18,admin_1,bg,bg-01,,0
 2020-05-18,admin_1,bg,bg-02,,0
 2020-05-18,admin_1,bg,bg-03,,0
@@ -15336,7 +15336,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-12,admin_1,at,at-7,,0
 2020-06-12,admin_1,at,at-8,,0
 2020-06-12,admin_1,at,at-9,,0
-2020-06-12,admin_1,at,unknown,,23
+2020-06-12,admin_1,at,unknown,,0
 2020-06-12,admin_1,bg,bg-01,,0
 2020-06-12,admin_1,bg,bg-02,,0
 2020-06-12,admin_1,bg,bg-03,,0
@@ -15463,7 +15463,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-06-13,admin_1,at,at-7,,0
 2020-06-13,admin_1,at,at-8,,0
 2020-06-13,admin_1,at,at-9,,0
-2020-06-13,admin_1,at,unknown,,0
+2020-06-13,admin_1,at,unknown,,23
 2020-06-13,admin_1,bg,bg-01,,0
 2020-06-13,admin_1,bg,bg-02,,0
 2020-06-13,admin_1,bg,bg-03,,0
@@ -17009,10 +17009,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-10-02,admin_1,hu,unknown,,-5
 2020-10-02,admin_1,no,unknown,,1
 2020-10-02,admin_1,sk,unknown,,2
-2020-10-03,admin_1,at,unknown,,0
+2020-10-03,admin_1,at,unknown,,-11
 2020-10-03,admin_1,hu,unknown,,26
 2020-10-03,admin_1,sk,unknown,,0
-2020-10-04,admin_1,at,unknown,,-11
+2020-10-04,admin_1,at,unknown,,0
 2020-10-04,admin_1,hu,unknown,,-31
 2020-10-04,admin_1,sk,unknown,,-2
 2020-10-05,admin_1,at,unknown,,0
@@ -22375,3 +22375,13 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-20,admin_1,at,at-7,,-1
 2022-02-20,admin_1,at,at-8,,0
 2022-02-20,admin_1,at,at-9,,0
+2022-02-21,admin_1,at,at-1,,0
+2022-02-21,admin_1,at,at-2,,5
+2022-02-21,admin_1,at,at-3,,3
+2022-02-21,admin_1,at,at-4,,-2
+2022-02-21,admin_1,at,at-5,,0
+2022-02-21,admin_1,at,at-6,,-1
+2022-02-21,admin_1,at,at-7,,0
+2022-02-21,admin_1,at,at-8,,0
+2022-02-21,admin_1,at,at-9,,-5
+2022-02-22,admin_1,no,unknown,,11
