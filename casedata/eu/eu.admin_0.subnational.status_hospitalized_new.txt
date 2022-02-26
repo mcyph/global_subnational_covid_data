@@ -783,10 +783,10 @@ date,region_schema,region_parent,region_child,agerange,value
 2020-08-21,admin_0,,cy,,1
 2020-08-21,admin_0,,ie,,1
 2020-08-21,admin_0,,me,,0
-2020-08-22,admin_0,,cy,,2
+2020-08-22,admin_0,,cy,,0
 2020-08-22,admin_0,,ie,,1
 2020-08-22,admin_0,,me,,-2
-2020-08-23,admin_0,,cy,,1
+2020-08-23,admin_0,,cy,,3
 2020-08-23,admin_0,,ie,,2
 2020-08-23,admin_0,,me,,0
 2020-08-24,admin_0,,cy,,1
@@ -2555,3 +2555,7 @@ date,region_schema,region_parent,region_child,agerange,value
 2022-02-23,admin_0,,me,,0
 2022-02-24,admin_0,,ad,,0
 2022-02-24,admin_0,,ie,,144
+2022-02-24,admin_0,,me,,109
+2022-02-25,admin_0,,ad,,1
+2022-02-25,admin_0,,ie,,118
+2022-02-25,admin_0,,me,,-109
