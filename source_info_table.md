@@ -61,6 +61,7 @@
 | ve_patria | https://covid19.patria.org.ve/estadisticas-venezuela/ |  |
 | world_covid19datahub | https://covid19datahub.io/articles/data.html | citation: citation: Guidotti and Ardia (2020) https://joss.theoj.org/papers/10.21105/joss.02376 |
 | world_gcp_covid19opendata | https://github.com/GoogleCloudPlatform/covid-19-open-data |  |
+| world_gender_disaggregated |  |  |
 | world_google_mobility | https://www.google.com/covid19/mobility/ |  |
 | world_owid | https://github.com/owid/covid-19-data |  |
 | world_umd_covidmap | https://covidmap.umd.edu |  |
